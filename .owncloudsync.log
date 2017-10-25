@@ -1,0 +1,845 @@
+# timestamp | duration | file | instruction | dir | modtime | etag | size | fileId | status | errorString | http result code | other size | other modtime | other etag | other fileId | other instruction
+#=#=#=# Syncrun started 2017-10-23T14:08:52
+#=#=#=#=# Propagation starts 2017-10-23T14:08:52 (last step: 742 msec, total: 742 msec)
+12:08:54||archetypes|INST_NEW|Up|1508165573||0|00930335ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:54||data|INST_NEW|Up|1508165573||0|00930336ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:54||content|INST_NEW|Up|1508251044||0|00930338ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:54||layouts|INST_NEW|Up|1508248669||0|00930339ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:55||config.toml|INST_NEW|Up|1508656605|6edfcd06ed64a470ee92468a3702ef37|277|00930340ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:55||public|INST_NEW|Up|1508171334||0|00930342ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:55||content/Letteratura Inglese|INST_NEW|Up|1508251061||0|00930341ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:55||archetypes/default.md|INST_NEW|Up|1508165573|0988d87ff09224a2333b2532b02d1f41|99|00930343ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:55||content/Biologia|INST_NEW|Up|1508251016||0|00930344ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:55||content/Scienze della Terra|INST_NEW|Up|1508422210||0|00930345ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:55||content/Storia|INST_NEW|Up|1508760294||0|00930346ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:55||content/_index.md|INST_NEW|Up|1508259518|ed1c3a4f97c2298c058d19653e096bf1|519|00930347ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:55||content/Letteratura Inglese/_index.md|INST_NEW|Up|1508251079|c4fe91493b2c286179ceeed059041094|112|00930348ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:56||content/Scienze della Terra/_index.md|INST_NEW|Up|1508422430|81c14389c71adff75f1cea41750e0620|1216|00930349ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:56||content/Biologia/_index.md|INST_NEW|Up|1508251016|597382f34063792c14830bde41166972|90|00930350ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:57||content/Scienze della Terra/astronomia_fondamentale.adoc|INST_NEW|Up|1508675637|259fdb2342ce5b1435bf8d1cce6b92e5|21293|00930351ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:58||content/Scienze della Terra/deformazioni_crosta.adoc|INST_NEW|Up|1508680754|1b5f23f952c02136bc26c4568486ef83|15129|00930352ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:58||content/Scienze della Terra/idrosfera_mare.adoc|INST_NEW|Up|1508676719|e04dfe4a0cf131bbf9bc363ec2685005|22969|00930353ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:08:58||content/Scienze della Terra/idrosfera_fiume.adoc|INST_NEW|Up|1508676655|d8ca82163bd2146c5fd26313b4368bdc|40976|00930354ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:00||content/Scienze della Terra/materiali_crosta.adoc|INST_NEW|Up|1508677736|7f52ad43b19a6e11d66a1a40c971f38e|33880|00930355ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:00||content/Scienze della Terra/interno_terra.adoc|INST_NEW|Up|1508676888|c5710b0eca488a6e8cde782994324a32|34235|00930356ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:00||content/Scienze della Terra/climi.adoc|INST_NEW|Up|1508676269|5dc61b249ceaf5bbb788a082cf259eed|28398|00930357ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:01||content/Scienze della Terra/modellamento_superficie.adoc|INST_NEW|Up|1508677994|6d1d2c6b3cc13194cc4f1c912c018296|47474|00930358ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:01||content/Scienze della Terra/origini_universo.adoc|INST_NEW|Up|1508677996|dad91e7ace54abb214781d8fa0de6dd7|18053|00930359ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:02||content/Scienze della Terra/pianeta_terra.adoc|INST_NEW|Up|1508678351|68c0ee4219949068cb4ccf2f64352469|33489|00930360ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:02||content/Scienze della Terra/atmosfera.adoc|INST_NEW|Up|1508680738|53f80c2a90de15752e8a2b2992d1e562|69061|00930361ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:03||content/Scienze della Terra/risorse_minerarie.adoc|INST_NEW|Up|1508678299|3cefe202fa03d02382b45839a93e196d|14386|00930363ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:03||content/Scienze della Terra/rocce_ignee.adoc|INST_NEW|Up|1508678349|946d054009836ff2f6249b5d8e43ca6c|16121|00930362ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:03||content/Scienze della Terra/rocce_metamorfiche.adoc|INST_NEW|Up|1508678474|89a77ee5b24467cd3ec9efd64f59a3bd|15156|00930364ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:04||content/Scienze della Terra/rocce_sedimentarie.adoc|INST_NEW|Up|1508678902|e2fe621c6ec62cb209d3f43183c13a9a|28922|00930365ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:04||content/Scienze della Terra/sismicita.adoc|INST_NEW|Up|1508678906|d0e823a65b7034efe3fa6a811a6566ef|25608|00930367ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:05||content/Scienze della Terra/rappresentazione_cartografica.adoc|INST_NEW|Up|1508678277|f93d9024a5893fc16cac0062a4f0f608|35419|00930368ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:05||_mdwriter.cson|INST_NEW|Up|1508667580|3b60fef112f5786f365c562bd885bc9e|5860|00930337ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:05||content/Scienze della Terra/stelle.adoc|INST_NEW|Up|1508678983|b35871e9a36a4a4de43dc776f9c912b2|30935|00930369ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:06||content/Scienze della Terra/suolo.adoc|INST_NEW|Up|1508679227|a3a0882d7a14ba84c1847ea6ddddf1fc|48271|00930370ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:08||content/Scienze della Terra/storia_terra.adoc|INST_NEW|Up|1508679088|942386b0bac2007d6f51a67d4ee369ac|47408|00930371ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:08||content/Scienze della Terra/teorie_tettoniche.adoc|INST_NEW|Up|1508682158|0156fa4ec582fce5557c07fc33795272|29140|00930372ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:08||content/Storia/1910-1919.adoc|INST_NEW|Up|1508668548|ed3dbfb73de05ea094c5cc8f11320958|182|00930373ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:09||content/Storia/_index.md|INST_NEW|Up|1508664152|2001ae300a1038882fb7d0b67322c91d|256|00930374ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:09||layouts/partials|INST_NEW|Up|1508664401||0|00930375ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:09||layouts/partials/logo.html|INST_NEW|Up|1508251238|7332c8d628ac9287e2c4e574145453d1|229|00930376ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:10||layouts/partials/toc.html|INST_NEW|Up|1508664945|c1b34c0f5bead4d0b982db1c1904fbe6|177|00930377ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:10||public/404.html|INST_NEW|Up|1508169758|c85257e5861010a981a3fd71b55807cb|1707|00930378ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:11||content/Scienze della Terra/vulcanismo.adoc|INST_NEW|Up|1508679393|491a144e14ddb84b1569a72237d26e76|31261|00930379ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:11||public/basics|INST_NEW|Up|1508171334||0|00930380ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:11||public/basics/installation|INST_NEW|Up|1508171334||0|00930381ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:12||public/basics/installation/images|INST_NEW|Up|1508171334||0|00930382ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:13||content/Scienze della Terra/sistema_solare.adoc|INST_NEW|Up|1508678907|8ec686ab0b34ccd6bdc200673cd2eaa7|54510|00930383ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:14||content/Scienze della Terra/scienze_della_terra_intro.adoc|INST_NEW|Up|1508678903|fe752ca272e44c4fb527db497cddfae0|5927|00930366ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:17||content/Storia/1900-1909.adoc|INST_NEW|Up|1508680312|a59be4cf8f539c724ba61360c8d9f25a|200981|00930385ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:17||public/basics/requirements|INST_NEW|Up|1508171334||0|00930386ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:17||public/basics/style-customization|INST_NEW|Up|1508171334||0|00930387ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:17||public/cont|INST_NEW|Up|1508171334||0|00930388ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:17||public/basics/requirements/images|INST_NEW|Up|1508171334||0|00930389ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:17||public/basics/style-customization/images|INST_NEW|Up|1508171334||0|00930390ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:17||public/cont/i18n|INST_NEW|Up|1508171334||0|00930391ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:26||public/basics/installation/images/chapter.png|INST_NEW|Up|1508171334|d1b492e9a134bef365e6db0b5871ba1d|87764|00930384ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:32||public/basics/style-customization/images/blue-variant.png|INST_NEW|Up|1508171334|662c08a1da315b82f923f26f782546e9|389127|00930393ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:35||content/Storia/old1900-09.md|INST_NEW|Up|1508760294|e5096d46031a2d0af33622fc1c6884bd|237477|00930392ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:53||public/basics/style-customization/images/red-variant.png|INST_NEW|Up|1508171334|7ec0a57ddd57eb94c3a61eb483922d30|389964|00930395ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:53||public/cont/i18n/images|INST_NEW|Up|1508171334||0|00930396ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:53||public/cont/pages|INST_NEW|Up|1508171334||0|00930397ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:53||public/cont/pages/images|INST_NEW|Up|1508171334||0|00930398ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:54||public/cont/i18n/images/i18n-menu.gif|INST_NEW|Up|1508171334|e2b64d04202d1d2a91bec992b3c2d4c3|24315|00930399ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:09:55||public/cont/pages/images/frontmatter-icon.png|INST_NEW|Up|1508171334|c1b810297a9a58df01f930c4958280d4|5811|00930400ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:00||public/basics/style-customization/images/green-variant.png|INST_NEW|Up|1508171334|1ce99cc84b5363b5e9f5a7e3c9c63c03|390899|00930394ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:12||public/cont/pages/images/pages-default.png|INST_NEW|Up|1508171334|7f74438b57b6d4476ccbb86e09e23e49|318250|00930402ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:13||public/fonts|INST_NEW|Up|1508171077||0|00930404ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:13||public/css|INST_NEW|Up|1508171077||0|00930403ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:16||public/fonts/FontAwesome.otf|INST_NEW|Up|1508168438|a138920e29955f8a249305e4bf79f650|134808|00930405ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:16||public/css/auto-complete.css|INST_NEW|Up|1508168438|ea6cd741e038ed36a2f26af9de64c792|941|00930406ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:16||public/css/featherlight.min.css|INST_NEW|Up|1508168438|0302980194bcac2aaae375dfc7989e30|1455|00930407ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:17||public/css/hugo-theme.css|INST_NEW|Up|1508168438|9273ae688a75189617f541276f2205ee|5169|00930409ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:18||public/css/hybrid.css|INST_NEW|Up|1508168438|5c7bb3781118fda22c3b345b8e6dd3c0|1444|00930410ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:18||public/css/nucleus.css|INST_NEW|Up|1508168438|64fe3a88fc956f0805d5f482fadef914|12545|00930411ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:18||public/cont/pages/images/pages-chapter.png|INST_NEW|Up|1508171334|0555f4b8723e1e568e776047649060f8|249169|00930401ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:18||public/css/perfect-scrollbar.min.css|INST_NEW|Up|1508168438|4ff77df1366066417236d51601be17ca|4631|00930412ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:18||public/css/theme-mine.css|INST_NEW|Up|1508168438|de8b257258d31b00da3992799648b9f2|3579|00930413ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:19||public/css/theme-green.css|INST_NEW|Up|1508168438|03f05871e84a16cbb0f8f8934dcb4ddd|3579|00930414ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:19||public/css/theme-blue.css|INST_NEW|Up|1508168438|3eaeed7f6e26d63b474ff8452d57e502|3575|00930415ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:19||public/css/theme-red.css|INST_NEW|Up|1508168438|63baa4b89ff9521255adde93f1e0c330|3579|00930416ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:21||public/basics/requirements/images/magic.gif|INST_NEW|Up|1508171334|bdc45d4e10a760b5d2dfe0c73df30085|1458653|00930417ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:21||public/fonts/Inconsolata.eot|INST_NEW|Up|1508168438|3fc9a6a9c1561b2fc5b3a03210e9cf11|35620|00930418ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:23||public/fonts/Novecentosanswide-Normal-webfont.eot|INST_NEW|Up|1508168438|05f445887bb59cfdd0efbf43d933c686|22446|00930419ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:23||public/fonts/Inconsolata.svg|INST_NEW|Up|1508168438|50ae5ee8ee9acd69f02947d1a02617a6|63378|00930420ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:24||public/fonts/Inconsolata.ttf|INST_NEW|Up|1508168438|267a58f03370992941748c02fb481d00|63184|00930421ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:25||public/fonts/Inconsolata.woff|INST_NEW|Up|1508168438|d3437ef88822c114b1ef0ef50828d81e|38248|00930422ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:26||public/fonts/Novecentosanswide-Normal-webfont.woff|INST_NEW|Up|1508168438|c8cf57c520e033e742ba4a44a2daffe6|24772|00930423ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:27||public/fonts/Novecentosanswide-Normal-webfont.ttf|INST_NEW|Up|1508168438|7c8f88c7b0074aa5b0e6263c253a76a7|56884|00930424ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:27||public/fonts/Novecentosanswide-Normal-webfont.svg|INST_NEW|Up|1508168438|cc1392cabd80ae5c2a271b11facbce53|104321|00930425ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:28||public/fonts/Novecentosanswide-Normal-webfont.woff2|INST_NEW|Up|1508168438|e5da7dc26246d747ff09ba668f058c19|19760|00930426ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:30||public/css/font-awesome.min.css|INST_NEW|Up|1508168438|0ebd58bc2d2aa8b3623e209d5cfc1c30|31004|00930408ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:30||public/fonts/Novecentosanswide-UltraLight-webfont.ttf|INST_NEW|Up|1508168438|cbe56c74e8c943681f0cf837056563d1|55600|00930428ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:31||public/fonts/Novecentosanswide-UltraLight-webfont.svg|INST_NEW|Up|1508168438|a87aaf6b1f61eca833ce3ef6dfeadc87|97162|00930429ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:31||public/fonts/Novecentosanswide-UltraLight-webfont.woff2|INST_NEW|Up|1508168438|659af4555785cc63b1e77c6c7b40f24a|18716|00930430ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:31||public/fonts/Work_Sans_200.eot|INST_NEW|Up|1508168438|3f919376f385bc1fa4ea437baf441a33|24290|00930431ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:32||public/fonts/Work_Sans_200.woff|INST_NEW|Up|1508168438|90fc2d9f31bf885832000ded42992607|25896|00930432ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:34||public/fonts/Work_Sans_200.svg|INST_NEW|Up|1508168438|190e3a13917bc1dc9f68a6d38abb26a6|56213|00930433ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:34||public/fonts/Work_Sans_200.ttf|INST_NEW|Up|1508168438|c347b4a2640c79b621bf95490cf7a67c|49752|00930434ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:34||public/fonts/Work_Sans_200.woff2|INST_NEW|Up|1508168438|07ce3d9aef52048e984818ae1cbd6227|21128|00930435ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:35||public/fonts/Work_Sans_300.svg|INST_NEW|Up|1508168438|ae072d55229fe82c7507ccc9ab5916b9|56160|00930436ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:35||public/fonts/Work_Sans_300.eot|INST_NEW|Up|1508168438|bd01b101c8627344af590277fdf60a12|24817|00930437ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:37||public/fonts/Work_Sans_300.woff|INST_NEW|Up|1508168438|48dfe77dd2682802f181cb49d27f0d8f|26392|00930439ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:37||public/fonts/Work_Sans_300.ttf|INST_NEW|Up|1508168438|1da568b7a7942cc892a237c693a330de|50784|00930438ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:37||public/fonts/Work_Sans_300.woff2|INST_NEW|Up|1508168438|687a818a10dac9c73c61be1f47f6c4e1|21548|00930440ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:38||public/fonts/Novecentosanswide-UltraLight-webfont.woff|INST_NEW|Up|1508168438|d05f26e11253512ae53400c5a51dc6b5|23476|00930441ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:39||public/fonts/Work_Sans_500.woff|INST_NEW|Up|1508168438|de9f2ab7c0e46cd703c14f3029affe26|27900|00930442ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:39||public/fonts/Work_Sans_500.svg|INST_NEW|Up|1508168438|e2b672308fdb4b606f77fa858a041617|55797|00930443ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:40||public/fonts/Work_Sans_500.woff2|INST_NEW|Up|1508168438|96325c517b74f0b8f76e0d27b90423ae|22884|00930445ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:40||public/fonts/Work_Sans_500.eot|INST_NEW|Up|1508168438|41a06d69cedb0010434c2582db0bece0|26481|00930446ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:42||public/fonts/Novecentosanswide-UltraLight-webfont.eot|INST_NEW|Up|1508168438|ed4266fe9d2f68196bf6fc8276c7f092|21080|00930427ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:51||public/fonts/Work_Sans_500.ttf|INST_NEW|Up|1508168438|2d6236a589ab6cb63d92b54bdd15b0c5|54232|00930448ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:51||public/css/theme.css|INST_NEW|Up|1508168438|a4829c1e3bded455523b8e68691bce3c|25704|00930449ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:54||public/fonts/fontawesome-webfont.eot|INST_NEW|Up|1508168438|e0fbd12cb89e4b0073c3520f158fcc0a|165742|00930450ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:55||public/fonts/fontawesome-webfont.woff2|INST_NEW|Up|1508168438|25f047b92420c020c63513400773ae1c|77160|00930451ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:57||public/fonts/monogramos-webfont.eot|INST_NEW|Up|1508168438|e4cdea02a70d82135b5a12b3ec46745e|28654|00930452ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:58||public/fonts/fontawesome-webfont.ttf|INST_NEW|Up|1508168438|0795adb882a80a5dd9bda15b07c95b37|165548|00930447ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:10:58||public/fonts/fontawesome-webfont.woff|INST_NEW|Up|1508168438|e09a29324d92fad8cfa1bb47eb3338cb|98024|00930454ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:02||public/fonts/monogramos-webfont.ttf|INST_NEW|Up|1508168438|517e6634e431af53d1a59a4e8695f816|136752|00930455ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:03||public/fonts/monogramos-webfont.woff2|INST_NEW|Up|1508168438|4fc6fce6c764a381a0005c4d83ab2ca7|26436|00930456ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:04||public/images|INST_NEW|Up|1508171077||0|00930457ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:04||public/fonts/monogramos-webfont.woff|INST_NEW|Up|1508168438|a3204a0431795ace80e5a4ba3a775ac8|34276|00930458ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:04||public/images/clippy.svg|INST_NEW|Up|1508168438|92729910c802e86053ff5f14375aba8f|522|00930459ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:04||public/images/favicon.png|INST_NEW|Up|1508168438|9f35fc3c4a1840fb8c76c332659b4c3c|1253|00930460ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:06||public/fonts/monogramos-webfont.svg|INST_NEW|Up|1508168438|08633da59bb85ae1d36ac996954366ed|263823|00930461ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:07||public/images/showcase|INST_NEW|Up|1508171077||0|00930462ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:08||public/index.html|INST_NEW|Up|1508247915|e511fc860ce781ded7d309f36b64aee0|10616|00930463ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:10||public/fonts/fontawesome-webfont.svg|INST_NEW|Up|1508168438|4ddc719c37b80f8cee693eeb35046743|447050|00930453ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:11||public/images/gopher-404.jpg|INST_NEW|Up|1508168438|15e14b291a7ebabf2496a6ea3f962cea|220526|00930465ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:11||public/index.xml|INST_NEW|Up|1508169758|b1224f5a47c4a48a39a67d8e1e0b35e7|450|00930466ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:11||public/js|INST_NEW|Up|1508168438||0|00930467ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:11||public/mermaid|INST_NEW|Up|1508168438||0|00930468ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:11||public/shortcodes|INST_NEW|Up|1508171334||0|00930469ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:11||public/js/featherlight.min.js|INST_NEW|Up|1508168438|ce03cf7c84c615a63cffb58f3c944fce|7264|00930470ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:12||public/js/auto-complete.js|INST_NEW|Up|1508168438|496725aa5e26c3edbf1854e384bb5fb7|11088|00930471ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:13||public/js/html5shiv-printshiv.min.js|INST_NEW|Up|1508168438|078fe58f1c5aa240a28801163c94a7a5|4136|00930472ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:13||public/js/clipboard.min.js|INST_NEW|Up|1508168438|b03a887fbb67f816a6b030f5e59cb560|8862|00930473ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:14||public/js/hugo-learn.js|INST_NEW|Up|1508168438|3fa6a32e70c32442ef4017311a447d05|2539|00930474ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:14||public/js/jquery.sticky-kit.min.js|INST_NEW|Up|1508168438|e8efa0f59232b0c0802e77890640b92d|2807|00930475ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:16||public/js/learn.js|INST_NEW|Up|1508168438|8afe675fa1bd702d001b001a02247f92|15603|00930476ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:18||public/js/highlight.pack.js|INST_NEW|Up|1508168438|3ee779da231a75b04ea2c6be1a0e4757|58808|00930477ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:18||public/js/jquery-2.x.min.js|INST_NEW|Up|1508168438|7eca85fb970cc27053cc7c5ce80ffbbf|85663|00930478ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:19||public/js/modernizr.custom.71422.js|INST_NEW|Up|1508168438|c8710bffafcff02360c18816891f7e4d|9096|00930479ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:19||public/js/lunr.min.js|INST_NEW|Up|1508168438|342cf3beb27c6dce65ff4f4b029e2245|15510|00930480ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:19||public/images/showcase/tat.png|INST_NEW|Up|1508168438|5c45517f193aae9eae998b977712faed|414931|00930481ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:20||public/mermaid/mermaid.css|INST_NEW|Up|1508168438|03c79813320c99b4a038d737f662a57a|4242|00930482ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:20||public/js/search.js|INST_NEW|Up|1508168438|87a2ab44a2c7a38773fd8e084d3a6b8b|3119|00930483ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:20||public/js/perfect-scrollbar.min.js|INST_NEW|Up|1508168438|eb022bb07091925311334bf4064ce87a|25014|00930484ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:20||public/shortcodes/attachments.en.files|INST_NEW|Up|1508171334||0|00930485ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:21||public/mermaid/mermaid.dark.css|INST_NEW|Up|1508168438|b7a3c9472ef290189b74eda38bf51917|4475|00930486ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:21||public/mermaid/mermaid.forest.css|INST_NEW|Up|1508168438|a3e9faa736d1c0d9e20bffa1b520463b|5561|00930487ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:21||public/js/perfect-scrollbar.jquery.min.js|INST_NEW|Up|1508168438|472ff34f4ea1ed05d0ae22c6ccb3b5cc|25335|00930488ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:24||public/index.json|INST_NEW|Up|1508169758|d2ee097e7e0f4bac7ec55373e2a95092|353|00930464ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:39||public/shortcodes/attachments.en.files/Carroll_AliceAuPaysDesMerveilles.pdf|INST_NEW|Up|1508171334|4140f40ee5cbf401214e3e622efd2db3|179272|00930489ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:49||public/shortcodes/attachments.en.files/adivorciarsetoca00cape.pdf|INST_NEW|Up|1508171334|f5044a3b86d73c252711543a5c10173e|370183|00930491ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:50||public/shortcodes/attachments.en.files/hugo.png|INST_NEW|Up|1508171334|51302cff195ffe58806276df50a6884a|18210|00930492ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:51||public/shortcodes/attachments.en.files/BachGavotteShort.mp3|INST_NEW|Up|1508171334|70bdfd687d728f4c051a89df909ab5ba|366464|00930490ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:52||public/shortcodes/attachments.fr.files|INST_NEW|Up|1508171334||0|00930494ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:52||public/sitemap.xml|INST_NEW|Up|1508169758|fd373f35f2f88e9bf65358164c1ee4af|437|00930495ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:11:58||public/shortcodes/attachments.en.files/movieselectricsheep-flock-244-32500-2.mp4|INST_NEW|Up|1508171334|dec9f5fcbc60af45658a94c2cfbba28b|348402|00930496ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:02||public/mermaid/mermaid.js|INST_NEW|Up|1508168438|7c8d72560f635cc98e9438a4428dfa46|627840|00930493ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:11||public/shortcodes/attachments.fr.files/BachGavotteShort.mp3|INST_NEW|Up|1508171334|f354462edd2fb31b55da710edcce1cfa|366464|00930498ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:12||public/shortcodes/attachments.fr.files/Carroll_AliceAuPaysDesMerveilles.pdf|INST_NEW|Up|1508171334|13289f88cdc00a5db5c8280e0857da96|179272|00930497ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:12||static|INST_NEW|Up|1508171452||0|00930500ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:12||themes|INST_NEW|Up|1508338057||0|00930501ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:13||themes/hugo-theme-learn|INST_NEW|Up|1508168438||0|00930502ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:13||public/shortcodes/attachments.fr.files/adivorciarsetoca00cape.pdf|INST_NEW|Up|1508171334|b6f3fcefb85404a72f7327158fa6128b|370183|00930503ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:13||themes/hugo-theme-learn/LICENSE.md|INST_NEW|Up|1508168438|10feb644bb2c592382f8a2222631bf01|1161|00930504ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:13||themes/hugo-theme-learn/archetypes|INST_NEW|Up|1508168438||0|00930505ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:13||themes/hugo-theme-learn/exampleSite|INST_NEW|Up|1508168438||0|00930506ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:14||themes/hugo-theme-learn/archetypes/chapter.md|INST_NEW|Up|1508168438|e1948a724bbf5f91b3b9149007eeacbc|195|00930507ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:14||themes/hugo-theme-learn/README.md|INST_NEW|Up|1508168438|25279f213cafc641305810059a92effd|1849|00930508ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:14||themes/hugo-theme-learn/exampleSite/LICENSE.md|INST_NEW|Up|1508168438|4e10b8091428874054ba0afc39b176b4|1101|00930509ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:14||themes/hugo-theme-learn/exampleSite/content|INST_NEW|Up|1508168438||0|00930510ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:14||themes/hugo-theme-learn/archetypes/default.md|INST_NEW|Up|1508168438|1d280d53ca12af98310978e8c72854d9|119|00930511ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:15||themes/hugo-theme-learn/exampleSite/content/_index.fr.md|INST_NEW|Up|1508168438|a6449c56a0f96bb06a82dcebe8bc471c|2671|00930512ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:15||themes/hugo-theme-learn/exampleSite/content/_index.en.md|INST_NEW|Up|1508168438|35d9f0baab89b9b7f1d2c0cdf4236c2b|2464|00930513ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:15||themes/hugo-theme-learn/exampleSite/content/basics|INST_NEW|Up|1508168438||0|00930515ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:15||themes/hugo-theme-learn/exampleSite/config.toml|INST_NEW|Up|1508168438|7a3f0df442f632af168aa097b939b7b5|1826|00930514ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:15||themes/hugo-theme-learn/exampleSite/content/cont|INST_NEW|Up|1508168438||0|00930517ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:15||themes/hugo-theme-learn/exampleSite/content/basics/_index.en.md|INST_NEW|Up|1508168438|09d92c3957e4a7a301afcec7ba0e0ef7|178|00930516ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:16||themes/hugo-theme-learn/exampleSite/content/basics/configuration|INST_NEW|Up|1508168438||0|00930518ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:16||themes/hugo-theme-learn/exampleSite/content/basics/_index.fr.md|INST_NEW|Up|1508168438|4cee4dc5c08d8f97853cdfb67bad6510|182|00930519ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:16||themes/hugo-theme-learn/exampleSite/content/basics/installation|INST_NEW|Up|1508168438||0|00930521ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:16||themes/hugo-theme-learn/exampleSite/content/basics/configuration/_index.en.md|INST_NEW|Up|1508168438|6e4ee35d389ee5229368af1384894590|2338|00930520ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:17||themes/hugo-theme-learn/exampleSite/content/basics/installation/_index.en.md|INST_NEW|Up|1508168438|baf8035a7a8a5de8a5c0e4fdf7ca6fb8|3578|00930522ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:17||themes/hugo-theme-learn/exampleSite/content/basics/installation/_index.fr.md|INST_NEW|Up|1508168438|43ec0b6807203b62bc32987647619e93|3782|00930523ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:18||themes/hugo-theme-learn/exampleSite/content/basics/configuration/_index.fr.md|INST_NEW|Up|1508168438|631b4cdeae9d0891bab6079c2954780d|2817|00930524ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:18||themes/hugo-theme-learn/exampleSite/content/basics/installation/images|INST_NEW|Up|1508168438||0|00930525ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:18||themes/hugo-theme-learn/exampleSite/content/basics/requirements|INST_NEW|Up|1508168438||0|00930526ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:19||themes/hugo-theme-learn/exampleSite/content/basics/requirements/_index.en.md|INST_NEW|Up|1508168438|62fe935bd2cece0acc08aea5a931761f|379|00930527ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:19||themes/hugo-theme-learn/exampleSite/content/basics/requirements/_index.fr.md|INST_NEW|Up|1508168438|77b6a7db848bf751eeabf986928b157b|430|00930528ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:19||themes/hugo-theme-learn/exampleSite/content/basics/requirements/images|INST_NEW|Up|1508168438||0|00930529ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:20||themes/hugo-theme-learn/exampleSite/content/basics/installation/images/chapter.png|INST_NEW|Up|1508168438|af76107d8e9348f0a0294440920efcb6|87764|00930530ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:20||themes/hugo-theme-learn/exampleSite/content/cont/_index.en.md|INST_NEW|Up|1508168438|b12604a5b937ef82d8900328f4e9a29c|179|00930531ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:20||themes/hugo-theme-learn/exampleSite/content/basics/style-customization|INST_NEW|Up|1508168438||0|00930532ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:20||themes/hugo-theme-learn/exampleSite/content/cont/_index.fr.md|INST_NEW|Up|1508168438|7d7acc1c8143040edb93f67f69b850ea|188|00930533ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:21||themes/hugo-theme-learn/exampleSite/content/basics/style-customization/_index.en.md|INST_NEW|Up|1508168438|bdb39bbe1e9d82ffcad910d572c1e97c|7147|00930534ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:21||themes/hugo-theme-learn/exampleSite/content/basics/style-customization/_index.fr.md|INST_NEW|Up|1508168438|b59b22a6264e9cbcc66845e472e9525d|7401|00930535ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:21||themes/hugo-theme-learn/exampleSite/content/basics/style-customization/images|INST_NEW|Up|1508168438||0|00930536ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:24||public/shortcodes/attachments.fr.files/hugo.png|INST_NEW|Up|1508171334|f865bd8a3db30b045e8494cd169b04b5|18210|00930499ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:35||public/shortcodes/attachments.fr.files/movieselectricsheep-flock-244-32500-2.mp4|INST_NEW|Up|1508171335|c7a3fd3858f8e5b045844bd7d9fd2e08|348402|00930537ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:49||themes/hugo-theme-learn/exampleSite/content/basics/style-customization/images/green-variant.png|INST_NEW|Up|1508168438|33d57329b5e8d4fe4c9afb32d6115fc5|390899|00930539ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:58||themes/hugo-theme-learn/exampleSite/content/basics/style-customization/images/blue-variant.png|INST_NEW|Up|1508168438|bd9e2aef230c3f20ce963542be8df0a7|389127|00930538ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:12:59||themes/hugo-theme-learn/exampleSite/content/cont/archetypes.fr.md|INST_NEW|Up|1508168438|694843c67e7f2978dbf92c464cfbb378|1373|00930541ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:00||themes/hugo-theme-learn/exampleSite/content/cont/i18n|INST_NEW|Up|1508168438||0|00930542ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:01||themes/hugo-theme-learn/exampleSite/content/cont/i18n/_index.en.md|INST_NEW|Up|1508168438|dce05137a186a87bf0b3c68f2f2b031d|2760|00930543ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:02||themes/hugo-theme-learn/exampleSite/content/cont/i18n/_index.fr.md|INST_NEW|Up|1508168438|184c63b4fecfd63013cf38dcd2af2896|3118|00930544ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:02||themes/hugo-theme-learn/exampleSite/content/cont/i18n/images|INST_NEW|Up|1508168438||0|00930545ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:04||themes/hugo-theme-learn/exampleSite/content/cont/i18n/images/i18n-menu.gif|INST_NEW|Up|1508168438|9b6d07da3d5143a5258be8f8c65bcb85|24315|00930546ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:04||themes/hugo-theme-learn/exampleSite/content/basics/style-customization/images/red-variant.png|INST_NEW|Up|1508168438|a608ea070515f16ed9d8a66db362d3d4|389964|00930547ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:05||themes/hugo-theme-learn/exampleSite/content/cont/markdown.en.md|INST_NEW|Up|1508168438|fcd278fd2ac65ca8741455ea522a1f4d|17484|00930548ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:05||themes/hugo-theme-learn/exampleSite/content/cont/menushortcuts.en.md|INST_NEW|Up|1508168438|191e8476291f55b1be5270183c3c18e2|3465|00930549ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:06||themes/hugo-theme-learn/exampleSite/content/cont/pages|INST_NEW|Up|1508168438||0|00930550ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:06||themes/hugo-theme-learn/exampleSite/content/cont/markdown.fr.md|INST_NEW|Up|1508168438|4575633e7910bdb3ed418cfc1bf37560|17559|00930551ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:07||themes/hugo-theme-learn/exampleSite/content/cont/pages/_index.fr.md|INST_NEW|Up|1508168438|c2febdb83b3a7b6ad611ca5f993d1d1f|6153|00930552ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:07||themes/hugo-theme-learn/exampleSite/content/cont/menushortcuts.fr.md|INST_NEW|Up|1508168438|6138e2865e3ba9baf2ee5f26cdc3dd91|3656|00930553ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:07||themes/hugo-theme-learn/exampleSite/content/cont/pages/_index.en.md|INST_NEW|Up|1508168438|a3888583da6cbfd6bebdb514579c4467|5715|00930554ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:07||themes/hugo-theme-learn/exampleSite/content/cont/pages/images|INST_NEW|Up|1508168438||0|00930555ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:07||themes/hugo-theme-learn/exampleSite/content/credits.en.md|INST_NEW|Up|1508168438|c78bc0a611016b1cd8a0c2beb08279e6|1547|00930556ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:07||themes/hugo-theme-learn/exampleSite/content/credits.fr.md|INST_NEW|Up|1508168438|3abba928dc55c294a953eabfbde5f5f1|1543|00930557ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:08||themes/hugo-theme-learn/exampleSite/content/cont/pages/images/frontmatter-icon.png|INST_NEW|Up|1508168438|f7098364b8be0f3935040f74c0fb3bfe|5811|00930558ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:11||themes/hugo-theme-learn/exampleSite/content/cont/archetypes.en.md|INST_NEW|Up|1508168438|49b4bfe95245e0d1c6418dbc47d5b102|1228|00930540ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:17||themes/hugo-theme-learn/exampleSite/content/basics/requirements/images/magic.gif|INST_NEW|Up|1508168438|08ac47c1ba56d2d883d05c0b359b13be|1458653|00930560ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:17||themes/hugo-theme-learn/exampleSite/content/shortcodes|INST_NEW|Up|1508168438||0|00930561ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:17||themes/hugo-theme-learn/exampleSite/content/shortcodes/_index.en.md|INST_NEW|Up|1508168438|7d8e11ea556ed334e081c3f6cad0b5a8|710|00930562ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:18||themes/hugo-theme-learn/exampleSite/content/shortcodes/_index.fr.md|INST_NEW|Up|1508168438|a74d20d06dee65909640ce207f83c91e|834|00930563ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:18||themes/hugo-theme-learn/exampleSite/content/showcase.en.md|INST_NEW|Up|1508168438|76d185fedeb8f5672833a2d2b22b0b46|160|00930564ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:18||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.files|INST_NEW|Up|1508168438||0|00930565ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:18||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.md|INST_NEW|Up|1508168438|42b7e10deb5ea19316efe83e4b71a9de|2132|00930566ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:20||themes/hugo-theme-learn/exampleSite/content/cont/pages/images/pages-default.png|INST_NEW|Up|1508168438|c0cb879a0d7b7d4c8e6f745f345bf7a5|318250|00930567ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:25||themes/hugo-theme-learn/exampleSite/content/cont/pages/images/pages-chapter.png|INST_NEW|Up|1508168438|419e041f2e05603483f8a4a6257af12e|249169|00930559ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:29||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.files/BachGavotteShort.mp3|INST_NEW|Up|1508168438|7bc7faf7cc3ae4ee8e5ccd64ed0b05e0|366464|00930569ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:30||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.files/hugo.png|INST_NEW|Up|1508168438|073c4a8217f2563651fffa301289ed5d|18210|00930570ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:35||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.files/movieselectricsheep-flock-244-32500-2.mp4|INST_NEW|Up|1508168438|8bf165ab43b884c57d33bb1d399e8611|348402|00930571ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:36||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.files|INST_NEW|Up|1508168438||0|00930572ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:36||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.md|INST_NEW|Up|1508168438|34e01005d8d5815148623c9d64e68f3a|2372|00930573ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:40||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.files/Carroll_AliceAuPaysDesMerveilles.pdf|INST_NEW|Up|1508168438|636ec3ac8426a5d47b1c795bd7ce6e01|179272|00930568ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:47||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.files/Carroll_AliceAuPaysDesMerveilles.pdf|INST_NEW|Up|1508168438|ea20982b20dc3da5bdd2659c3ca35fa0|179272|00930575ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:51||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.en.files/adivorciarsetoca00cape.pdf|INST_NEW|Up|1508168438|e7f32861b4503b476db109911747ce59|370183|00930576ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:51||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.files/hugo.png|INST_NEW|Up|1508168438|c689740d66798083dbce37246de4c822|18210|00930577ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:58||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.files/BachGavotteShort.mp3|INST_NEW|Up|1508168438|6572b767e0f1d59087d4745b4b7a250f|366464|00930574ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:59||themes/hugo-theme-learn/exampleSite/content/shortcodes/button.fr.md|INST_NEW|Up|1508168438|9b2da3263441501dd42424485d8d7ac6|871|00930578ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:59||themes/hugo-theme-learn/exampleSite/content/shortcodes/children|INST_NEW|Up|1508168438||0|00930580ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:13:59||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/_index.en.md|INST_NEW|Up|1508168438|9130ec9d9771053ea7aca407203af5c7|1852|00930581ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:00||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/_index.fr.md|INST_NEW|Up|1508168438|4c5d462aaa8b0de45810ca5a7ada3627|1912|00930582ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:00||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1|INST_NEW|Up|1508168438||0|00930583ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:01||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.files/adivorciarsetoca00cape.pdf|INST_NEW|Up|1508168438|98a5e5ab75717b40d8da60e21fc7d722|370183|00930584ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:01||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/_index.en.md|INST_NEW|Up|1508168438|a45c6a9a11f320388e4498384cdd6747|98|00930585ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:01||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1|INST_NEW|Up|1508168438||0|00930586ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:02||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/_index.fr.md|INST_NEW|Up|1508168438|5f1ba4535c19e30e2fb21246c02cb84e|95|00930587ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:02||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-2|INST_NEW|Up|1508168438||0|00930588ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:02||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/_index.en.md|INST_NEW|Up|1508168438|8bc1f7a3bb5bb858376c59264eef4384|100|00930589ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:02||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/_index.fr.md|INST_NEW|Up|1508168438|8b12c46b860758664bac5620a4b87382|97|00930590ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:02||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1|INST_NEW|Up|1508168438||0|00930591ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:02||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-2/_index.en.md|INST_NEW|Up|1508168438|8373a36f5bf1540a0e3d15483be340cc|505|00930592ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:02||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-2/_index.fr.md|INST_NEW|Up|1508168438|1c7002e783c47ad6636d670278669367|505|00930593ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:02||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.en.md|INST_NEW|Up|1508168438|c19821feabe9de28624b56bb66993e1c|102|00930594ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:03||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1|INST_NEW|Up|1508168438||0|00930595ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:03||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.fr.md|INST_NEW|Up|1508168438|77d9283abaf284b409ad5c1837403703|99|00930597ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:03||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-2/test3.en.md|INST_NEW|Up|1508168438|b41ffff4c66ca8af24159b7babc980aa|104|00930596ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:03||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1|INST_NEW|Up|1508168438||0|00930598ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:03||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/_index.en.md|INST_NEW|Up|1508168438|c6de7fb249e5c7092ab1591ed5002ef7|104|00930599ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:04||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.en.md|INST_NEW|Up|1508168438|eabb0af25e45f6c94c25f632df935614|106|00930600ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:04||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/_index.fr.md|INST_NEW|Up|1508168438|794fbdd6798ebd0647939460189bb541|101|00930601ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:04||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.fr.md|INST_NEW|Up|1508168438|70fa0b9939df5f274645134aa2a09303|103|00930602ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:04||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-3|INST_NEW|Up|1508168438||0|00930604ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:04||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-2/test3.fr.md|INST_NEW|Up|1508168438|05fe226dea3f7fb56d7f3743d78d52c4|107|00930603ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:04||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-4|INST_NEW|Up|1508168438||0|00930605ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:04||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-3/_index.en.md|INST_NEW|Up|1508168438|f19b2ff0d9ec0f1072d88e6fa197caf6|125|00930606ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:05||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-3/_index.fr.md|INST_NEW|Up|1508168438|b2212facbcbcc380e93e1e1aa24a00c2|95|00930608ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:05||themes/hugo-theme-learn/exampleSite/content/shortcodes/attachments.fr.files/movieselectricsheep-flock-244-32500-2.mp4|INST_NEW|Up|1508168438|b1d02ca3b25e6d0a6c76836b6cc561fa|348402|00930607ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:05||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-4/_index.en.md|INST_NEW|Up|1508168438|013fdcee93c3b38efaaf2bf821792121|140|00930609ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:05||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/test.en.md|INST_NEW|Up|1508168438|12418320c4b6f0079a6e1a3253c96b31|102|00930611ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:05||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/children-4/_index.fr.md|INST_NEW|Up|1508168438|d88c1572a03cb515d2e11bd44d29f827|110|00930610ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:05||themes/hugo-theme-learn/exampleSite/content/shortcodes/expand.en.md|INST_NEW|Up|1508168438|dd70d90a14d5154c12bfbfe5a26a503a|2005|00930613ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:05||themes/hugo-theme-learn/exampleSite/content/shortcodes/children/test.fr.md|INST_NEW|Up|1508168438|3e9ea4428344a1dab127816bd2efd86a|100|00930612ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:05||themes/hugo-theme-learn/exampleSite/content/shortcodes/expand.fr.md|INST_NEW|Up|1508168438|ddea08e37cffac7fdacc222c11f69a34|2019|00930614ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:05||themes/hugo-theme-learn/exampleSite/content/shortcodes/mermaid.en.md|INST_NEW|Up|1508168438|4e0a2e6b2046517dea3bc970bffa6672|3278|00930615ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:05||themes/hugo-theme-learn/exampleSite/content/shortcodes/mermaid.fr.md|INST_NEW|Up|1508168438|3c3f8cd7616367b646e5d9f317553cdf|3352|00930616ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:05||themes/hugo-theme-learn/exampleSite/content/shortcodes/notice.en.md|INST_NEW|Up|1508168438|c9f65567cca0f0bc8493bbc00e546772|849|00930617ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:06||themes/hugo-theme-learn/exampleSite/content/shortcodes/notice.fr.md|INST_NEW|Up|1508168438|c16904069537950ed45e3b2fc18c427b|941|00930618ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:06||themes/hugo-theme-learn/exampleSite/content/shortcodes/siteparam.fr.md|INST_NEW|Up|1508168438|e6699749e0e8f5debc51b1040586185f|656|00930619ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:06||themes/hugo-theme-learn/exampleSite/layouts|INST_NEW|Up|1508168438||0|00930621ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:06||themes/hugo-theme-learn/exampleSite/content/showcase.fr.md|INST_NEW|Up|1508168438|550b6e61793afb7f3c20f8544ef9c8b1|175|00930620ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:06||themes/hugo-theme-learn/exampleSite/static|INST_NEW|Up|1508168438||0|00930622ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:06||themes/hugo-theme-learn/i18n|INST_NEW|Up|1508168438||0|00930623ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:06||themes/hugo-theme-learn/exampleSite/layouts/shortcodes|INST_NEW|Up|1508168438||0|00930625ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:06||themes/hugo-theme-learn/exampleSite/layouts/partials|INST_NEW|Up|1508168438||0|00930624ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:06||themes/hugo-theme-learn/exampleSite/static/css|INST_NEW|Up|1508168438||0|00930626ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:06||themes/hugo-theme-learn/exampleSite/static/fonts|INST_NEW|Up|1508168438||0|00930628ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:06||themes/hugo-theme-learn/exampleSite/content/shortcodes/siteparam.en.md|INST_NEW|Up|1508168438|27ce810e3976834136c3d518e382a17a|561|00930627ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:06||themes/hugo-theme-learn/exampleSite/layouts/partials/custom-footer.html|INST_NEW|Up|1508168438|b4e35411b90dfa0ce31f627152cb18ef|424|00930630ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:06||themes/hugo-theme-learn/exampleSite/layouts/partials/logo.html|INST_NEW|Up|1508168438|034530b10eb901f46467cde78b76c2bc|3223|00930629ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:07||themes/hugo-theme-learn/exampleSite/layouts/partials/menu-footer.html|INST_NEW|Up|1508168438|bab31ab781281444f89796f82358e40e|1179|00930631ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:07||themes/hugo-theme-learn/exampleSite/layouts/shortcodes/ghcontributors.html|INST_NEW|Up|1508168438|b6a7bf59334352d91cd0c5b4fe874059|731|00930632ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:07||themes/hugo-theme-learn/exampleSite/static/css/theme-mine.css|INST_NEW|Up|1508168438|14e199204c2c16e8a080eddf181937dd|3579|00930633ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:09||themes/hugo-theme-learn/exampleSite/static/fonts/monogramos-webfont.woff|INST_NEW|Up|1508168438|90843878c3cc12eab6c2c1c1c04d7067|34276|00930634ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:12||themes/hugo-theme-learn/exampleSite/static/fonts/monogramos-webfont.woff2|INST_NEW|Up|1508168438|6373d84a7e53dabb584db7b8e914fd7f|26436|00930635ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:12||themes/hugo-theme-learn/exampleSite/static/images|INST_NEW|Up|1508168438||0|00930636ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:13||themes/hugo-theme-learn/exampleSite/static/images/showcase|INST_NEW|Up|1508168438||0|00930637ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:13||themes/hugo-theme-learn/exampleSite/static/fonts/monogramos-webfont.ttf|INST_NEW|Up|1508168438|c9d322f075ac660b668e3395c69f7d90|136752|00930638ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:15||themes/hugo-theme-learn/exampleSite/content/shortcodes/button.en.md|INST_NEW|Up|1508168438|6436a6ec73039d1a08a2bf3ded23b15a|752|00930579ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:15||themes/hugo-theme-learn/exampleSite/static/fonts/monogramos-webfont.svg|INST_NEW|Up|1508168438|2b66b827465e9d860de2669adf933a0b|263823|00930640ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:16||themes/hugo-theme-learn/images|INST_NEW|Up|1508168438||0|00930641ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:16||themes/hugo-theme-learn/i18n/fr.toml|INST_NEW|Up|1508168438|d16f31ce5d556527da816c630687396e|464|00930642ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:17||themes/hugo-theme-learn/exampleSite/static/fonts/monogramos-webfont.eot|INST_NEW|Up|1508168438|74b48bf5ed58a20f12311e76977fd5de|28654|00930643ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:25||themes/hugo-theme-learn/images/screenshot.png|INST_NEW|Up|1508168438|7a42ea0cb2a4cde6ccd18d7bffb51027|284162|00930644ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:26||themes/hugo-theme-learn/layouts|INST_NEW|Up|1508168438||0|00930645ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:27||themes/hugo-theme-learn/exampleSite/static/images/showcase/tat.png|INST_NEW|Up|1508168438|e98b352bd0d43ef1a63760d6e28e9c07|414931|00930647ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:27||themes/hugo-theme-learn/layouts/_default|INST_NEW|Up|1508168438||0|00930648ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:27||themes/hugo-theme-learn/layouts/index.html|INST_NEW|Up|1508168438|79221e91b972ac5f06ab139fa14884cc|1427|00930649ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:27||themes/hugo-theme-learn/i18n/en.toml|INST_NEW|Up|1508168438|e9f9e791e0615a318cec80e4594af321|420|00930639ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:27||themes/hugo-theme-learn/layouts/_default/list.html|INST_NEW|Up|1508168438|060cbefe38f4e7f32ce1a5bd4fc083a7|364|00930650ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:28||themes/hugo-theme-learn/layouts/_default/single.html|INST_NEW|Up|1508168438|6b0f3c8c2dbbae76b3168fd77501e9c9|368|00930651ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:28||themes/hugo-theme-learn/layouts/partials|INST_NEW|Up|1508168438||0|00930652ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:28||themes/hugo-theme-learn/layouts/shortcodes|INST_NEW|Up|1508168438||0|00930653ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:28||themes/hugo-theme-learn/layouts/partials/custom-header.html|INST_NEW|Up|1508168438|5495b5f38baf4869995d6038bbaab760|151|00930654ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:28||themes/hugo-theme-learn/layouts/index.json|INST_NEW|Up|1508168438|95b5fbf95323aaf510ecc804721bd685|439|00930655ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:28||themes/hugo-theme-learn/layouts/partials/custom-footer.html|INST_NEW|Up|1508168438|4926133ec46f13f4a557b03b2269f286|186|00930656ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:28||themes/hugo-theme-learn/layouts/partials/favicon.html|INST_NEW|Up|1508168438|d608738110c553004b46a9e2b0bd9b26|145|00930657ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:29||themes/hugo-theme-learn/layouts/partials/logo.html|INST_NEW|Up|1508168438|23b281bea3627273f5212565a9127743|5969|00930658ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:29||themes/hugo-theme-learn/layouts/partials/footer.html|INST_NEW|Up|1508168438|8be84ac1eb2166773483060afa3fdb37|4338|00930659ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:29||themes/hugo-theme-learn/layouts/partials/menu-footer.html|INST_NEW|Up|1508168438|f5f91d21cdea03cea8c520bf518fdffd|191|00930660ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:29||themes/hugo-theme-learn/layouts/partials/menu.html|INST_NEW|Up|1508168438|a52024ccc4c86b357023a94e0293f5db|5648|00930661ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:29||themes/hugo-theme-learn/layouts/partials/meta.html|INST_NEW|Up|1508168438|af3ce1dca1b391dad99faeae9e93b2d0|217|00930662ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:29||themes/hugo-theme-learn/layouts/partials/header.html|INST_NEW|Up|1508168438|eb38cb3327fb68b6fd8164d285473ff4|4494|00930663ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:29||themes/hugo-theme-learn/images/tn.png|INST_NEW|Up|1508168438|b4e57e90c0c0d0899dca9afa18fed7be|144767|00930664ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/layouts/partials/search.html|INST_NEW|Up|1508168438|c10ae13f54ec39f01f3d0b819af2a18d|923|00930665ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/layouts/partials/toc.html|INST_NEW|Up|1508168438|8c2a9d4144e90247b863ab315aa40cab|95|00930666ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/layouts/shortcodes/children.html|INST_NEW|Up|1508168438|ad3f3f1820545abf785c811c5596c874|4216|00930668ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/layouts/shortcodes/attachments.html|INST_NEW|Up|1508168438|6db0234406e3097f638b689ae1f4466f|1088|00930667ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/layouts/shortcodes/expand.html|INST_NEW|Up|1508168438|090282f2718a2dc0763e5143fad8a4a5|699|00930669ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/layouts/shortcodes/mermaid.html|INST_NEW|Up|1508168438|04fd71a44069b50ffb89a40573d1fc11|123|00930670ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/layouts/shortcodes/button.html|INST_NEW|Up|1508168438|54b3fd08923d914f4bea1467e9356a4f|423|00930671ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/layouts/shortcodes/ref.html|INST_NEW|Up|1508168438|b68defc452ebcb588f2c5182e09af187|444|00930673ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/layouts/shortcodes/notice.html|INST_NEW|Up|1508168438|219d3312f904bb32a220781731fe6235|110|00930672ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/layouts/shortcodes/relref.html|INST_NEW|Up|1508168438|f5dc60c6cfde6036295f94bba05a1c23|444|00930674ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/static|INST_NEW|Up|1508168438||0|00930676ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/layouts/shortcodes/siteparam.html|INST_NEW|Up|1508168438|cd9f1eb20a04199b0ba18c98b57a06ee|196|00930675ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/wercker.yml|INST_NEW|Up|1508168438|4cc1ed5a10cba0c1a036021c78c5b37d|404|00930678ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/theme.toml|INST_NEW|Up|1508168438|3c75ffefb815bed41d5790eb0dcf364a|789|00930677ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/static/images|INST_NEW|Up|1508168438||0|00930680ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/static/css|INST_NEW|Up|1508168438||0|00930679ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:30||themes/hugo-theme-learn/static/fonts|INST_NEW|Up|1508168438||0|00930681ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:31||themes/hugo-theme-learn/static/js|INST_NEW|Up|1508168438||0|00930682ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:31||themes/hugo-theme-learn/static/css/featherlight.min.css|INST_NEW|Up|1508168438|2f7842749c096529c5d6f40d2a279ed0|1455|00930684ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:31||themes/hugo-theme-learn/static/css/auto-complete.css|INST_NEW|Up|1508168438|baea9a7960f9df2074479731b7f45b14|941|00930683ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:31||themes/hugo-theme-learn/static/css/hybrid.css|INST_NEW|Up|1508168438|ceb8e836ccaaeeb0728b1206437ea5d4|1444|00930685ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:31||themes/hugo-theme-learn/static/css/hugo-theme.css|INST_NEW|Up|1508168438|b795d01f64a7f772a5ab41800cf6ecc1|5169|00930686ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:31||themes/hugo-theme-learn/static/css/theme-blue.css|INST_NEW|Up|1508168438|bf2dc22ac04832cde6e1f20a54e8932a|3575|00930687ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:32||themes/hugo-theme-learn/static/css/perfect-scrollbar.min.css|INST_NEW|Up|1508168438|aac9f26e878222b997690f4e8bb10adc|4631|00930688ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:32||themes/hugo-theme-learn/static/css/theme-red.css|INST_NEW|Up|1508168438|948d829602c6b8d9fe545d95dc93b788|3579|00930689ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:32||themes/hugo-theme-learn/static/css/nucleus.css|INST_NEW|Up|1508168438|ceae648514f18aa85c4344bb2bed5850|12545|00930691ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:32||themes/hugo-theme-learn/static/css/font-awesome.min.css|INST_NEW|Up|1508168438|b8952f967bacdd66fef0c232e196dfb5|31004|00930690ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:32||themes/hugo-theme-learn/static/css/theme-green.css|INST_NEW|Up|1508168438|05c3281ce0e40ba59afd66bed0aad355|3579|00930692ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:34||themes/hugo-theme-learn/static/css/theme.css|INST_NEW|Up|1508168438|1faacc95675867060d931ecef6cb5b70|25704|00930693ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:35||themes/hugo-theme-learn/static/fonts/Inconsolata.svg|INST_NEW|Up|1508168438|f4b24c0bd19e9fa738b1bad44fb09e5e|63378|00930694ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:37||themes/hugo-theme-learn/static/fonts/Inconsolata.ttf|INST_NEW|Up|1508168438|2574365b2af4b36a4a4e08aadcf22c11|63184|00930696ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:37||themes/hugo-theme-learn/static/fonts/Inconsolata.woff|INST_NEW|Up|1508168438|56452263b766252f46b7ce8b4fc43729|38248|00930695ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:38||themes/hugo-theme-learn/static/fonts/Inconsolata.eot|INST_NEW|Up|1508168438|0019f02659f5da29a16bc4455c2c94a6|35620|00930697ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:38||themes/hugo-theme-learn/layouts/404.html|INST_NEW|Up|1508168438|4289066734475912d5f3271db6cf0473|2405|00930646ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:39||themes/hugo-theme-learn/static/fonts/Novecentosanswide-Normal-webfont.ttf|INST_NEW|Up|1508168438|5b46e441b7d463079f5dc26b3a01e414|56884|00930699ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:41||themes/hugo-theme-learn/static/fonts/Novecentosanswide-Normal-webfont.woff|INST_NEW|Up|1508168438|4c28eff1ca620cfb19357df09110b340|24772|00930700ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:41||themes/hugo-theme-learn/static/fonts/FontAwesome.otf|INST_NEW|Up|1508168438|087b56f4f94e935a8b4ed2c0cbdee684|134808|00930701ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:41||themes/hugo-theme-learn/static/fonts/Novecentosanswide-Normal-webfont.svg|INST_NEW|Up|1508168438|3ca76b7892afdc25698da5b8d276de29|104321|00930702ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:42||themes/hugo-theme-learn/static/fonts/Novecentosanswide-Normal-webfont.woff2|INST_NEW|Up|1508168438|5ebcd6108a925c2bbc9e5f7c8ffe60e2|19760|00930703ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:43||themes/hugo-theme-learn/static/fonts/Novecentosanswide-UltraLight-webfont.eot|INST_NEW|Up|1508168438|f1488dd65e5cc6dc6f4f8c35a8726313|21080|00930704ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:43||themes/hugo-theme-learn/static/fonts/Novecentosanswide-UltraLight-webfont.woff|INST_NEW|Up|1508168438|f4ac7141fc2c4e757886404010620ab0|23476|00930705ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:45||themes/hugo-theme-learn/static/fonts/Work_Sans_200.eot|INST_NEW|Up|1508168438|92e48b9e3a8a515d35a0c11d9a3734fb|24290|00930706ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:45||themes/hugo-theme-learn/static/fonts/Novecentosanswide-UltraLight-webfont.woff2|INST_NEW|Up|1508168438|05376a488937f9cee78fbb27b831743b|18716|00930707ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:45||themes/hugo-theme-learn/static/fonts/Novecentosanswide-UltraLight-webfont.ttf|INST_NEW|Up|1508168438|8b9021337bd9659569de2decd5ef096c|55600|00930708ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:46||themes/hugo-theme-learn/static/fonts/Work_Sans_200.svg|INST_NEW|Up|1508168438|cb3258d9ddca0a793f165f6366884322|56213|00930709ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:46||themes/hugo-theme-learn/static/fonts/Work_Sans_200.woff|INST_NEW|Up|1508168438|8f17d28321a4554f7a6abb13c9e3894b|25896|00930710ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:47||themes/hugo-theme-learn/static/fonts/Work_Sans_200.woff2|INST_NEW|Up|1508168438|cb8b6ed1d93b40f0f001964cfb08326b|21128|00930711ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:48||themes/hugo-theme-learn/static/fonts/Work_Sans_300.eot|INST_NEW|Up|1508168438|909cc612f086684ff8339a1dab09819d|24817|00930712ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:49||themes/hugo-theme-learn/static/fonts/Novecentosanswide-Normal-webfont.eot|INST_NEW|Up|1508168438|fcc0ff241f8276df946a009c9d3ef8c4|22446|00930698ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:50||themes/hugo-theme-learn/static/fonts/Work_Sans_200.ttf|INST_NEW|Up|1508168438|0673296e6d0a9f325a095d087b51902c|49752|00930714ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:51||themes/hugo-theme-learn/static/fonts/Work_Sans_500.eot|INST_NEW|Up|1508168438|534210c8751493c0a2ea83157d13b0cb|26481|00930715ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:51||themes/hugo-theme-learn/static/fonts/Work_Sans_300.svg|INST_NEW|Up|1508168438|c73c0722a1d904081d57898cb3d85177|56160|00930717ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:51||themes/hugo-theme-learn/static/fonts/Work_Sans_300.woff2|INST_NEW|Up|1508168438|5d2cca8f52313aaa9cd8cb63c977611b|21548|00930716ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:51||themes/hugo-theme-learn/static/fonts/Novecentosanswide-UltraLight-webfont.svg|INST_NEW|Up|1508168438|5ce63a48910ba13f377835f12ed73370|97162|00930718ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:53||themes/hugo-theme-learn/static/fonts/Work_Sans_500.woff2|INST_NEW|Up|1508168438|ce532ca28bdf9351ac02369a2e6d4410|22884|00930720ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:53||themes/hugo-theme-learn/static/fonts/Work_Sans_500.ttf|INST_NEW|Up|1508168438|5cd13dedeca6f36bb986e707e6686afa|54232|00930719ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:54||themes/hugo-theme-learn/static/fonts/Work_Sans_500.svg|INST_NEW|Up|1508168438|0d2b9829a9d5b5bfa407fad47f4b2ad3|55797|00930721ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:56||themes/hugo-theme-learn/static/fonts/Work_Sans_500.woff|INST_NEW|Up|1508168438|b67c6959db98bf29fd922778fbb29cf6|27900|00930722ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:59||themes/hugo-theme-learn/static/fonts/Work_Sans_300.woff|INST_NEW|Up|1508168438|aa2ac8da0f4fc482fd35e7e8a5880e61|26392|00930723ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:14:59||themes/hugo-theme-learn/static/fonts/Work_Sans_300.ttf|INST_NEW|Up|1508168438|070bc98d0aaf7d5b45017f3059cdd209|50784|00930713ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:03||themes/hugo-theme-learn/static/fonts/fontawesome-webfont.ttf|INST_NEW|Up|1508168438|b1fd2ad54241205cbe30876d07ef15e0|165548|00930725ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:06||themes/hugo-theme-learn/static/fonts/fontawesome-webfont.woff2|INST_NEW|Up|1508168438|46a6b9b50961dafc8ad70b26f3c09819|77160|00930726ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:06||themes/hugo-theme-learn/static/fonts/fontawesome-webfont.woff|INST_NEW|Up|1508168438|527f781c50edcc3d5f1dda4de5516f5b|98024|00930727ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:07||themes/hugo-theme-learn/static/images/clippy.svg|INST_NEW|Up|1508168438|7275734670841dc2cc61eae3f77d8583|522|00930728ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:07||themes/hugo-theme-learn/static/images/favicon.png|INST_NEW|Up|1508168438|93ee29d069f6433f34070ece186af10e|1253|00930729ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:11||themes/hugo-theme-learn/static/images/gopher-404.jpg|INST_NEW|Up|1508168438|16d076938fd735ec0db27428a451da1c|220526|00930730ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:12||themes/hugo-theme-learn/static/fonts/fontawesome-webfont.eot|INST_NEW|Up|1508168438|210045ac98747115ef0680012a08e9ed|165742|00930724ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:13||themes/hugo-theme-learn/static/js/featherlight.min.js|INST_NEW|Up|1508168438|6ccc0f60eacb9ca99d8cdd38564204e2|7264|00930732ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:14||themes/hugo-theme-learn/static/js/html5shiv-printshiv.min.js|INST_NEW|Up|1508168438|e3c31cba18be7b3b58644523e6a63007|4136|00930733ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:14||themes/hugo-theme-learn/static/fonts/fontawesome-webfont.svg|INST_NEW|Up|1508168438|7af33010526779ee6bd75ae90f078e1c|447050|00930734ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:15||themes/hugo-theme-learn/static/js/hugo-learn.js|INST_NEW|Up|1508168438|67a708dfc1ba0c6373258f88f6761cb2|2539|00930735ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:15||themes/hugo-theme-learn/static/js/clipboard.min.js|INST_NEW|Up|1508168438|b2639812245681889972b95f321a181b|8862|00930736ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:15||themes/hugo-theme-learn/static/js/jquery.sticky-kit.min.js|INST_NEW|Up|1508168438|7cbae52c37aa027344f12a029f1ca4a2|2807|00930737ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:16||themes/hugo-theme-learn/static/js/learn.js|INST_NEW|Up|1508168438|9f7f06c663d5d539aeba26ab1373bd99|15603|00930738ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:16||themes/hugo-theme-learn/static/js/modernizr.custom.71422.js|INST_NEW|Up|1508168438|2a22883f0f76722b00a4b3e59b53433a|9096|00930739ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:17||themes/hugo-theme-learn/static/js/lunr.min.js|INST_NEW|Up|1508168438|46a089c19d5e039f4a8fcf06bcc33164|15510|00930740ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:17||themes/hugo-theme-learn/static/js/perfect-scrollbar.jquery.min.js|INST_NEW|Up|1508168438|33bbd180f4ea853648b8bbff05b492ae|25335|00930741ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:17||themes/hugo-theme-learn/static/mermaid|INST_NEW|Up|1508168438||0|00930742ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:18||themes/hugo-theme-learn/static/js/jquery-2.x.min.js|INST_NEW|Up|1508168438|f502178ddcf3f3d468662e2729bdf095|85663|00930743ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:18||themes/hugo-theme-learn/static/mermaid/mermaid.css|INST_NEW|Up|1508168438|92bb4014183c1c1cc3195bba41803ceb|4242|00930744ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:18||themes/hugo-theme-learn/static/js/perfect-scrollbar.min.js|INST_NEW|Up|1508168438|479b995e75c82fb3c30fcf868430fdcd|25014|00930745ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:19||themes/hugo-theme-learn/static/mermaid/mermaid.forest.css|INST_NEW|Up|1508168438|c8bf0906bcdb1e5cd6a6c51372a3149c|5561|00930746ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:19||themes/hugo-theme-learn/static/mermaid/mermaid.dark.css|INST_NEW|Up|1508168438|1d4f288b2a50f01ecf3655b39e577429|4475|00930747ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:20||themes/hugo-theme-learn/static/js/search.js|INST_NEW|Up|1508168438|bf69cd601605276177e617ff2b5a6476|3119|00930748ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:23||themes/hugo-theme-learn/static/js/auto-complete.js|INST_NEW|Up|1508168438|e6e0501abe0aa9a44dfb0abe6881a139|11088|00930731ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:32||themes/hugo-theme-learn/static/mermaid/mermaid.js|INST_NEW|Up|1508168438|fdd5872f082de1028977b860b079d015|627840|00930750ocuroa5we9nq|4||201|0|0|||INST_NONE|
+12:15:34||themes/hugo-theme-learn/static/js/highlight.pack.js|INST_NEW|Up|1508168438|8de8ac02750cf9ab8a08d1bf0f0e7a20|58808|00930749ocuroa5we9nq|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T14:15:33 (last step: 400612 msec, total: 401355 msec)
+#=#=#=# Syncrun started 2017-10-23T14:16:04
+#=#=#=#=# Propagation starts 2017-10-23T14:16:15 (last step: 10982 msec, total: 10982 msec)
+12:16:33||content/Storia/old1900-09.md|INST_SYNC|Up|1508760894|a81dece0f9dde8542e98e47eee601648|237502|00930392ocuroa5we9nq|4||204|237477|1508760294|e5096d46031a2d0af33622fc1c6884bd|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T14:16:32 (last step: 16761 msec, total: 27743 msec)
+#=#=#=# Syncrun started 2017-10-23T14:17:26
+#=#=#=#=# Propagation starts 2017-10-23T14:17:27 (last step: 623 msec, total: 623 msec)
+#=#=#=# Syncrun finished 2017-10-23T14:17:27 (last step: 207 msec, total: 830 msec)
+#=#=#=# Syncrun started 2017-10-23T14:19:56
+#=#=#=#=# Propagation starts 2017-10-23T14:19:57 (last step: 251 msec, total: 251 msec)
+12:20:14||content/Storia/old1900-09.md|INST_SYNC|Up|1508761194|2b53ba4b935cd7e04194f657524db56f|237447|00930392ocuroa5we9nq|4||204|237502|1508760894|a81dece0f9dde8542e98e47eee601648|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T14:20:12 (last step: 15876 msec, total: 16127 msec)
+#=#=#=# Syncrun started 2017-10-23T14:20:56
+#=#=#=#=# Propagation starts 2017-10-23T14:20:57 (last step: 563 msec, total: 563 msec)
+#=#=#=# Syncrun finished 2017-10-23T14:20:57 (last step: 145 msec, total: 709 msec)
+#=#=#=# Syncrun started 2017-10-23T14:24:54
+#=#=#=#=# Propagation starts 2017-10-23T14:24:54 (last step: 272 msec, total: 272 msec)
+12:25:00||content/Storia/old1900-09.md|INST_SYNC|Up|1508761492|00d611639078b6f46f925427459cad50|237413|00930392ocuroa5we9nq|4||204|237447|1508761194|2b53ba4b935cd7e04194f657524db56f|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T14:24:59 (last step: 4902 msec, total: 5175 msec)
+#=#=#=# Syncrun started 2017-10-23T14:25:56
+#=#=#=#=# Propagation starts 2017-10-23T14:25:57 (last step: 550 msec, total: 550 msec)
+#=#=#=# Syncrun finished 2017-10-23T14:25:57 (last step: 332 msec, total: 882 msec)
+#=#=#=# Syncrun started 2017-10-23T15:17:03
+#=#=#=#=# Propagation starts 2017-10-23T15:17:03 (last step: 234 msec, total: 234 msec)
+#=#=#=# Syncrun finished 2017-10-23T15:17:03 (last step: 243 msec, total: 478 msec)
+#=#=#=# Syncrun started 2017-10-23T17:26:16
+#=#=#=#=# Propagation starts 2017-10-23T17:26:26 (last step: 10370 msec, total: 10370 msec)
+#=#=#=# Syncrun finished 2017-10-23T17:26:27 (last step: 440 msec, total: 10811 msec)
+#=#=#=# Syncrun started 2017-10-23T18:34:44
+#=#=#=#=# Propagation starts 2017-10-23T18:34:44 (last step: 240 msec, total: 240 msec)
+16:35:03||content/Storia/1910-1919.md|INST_NEW|Up|1508776482|f44eff70c4622347073b41af731e26f3|245372|00931164ocuroa5we9nq|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T18:35:03 (last step: 18508 msec, total: 18749 msec)
+#=#=#=# Syncrun started 2017-10-23T18:35:13
+#=#=#=#=# Propagation starts 2017-10-23T18:35:13 (last step: 389 msec, total: 389 msec)
+16:35:14||content/Storia/old1900-09.md -> content/Storia/1900-1909.md|INST_RENAME|Up|1508761492|00d611639078b6f46f925427459cad50|237413|00930392ocuroa5we9nq|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T18:35:14 (last step: 617 msec, total: 1006 msec)
+#=#=#=# Syncrun started 2017-10-23T18:35:22
+#=#=#=#=# Propagation starts 2017-10-23T18:35:22 (last step: 433 msec, total: 433 msec)
+16:35:23||content/Storia/1900-1909.adoc -> content/Storia/old1900-1909.adoc|INST_RENAME|Up|1508680312|a59be4cf8f539c724ba61360c8d9f25a|200981|00930385ocuroa5we9nq|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T18:35:23 (last step: 296 msec, total: 729 msec)
+#=#=#=# Syncrun started 2017-10-23T18:35:26
+#=#=#=#=# Propagation starts 2017-10-23T18:35:27 (last step: 434 msec, total: 434 msec)
+16:35:41||content/Storia/1910-1919.adoc|INST_REMOVE|Up|1508668548|ed3dbfb73de05ea094c5cc8f11320958|182|00930373ocuroa5we9nq|4||204|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T18:35:41 (last step: 13835 msec, total: 14270 msec)
+#=#=#=# Syncrun started 2017-10-23T18:36:21
+#=#=#=#=# Propagation starts 2017-10-23T18:36:22 (last step: 438 msec, total: 438 msec)
+#=#=#=# Syncrun finished 2017-10-23T18:36:22 (last step: 188 msec, total: 627 msec)
+#=#=#=# Syncrun started 2017-10-23T18:37:12
+#=#=#=#=# Propagation starts 2017-10-23T18:37:13 (last step: 256 msec, total: 256 msec)
+16:37:32||content/Storia/1910-1919.md|INST_SYNC|Up|1508776630|fe97762fa284897b5656763c2156a634|239771|00931164ocuroa5we9nq|4||204|245372|1508776482|f44eff70c4622347073b41af731e26f3|00931164ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T18:37:32 (last step: 19732 msec, total: 19989 msec)
+#=#=#=# Syncrun started 2017-10-23T18:38:21
+#=#=#=#=# Propagation starts 2017-10-23T18:38:22 (last step: 422 msec, total: 422 msec)
+#=#=#=# Syncrun finished 2017-10-23T18:38:23 (last step: 987 msec, total: 1409 msec)
+#=#=#=# Syncrun started 2017-10-23T18:42:31
+#=#=#=#=# Propagation starts 2017-10-23T18:42:31 (last step: 227 msec, total: 227 msec)
+16:42:46||content/Storia/1900-1909.md|INST_SYNC|Up|1508776949|62147ba16582a73152a40a3689b85546|237322|00930392ocuroa5we9nq|4||204|237413|1508761492|00d611639078b6f46f925427459cad50|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T18:42:46 (last step: 14536 msec, total: 14764 msec)
+#=#=#=# Syncrun started 2017-10-23T18:42:52
+#=#=#=#=# Propagation starts 2017-10-23T18:42:52 (last step: 424 msec, total: 424 msec)
+16:43:05||content/Storia/1910-1919.md|INST_SYNC|Up|1508776957|9be3eaff003ee635bfb12533b5df2abb|239676|00931164ocuroa5we9nq|4||204|239771|1508776630|fe97762fa284897b5656763c2156a634|00931164ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T18:43:06 (last step: 13294 msec, total: 13719 msec)
+#=#=#=# Syncrun started 2017-10-23T18:43:51
+#=#=#=#=# Propagation starts 2017-10-23T18:43:52 (last step: 1245 msec, total: 1245 msec)
+#=#=#=# Syncrun finished 2017-10-23T18:43:53 (last step: 178 msec, total: 1423 msec)
+#=#=#=# Syncrun started 2017-10-23T18:58:18
+#=#=#=#=# Propagation starts 2017-10-23T18:58:18 (last step: 247 msec, total: 247 msec)
+16:58:36||content/Storia/1900-1909.md|INST_SYNC|Up|1508777896|394f9c2d9a48b37e99e2fabdf8b3a0ab|237321|00930392ocuroa5we9nq|4||204|237322|1508776949|62147ba16582a73152a40a3689b85546|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T18:58:36 (last step: 17534 msec, total: 17782 msec)
+#=#=#=# Syncrun started 2017-10-23T18:58:43
+#=#=#=#=# Propagation starts 2017-10-23T18:58:43 (last step: 622 msec, total: 622 msec)
+16:58:58||content/Storia/1900-1909.md|INST_SYNC|Up|1508777903|05244ef9ac06c881ef67baae993c3fc7|237320|00930392ocuroa5we9nq|4||204|237321|1508777896|394f9c2d9a48b37e99e2fabdf8b3a0ab|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T18:58:58 (last step: 14687 msec, total: 15309 msec)
+#=#=#=# Syncrun started 2017-10-23T18:59:19
+#=#=#=#=# Propagation starts 2017-10-23T18:59:19 (last step: 472 msec, total: 472 msec)
+16:59:38||content/Storia/1900-1909.md|INST_SYNC|Up|1508777957|aaa0e9bfdf08d3d5d0ba3266f27684ab|237321|00930392ocuroa5we9nq|4||204|237320|1508777903|05244ef9ac06c881ef67baae993c3fc7|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T18:59:38 (last step: 18296 msec, total: 18768 msec)
+#=#=#=# Syncrun started 2017-10-23T19:00:21
+#=#=#=#=# Propagation starts 2017-10-23T19:00:22 (last step: 492 msec, total: 492 msec)
+#=#=#=# Syncrun finished 2017-10-23T19:00:22 (last step: 274 msec, total: 767 msec)
+#=#=#=# Syncrun started 2017-10-23T19:03:20
+#=#=#=#=# Propagation starts 2017-10-23T19:03:20 (last step: 272 msec, total: 272 msec)
+17:03:21||content/Storia/1900-1909.md -> content/Storia/1900-09.md|INST_RENAME|Up|1508777957|aaa0e9bfdf08d3d5d0ba3266f27684ab|237321|00930392ocuroa5we9nq|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T19:03:21 (last step: 440 msec, total: 713 msec)
+#=#=#=# Syncrun started 2017-10-23T19:03:30
+#=#=#=#=# Propagation starts 2017-10-23T19:03:31 (last step: 522 msec, total: 522 msec)
+17:03:31||content/Storia/1910-1919.md -> content/Storia/1910-19.md|INST_RENAME|Up|1508776957|9be3eaff003ee635bfb12533b5df2abb|239676|00931164ocuroa5we9nq|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T19:03:31 (last step: 500 msec, total: 1022 msec)
+#=#=#=# Syncrun started 2017-10-23T19:03:48
+#=#=#=#=# Propagation starts 2017-10-23T19:03:48 (last step: 574 msec, total: 574 msec)
+17:04:02||content/Storia/1920-29.md|INST_NEW|Up|1508778226|e585faa59510c9980690c47c49c654f3|249762|00931202ocuroa5we9nq|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T19:04:02 (last step: 13998 msec, total: 14572 msec)
+#=#=#=# Syncrun started 2017-10-23T19:04:08
+#=#=#=#=# Propagation starts 2017-10-23T19:04:09 (last step: 511 msec, total: 511 msec)
+17:04:24||content/Storia/1920-29.md|INST_SYNC|Up|1508778242|c5e88e4d198e049566752024be5a4cb9|244947|00931202ocuroa5we9nq|4||204|249762|1508778226|e585faa59510c9980690c47c49c654f3|00931202ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T19:04:24 (last step: 15241 msec, total: 15752 msec)
+#=#=#=# Syncrun started 2017-10-23T19:05:21
+#=#=#=#=# Propagation starts 2017-10-23T19:05:22 (last step: 495 msec, total: 495 msec)
+#=#=#=# Syncrun finished 2017-10-23T19:05:22 (last step: 154 msec, total: 649 msec)
+#=#=#=# Syncrun started 2017-10-23T21:05:27
+#=#=#=#=# Propagation starts 2017-10-23T21:05:27 (last step: 299 msec, total: 299 msec)
+#=#=#=# Syncrun finished 2017-10-23T21:05:27 (last step: 149 msec, total: 448 msec)
+#=#=#=# Syncrun started 2017-10-23T23:05:32
+#=#=#=#=# Propagation starts 2017-10-23T23:05:32 (last step: 262 msec, total: 262 msec)
+#=#=#=# Syncrun finished 2017-10-23T23:05:32 (last step: 117 msec, total: 380 msec)
+#=#=#=# Syncrun started 2017-10-23T23:42:16
+#=#=#=#=# Propagation starts 2017-10-23T23:42:16 (last step: 257 msec, total: 257 msec)
+21:42:33||content/Storia/1900-1909.md|INST_NEW|Up|1508794934|ddae16981a6a28b00b9aa4e3db07243f|237321|00931789ocuroa5we9nq|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2017-10-23T23:42:32 (last step: 15840 msec, total: 16097 msec)
+#=#=#=# Syncrun started 2017-10-24T07:10:35
+#=#=#=# Syncrun finished 2017-10-24T07:10:35 (last step: 40 msec, total: 40 msec)
+#=#=#=# Syncrun started 2017-10-24T07:11:08
+#=#=#=#=# Propagation starts 2017-10-24T07:11:09 (last step: 676 msec, total: 676 msec)
+#=#=#=# Syncrun finished 2017-10-24T07:11:09 (last step: 353 msec, total: 1029 msec)
+#=#=#=# Syncrun started 2017-10-24T07:12:06
+#=#=#=#=# Propagation starts 2017-10-24T07:12:06 (last step: 304 msec, total: 304 msec)
+#=#=#=# Syncrun finished 2017-10-24T07:12:06 (last step: 490 msec, total: 795 msec)
+#=#=#=# Syncrun started 2017-10-24T10:40:30
+#=#=#=#=# Propagation starts 2017-10-24T10:40:30 (last step: 413 msec, total: 413 msec)
+#=#=#=# Syncrun finished 2017-10-24T10:40:30 (last step: 230 msec, total: 643 msec)
+#=#=#=# Syncrun started 2017-10-24T12:40:34
+#=#=#=#=# Propagation starts 2017-10-24T12:40:34 (last step: 256 msec, total: 256 msec)
+#=#=#=# Syncrun finished 2017-10-24T12:40:34 (last step: 393 msec, total: 649 msec)
+#=#=#=# Syncrun started 2017-10-24T14:40:39
+#=#=#=#=# Propagation starts 2017-10-24T14:40:39 (last step: 367 msec, total: 367 msec)
+#=#=#=# Syncrun finished 2017-10-24T14:40:40 (last step: 191 msec, total: 559 msec)
+#=#=#=# Syncrun started 2017-10-24T16:40:44
+#=#=#=#=# Propagation starts 2017-10-24T16:40:44 (last step: 333 msec, total: 333 msec)
+#=#=#=# Syncrun finished 2017-10-24T16:40:45 (last step: 164 msec, total: 498 msec)
+#=#=#=# Syncrun started 2017-10-24T18:00:56
+#=#=#=#=# Propagation starts 2017-10-24T18:00:57 (last step: 1651 msec, total: 1651 msec)
+16:01:10||content/Storia/1900-09.md|INST_SYNC|Up|1508860854|63319088c8910e94138065e65e5d318b|237332|00930392ocuroa5we9nq|4||204|237321|1508777957|aaa0e9bfdf08d3d5d0ba3266f27684ab|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-24T18:01:09 (last step: 11532 msec, total: 13184 msec)
+#=#=#=# Syncrun started 2017-10-24T18:01:57
+#=#=#=#=# Propagation starts 2017-10-24T18:01:59 (last step: 1485 msec, total: 1485 msec)
+#=#=#=# Syncrun finished 2017-10-24T18:01:59 (last step: 407 msec, total: 1893 msec)
+#=#=#=# Syncrun started 2017-10-24T18:05:55
+#=#=#=#=# Propagation starts 2017-10-24T18:05:56 (last step: 982 msec, total: 982 msec)
+16:06:28||content/Storia/1900-09.md|INST_SYNC|Up|1508861153|3f3295ea0436c56585b1c33df135c30e|236706|00930392ocuroa5we9nq|4||204|237332|1508860854|63319088c8910e94138065e65e5d318b|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-24T18:06:26 (last step: 29965 msec, total: 30948 msec)
+#=#=#=# Syncrun started 2017-10-24T18:06:57
+#=#=#=#=# Propagation starts 2017-10-24T18:07:00 (last step: 2993 msec, total: 2993 msec)
+#=#=#=# Syncrun finished 2017-10-24T18:07:01 (last step: 346 msec, total: 3340 msec)
+#=#=#=# Syncrun started 2017-10-24T18:20:55
+#=#=#=#=# Propagation starts 2017-10-24T18:20:56 (last step: 1156 msec, total: 1156 msec)
+16:21:33||content/Storia/1900-09.md|INST_SYNC|Up|1508862053|3597f1f3b9ecfd57568e8f6378d27f72|236250|00930392ocuroa5we9nq|4||204|236706|1508861153|3f3295ea0436c56585b1c33df135c30e|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-24T18:21:31 (last step: 35002 msec, total: 36158 msec)
+#=#=#=# Syncrun started 2017-10-24T18:22:27
+#=#=#=#=# Propagation starts 2017-10-24T18:22:29 (last step: 1908 msec, total: 1908 msec)
+#=#=#=# Syncrun finished 2017-10-24T18:22:30 (last step: 366 msec, total: 2275 msec)
+#=#=#=# Syncrun started 2017-10-24T18:35:55
+#=#=#=#=# Propagation starts 2017-10-24T18:35:56 (last step: 1126 msec, total: 1126 msec)
+16:36:25||content/Storia/1900-09.md|INST_SYNC|Up|1508862953|8cacfe230cd2d4a5a76481afa2b46b52|235942|00930392ocuroa5we9nq|4||204|236250|1508862053|3597f1f3b9ecfd57568e8f6378d27f72|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-24T18:36:23 (last step: 26590 msec, total: 27717 msec)
+#=#=#=# Syncrun started 2017-10-24T18:36:58
+#=#=#=#=# Propagation starts 2017-10-24T18:37:01 (last step: 3509 msec, total: 3509 msec)
+#=#=#=# Syncrun finished 2017-10-24T18:37:01 (last step: 163 msec, total: 3672 msec)
+#=#=#=# Syncrun started 2017-10-24T18:40:55
+#=#=#=#=# Propagation starts 2017-10-24T18:40:56 (last step: 745 msec, total: 745 msec)
+16:41:23||content/Storia/1900-09.md|INST_SYNC|Up|1508863253|9c96121a3fe4143cb65f84ff177a6d30|235033|00930392ocuroa5we9nq|4||204|235942|1508862953|8cacfe230cd2d4a5a76481afa2b46b52|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-24T18:41:22 (last step: 25568 msec, total: 26314 msec)
+#=#=#=# Syncrun started 2017-10-24T18:41:57
+#=#=#=#=# Propagation starts 2017-10-24T18:41:59 (last step: 1451 msec, total: 1451 msec)
+#=#=#=# Syncrun finished 2017-10-24T18:41:59 (last step: 296 msec, total: 1748 msec)
+#=#=#=# Syncrun started 2017-10-24T18:55:55
+#=#=#=#=# Propagation starts 2017-10-24T18:55:56 (last step: 996 msec, total: 996 msec)
+16:56:18||content/Storia/1900-09.md|INST_SYNC|Up|1508864153|c0cb2dd30635ff888d7e4e6aeae0dddf|234676|00930392ocuroa5we9nq|4||204|235033|1508863253|9c96121a3fe4143cb65f84ff177a6d30|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-24T18:56:17 (last step: 20456 msec, total: 21453 msec)
+#=#=#=# Syncrun started 2017-10-24T18:56:57
+#=#=#=#=# Propagation starts 2017-10-24T18:57:00 (last step: 2559 msec, total: 2559 msec)
+#=#=#=# Syncrun finished 2017-10-24T18:57:00 (last step: 338 msec, total: 2898 msec)
+#=#=#=# Syncrun started 2017-10-24T19:00:55
+#=#=#=#=# Propagation starts 2017-10-24T19:00:56 (last step: 733 msec, total: 733 msec)
+17:01:20||content/Storia/1900-09.md|INST_SYNC|Up|1508864453|e5b199d3a589c1af7262100f4efe40a4|234674|00930392ocuroa5we9nq|4||204|234676|1508864153|c0cb2dd30635ff888d7e4e6aeae0dddf|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-24T19:01:18 (last step: 22209 msec, total: 22942 msec)
+#=#=#=# Syncrun started 2017-10-24T19:01:57
+#=#=#=#=# Propagation starts 2017-10-24T19:02:00 (last step: 2548 msec, total: 2548 msec)
+#=#=#=# Syncrun finished 2017-10-24T19:02:00 (last step: 256 msec, total: 2804 msec)
+#=#=#=# Syncrun started 2017-10-24T19:10:55
+#=#=#=#=# Propagation starts 2017-10-24T19:10:56 (last step: 634 msec, total: 634 msec)
+17:11:21||content/Storia/1900-09.md|INST_SYNC|Up|1508865053|7ec59d21a6f85fca42d6e6e62450ddb6|234294|00930392ocuroa5we9nq|4||204|234674|1508864453|e5b199d3a589c1af7262100f4efe40a4|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-24T19:11:19 (last step: 23412 msec, total: 24047 msec)
+#=#=#=# Syncrun started 2017-10-24T19:11:58
+#=#=#=#=# Propagation starts 2017-10-24T19:11:59 (last step: 1863 msec, total: 1863 msec)
+#=#=#=# Syncrun finished 2017-10-24T19:12:00 (last step: 207 msec, total: 2070 msec)
+#=#=#=# Syncrun started 2017-10-24T19:15:55
+#=#=#=#=# Propagation starts 2017-10-24T19:15:56 (last step: 1167 msec, total: 1167 msec)
+17:16:14||content/Storia/1900-09.md|INST_SYNC|Up|1508865353|2cc0560ebb427047a997d80ec4b2a6bd|233709|00930392ocuroa5we9nq|4||204|234294|1508865053|7ec59d21a6f85fca42d6e6e62450ddb6|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-24T19:16:12 (last step: 16035 msec, total: 17202 msec)
+#=#=#=# Syncrun started 2017-10-24T19:16:57
+#=#=#=#=# Propagation starts 2017-10-24T19:17:00 (last step: 2678 msec, total: 2678 msec)
+#=#=#=# Syncrun finished 2017-10-24T19:17:00 (last step: 155 msec, total: 2834 msec)
+#=#=#=# Syncrun started 2017-10-24T19:19:29
+#=#=#=#=# Propagation starts 2017-10-24T19:19:29 (last step: 576 msec, total: 576 msec)
+17:19:51||content/Storia/1900-09.md|INST_SYNC|Up|1508865567|ee50478c1d714f2c4601958a7cc60426|233648|00930392ocuroa5we9nq|4||204|233709|1508865353|2cc0560ebb427047a997d80ec4b2a6bd|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-24T19:19:49 (last step: 20025 msec, total: 20602 msec)
+#=#=#=# Syncrun started 2017-10-24T19:20:27
+#=#=#=#=# Propagation starts 2017-10-24T19:20:30 (last step: 2437 msec, total: 2437 msec)
+#=#=#=# Syncrun finished 2017-10-24T19:20:30 (last step: 306 msec, total: 2743 msec)
+#=#=#=# Syncrun started 2017-10-24T21:20:34
+#=#=#=#=# Propagation starts 2017-10-24T21:20:35 (last step: 1147 msec, total: 1147 msec)
+#=#=#=# Syncrun finished 2017-10-24T21:20:35 (last step: 136 msec, total: 1284 msec)
+#=#=#=# Syncrun started 2017-10-24T23:20:39
+#=#=#=#=# Propagation starts 2017-10-24T23:20:39 (last step: 276 msec, total: 276 msec)
+#=#=#=# Syncrun finished 2017-10-24T23:20:40 (last step: 411 msec, total: 687 msec)
+#=#=#=# Syncrun started 2017-10-25T06:17:24
+#=#=#=#=# Propagation starts 2017-10-25T06:17:25 (last step: 551 msec, total: 551 msec)
+#=#=#=# Syncrun finished 2017-10-25T06:17:26 (last step: 1185 msec, total: 1736 msec)
+#=#=#=# Syncrun started 2017-10-25T06:25:55
+#=#=#=#=# Propagation starts 2017-10-25T06:25:55 (last step: 187 msec, total: 187 msec)
+04:26:13||content/Storia/1900-09.md|INST_SYNC|Up|1508905553|66590dffab0ceb9f33fc89e566daa7da|233619|00930392ocuroa5we9nq|4||204|233648|1508865567|ee50478c1d714f2c4601958a7cc60426|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T06:26:10 (last step: 14358 msec, total: 14546 msec)
+#=#=#=# Syncrun started 2017-10-25T06:26:51
+#=#=#=#=# Propagation starts 2017-10-25T06:26:52 (last step: 570 msec, total: 570 msec)
+#=#=#=# Syncrun finished 2017-10-25T06:26:52 (last step: 110 msec, total: 681 msec)
+#=#=#=# Syncrun started 2017-10-25T06:30:55
+#=#=#=#=# Propagation starts 2017-10-25T06:30:55 (last step: 264 msec, total: 264 msec)
+04:31:16||content/Storia/1900-09.md|INST_SYNC|Up|1508905853|6451e196e47cae9c0155b9be5ffc4515|233390|00930392ocuroa5we9nq|4||204|233619|1508905553|66590dffab0ceb9f33fc89e566daa7da|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T06:31:13 (last step: 17592 msec, total: 17856 msec)
+#=#=#=# Syncrun started 2017-10-25T06:31:51
+#=#=#=#=# Propagation starts 2017-10-25T06:31:52 (last step: 537 msec, total: 537 msec)
+#=#=#=# Syncrun finished 2017-10-25T06:31:52 (last step: 126 msec, total: 663 msec)
+#=#=#=# Syncrun started 2017-10-25T06:35:55
+#=#=#=#=# Propagation starts 2017-10-25T06:35:55 (last step: 229 msec, total: 229 msec)
+04:36:11||content/Storia/1900-09.md|INST_SYNC|Up|1508906153|b6e873fc4828482e1c223d83a5ba062e|233406|00930392ocuroa5we9nq|4||204|233390|1508905853|6451e196e47cae9c0155b9be5ffc4515|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T06:36:08 (last step: 12474 msec, total: 12704 msec)
+#=#=#=# Syncrun started 2017-10-25T06:36:51
+#=#=#=#=# Propagation starts 2017-10-25T06:36:52 (last step: 492 msec, total: 492 msec)
+#=#=#=# Syncrun finished 2017-10-25T06:36:52 (last step: 147 msec, total: 639 msec)
+#=#=#=# Syncrun started 2017-10-25T06:40:55
+#=#=#=#=# Propagation starts 2017-10-25T06:40:55 (last step: 247 msec, total: 247 msec)
+04:41:15||content/Storia/1900-09.md|INST_SYNC|Up|1508906453|5e64f9d2416bbd69666df55b8e178085|232523|00930392ocuroa5we9nq|4||204|233406|1508906153|b6e873fc4828482e1c223d83a5ba062e|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T06:41:12 (last step: 16105 msec, total: 16352 msec)
+#=#=#=# Syncrun started 2017-10-25T06:41:51
+#=#=#=#=# Propagation starts 2017-10-25T06:41:52 (last step: 457 msec, total: 457 msec)
+#=#=#=# Syncrun finished 2017-10-25T06:41:52 (last step: 107 msec, total: 564 msec)
+#=#=#=# Syncrun started 2017-10-25T06:45:55
+#=#=#=#=# Propagation starts 2017-10-25T06:45:56 (last step: 403 msec, total: 403 msec)
+04:46:11||content/Storia/1900-09.md|INST_SYNC|Up|1508906753|097cfd29a7f4915c24f7ecb336df6709|232165|00930392ocuroa5we9nq|4||204|232523|1508906453|5e64f9d2416bbd69666df55b8e178085|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T06:46:08 (last step: 12214 msec, total: 12617 msec)
+#=#=#=# Syncrun started 2017-10-25T06:46:51
+#=#=#=#=# Propagation starts 2017-10-25T06:46:52 (last step: 505 msec, total: 505 msec)
+#=#=#=# Syncrun finished 2017-10-25T06:46:52 (last step: 371 msec, total: 876 msec)
+#=#=#=# Syncrun started 2017-10-25T06:50:36
+#=#=#=#=# Propagation starts 2017-10-25T06:50:36 (last step: 218 msec, total: 218 msec)
+04:50:51||content/Storia/1900-09.md|INST_SYNC|Up|1508907034|62e81fe8736a2a00b3c7ae8dd15898ab|231313|00930392ocuroa5we9nq|4||204|232165|1508906753|097cfd29a7f4915c24f7ecb336df6709|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T06:50:48 (last step: 12008 msec, total: 12227 msec)
+#=#=#=# Syncrun started 2017-10-25T06:50:55
+#=#=#=#=# Propagation starts 2017-10-25T06:50:56 (last step: 428 msec, total: 428 msec)
+04:51:11||content/Storia/1900-09.md|INST_SYNC|Up|1508907053|a0971584205004c67ef0b25600411022|231311|00930392ocuroa5we9nq|4||204|231313|1508907034|62e81fe8736a2a00b3c7ae8dd15898ab|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T06:51:08 (last step: 12365 msec, total: 12794 msec)
+#=#=#=# Syncrun started 2017-10-25T06:51:46
+#=#=#=#=# Propagation starts 2017-10-25T06:51:47 (last step: 644 msec, total: 644 msec)
+04:52:02||content/Storia/1900-09.md|INST_SYNC|Up|1508907104|8728dd3b945dcd6017af0a82efdb61de|230437|00930392ocuroa5we9nq|4||204|231311|1508907053|a0971584205004c67ef0b25600411022|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T06:51:59 (last step: 12477 msec, total: 13122 msec)
+#=#=#=# Syncrun started 2017-10-25T06:52:51
+#=#=#=#=# Propagation starts 2017-10-25T06:52:52 (last step: 628 msec, total: 628 msec)
+#=#=#=# Syncrun finished 2017-10-25T06:52:52 (last step: 105 msec, total: 734 msec)
+#=#=#=# Syncrun started 2017-10-25T07:00:55
+#=#=#=#=# Propagation starts 2017-10-25T07:00:55 (last step: 231 msec, total: 231 msec)
+05:01:17||content/Storia/1900-09.md|INST_SYNC|Up|1508907653|68a3b8ef98cb299bd5ce1186461c563a|229996|00930392ocuroa5we9nq|4||204|230437|1508907104|8728dd3b945dcd6017af0a82efdb61de|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T07:01:14 (last step: 18708 msec, total: 18940 msec)
+#=#=#=# Syncrun started 2017-10-25T07:01:51
+#=#=#=#=# Propagation starts 2017-10-25T07:01:52 (last step: 501 msec, total: 501 msec)
+#=#=#=# Syncrun finished 2017-10-25T07:01:52 (last step: 234 msec, total: 735 msec)
+#=#=#=# Syncrun started 2017-10-25T07:07:33
+#=#=#=#=# Propagation starts 2017-10-25T07:07:34 (last step: 247 msec, total: 247 msec)
+05:07:51||content/Storia/1900-09.md|INST_SYNC|Up|1508908051|38e6d85feb894a5b6f622ab7cae32e6d|229591|00930392ocuroa5we9nq|4||204|229996|1508907653|68a3b8ef98cb299bd5ce1186461c563a|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T07:07:48 (last step: 14194 msec, total: 14442 msec)
+#=#=#=# Syncrun started 2017-10-25T07:08:21
+#=#=#=#=# Propagation starts 2017-10-25T07:08:22 (last step: 781 msec, total: 781 msec)
+#=#=#=# Syncrun finished 2017-10-25T07:08:22 (last step: 223 msec, total: 1005 msec)
+#=#=#=# Syncrun started 2017-10-25T07:20:55
+#=#=#=#=# Propagation starts 2017-10-25T07:20:56 (last step: 319 msec, total: 319 msec)
+05:21:12||content/Storia/1900-09.md|INST_SYNC|Up|1508908853|59d2a43b8bc65d233fd77852e020a417|229308|00930392ocuroa5we9nq|4||204|229591|1508908051|38e6d85feb894a5b6f622ab7cae32e6d|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T07:21:09 (last step: 13057 msec, total: 13377 msec)
+#=#=#=# Syncrun started 2017-10-25T07:21:51
+#=#=#=#=# Propagation starts 2017-10-25T07:21:52 (last step: 453 msec, total: 453 msec)
+#=#=#=# Syncrun finished 2017-10-25T07:21:52 (last step: 176 msec, total: 630 msec)
+#=#=#=# Syncrun started 2017-10-25T07:23:57
+#=#=#=#=# Propagation starts 2017-10-25T07:23:57 (last step: 417 msec, total: 417 msec)
+05:24:12||content/Storia/1900-09.md|INST_SYNC|Up|1508909035|a39686da157876a2269d37dc10d3203e|228342|00930392ocuroa5we9nq|4||204|229308|1508908853|59d2a43b8bc65d233fd77852e020a417|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T07:24:09 (last step: 11849 msec, total: 12266 msec)
+#=#=#=# Syncrun started 2017-10-25T07:24:51
+#=#=#=#=# Propagation starts 2017-10-25T07:24:52 (last step: 511 msec, total: 511 msec)
+#=#=#=# Syncrun finished 2017-10-25T07:24:52 (last step: 183 msec, total: 695 msec)
+#=#=#=# Syncrun started 2017-10-25T07:25:55
+#=#=#=#=# Propagation starts 2017-10-25T07:25:55 (last step: 293 msec, total: 293 msec)
+05:26:11||content/Storia/1900-09.md|INST_SYNC|Up|1508909153|8a555d9379e7da64d3937adc680cabdf|228332|00930392ocuroa5we9nq|4||204|228342|1508909035|a39686da157876a2269d37dc10d3203e|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T07:26:08 (last step: 12257 msec, total: 12550 msec)
+#=#=#=# Syncrun started 2017-10-25T07:26:51
+#=#=#=#=# Propagation starts 2017-10-25T07:26:52 (last step: 482 msec, total: 482 msec)
+#=#=#=# Syncrun finished 2017-10-25T07:26:52 (last step: 101 msec, total: 584 msec)
+#=#=#=# Syncrun started 2017-10-25T07:30:55
+#=#=#=#=# Propagation starts 2017-10-25T07:30:56 (last step: 406 msec, total: 406 msec)
+05:31:14||content/Storia/1900-09.md|INST_SYNC|Up|1508909453|e0d6be894d7858a47974343127341661|226148|00930392ocuroa5we9nq|4||204|228332|1508909153|8a555d9379e7da64d3937adc680cabdf|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T07:31:11 (last step: 15103 msec, total: 15510 msec)
+#=#=#=# Syncrun started 2017-10-25T07:31:51
+#=#=#=#=# Propagation starts 2017-10-25T07:31:52 (last step: 732 msec, total: 732 msec)
+#=#=#=# Syncrun finished 2017-10-25T07:31:52 (last step: 122 msec, total: 854 msec)
+#=#=#=# Syncrun started 2017-10-25T07:35:55
+#=#=#=#=# Propagation starts 2017-10-25T07:35:56 (last step: 444 msec, total: 444 msec)
+05:36:12||content/Storia/1900-09.md|INST_SYNC|Up|1508909753|33a01dc6b6e2fb5df7416e97366b75e0|225008|00930392ocuroa5we9nq|4||204|226148|1508909453|e0d6be894d7858a47974343127341661|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T07:36:09 (last step: 13420 msec, total: 13864 msec)
+#=#=#=# Syncrun started 2017-10-25T07:36:51
+#=#=#=#=# Propagation starts 2017-10-25T07:36:52 (last step: 641 msec, total: 641 msec)
+#=#=#=# Syncrun finished 2017-10-25T07:36:52 (last step: 123 msec, total: 765 msec)
+#=#=#=# Syncrun started 2017-10-25T07:40:55
+#=#=#=#=# Propagation starts 2017-10-25T07:40:55 (last step: 232 msec, total: 232 msec)
+05:41:12||content/Storia/1900-09.md|INST_SYNC|Up|1508910053|b84a192473da6197e95206b41a020f0b|224646|00930392ocuroa5we9nq|4||204|225008|1508909753|33a01dc6b6e2fb5df7416e97366b75e0|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T07:41:09 (last step: 13479 msec, total: 13711 msec)
+#=#=#=# Syncrun started 2017-10-25T07:41:48
+#=#=#=#=# Propagation starts 2017-10-25T07:41:49 (last step: 561 msec, total: 561 msec)
+05:42:05||content/Storia/1900-09.md|INST_SYNC|Up|1508910106|cef17b6daa1f5b695b1eb61b9c06c959|224212|00930392ocuroa5we9nq|4||204|224646|1508910053|b84a192473da6197e95206b41a020f0b|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T07:42:02 (last step: 13194 msec, total: 13755 msec)
+#=#=#=# Syncrun started 2017-10-25T07:42:51
+#=#=#=#=# Propagation starts 2017-10-25T07:42:52 (last step: 446 msec, total: 446 msec)
+#=#=#=# Syncrun finished 2017-10-25T07:42:52 (last step: 93 msec, total: 540 msec)
+#=#=#=# Syncrun started 2017-10-25T07:43:08
+#=#=#=#=# Propagation starts 2017-10-25T07:43:09 (last step: 218 msec, total: 218 msec)
+05:43:23||content/Storia/1900-09.md|INST_SYNC|Up|1508910186|281f3d9cd4e914f6a454496cd09ea996|224212|00930392ocuroa5we9nq|4||204|224212|1508910106|cef17b6daa1f5b695b1eb61b9c06c959|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T07:43:20 (last step: 11253 msec, total: 11471 msec)
+#=#=#=# Syncrun started 2017-10-25T07:43:51
+#=#=#=#=# Propagation starts 2017-10-25T07:43:52 (last step: 423 msec, total: 423 msec)
+#=#=#=# Syncrun finished 2017-10-25T07:43:52 (last step: 82 msec, total: 506 msec)
+#=#=#=# Syncrun started 2017-10-25T07:45:55
+#=#=#=#=# Propagation starts 2017-10-25T07:45:55 (last step: 253 msec, total: 253 msec)
+05:46:10||content/Storia/1900-09.md|INST_SYNC|Up|1508910353|64051bad1a12848fe4efbd736ec9df49|223608|00930392ocuroa5we9nq|4||204|224212|1508910186|281f3d9cd4e914f6a454496cd09ea996|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T07:46:07 (last step: 11636 msec, total: 11890 msec)
+#=#=#=# Syncrun started 2017-10-25T07:46:51
+#=#=#=#=# Propagation starts 2017-10-25T07:46:52 (last step: 480 msec, total: 480 msec)
+#=#=#=# Syncrun finished 2017-10-25T07:46:52 (last step: 327 msec, total: 807 msec)
+#=#=#=# Syncrun started 2017-10-25T07:55:55
+#=#=#=#=# Propagation starts 2017-10-25T07:55:55 (last step: 252 msec, total: 252 msec)
+05:56:11||content/Storia/1900-09.md|INST_SYNC|Up|1508910953|5c774e1b9d74c04a8977daffbfe94c52|223127|00930392ocuroa5we9nq|4||204|223608|1508910353|64051bad1a12848fe4efbd736ec9df49|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T07:56:08 (last step: 12880 msec, total: 13132 msec)
+#=#=#=# Syncrun started 2017-10-25T07:56:51
+#=#=#=#=# Propagation starts 2017-10-25T07:56:52 (last step: 457 msec, total: 457 msec)
+#=#=#=# Syncrun finished 2017-10-25T07:56:52 (last step: 161 msec, total: 618 msec)
+#=#=#=# Syncrun started 2017-10-25T07:58:38
+#=#=#=#=# Propagation starts 2017-10-25T07:58:38 (last step: 367 msec, total: 367 msec)
+05:58:53||content/Storia/1900-09.md|INST_SYNC|Up|1508911116|2582ad9fb7e6f28423533dd66091dc2e|222911|00930392ocuroa5we9nq|4||204|223127|1508910953|5c774e1b9d74c04a8977daffbfe94c52|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T07:58:50 (last step: 11980 msec, total: 12347 msec)
+#=#=#=# Syncrun started 2017-10-25T07:59:21
+#=#=#=#=# Propagation starts 2017-10-25T07:59:22 (last step: 425 msec, total: 425 msec)
+#=#=#=# Syncrun finished 2017-10-25T07:59:22 (last step: 273 msec, total: 699 msec)
+#=#=#=# Syncrun started 2017-10-25T08:00:55
+#=#=#=#=# Propagation starts 2017-10-25T08:00:55 (last step: 238 msec, total: 238 msec)
+06:01:15||content/Storia/1900-09.md|INST_SYNC|Up|1508911253|a59c878d1d3b6309403bb2e752d896f4|222894|00930392ocuroa5we9nq|4||204|222911|1508911116|2582ad9fb7e6f28423533dd66091dc2e|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T08:01:12 (last step: 16815 msec, total: 17054 msec)
+#=#=#=# Syncrun started 2017-10-25T08:01:51
+#=#=#=#=# Propagation starts 2017-10-25T08:01:52 (last step: 839 msec, total: 839 msec)
+#=#=#=# Syncrun finished 2017-10-25T08:01:52 (last step: 132 msec, total: 972 msec)
+#=#=#=# Syncrun started 2017-10-25T08:05:55
+#=#=#=#=# Propagation starts 2017-10-25T08:05:55 (last step: 205 msec, total: 205 msec)
+06:06:10||content/Storia/1900-09.md|INST_SYNC|Up|1508911553|35034ab44de802e83f16daaba19904b6|222568|00930392ocuroa5we9nq|4||204|222894|1508911253|a59c878d1d3b6309403bb2e752d896f4|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T08:06:07 (last step: 11916 msec, total: 12121 msec)
+#=#=#=# Syncrun started 2017-10-25T08:06:51
+#=#=#=#=# Propagation starts 2017-10-25T08:06:52 (last step: 439 msec, total: 439 msec)
+#=#=#=# Syncrun finished 2017-10-25T08:06:52 (last step: 90 msec, total: 529 msec)
+#=#=#=# Syncrun started 2017-10-25T08:10:55
+#=#=#=#=# Propagation starts 2017-10-25T08:10:55 (last step: 230 msec, total: 230 msec)
+06:11:14||content/Storia/1900-09.md|INST_SYNC|Up|1508911853|6f7a57da949de85177230b8dc6c9fde4|219775|00930392ocuroa5we9nq|4||204|222568|1508911553|35034ab44de802e83f16daaba19904b6|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T08:11:11 (last step: 16088 msec, total: 16318 msec)
+#=#=#=# Syncrun started 2017-10-25T08:11:51
+#=#=#=#=# Propagation starts 2017-10-25T08:11:52 (last step: 425 msec, total: 425 msec)
+#=#=#=# Syncrun finished 2017-10-25T08:11:52 (last step: 277 msec, total: 702 msec)
+#=#=#=# Syncrun started 2017-10-25T08:15:55
+#=#=#=#=# Propagation starts 2017-10-25T08:15:56 (last step: 457 msec, total: 457 msec)
+06:16:14||content/Storia/1900-09.md|INST_SYNC|Up|1508912153|9d2295d6d4917a218419bab899162e45|218921|00930392ocuroa5we9nq|4||204|219775|1508911853|6f7a57da949de85177230b8dc6c9fde4|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T08:16:12 (last step: 15876 msec, total: 16334 msec)
+#=#=#=# Syncrun started 2017-10-25T08:16:51
+#=#=#=#=# Propagation starts 2017-10-25T08:16:52 (last step: 468 msec, total: 468 msec)
+#=#=#=# Syncrun finished 2017-10-25T08:16:52 (last step: 439 msec, total: 908 msec)
+#=#=#=# Syncrun started 2017-10-25T08:20:55
+#=#=#=#=# Propagation starts 2017-10-25T08:20:56 (last step: 362 msec, total: 362 msec)
+06:21:12||content/Storia/1900-09.md|INST_SYNC|Up|1508912453|5a3a29d7e472e243d40d6c325b9faa3b|217192|00930392ocuroa5we9nq|4||204|218921|1508912153|9d2295d6d4917a218419bab899162e45|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T08:21:09 (last step: 13609 msec, total: 13971 msec)
+#=#=#=# Syncrun started 2017-10-25T08:21:44
+#=#=#=#=# Propagation starts 2017-10-25T08:21:44 (last step: 532 msec, total: 532 msec)
+06:22:00||content/Storia/1900-09.md|INST_SYNC|Up|1508912502|a37e03c39c7fd50e2746eaceb930509a|216851|00930392ocuroa5we9nq|4||204|217192|1508912453|5a3a29d7e472e243d40d6c325b9faa3b|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T08:21:57 (last step: 12809 msec, total: 13341 msec)
+#=#=#=# Syncrun started 2017-10-25T08:22:51
+#=#=#=#=# Propagation starts 2017-10-25T08:22:52 (last step: 502 msec, total: 502 msec)
+#=#=#=# Syncrun finished 2017-10-25T08:22:52 (last step: 225 msec, total: 728 msec)
+#=#=#=# Syncrun started 2017-10-25T08:24:29
+#=#=#=#=# Propagation starts 2017-10-25T08:24:29 (last step: 283 msec, total: 283 msec)
+06:24:47||content/Storia/1900-09.md|INST_SYNC|Up|1508912667|8775ccd834b7579ef715baa02f8d882e|216813|00930392ocuroa5we9nq|4||204|216851|1508912502|a37e03c39c7fd50e2746eaceb930509a|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T08:24:44 (last step: 14917 msec, total: 15200 msec)
+#=#=#=# Syncrun started 2017-10-25T08:25:21
+#=#=#=#=# Propagation starts 2017-10-25T08:25:22 (last step: 445 msec, total: 445 msec)
+#=#=#=# Syncrun finished 2017-10-25T08:25:22 (last step: 247 msec, total: 693 msec)
+#=#=#=# Syncrun started 2017-10-25T08:38:43
+#=#=#=#=# Propagation starts 2017-10-25T08:38:43 (last step: 247 msec, total: 247 msec)
+06:38:59||content/Storia/1900-09.md|INST_SYNC|Up|1508913521|3fa68f658abe60ac6ca51b74485f96f4|215722|00930392ocuroa5we9nq|4||204|216813|1508912667|8775ccd834b7579ef715baa02f8d882e|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T08:38:56 (last step: 13054 msec, total: 13302 msec)
+#=#=#=# Syncrun started 2017-10-25T08:39:51
+#=#=#=#=# Propagation starts 2017-10-25T08:39:52 (last step: 483 msec, total: 483 msec)
+#=#=#=# Syncrun finished 2017-10-25T08:39:52 (last step: 142 msec, total: 625 msec)
+#=#=#=# Syncrun started 2017-10-25T08:41:06
+#=#=#=#=# Propagation starts 2017-10-25T08:41:06 (last step: 281 msec, total: 281 msec)
+06:41:26||content/Storia/1900-09.md|INST_SYNC|Up|1508913664|529e794e422540790c9e8cd2f7457cd5|215311|00930392ocuroa5we9nq|4||204|215722|1508913521|3fa68f658abe60ac6ca51b74485f96f4|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T08:41:23 (last step: 16749 msec, total: 17030 msec)
+#=#=#=# Syncrun started 2017-10-25T08:42:21
+#=#=#=#=# Propagation starts 2017-10-25T08:42:22 (last step: 547 msec, total: 547 msec)
+#=#=#=# Syncrun finished 2017-10-25T08:42:22 (last step: 196 msec, total: 744 msec)
+#=#=#=# Syncrun started 2017-10-25T08:51:12
+#=#=#=#=# Propagation starts 2017-10-25T08:51:12 (last step: 268 msec, total: 268 msec)
+06:51:27||content/Storia/1900-09.md|INST_SYNC|Up|1508914270|5ca400179b9bc6fa484788042957f1ed|213687|00930392ocuroa5we9nq|4||204|215311|1508913664|529e794e422540790c9e8cd2f7457cd5|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T08:51:24 (last step: 11794 msec, total: 12063 msec)
+#=#=#=# Syncrun started 2017-10-25T08:52:21
+#=#=#=#=# Propagation starts 2017-10-25T08:52:22 (last step: 504 msec, total: 504 msec)
+#=#=#=# Syncrun finished 2017-10-25T08:52:22 (last step: 188 msec, total: 692 msec)
+#=#=#=# Syncrun started 2017-10-25T08:59:11
+#=#=#=#=# Propagation starts 2017-10-25T08:59:11 (last step: 268 msec, total: 268 msec)
+06:59:26||content/Storia/1900-09.md|INST_SYNC|Up|1508914749|f76b58c64048ebc35ddebcb2996eedb6|213924|00930392ocuroa5we9nq|4||204|213687|1508914270|5ca400179b9bc6fa484788042957f1ed|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T08:59:23 (last step: 12290 msec, total: 12558 msec)
+#=#=#=# Syncrun started 2017-10-25T09:00:21
+#=#=#=#=# Propagation starts 2017-10-25T09:00:22 (last step: 443 msec, total: 443 msec)
+#=#=#=# Syncrun finished 2017-10-25T09:00:22 (last step: 141 msec, total: 585 msec)
+#=#=#=# Syncrun started 2017-10-25T10:48:50
+#=#=#=#=# Propagation starts 2017-10-25T10:48:51 (last step: 234 msec, total: 234 msec)
+08:49:07||content/Storia/1900-09.md|INST_SYNC|Up|1508921328|38c169946e9aa473bf6146973d175405|213297|00930392ocuroa5we9nq|4||204|213924|1508914749|f76b58c64048ebc35ddebcb2996eedb6|00930392ocuroa5we9nq|INST_NONE|
+#=#=#=# Syncrun finished 2017-10-25T10:49:04 (last step: 12944 msec, total: 13179 msec)
+#=#=#=# Syncrun started 2017-10-25T10:49:51
+#=#=#=#=# Propagation starts 2017-10-25T10:49:52 (last step: 522 msec, total: 522 msec)
+#=#=#=# Syncrun finished 2017-10-25T10:49:52 (last step: 153 msec, total: 676 msec)

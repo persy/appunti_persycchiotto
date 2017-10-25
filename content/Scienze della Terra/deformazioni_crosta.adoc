@@ -1,0 +1,75 @@
+---
+title: "14. Le deformazioni tettoniche della litosfera"
+draft: false
+weight: 14
+---
+
+= Le deformazioni tettoniche della litosfera
+:toc: preamble
+:toc-title: Contenuti:
+:table-caption: Tabella
+:figure-caption: Immagine
+
+_Le rocce sono soggette a *forze tettoniche*, che agiscono al di sotto della crosta terrestre e che, in lunghi periodi di tempo, ne provocano la deformazione, particolarmente evidente in quelle sedimentarie. +
+*Il tipo e l’entità delle deformazioni* possono essere *influenzati da* alcuni fattori, tra cui la *natura delle rocce*, la *profondità* a cui si trovano e il *tempo d’azione* delle forze tettoniche. In risposta a queste forze, le rocce possono manifestare un *comportamento rigido* e subire fratture, dando origine alle faglie, oppure *plastico* e subire deformazioni, formando delle *pieghe*. Su *scala regionale*, le forze tettoniche possono formare strutture, dette *falde di ricoprimento*._
+
+== Le strutture tettoniche
+
+Su gran parte della superficie terrestre gli affioramenti rocciosi non conservano la loro disposizione originaria, poiché sono stati sottoposti a *lenti e forti movimenti di origine endogena*, detti *movimenti tettonici*, che li deformano fortemente, fratturandoli, dislocandoli e ripiegandoli. Tali deformazioni sono osservabili in tutte le rocce, siano esse ignee, metamorfiche o sedimentarie; tuttavia, in queste ultime sono più evidenti a causa della loro stratificazione, che rende più evidente il risultato dei fenomeni avvenuti. +
+Per comprendere le deformazioni tettoniche, è fondamentale esaminare il comportamento che le rocce manifestano se vengono sottoposte a sollecitazioni tettoniche. In base a questo criterio, le rocce possono essere distinte in due categorie: rocce a *comportamento rigido* e rocce a *comportamento plastico* (va tenuto presente, però, che una stessa roccia può manifestare entrambi i comportamenti, a seconda delle condizioni ambientali in cui viene a trovarsi). +
+I due tipi di deformazione delle rocce sono le faglie e le pieghe. Se sottoposte a sollecitazioni progressivamente crescenti, le rocce a comportamento rigido si rompono, si fratturano quando le forze raggiungono una determinata intensità, senza subire alcuna modificazione plastica e danno origine alle *faglie*. Quelle a comportamento plastico, invece, si deformano plasticamente e formano le *pieghe*; anch’esse, però, possono fratturarsi lungo le zone di massima tensione o di stress differenziale. L’entità e il tipo delle deformazioni dipendono da alcuni fattori; fra questi, la natura delle rocce, la profondità a cui esse si trovano e il tempo d’azione delle forze tettoniche. +
+Le rocce ignee, come pure quelle *sedimentarie* (*calcaree* e *dolomitiche*) *non stratificate*, si comportano come masse rigide che, sottoposte a sollecitazioni tettoniche, non si lasciano modellare; esse resistono sino a un certo valore-soglia, poi si fratturano. Al contrario, le rocce *sedimentarie stratificate* si comportano come masse plastiche, materiali pastosi che reagiscono alle diverse spinte ripiegandosi variamente, senza perdere il parallelismo degli strati, soprattutto se fra uno strato e l’altro si interpongono veli di materiali che svolgono una funzione lubrificante, come nel caso delle argille o della grafite. +
+All’aumentare della profondità a cui si trova una roccia, aumentano anche la pressione e la temperatura a cui essa è sottoposta e questi fattori, come si è potuto stabilire in laboratorio, accentuano il comportamento plastico della roccia: da ciò deriva che rocce rigide in superficie possono diventare plastiche in profondità. Anche il tempo d’azione delle forze tettoniche può influenzare il comportamento rigido o plastico di rocce della medesima natura; si è potuto constatare che le *fratture* sono prodotte soprattutto da forze di breve durata, ma molto intense, mentre i *ripiegamenti* sono il risultato di deboli forze che hanno agito per lunghissimo tempo, migliaia o milioni di anni.
+
+== Le faglie
+
+Gli affioramenti rocciosi sono in genere attraversati da fratture, più o meno fitte e regolari, dette *diaclasi* (dal greco _diáklasis_, frattura), in cui *non si osservano sensibili spostamenti* delle parti da esse separate. +
+Di maggiore interesse per un geologo sono, invece, le *faglie*, cioè le fratture che possono prodursi in una massa rocciosa, accompagnate da spostamento dei due blocchi (o di uno solo di essi), che prendono il nome di *labbri*, lungo il piano di rottura, chiamato *piano di faglia* e detto anche *specchio di faglia*, se direttamente osservabile in un affioramento roccioso; lo specchio di faglia presenta spesso striature, il cui andamento permette di risalire alla direzione dello spostamento subìto dai labbri della faglia. Il piano di faglia può essere verticale, ma più frequentemente è inclinato: in questo caso, si può distinguere un labbro che si trova sopra il piano di faglia, chiamato tetto, e uno che si trova sotto il piano di faglia, detto muro. Si chiama rigetto l’entità dello spostamento subìto dai labbri, misurato dalla distanza verticale fra il tetto e il letto. +
+Nelle faglie si possono individuare due dimensioni: la lunghezza, osservabile sulla superficie terrestre, e la profondità, non direttamente osservabile. Entrambe queste grandezze possono avere valori assai variabili, che dipendono, oltre che dalla natura delle rocce, anche dall’entità delle forze che hanno agito su di esse: la lunghezza può andare da alcuni decimetri a centinaia di chilometri, la profondità massima è assai minore e nei casi più imponenti non supera il centinaio di chilometri (poiché all’aumentare della profondità, e con essa anche della temperatura, le rocce tendono a deformarsi plasticamente, senza rompersi).
+
+
+.Immagine da satellite di un dettaglio della faglia di Piqiang (Cina), di tipo trascorrente sinistro
+image::https://upload.wikimedia.org/wikipedia/commons/4/48/Piqiang_Fault%2C_China_detail.jpg[piqiang,500]
+---
+=== I tipi di faglia
+
+In base alla direzione del movimento che si è verificato, le faglie vengono classificate in verticali, distinte in *faglie dirette* e *faglie inverse*, e in orizzontali, dette anche *faglie trascorrenti*. +
+Le *faglie dirette* sono anche dette *faglie di distensione*, perché si originano quando le masse rocciose vengono sollecitate da sforzi tettonici orizzontali di distensione, che spingono i due labbri in direzioni opposte; perciò, in esse, il tetto si trova più in basso del letto. +
+Le *faglie inverse* sono anche dette *faglie di compressione*, perché si originano quando le masse rocciose vengono sollecitate da sforzi tettonici orizzontali di compressione; in questo caso, il tetto viene spinto più in alto del letto; faglie inverse si possono, per esempio, osservare in corrispondenza di zone di subduzione e hanno un movimento che porta il blocco fagliato a occupare uno spazio più ristretto rispetto all’originale. I *piani* delle faglie dirette sono generalmente quasi verticali, mentre quelli delle faglie inverse sono poco inclinati (capita anche che essi siano quasi orizzontali e, in tal caso, i due blocchi rocciosi si comportano come due fogli di carta spinti uno sull’altro: si verificano così dei *sovrascorrimenti*, strutture tipiche dei margini convergenti di placca nelle quali uno dei due scivola sopra l’altro, ricoprendolo). +
+Le *faglie trascorrenti* sono generate da un movimento prevalentemente orizzontale e il piano di faglia risulta quasi verticale. Rispetto a un osservatore che si ponga di fronte al piano di faglia, il blocco situato al di là del piano potrà apparire spostato verso destra (faglia trascorrente destra) o verso sinistra (faglia trascorrente sinistra). La più nota faglia trascorrente è la faglia di San Andreas, in California. Il sistema più esteso di faglie trascorrenti è quello che taglia perpendicolarmente le dorsali oceaniche: le faglie che lo costituiscono vengono più propriamente chiamate *faglie trasformi* e si distinguono dalle faglie trascorrenti propriamente dette perché scorrono in direzioni opposte solo nel tratto compreso fra i due tronconi della dorsale. +
+Una faglia è una struttura che si sviluppa durante intervalli di tempo molto lunghi e, a un certo punto, la sua attività cessa: in questo caso viene detta faglia fossile. Tuttavia, essa può rimettersi in movimento e viene chiamata faglia reviviscente. Quando la faglia rivive, può comportarsi in modi diversi, cioè può manifestarsi, per esempio, come faglia inversa, continuare come faglia diretta e finire come faglia trascorrente. Le faglie intervengono a determinare e condizionare due importanti fenomeni endogeni del nostro pianeta: la *sismicità* e il *vulcanismo*. +
+Generalmente, una faglia non è isolata, ma fa parte di sistemi più vasti di faglie, tra cui ricordiamo le associazioni di faglie dirette, che interessano aree molto vaste e possono essere lunghe fino a migliaia di chilometri. Esempio di associazione di faglie dirette sono le fosse tettoniche, o _rift valley_ continentali: in esse si riconoscono i *graben*(in tedesco, trincea), depressioni, generalmente lunghe e strette, presenti al centro della fossa tettonica, delimitate ai lati da parti rilevate dette pilastri, o, con altro termine tedesco, *horst*. Questa situazione è osservabile, per esempio, lungo la Valle del Reno e anche lungo la _Great Rift Valley_ in Africa Orientale.
+
+.Tipi di faglie: A. Trascorrente B. Diretta C. Inverse
+image::https://upload.wikimedia.org/wikipedia/commons/7/77/Fault_types.svg[faglie,250]
+---
+
+
+== Le pieghe
+
+Le forze di compressione che agiscono lentamente su materiali rocciosi a comportamento plastico producono deformazioni dette *pieghe*. +
+Una piega ha lo stesso aspetto di un mazzo di fogli piegati: se curviamo una risma di carta, ciascun foglio si flette e scivola leggermente sull’altro, ma conserva il suo spessore originario. Si può verificare facilmente che, mentre un singolo foglio di carta può essere piegato senza fatica con un raggio di curvatura strettissimo, se il numero e lo spessore dei fogli aumenta, per piegarli occorre una quantità di energia molto maggiore, tanto che una risma di carta può essere appena curvata. In natura questo comportamento è tipico di materiali flessibili, in cui gli strati rocciosi scivolano uno sull’altro. +
+Il tipo più semplice di piega è detto *flessura*, cioè un raccordo inclinato che collega tra loro due aree con strati orizzontali posti a livello diverso; se tale raccordo diventa quasi verticale, si forma invece una *piega a ginocchio*. +
+Nelle pieghe più accentuate si distinguono due *fianchi* inclinati, che racchiudono una parte detta nucleo. L’area della piega in cui la superficie della piega ha la massima curvatura e si raccordano i due fianchi prende il nome di *cerniera*; si dice *piano assiale* il piano ideale che passa per la cerniera della piega. +
+Frequenti sono le associazioni di pieghe *anticlinali*, con la concavità rivolta verso il basso, e di *sinclinali*, con la concavità rivolta verso l’alto. Tuttavia, il criterio ora esposto non è sempre sufficiente per stabilire se una piega è un’anticlinale o una sinclinale, poiché possono sovrapporsi gli effetti di più forze; per distinguerle, si preferisce dunque far riferimento all’età degli strati osservabili in una piega, tenendo presente che, prima del piegamento, gli strati più antichi si trovavano alla base della successione di strati: in un’anticlinale, gli strati più antichi si trovano nel nucleo, mentre nel nucleo di una sinclinale si osservano gli strati più recenti. +
+In base all’inclinazione del piano assiale, che a sua volta dipende dall’intensità delle forze di compressione che hanno agito sui due lati della piega, le pieghe possono essere classificate in:
+
+*pieghe diritte*:: in cui le forze di compressione hanno agito con la stessa intensità ai due lati e il piano assiale è verticale
+*pieghe inclinate* e *rovesciate*:: in cui ha prevalso la forza di compressione su uno dei due lati e il piano assiale è inclinato rispetto alla verticale, dalla parte opposta rispetto a quella in cui ha agito la forza di intensità maggiore
+*pieghe coricate*:: in cui il piano assiale è prossimo all’orizzontale per la notevole differenza tra l’intensità delle forze di compressione che hanno agito sui due lati; in questo caso, lungo il piano che collega l’anticlinale, sovrastante, con la sinclinale, si può originare una faglia e si formano così strutture dette piega-faglia.
+Le pieghe diritte sono più rare; sono invece più comuni le pieghe inclinate e rovesciate.
+
+.Combinazione di sinclinale e anticlinale nelle "Old Red Sandstone"
+image::https://upload.wikimedia.org/wikipedia/commons/2/2d/Folded_Old_Red_Sandstone_at_St_Annes_Head_-_geograph.org.uk_-_629204.jpg[piaghe, 500]
+---
+
+== Strutture tettoniche a scala locale e a scala regionale
+
+In base all’estensione dell’area interessata dalle forze agenti sulle rocce, possiamo distinguere le strutture tettoniche a scala locale da quelle a scala regionale. +
+Fra* le strutture tettoniche a scala locale* sono comprese le cosiddette pieghe-faglie, descritte nel precedente paragrafo, e le scaglie tettoniche, cioè una serie di faglie inverse presenti in rocce piegate. +
+Fra *le strutture a scala regionale* ricordiamo, invece, le *falde di ricoprimento*: si tratta di pieghe rovesciate, che interessano aree molto estese (diverse centinaia di chilometri). +
+Queste strutture possono originarsi per sovrascorrimento delle rocce, che formano il tetto di una faglia inversa molto estesa al di sopra delle masse rocciose costituenti il letto della faglia stessa. La loro presenza è segnalata dalla sovrapposizione di strati: lo strato superiore, formato dalle rocce che sono sovrascorse, è detto *alloctono* (dal greco _állos_, diverso, e _chthón_, terra); lo strato inferiore, formato dalle rocce rimaste sul luogo d’origine, è detto *autoctono* (dal greco _autós_, se stesso, e _chthón_, terra). Particolari tipi di ricoprimenti sono le *falde di compressione*, così chiamate perché si originano in seguito a forze di compressione che agiscono su scala regionale. Questo tipo di struttura tettonica è tipico delle grandi catene montuose, per esempio, della catena himalayana e di quella alpina; in esse si riconoscono una radice, la parte più retrostante del ricoprimento, e un fronte, che corrisponde alla parte più avanzata. L’erosione dello strato alloctono può portare alla formazione di un’incisione, che prende il nome di *finestra tettonica*, attraverso la quale è messo a nudo il sottostante strato autoctono. Se poi l’erosione isola una parte della falda di ricoprimento dal resto, si formano strutture a cui si dà il nome di *klippen* (termine tedesco che significa scoglio).
+
+.Graben - Horst
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Graben_-_Horst_-_mour%C3%A8ze.jpg/1024px-Graben_-_Horst_-_mour%C3%A8ze.jpg[graben_horst,500]
+---

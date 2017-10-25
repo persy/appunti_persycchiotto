@@ -1,0 +1,10 @@
+baseURL = "http://www.example.com"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "Hugo Learn Documentation"
+theme = "hugo-theme-learn"
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "red"
