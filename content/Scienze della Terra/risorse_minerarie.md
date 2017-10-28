@@ -4,7 +4,7 @@ draft: false
 weight: 24
 ---
 
-#Le risorse minerarie 
+
 
 Ci siamo finora occupati della Terra soprattutto dal punto di vista astronomico, geologico e geomorfologico; tuttavia, essa è anche un’importante fonte di risorse naturali utili all’uomo, sia per la sua sopravvivenza, sia per le sue molteplici attività.  In questo capitolo descriveremo le *risorse minerarie*, cioè l’insieme delle sostanze minerali che vengono estratte dai rispettivi *giacimenti*, estensioni di crosta terrestre in cui uno o più minerali si trovano concentrati in quantità tale da rendere economicamente conveniente l’estrazione. In base al tipo di origine, si possono distinguere *giacimenti magmatici*, *sedimentari e metamorfici*.  Quelle minerarie sono *risorse non rinnovabili* e le loro riserve sulla Terra non sono illimitate, per cui si pone oggi la necessità di un loro *uso più razionale*, in particolare praticandone il riciclo.
 

@@ -4,7 +4,7 @@ draft: false
 weight: 14
 ---
 
-# Le deformazioni tettoniche della litosfera
+
 
 Le rocce sono soggette a *forze tettoniche*, che agiscono al di sotto della crosta terrestre e che, in lunghi periodi di tempo, ne provocano la deformazione, particolarmente evidente in quelle sedimentarie.  *Il tipo e l’entità delle deformazioni* possono essere *influenzati da* alcuni fattori, tra cui la *natura delle rocce*, la *profondità* a cui si trovano e il *tempo d’azione* delle forze tettoniche. In risposta a queste forze, le rocce possono manifestare un *comportamento rigido* e subire fratture, dando origine alle faglie, oppure *plastico* e subire deformazioni, formando delle *pieghe*. Su *scala regionale*, le forze tettoniche possono formare strutture, dette *falde di ricoprimento*.
 

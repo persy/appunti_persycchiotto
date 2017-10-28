@@ -4,7 +4,7 @@ draft: false
 weight: 8
 ---
 
-# I Materiali della crosta terrestre
+
 
 *La *materia* è costituita da atomi di diversi *elementi*, sostanze semplici che si distinguono tra loro per il differente *numero atomico* e che possono combinarsi per formare vari *composti*.  In natura, la materia si presenta in diversi *stati di aggregazione*: solido, liquido e gassoso. I *minerali* e le *rocce*, sostanze allo stato solido, sono i componenti della crosta terrestre e il loro studio tramite la mineralogia e la petrografia ci permette di acquisire le basi per la comprensione dei vari fenomeni geologici.*
 

@@ -3,7 +3,7 @@ title: "16. La sismicità"
 draft: false
 weight: 16
 ---
-#La sismicità
+
 *I *terremoti*, o *sismi*, sono rapide e brusche vibrazioni del suolo, dovute all’improvvisa liberazione di energia accumulatasi nelle rocce, a causa dei movimenti reciproci delle placche in cui la litosfera è suddivisa.  Al punto interno alla Terra in cui il terremoto si origina, detto *ipocentro*, corrisponde in superficie l’*epicentro*, dove i danni dovuti alla scossa sismica sono più gravi.  Durante un terremoto, si generano *onde sismiche* di vario tipo, che si propagano con diverse velocità sia all’interno della Terra, sia sulla superficie terrestre: esse possono essere registrate da strumenti detti *sismografi*, i quali tracciano grafici, i *sismogrammi*, che permettono di localizzare l’epicentro e stabilire l’intensità di un sisma. Si può valutare l’*intensità di un sisma* attraverso due scale: la *scala Mercalli*, che si basa sulla rilevazione degli effetti di un terremoto su edifici, persone e ambiente; e la *scala Richter*, che esprime, invece, la *magnitudo*, correlata alla quantità di energia liberata da un sisma.  Come i fenomeni vulcanici, anche i sismi sono distribuiti in particolari fasce della superficie terrestre, che corrispondono *ai margini delle placche litosferiche*.
 
 ## La natura e l’origine di un terremoto

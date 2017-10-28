@@ -4,7 +4,7 @@ draft: false
 weight: 18
 ---
 
-# L'Atmosfera
+
 
 La Terra è avvolta dall’*atmosfera*, un involucro gassoso costituito da una miscela di gas, tra cui l’*azoto*, l’*ossigeno* e il diossido di carbonio, o *anidride carbonica*; essa svolge importanti funzioni, sia nei confronti dell’ambiente fisico terrestre (contribuendo, per esempio, a modellarlo attraverso i fenomeni meteorologici che in essa si verificano), sia nei confronti degli organismi viventi (l’ossigeno e il diossido di carbonio sono importanti gas respiratori).  *In origine*, l’atmosfera aveva una *composizione diversa dall’attuale*, che è andata modificandosi nel tempo e ancora oggi subisce cambiamenti, soprattutto a opera dell’attività dell’uomo.  In relazione all’andamento della temperatura col variare della quota, *l’atmosfera viene suddivisa in cinque fasce*: *troposfera*, *stratosfera*, *mesosfera*, *termosfera* ed *esosfera*, ciascuna caratterizzata da particolari fenomeni.  La temperatura, la pressione e l’umidità, che caratterizzano la troposfera, determinano importanti fenomeni meteorologici, quali i venti e le precipitazioni, e sono all’origine delle perturbazioni atmosferiche.
 

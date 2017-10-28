@@ -4,7 +4,7 @@ draft: false
 weight: 4
 ---
 
-# Il sistema solare :toc: preamble :toc-title: Contenuti: :table-caption: Tabella :figure-caption: Immagine
+
 *Il sistema solare è costituito dal *Sole* e dall’insieme dei corpi celesti che gli gravitano intorno: i otto *pianeti* con i loro *satelliti*, una decina di *pianeti nani*, gli *asteroidi* e le *comete*.  L’invio di numerose sonde spaziali ha permesso di estendere la nostra conoscenza sugli elementi del sistema solare e di raccogliere numerose informazioni riguardo alla loro origine, evoluzione, struttura e orbita.*
 
 ## Origine del sistema solare

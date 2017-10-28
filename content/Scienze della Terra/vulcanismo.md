@@ -4,7 +4,7 @@ draft: false
 weight: 15
 ---
 
-# Il vulcanismo
+
 Il calore interno della Terra e il materiale fluido, o *magma*, in essa contenuto si trasferiscono sulla superficie terrestre, dando luogo a diverse manifestazioni che nel loro insieme prendono il nome di *vulcanismo*, distinto in *primario* e *secondario*.  Del *vulcanismo primario* fanno parte le *eruzioni*, emissioni di magma che, a seconda della composizione e della viscosità di questo, possono essere di tipo *esplosivo* o *effusivo* e che, a loro volta, danno origine a *diversi tipi di vulcani*. I vulcani sono rilievi della superficie terrestre, generalmente di forma conica, in cui si riconoscono diverse parti: una *camera magmatica*, un *camino* e un *cratere*, da cui il magma fuoriesce come *lava fluida*; durante le eruzioni, insieme alla lava sono emessi anche* materiali gassosi e solidi*.  Il *vulcanismo secondario* consiste, invece, in emissioni di *gas* o *vapori* e di *acque calde* e caratterizza in genere le fasi finali dell’attività di un vulcano.  Il vulcanismo si manifesta più intensamente in particolari *zone instabili* della crosta terrestre, che corrispondono ai margini delle placche.
 
 ## L’attività vulcanica

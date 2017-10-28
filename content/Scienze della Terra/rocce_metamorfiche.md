@@ -4,7 +4,7 @@ draft: false
 weight: 11
 ---
 
-#Rocce metamorfiche
+
 
 Tutte le rocce della crosta terrestre possono subire una profonda trasformazione, detta *metamorfismo*, a opera di agenti fisici, quali la *temperatura* e la *pressione*, e originare così le *rocce metamorfiche*.  In base all’agente fisico che prevale durante la trasformazione delle rocce, si possono distinguere tre diversi tipi di metamorfismo: *di contatto*, *dinamico* e *regionale*. Un incremento della pressione e della temperatura oltre certi valori determina poi il fenomeno dell’*anatessi*, forma di transizione fra condizioni metamorfiche e magmatiche. Le rocce metamorfiche possono presentare una *struttura scistosa*, *granulare* od *occhiadina*.
 

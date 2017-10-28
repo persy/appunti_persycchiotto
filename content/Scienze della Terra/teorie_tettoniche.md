@@ -3,7 +3,7 @@ title: "13.  Le teorie tettoniche"
 draft: false
 weight: 13
 ---
-# Le teorie tettoniche
+
 Fin dalla sua origine, circa 4,5 miliardi di anni fa, il pianeta Terra è stato, ed è tuttora, soggetto all’azione di forze che ne modificano continuamente l’aspetto: un ipotetico osservatore, vissuto sulla Terra molti milioni di anni fa, avrebbe potuto osservare i continenti in posizioni diverse da quelle attuali; inoltre, si può rilevare come la distribuzione delle catene montuose e delle sedi di alcuni fenomeni, quali il vulcanismo e i sismi, non è casuale, ma sembra seguire uno schema preferenziale. Dello studio e dell’interpretazione di questi fenomeni si occupa un ambito della geologia, detto *tettonica* (dal greco tektoniké, arte del costruire).  Un primo tentativo di spiegare le modificazioni avvenute sulla litosfera si deve alla *teoria della deriva dei continenti*, formulata all’inizio del ’900: in passato i continenti sarebbero stati tutti uniti e si sarebbero in seguito progressivamente spostati e allontanati.  Tuttavia, non erano chiare le cause di tali spostamenti; molte informazioni utili in questo senso furono raccolte qualche decennio più tardi, attraverso l’*esplorazione dei fondali oceanici*: alla fine degli anni ’60, la loro interpretazione permise di formulare la *teoria della tettonica a placche*, secondo la quale la litosfera terrestre è costituita da una serie di porzioni, o placche, in movimento reciproco, causato da *moti convettivi* che avvengono nel mantello.
 
 ## La deriva dei continenti

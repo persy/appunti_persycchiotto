@@ -4,7 +4,7 @@ draft: false
 weight: 19
 ---
 
-# I climi
+
 
 *La distribuzione degli esseri viventi sulla Terra*, particolarmente delle specie vegetali, le caratteristiche dei suoli *e la stessa attività umana* sono *fortemente condizionati dal clima*, cioè l’insieme delle condizioni meteorologiche che mediamente caratterizzano una determinata regione.  Per descrivere il clima di una regione si ricorre a diverse grandezze, dette *elementi del clima*, quali la temperatura, la pressione atmosferica e i venti, l’umidità e le precipitazioni, che a loro volta dipendono da alcuni *fattori del clima*, quali la latitudine, l’altitudine, la distanza dal mare, la presenza di catene montuose, l’esposizione al Sole e ai venti.  Data la grande variabilità di elementi e fattori del clima, sulla Terra esiste una notevole varietà di climi, che tuttavia possono essere riuniti in alcuni gruppi principali: si è proceduto alla *classificazione dei climi* in base a diversi criteri, ma la classificazione più nota è quella proposta dal meteorologo russo *W. Köppen*, che si basa sulla distribuzione geografica delle associazioni vegetali.  La gran varietà di climi presenti sulla Terra è stata così ridotta a un numero limitato di *gruppi climatici*, che interessano vaste aree della Terra e ciascuno dei quali comprende diversi *tipi climatici*, che riguardano aree più ristrette.
 

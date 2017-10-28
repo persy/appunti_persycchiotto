@@ -4,7 +4,7 @@ draft: false
 weight: 17
 ---
 
-# La storia della Terra
+
 La Terra, dalla sua *origine risalente a circa 4,6 miliardi di anni fa* sino a oggi, passando attraverso l’epoca in cui *è comparsa la vita* (*circa 3,5 miliardi di anni fa*) ha subito continue modificazioni. Per stabilire l’età della Terra e ricostruirne la storia, gli scienziati si sono avvalsi di *speciali documenti*: *le rocce e i fossili*, cioè i resti di organismi animali e vegetali vissuti nel passato e giunti fino a noi all’interno delle rocce sedimentarie.  Utilizzando metodi di *datazione relativa*, si è potuta stabilire la sequenza degli eventi che hanno caratterizzato la storia della Terra; con metodi di *datazione assoluta*, soprattutto con la radiometria, si è potuto invece stabilire l’età della Terra e datare precisamente gli eventi.  *La storia della Terra è* stata quindi *suddivisa in cinque ere geologiche*, cioè lunghissimi periodi di tempo, ciascuno dei quali è stato caratterizzato da particolari fenomeni geologici ed eventi biologici.
 
 ## Il tempo geologico

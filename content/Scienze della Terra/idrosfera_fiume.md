@@ -4,7 +4,7 @@ draft: false
 weight: 21
 ---
 
-# Idrosfera: le acque continentali
+
 
 Di tutte le acque presenti sulla Terra, solo una piccola parte è presente sulle terre emerse, costituendo le *acque continentali*, dette anche *acque dolci* per il minor contenuto di sali disciolti rispetto alle acque dei mari.  Per azione dell’energia solare e della forza di gravità, le acque continentali passano continuamente dallo stato liquido a quello aeriforme nell’atmosfera e nuovamente ritornano sulla Terra, attraverso le precipitazioni, allo stato liquido (pioggia) o solido (neve): l’insieme di queste trasformazioni costituisce il *ciclo dell’acqua*.  I “serbatoi” in cui sono contenute le acque continentali sono i *fiumi*, corsi d’acqua con deflusso permanente che scorrono in alvei naturali; i *laghi*, masse d’acqua dolce raccolte in conche naturali o artificiali della superficie terrestre; i *ghiacciai*, masse di acqua allo stato solido originate dalla progressiva trasformazione della neve in ghiaccio. Nel loro insieme, fiumi, laghi e ghiacciai costituiscono le *acque superficiali*.  Le *falde acquifere* che scorrono nel sottosuolo rappresentano, invece, le *acque sotterranee*, che possono affiorare in superficie e dare origine alle *sorgenti*.
 

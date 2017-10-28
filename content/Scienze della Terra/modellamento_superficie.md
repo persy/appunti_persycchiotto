@@ -4,7 +4,7 @@ draft: false
 weight: 22
 ---
 
-# Il modellamento della superficie terrestre
+
 
 La superficie terrestre presenta una *grande varietà di paesaggi,* che sono il *risultato dell’azione continua e incessante degli agenti geomorfologici*.  Tra essi distinguiamo agenti geomorfologici *endogeni e agenti esogeni*, che agiscono smantellando i rilievi, attraverso l’erosione delle rocce: l’*atmosfera*, che opera una degradazione meteorica delle rocce, attraverso la disgregazione fisica e l’alterazione chimica; le *acque piovane* che, agendo sulle rocce calcaree, determinano il fenomeno del carsismo; il *vento*, che agisce soprattutto in zone a clima arido e prive di copertura vegetale; i *fiumi*, che scavano valli con profilo a “V” e costruiscono pianure alluvionali; i *ghiacciai*, che con il loro impercettibile ma continuo movimento scavano valli dal profilo a “U” e depositano morene; infine i *mari*, che agiscono incessantemente sulle coste.
 

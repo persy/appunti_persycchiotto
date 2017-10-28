@@ -3,7 +3,7 @@ title: "10. Le rocce sedimentarie"
 draft: false
 weight: 10
 ---
-# Rocce sedimentarie
+
 
 *Gran parte della superficie terrestre è ricoperta da *rocce sedimentarie*, un *gruppo molto eterogeneo* di rocce che deriva dalla *sedimentazione* di materiali di varia natura. In base all’origine dei componenti, le rocce sedimentarie possono essere classificate in quattro gruppi: *clastiche*, *chimiche*, *organogene* e *piroclastiche*.  Esse si formano a partire da rocce preesistenti attraverso il processo sedimentario, che comprende varie fasi: la degradazione meteorica delle rocce, il trasporto e il deposito dei sedimenti e la diagenesi, durante la quale avviene la compattazione e la cementazione dei sedimenti.*
 

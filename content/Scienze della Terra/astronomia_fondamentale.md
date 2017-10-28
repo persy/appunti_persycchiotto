@@ -3,7 +3,7 @@ title: "2. Astronomia fondamentale"
 draft: false
 weight: 2
 ---
-# Astronomia fondamentale
+
 
 Osservando il cielo di notte, le stelle sembrano essere “fisse”, cioè come “incastonate” tutte alla stessa distanza dalla Terra su un immenso emisfero (sfera celeste), dotato di movimento apparente da est verso ovest. Per stabilire la posizione degli astri sulla sfera celeste sono stati concepiti vari sistemi di coordinate, costruiti sulla base di punti caratteristici e piani convenzionali. Da tali osservazioni, realizzate utilizzando strumenti astronomici sempre più raffinati, si sono evoluti sia la misura del tempo, sia le modalità della sua misurazione.
 

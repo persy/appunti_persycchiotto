@@ -4,7 +4,7 @@ draft: false
 weight: 5
 ---
 
-# L’origine dell’universo 
+
 
 L’universo è costituito da *galassie*: una fra le tante è la Via Lattea, di cui fa parte il sistema solare. Le galassie, a loro volta riunite in piccoli *gruppi* e *grandi ammassi*, sono sistemi formati da centinaia di miliardi di stelle e da materia cosmica diffusa negli spazi interstellari.  La natura e le modalità di formazione di questi giganteschi oggetti celesti sono studiati dalla *cosmologia*, la scienza che si occupa dell’origine, dell’evoluzione e della struttura dell’universo. Secondo la teoria cosmologica attualmente ritenuta più valida, la *teoria del Big Bang*, l’universo avrebbe tratto origine in una “grande esplosione” a partire da un punto iniziale in cui erano concentrate la sua materia e la sua energia.  La materia, proiettata nello spazio, si sarebbe via via aggregata e separata in nubi di gas in espansione, nuclei delle future galassie.  In seguito, all’interno di queste ultime si sarebbero formati, per collasso gravitazionale della materia gassosa, agglomerati di stelle.
 

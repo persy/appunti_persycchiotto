@@ -4,7 +4,7 @@ draft: false
 weight: 12
 ---
 
-# L’interno della Terra
+
 
 Negli ultimi decenni si sono intensificate le ricerche sull’interno della Terra, per meglio comprendere fenomeni quali il vulcanismo, i terremoti e molti altri, che vi si originano.  Grazie ai risultati di numerose *indagini*, *dirette* e *indirette*, e soprattutto allo *studio delle onde sismiche*, gli scienziati hanno proposto per il nostro pianeta un *modello a involucri concentrici*, detti rispettivamente, procedendo dall’esterno verso l’interno, *crosta*, *mantello e nucleo*, tra loro *separati da superfici di discontinuità*. A questa suddivisione di tipo geochimico se ne è poi sovrapposta un’altra di tipo geofisico, basata sulla maggiore o minore rigidità degli involucri e che distingue, all’interno della crosta e del mantello, la *litosfera*, l’*astenosfera* e la *mesosfera*.  *Il modello proposto rende conto* anche dei risultati ottenuti studiando le variazioni *del campo gravitazionale terrestre*, *del calore* interno della Terra e del *campo magnetico terrestre*, che in passato ha subìto numerose inversioni di polarità, come testimonia il paleomagnetismo.
 

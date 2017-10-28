@@ -4,7 +4,7 @@ draft: false
 weight: 3
 ---
 
-# Le stelle 
+
 A causa delle enormi distanze che le separano dalla Terra, le *stelle* appaiono all’osservatore in posizioni reciproche praticamente immutabili. Nel corso dei secoli, l’uomo con la sua immaginazione ha riconosciuto in particolari allineamenti o raggruppamenti stellari il profilo o la struttura di oggetti, animali e personaggi mitologici e ha dato loro il nome di *costellazioni*. Lo sviluppo di tecniche astronomiche ha permesso di *classificare le stelle* e di *comprenderne la struttura*: sono sfere di gas incandescente, tenute insieme dalla forza di gravità; risplendono di luce propria, prodotta in seguito a *reazioni di fusione termonucleare*. Le stelle sono in continua evoluzione: *gli stadi della vita delle stelle* sono rappresentati nel *diagramma di Hertzsprung-Russell*, in cui compaiono i parametri temperatura e magnitudine (o luminosità).
 
 

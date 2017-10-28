@@ -4,7 +4,7 @@ draft: false
 weight: 20
 ---
 
-# Idrosfera: le acque marine
+
 
 L’insieme delle acque presenti sulla Terra prende il nome di *idrosfera*: per la maggior parte essa è formata da *mari e oceani*, che *coprono circa tre quarti della superficie terrestre*; la scienza che studia gli oceani e i mari dal punto di vista geomorfologico, chimico-fisico e biologico è l’*oceanografia*.  Le *caratteristiche chimico-fisiche dell’acqua di mare*, quali la salinità, la densità, la temperatura, la pressione, il colore e la trasparenza, influenzano alcuni fenomeni che in essa si verificano e anche la vita degli organismi che vi abitano. Le acque oceaniche e marine sono sottoposte a diversi tipi di movimenti: costanti, le *correnti*; irregolari, le *onde*; periodici, le *maree*.  Le numerose esplorazioni oceanografiche degli anni ’60 e ’70 hanno permesso di descrivere la *morfologia dei fondali marini*, alquanto varia e complessa.
 

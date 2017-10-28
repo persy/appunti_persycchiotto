@@ -3,8 +3,7 @@ title: "9. Le rocce ignee"
 draft: false
 weight: 9
 ---
-#
-Rocce ignee
+
 
 *La maggior parte della crosta terrestre è costituita da *rocce ignee*, o *magmatiche* (o anche eruttive), che si formano per raffreddamento e solidificazione del *magma*, il materiale fuso presente all’interno della Terra.  In base alla loro *struttura*, che dipende dalla velocità di raffreddamento del magma, esse vengono classificate in rocce ignee *intrusive* ed *effusive*.  Possono anche essere classificate in base al contenuto *percentuale di silice*, distinguendole in rocce ignee *acide*, *neutre* e *basiche*.  Inoltre, in funzione della loro *composizione mineralogica*, le numerose varietà di rocce ignee possono essere raggruppate in una serie di *famiglie*.*
 

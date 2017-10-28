@@ -4,7 +4,7 @@ draft: false
 weight: 1
 ---
 
-# Le Scienze della Terra
+
 
 L’espressione “scienze della Terra” è stata coniata di recente: fino a qualche anno fa, le varie discipline scientifiche che rientrano sotto questa comune denominazione (tra cui astronomia, geografia fisica, geologia) venivano definite “scienze naturali” (tale espressione comprendeva anche la biologia, la zoologia, la botanica ecc., discipline che studiano gli esseri viventi).
 
@@ -47,7 +47,6 @@ Il quadro, tuttavia, si completa considerando un quarto sistema ambientale: quel
 
 ---
 
-*Tabella delle discipline a carattere scientifico (2)*
 |Discipline a carattere applicativo |Oggetto di studio
 ---|---
 |geologia agraria |geopedologia applicata; tecnica delle irrigazioni 
@@ -62,3 +61,5 @@ Il quadro, tuttavia, si completa considerando un quarto sistema ambientale: quel
 |meccanica delle rocce |proprietà fisiche delle masse rocciose 
 |meteorologia |fenomeni atmosferici e previsioni del tempo 
 |petrografia applicata |proprietà delle pietre da costruzione e dei materiali naturali utilizzati nell’edilizia e nel restauro di opere d’arte 
+
+*Tabella delle discipline a carattere scientifico (2)*

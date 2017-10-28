@@ -4,7 +4,7 @@ draft: false
 weight: 6
 ---
 
-# Il pianeta Terra 
+ 
 
 *La Terra non è una sfera perfetta*, ma è leggermente schiacciata ai poli e rigonfia all’equatore: la figura che meglio la rappresenta è il *geoide*.  Essa compie due movimenti principali, di *rotazione* e *rivoluzione*, che, insieme all’inclinazione del suo asse, sono responsabili dell’alternarsi del *dì* e della *notte*, della loro *diversa durata* nei vari periodi dell’anno, del succedersi delle *stagioni* e della *presenza* sul pianeta delle *zone climatiche astronomiche*.*
 

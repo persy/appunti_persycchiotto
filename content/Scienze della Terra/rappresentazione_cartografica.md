@@ -4,7 +4,7 @@ draft: false
 weight: 7
 ---
 
-# La rappresentazione cartografica della superficie terrestre 
+
 
 Attraverso i tentativi fatti dall’uomo, nel corso di millenni, di raffigurare su un piano in misura ridotta porzioni più o meno ampie della superficie terrestre, si è sviluppata la *cartografia*, la scienza che fornisce le tecniche di rilevamento e gli strumenti matematici (*proiezioni geometriche*) per elaborare carte geografiche.  Poiché non è possibile trasporre una superficie sferica su un piano senza deformarla, una carta geografica è sempre una rappresentazione approssimata della superficie terrestre. Le aree e le distanze vengono ridotte secondo un criterio di proporzionalità, detto *scala*.  Tra i compiti attuali della cartografia vi è quello di rappresentare non solo le forme naturali del territorio (*carte generali* e *carte speciali*), ma anche la distribuzione di alcuni aspetti, per esempio, di tipo economico o ecologico, attraverso le *carte tematiche*, che permettono di riconoscere le situazioni esistenti e di controllare le trasformazioni in atto.
 

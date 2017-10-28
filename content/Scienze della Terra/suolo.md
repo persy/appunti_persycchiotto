@@ -4,7 +4,7 @@ draft: false
 weight: 23
 ---
 
-# Il suolo
+
 *Lo strato superficiale della crosta terrestre in cui le piante affondano le loro radici è detto *suolo*: esso deriva dalla disgregazione fisica e dall’alterazione chimica delle rocce affioranti, dovute all’azione dell’atmosfera e degli organismi viventi, sia vegetali sia animali.  Il suolo è costituito da una *componente minerale* proveniente dalla degradazione delle rocce, e da una *componente organica*, detta *humus*, formata dalla decomposizione dei resti degli organismi viventi; esso, inoltre, contiene *acqua* e *aria*.  In un suolo si possono riconoscere diversi strati, ciascuno con particolari caratteristiche, detti *orizzonti*, che nel loro insieme costituiscono il *profilo* di un suolo.  Dalla composizione di un suolo dipendono alcune caratteristiche, quali per esempio la *tessitura*, la *porosità* e la *struttura*, che lo rendono più o meno adatto allo sviluppo delle piante e da cui dipendono anche alcuni processi che nel suolo si svolgono.*
 
 ## La genesi dei suoli
