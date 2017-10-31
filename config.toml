@@ -2,7 +2,7 @@ baseURL = "http://www.example.com"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Hugo Learn Documentation"
+title = "Appunti di Persycchiotto"
 theme = "hugo-theme-learn"
 
 [params]

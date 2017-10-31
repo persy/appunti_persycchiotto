@@ -1,3 +1,5 @@
 ._sync_db135ac4f15e.db-wal
 ._sync_db135ac4f15e.db-shm
 ._sync_db135ac4f15e.db
+
+*.cson
