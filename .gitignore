@@ -3,3 +3,7 @@
 ._sync_db135ac4f15e.db
 
 *.cson
+*.db-wal
+*.db-shm
+*.db
+*.log
