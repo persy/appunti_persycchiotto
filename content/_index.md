@@ -3,7 +3,7 @@ title: "Appunti di Persycchiotto"
 date: 2017-10-16T17:59:09+02:00
 draft: false
 ---
-    <img src="https://cynndara.files.wordpress.com/2013/06/wolves_mating.jpg" alt="WOFF" style="width: 150px;" align="right" />
+
 
 # **WOFF!** _(**wo**-rk in **ff**-rogress!)_
 
