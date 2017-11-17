@@ -3,7 +3,7 @@ title: "Frankenstein"
 draft: false
 weight: 2
 ---
-# Frankenstein  
+ 
 
 ## Introduzione
 

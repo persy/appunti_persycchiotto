@@ -3,7 +3,7 @@ title: "Orgoglio e Pregiudizio"
 draft: false
 weight: 1
 ---
-# Orgoglio e Pregiudizio
+
 
 ## Introduzione
 
