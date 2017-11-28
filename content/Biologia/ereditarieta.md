@@ -7,20 +7,20 @@ weight: 4
 
 ## L'eredità dei caratteri
 
-Fin dai tempi antichi, allevando animali e coltivando piante l'uomo ha avuto modo di osservare le somiglianze e le differenze esistenti tra genitori e figli. Ha così scoperto la possibilità di migliorare le razze e i raccolti, selezionando e accoppiando tra loro le varietà di animali e piante che presentavano le caratteristiche più utili. Tuttavia, pur avendo scoperto che** i caratteri morfologici e fisiologici si trasmettono da una generazione all'altra**, **il meccanismo con cui si compie tale trasmissione** è rimasto sconosciuto fino alla fine del sec. XIX e solo recentemente** è divenuto oggetto di studio di una scienza specifica, la genetica**.
+Fin dai tempi antichi, allevando animali e coltivando piante l'uomo ha avuto modo di osservare le somiglianze e le differenze esistenti tra genitori e figli. Ha così scoperto la possibilità di migliorare le razze e i raccolti, selezionando e accoppiando tra loro le varietà di animali e piante che presentavano le caratteristiche più utili. Tuttavia, pur avendo scoperto che **i caratteri morfologici e fisiologici si trasmettono da una generazione all'altra**, **il meccanismo con cui si compie tale trasmissione** è rimasto sconosciuto fino alla fine del sec. XIX e solo recentemente **è divenuto oggetto di studio di una scienza specifica, la genetica**.
 
 
 ### Che cos'è la genetica
 
-**La genetica è la scienza che studia i meccanismi dell'eredità attraverso i quali avviene la trasmissione delle caratteristiche biologiche **(caratteri) **da una generazione a quella successiva** nelle varie specie animali e vegetali.
+**La genetica è la scienza che studia i meccanismi dell'eredità attraverso i quali avviene la trasmissione delle caratteristiche biologiche** (caratteri) **da una generazione a quella successiva** nelle varie specie animali e vegetali.
 
-In particolare, la genetica studia il **genoma**, cioè** il corredo di informazioni genetiche dei vari organismi**, i cui componenti sono i cromosomi e i geni, le unità funzionali ereditarie contenute in questi ultimi. I **geni sono segmenti di DNA dai quali dipende la sintesi di una determinata proteina** e quindi la comparsa di un dato carattere ereditario e vengono trasmessi da una generazione a quella successiva attraverso la riproduzione.
+In particolare, la genetica studia il **genoma**, cioè **il corredo di informazioni genetiche dei vari organismi**, i cui componenti sono i cromosomi e i geni, le unità funzionali ereditarie contenute in questi ultimi. I **geni sono segmenti di DNA dai quali dipende la sintesi di una determinata proteina** e quindi la comparsa di un dato carattere ereditario e vengono trasmessi da una generazione a quella successiva attraverso la riproduzione.
 
 La **genetica classica** nasce nella seconda metà dell'800 con gli studi compiuti dal biologo boemo Gregor Mendel su piante di pisello e si sviluppa nei primi decenni del '900 grazie a esperimenti condotti sul moscerino dell'aceto.
 
 Negli anni '40, in seguito al riconoscimento che il DNA costituisce la base fisica dell'eredità, prende avvio la **genetica molecolare**. A partire dagli anni '70, con l'impiego delle tecniche della biologia molecolare, si è aperta la strada alla manipolazione del materiale genetico e quindi allo sviluppo dell'**ingegneria genetica**.
 
-La rilevanza della genetica nei diversi settori della biologia è testimoniata dallo sviluppo di discipline specialistiche, quali la **citogenetica **(la genetica a livello cellulare), la **genetica dei microrganismi e delle piante**, la **genetica dello sviluppo **e la **genetica umana**.
+La rilevanza della genetica nei diversi settori della biologia è testimoniata dallo sviluppo di discipline specialistiche, quali la **citogenetica** (la genetica a livello cellulare), la **genetica dei microrganismi e delle piante**, la **genetica dello sviluppo** e la **genetica umana**.
 
 
 <table>
@@ -100,9 +100,9 @@ La scelta di Mendel delle piante di pisello per i suoi esperimenti non fu casual
 
 dei quali compare in due forme diverse. Inoltre per la struttura stessa del fiore le piante di pisello si autoimpollinano (il polline feconda l'ovulo del suo stesso fiore): le piante che si formano mantengono le caratteristiche del fiore originario, non essendoci apporto di materiale ereditario da parte di altre piante. Quando l'autoimpollinazione si verifica per numerose generazioni, si forma una linea pura.
 
-Mendel incrociò piante di pisello di due linee pure (P) che differivano tra loro per un solo carattere (**incrocio monoibrido**). I prodotti di ogni incrocio, cioè la prima generazione filiale (F<sub>1</sub>), furono piante tutte uguali, che presentavano il carattere di uno solo dei due genitori. Mendel chiamò **ibridi **i discendenti ottenuti dall'incrocio di due linee pure.
+Mendel incrociò piante di pisello di due linee pure (P) che differivano tra loro per un solo carattere (**incrocio monoibrido**). I prodotti di ogni incrocio, cioè la prima generazione filiale (F<sub>1</sub>), furono piante tutte uguali, che presentavano il carattere di uno solo dei due genitori. Mendel chiamò **ibridi** i discendenti ottenuti dall'incrocio di due linee pure.
 
-Incrociando tra loro le piante della generazione F<sub>1</sub>, Mendel ottenne la seconda generazione filiale (F<sub>2</sub>), costituita per tre quarti da piante che continuavano a presentare il carattere di F<sub>1</sub> e per un quarto da piante nelle quali ricompariva il carattere presente nella generazione P, apparentemente scomparso nella F<sub>1</sub>. Mendel chiamò questo **carattere recessivo** (dal latino recedere, restare indietro), mentre chiamò **dominante **il carattere che compariva nei
+Incrociando tra loro le piante della generazione F<sub>1</sub>, Mendel ottenne la seconda generazione filiale (F<sub>2</sub>), costituita per tre quarti da piante che continuavano a presentare il carattere di F<sub>1</sub> e per un quarto da piante nelle quali ricompariva il carattere presente nella generazione P, apparentemente scomparso nella F<sub>1</sub>. Mendel chiamò questo **carattere recessivo** (dal latino recedere, restare indietro), mentre chiamò **dominante** il carattere che compariva nei
 
 tre quarti delle piante.
 
@@ -141,9 +141,7 @@ _Trasmissione dei caratteri analoga nache nel caso di incroci diibridi, cioè co
 
 _Il biologo, matematico e monaco agostiniano ceco Gregor Mendel_
 
-Gregor Mendel (1822-1884) era un monaco del monastero di Brno (nell'attuale Repubblica Ceca), con una vasta cultura matematica acquisita all'università di Vienna. Per dieci anni, dal 1854 al 1864, egli coltivò e studiò i meccanismi dell'eredità di circa 28.000 piante di Pisum sativum, dalle quali era stato attratto per la presenza di alcuni caratteri che si presentavano in due forme alternative (il colore del seme, giallo o verde; il bacello, liscio o rugoso; i
-
-fiori, ascellari o apicali ecc.).
+Gregor Mendel (1822-1884) era un monaco del monastero di Brno (nell'attuale Repubblica Ceca), con una vasta cultura matematica acquisita all'università di Vienna. Per dieci anni, dal 1854 al 1864, egli coltivò e studiò i meccanismi dell'eredità di circa 28.000 piante di Pisum sativum, dalle quali era stato attratto per la presenza di alcuni caratteri che si presentavano in due forme alternative (il colore del seme, giallo o verde; il bacello, liscio o rugoso; i fiori, ascellari o apicali ecc.).
 
 Mendel non fu il primo a compiere studi di questo tipo, ma ebbe alcune intuizioni che gli permisero di introdurre degli elementi di novità: la scelta di un numero elevatissimo di individui per seguire gli esperimenti nel corso di numerose generazioni; l'analisi di un solo carattere per volta; l'interpretazione statistica dei risultati; l'uso di simboli per esprimere in modo chiaro e schematico gli incroci.
 
@@ -154,15 +152,15 @@ del tempo, fu ignorata fino al 1900, quando tre studiosi di scienze biologiche, 
 
 ### Le tre leggi di Mendel
 
-Al termine degli esperimenti, Mendel arrivò alle seguenti conclusioni (che gli permisero di enunciare le tre** leggi di Mendel** che sono alla base della genetica):
+Al termine degli esperimenti, Mendel arrivò alle seguenti conclusioni (che gli permisero di enunciare le tre **leggi di Mendel** che sono alla base della genetica):
 
 
 
-1.  i **caratteri non si mescolano negli ibridi **ma mantengono la propria identità
-1.  **ogni carattere è controllato da una coppia di "fattori" ereditari**, che vengono trasmessi, uno da ciascun genitore, ai figli attraverso i gameti. Oggi si sa che questi fattori sono i geni, che sono presenti sul cromosoma in una delle due forme alternative, dette **alleli**, delle quali una (**allele dominante**) prevale sull'altra (**allele recessivo**), mascherandone la presenza nella F<sub>1</sub>
-1.  al momento della meiosi, ciascuna coppia di cromosomi (uno di origine materna e uno paterno) si separa in modo che in un gamete vada solo un cromosoma; ogni spermatozoo e ogni cellula uovo possiede quindi un solo allele per ogni carattere
-1.  con la fecondazione i gameti si combinano a caso e si riformano le coppie di cromosomi (e quindi di alleli);
-1.  si definiscono **omozigoti **gli individui che hanno i due alleli di un carattere uguali (dominanti o recessivi), **eterozigoti **gli individui che hanno i due alleli diversi (uno dominante e uno recessivo): gli omozigoti possono produrre un solo tipo di gamete, gli eterozigoti due;
+1.  i **caratteri non si mescolano negli ibridi** ma mantengono la propria identità
+2.  **ogni carattere è controllato da una coppia di "fattori" ereditari**, che vengono trasmessi, uno da ciascun genitore, ai figli attraverso i gameti. Oggi si sa che questi fattori sono i geni, che sono presenti sul cromosoma in una delle due forme alternative, dette **alleli**, delle quali una (**allele dominante**) prevale sull'altra (**allele recessivo**), mascherandone la presenza nella F<sub>1</sub>
+3.  al momento della meiosi, ciascuna coppia di cromosomi (uno di origine materna e uno paterno) si separa in modo che in un gamete vada solo un cromosoma; ogni spermatozoo e ogni cellula uovo possiede quindi un solo allele per ogni carattere
+4.  con la fecondazione i gameti si combinano a caso e si riformano le coppie di cromosomi (e quindi di alleli);
+5.  si definiscono **omozigoti** gli individui che hanno i due alleli di un carattere uguali (dominanti o recessivi), **eterozigoti **gli individui che hanno i due alleli diversi (uno dominante e uno recessivo): gli omozigoti possono produrre un solo tipo di gamete, gli eterozigoti due;
 
 **Le leggi di Mendel valgono sia per le piante sia per gli animali**: anche nell'uomo molti caratteri sono trasmessi secondo queste leggi. Il bruno dei capelli è dominante sul rosso; i capelli crespi dominano su quelli lisci; gli occhi scuri su quelli azzurri; il naso aquilino su ogni altro tipo di naso.
 
@@ -197,7 +195,7 @@ Al termine degli esperimenti, Mendel arrivò alle seguenti conclusioni (che gli 
 
 #### Legge della segregazione
 
-**Alla seconda generazione**, ottenuta incrociando tra loro gli ibridi della prima, **gli alleli che controllano un determinato carattere si separano** (segregano)** e vengono trasmessi a gameti diversi**. Si ottengono 1/4 degli individui con il carattere recessivo e 3/4 con il carattere dominante. Di questi ultimi 2/3 sono eterozigoti, 1/3 è omozigote.
+**Alla seconda generazione**, ottenuta incrociando tra loro gli ibridi della prima, **gli alleli che controllano un determinato carattere si separano** (segregano) **e vengono trasmessi a gameti diversi**. Si ottengono 1/4 degli individui con il carattere recessivo e 3/4 con il carattere dominante. Di questi ultimi 2/3 sono eterozigoti, 1/3 è omozigote.
 
 
 <table>
@@ -224,7 +222,7 @@ Al termine degli esperimenti, Mendel arrivò alle seguenti conclusioni (che gli 
 
  
 
-Si definisce **fenotipo **il complesso dei caratteri visibili di un individuo; **genotipo **la combinazione di alleli posseduta da un individuo. Da questi incroci si osserva che il fenotipo dominante è espresso sia dagli omozigoti dominanti sia dagli eterozigoti. Per determinare il genotipo dell'individuo con fenotipo dominante si ricorre al **test-cross** (reincrocio o incrocio di controllo) che utilizza l'omozigote recessivo.
+Si definisce **fenotipo** il complesso dei caratteri visibili di un individuo; **genotipo** la combinazione di alleli posseduta da un individuo. Da questi incroci si osserva che il fenotipo dominante è espresso sia dagli omozigoti dominanti sia dagli eterozigoti. Per determinare il genotipo dell'individuo con fenotipo dominante si ricorre al **test-cross** (reincrocio o incrocio di controllo) che utilizza l'omozigote recessivo.
 
 Se il genitore con fenotipo dominante è eterozigote, i discendenti avranno per metà il fenotipo dominante e per metà quello recessivo. Se invece il genitore con fenotipo dominante è omozigote, i discendenti avranno tutti il fenotipo dominante.
 
@@ -326,13 +324,13 @@ Sebbene sia ancora molto distante, uno dei principali obiettivi della biotecnolo
 
 ### La teoria cromosomica dell'eredità
 
-La** teoria cromosomica dell'eredità**, secondo la quale **i cromosomi sono la sede dei gen**i, si fonda sui seguenti presupposti:
+La **teoria cromosomica dell'eredità**, secondo la quale **i cromosomi sono la sede dei gen**i, si fonda sui seguenti presupposti:
 
 
 
 1.  la stretta analogia tra il comportamento dei cromosomi durante la meiosi e quello dei geni, previsto dalle leggi di Mendel
-1.  la presenza dei cromosomi nei gameti
-1.  la presenza di un cromosoma materno e di uno paterno nelle cellule somatiche.
+2.  la presenza dei cromosomi nei gameti
+3.  la presenza di un cromosoma materno e di uno paterno nelle cellule somatiche.
 
 Diverse sono le **prove a sostegno di questa teoria emerse da studi sul moscerino dell'aceto**. Il biologo statunitense T. Morgan (1866-1945), sperimentando numerosi incroci dell'insetto, dimostrò l'esistenza di un legame fisico tra il gene responsabile del colore dell'occhio del moscerino e un determinato cromosoma.
 
@@ -341,7 +339,7 @@ Un altro tipo di indagine fu compiuta sui cromosomi giganti delle ghiandole sali
 
 ### La natura dei geni
 
-Una volta stabilito che i geni sono localizzati sui cromosomi, il passo successivo era quello di stabilire da quale dei due costituenti dei cromosomi (DNA e proteine) è composto il gene. Per molto tempo si pensò che le proteine fossero il materiale ereditario, ma in seguito l'attenzione si indirizzò sul DNA. Gli studi che portarono all**'identificazione del DNA come costituente chimico dei geni** iniziarono negli anni '20 con gli esperimenti di Griffith e trovarono conferma con le dimostrazioni di Avery e di Hersey e Chase.
+Una volta stabilito che i geni sono localizzati sui cromosomi, il passo successivo era quello di stabilire da quale dei due costituenti dei cromosomi (DNA e proteine) è composto il gene. Per molto tempo si pensò che le proteine fossero il materiale ereditario, ma in seguito l'attenzione si indirizzò sul DNA. Gli studi che portarono all'**identificazione del DNA come costituente chimico dei geni** iniziarono negli anni '20 con gli esperimenti di Griffith e trovarono conferma con le dimostrazioni di Avery e di Hersey e Chase.
 
 
 #### Gli esperimenti di Griffith
@@ -371,8 +369,8 @@ Ai ricercatori era noto che:
 
 
 1.  quando un batterio viene infettato da un fago T 2 , la cellula batterica si rompe e si liberano numerosi fagi;
-1.  i fagi sono costituiti unicamente da un rivestimento proteico e da DNA;
-1.  la molecola di DNA contiene fosforo; le proteine contengono zolfo.
+2.  i fagi sono costituiti unicamente da un rivestimento proteico e da DNA;
+3.  la molecola di DNA contiene fosforo; le proteine contengono zolfo.
 
 Hershey e Chase aggiunsero fosforo radioattivo al mezzo di coltura di una popolazione di fagi, e zolfo radioattivo a quello di un'altra popolazione. Si formarono così un ceppo con DNA marcato (cioè contenente l'elemento radioattivo) e un ceppo con proteine marcate. Quando i batteri venivano infettati dal ceppo di virus con proteine marcate, lo zolfo radioattivo veniva trovato solo nel rivestimento dei fagi al di fuori dei batteri. Non risultavano radioattivi né i batteri, contenenti il materiale genetico dei fagi, né i nuovi fagi. Quando invece i batteri venivano infettati dal ceppo con DNA marcato, il fosforo radioattivo veniva trovato all'interno sia dei batteri infetti, sia dei nuovi fagi prodotti dall'infezione. Ciò dimostrava che **il materiale genetico iniettato dai fagi nei batteri è DNA e non una proteina**.
 
@@ -381,7 +379,7 @@ Hershey e Chase aggiunsero fosforo radioattivo al mezzo di coltura di una popola
 
 L'insieme dei geni contenuti in un singolo corredo di cromosomi di un organismo si dice **genoma**. Ogni gene influenza il **fenotipo**, cioè il complesso dei caratteri visibili di un individuo, controllando una tappa specifica di una via metabolica.
 
-**Nella maggior parte dei casi i geni controllano la sintesi di proteine** (ipotesi un gene-una proteina);** altri geni hanno una funzione regolatrice nei confronti di geni che codificano le proteine**.
+**Nella maggior parte dei casi i geni controllano la sintesi di proteine** (ipotesi un gene-una proteina); **altri geni hanno una funzione regolatrice nei confronti di geni che codificano le proteine**.
 
 
 #### L'ipotesi un gene-una proteina
@@ -391,23 +389,23 @@ La stretta relazione tra gene e proteina è stata dimostrata negli anni '40 dagl
 
 ### Le mutazioni
 
-Una **mutazione **è un cambiamento nella successione o nel numero delle basi di un gene. Una mutazione può avvenire in qualsiasi cellula di un organismo, ma solo quella che si verifica nei gameti entra a far parte del patrimonio ereditario dell'individuo e si trasmette da una generazione all'altra. Le mutazioni possono interessare singoli nucleotidi (mutazioni geniche) o tratti di cromosoma (mutazioni cromosomiche).
+Una **mutazione** è un cambiamento nella successione o nel numero delle basi di un gene. Una mutazione può avvenire in qualsiasi cellula di un organismo, ma solo quella che si verifica nei gameti entra a far parte del patrimonio ereditario dell'individuo e si trasmette da una generazione all'altra. Le mutazioni possono interessare singoli nucleotidi (mutazioni geniche) o tratti di cromosoma (mutazioni cromosomiche).
 
 Le **mutazioni geniche**, dette anche **puntiformi**, possono insorgere spontaneamente o per rari errori durante la replicazione del DNA. Possono anche essere prodotte da alcuni composti chimici e da radiazioni. Esse comprendono:
 
 
 
-1.  la **delezione **(perdita di un nucleotide);
-1.  **l'inserzione **(aggiunta di un nucleotide);
-1.  la **sostituzione **(una base sostituisce un'altra base).
+1.  la **delezione** (perdita di un nucleotide);
+1.  **l'inserzione** (aggiunta di un nucleotide);
+1.  la **sostituzione** (una base sostituisce un'altra base).
 
 Le **mutazioni cromosomiche** sono causate da rotture all'interno dei cromosomi, spontanee o provocate in seguito a esposizione a raggi X o ad agenti chimici. Le estremità rotte tendono a ricongiungersi provocando dei cambiamenti nell'ordine dei geni. Comprendono:
 
 
 
-1.  la **traslocazione **(scambio di segmenti di cromosomi tra cromosomi non omologhi);
+1.  la **traslocazione** (scambio di segmenti di cromosomi tra cromosomi non omologhi);
 1.  l**'inversione** (rotazione di 180° di un segmento di cromosoma);
-1.  la **delezione **(perdita di un segmento di cromosoma).
+1.  la **delezione** (perdita di un segmento di cromosoma).
 
 Le mutazioni cromosomiche possono anche alterare il numero dei cromosomi (**mutazioni genomiche**): si ha polisomia o monosomia a seconda che uno o più cromosomi siano stati rispettivamente acquistati o persi.
 
@@ -447,7 +445,7 @@ Il compito dell'effettore è legarsi al repressore e modificarne la conformazion
 
 Se l'effettore è positivo, questa capacità diminuisce, il repressore non si lega con l'operatore, e la RNA-polimerasi non si blocca nella trascrizione del DNA. Se invece l'effettore è negativo, il repressore si lega all'operatore e la trascrizione da parte della RNA-polimerasi è bloccata.
 
-Anche negli eucarioti vi possono essere meccanismi di regolazione a breve termine come quello dei procarioti; ma intervengono anche meccanismi più complessi a lungo termine, che si esplicano a diversi livelli. I **controlli conformazionali** riguardano la distinzione tra le zone di cromatina attiva nella trascrizione (**eucromatina**, meno condensata) e quelle che non vengono trascritte (**eterocromatina**, zone più compatte); il **controllo trascrizionale** è effettuato da **fattori di trascrizione** o **proteine regolatrici** che attivano la trascrizione di un gene; il controllo post-trascrizionale consiste nella rimozione degli introni; il **controllo della traduzione** e della stabilità del DNA regola il numero delle copie di mRNA e la loro durata; il **controllo post-traduzionale **modifica l'attivazione delle catene polipeptidiche e la durata delle proteine.
+Anche negli eucarioti vi possono essere meccanismi di regolazione a breve termine come quello dei procarioti; ma intervengono anche meccanismi più complessi a lungo termine, che si esplicano a diversi livelli. I **controlli conformazionali** riguardano la distinzione tra le zone di cromatina attiva nella trascrizione (**eucromatina**, meno condensata) e quelle che non vengono trascritte (**eterocromatina**, zone più compatte); il **controllo trascrizionale** è effettuato da **fattori di trascrizione** o **proteine regolatrici** che attivano la trascrizione di un gene; il controllo post-trascrizionale consiste nella rimozione degli introni; il **controllo della traduzione** e della stabilità del DNA regola il numero delle copie di mRNA e la loro durata; il **controllo post-traduzionale** modifica l'attivazione delle catene polipeptidiche e la durata delle proteine.
 
 
 
@@ -480,13 +478,13 @@ La **trasformazione **consiste nel **passaggio da un batterio a un altro di un p
 
 #### Le biotecnologie
 
-Le **biotecnologie **sono quelle tecniche che permettono di produrre sia sostanze sia servizi (per esempio, analisi, depurazione delle acque ecc.) con l'impiego di organismi viventi, cellule e loro costituenti, o mediante la loro manipolazione genetica.
+Le **biotecnologie** sono quelle tecniche che permettono di produrre sia sostanze sia servizi (per esempio, analisi, depurazione delle acque ecc.) con l'impiego di organismi viventi, cellule e loro costituenti, o mediante la loro manipolazione genetica.
 
 Propriamente, le tecniche che consentono di alterare il patrimonio genetico degli organismi vanno sotto il nome di **ingegneria genetica**. A differenza della ricombinazione naturale, l**'ingegneria genetica altera in modo mirato il genoma di un organismo**, isolando alcuni suoi geni (eventualmente modificati) e inserendoli in cellule di un'altra specie, dove si moltiplicano e sintetizzano le loro proteine. La cellula ospite (nella quale introdurre i geni) è normalmente un batterio. I vantaggi nell'uso dei batteri sono molteplici: semplicità della cellula; conoscenza dei meccanismi di ricombinazione naturale; velocità di crescita.
 
 Una delle metodologie più importanti dell'ingegneria genetica ricorre al **DNA ricombinante**. Questa tecnica utilizza gli **enzimi di restrizione**, capaci di tagliare il DNA di due organismi (per es. batterico e umano) in corrispondenza di precise sequenze, in modo tale che le estremità delle due catene siano complementari e possano appaiarsi. Altri enzimi (**DNA-ligasi**) uniscono tra loro le estremità dei frammenti.
 
-Mediante _vettori di clonazione_, i più comuni dei quali sono i **plasmidi**, il DNA ricombinante è trasferito in una cellula batterica, dove produce la proteina corrispondente al gene umano inserito. A mano a mano che il batterio si riproduce per divisione cellulare, il DNA viene **amplificato**, cioè riprodotto in un gran numero di copie, ottenendo **clone **di cellule geneticamente identiche, dotate del DNA ricombinante.
+Mediante _vettori di clonazione_, i più comuni dei quali sono i **plasmidi**, il DNA ricombinante è trasferito in una cellula batterica, dove produce la proteina corrispondente al gene umano inserito. A mano a mano che il batterio si riproduce per divisione cellulare, il DNA viene **amplificato**, cioè riprodotto in un gran numero di copie, ottenendo **clone** di cellule geneticamente identiche, dotate del DNA ricombinante.
 
 Dato che le cellule batteriche non sono in grado di rimuovere gli introni, presenti nella maggior parte dei geni degli eucarioti, e quindi non possono esprimere il gene inserito, si utilizza di preferenza il **cDNA **(DNA complementare); questo è ottenuto mediante la **trascrittasi invers**a, un enzima estratto dai virus a RNA che catalizza la trascrizione
 
@@ -494,7 +492,7 @@ Dato che le cellule batteriche non sono in grado di rimuovere gli introni, prese
 
 Un metodo alternativo alla clonazione per ottenere grandi quantità di DNA ricombinante utilizza la reazione a catena della polimerasi (PCR).
 
-La **polimerasi **è un **enzima in grado di sintetizzare sequenze di macromolecole partendo da monomer**i. Per esempio, la DNA-polimerasi sintetizza DNA a partire dai nucleotidi. La tecnica della reazione a catena della polimerasi riesce ad attivare in provetta lo stesso processo di replicazione del DNA che avviene nella cellula.
+La **polimerasi** è un **enzima in grado di sintetizzare sequenze di macromolecole partendo da monomeri**. Per esempio, la DNA-polimerasi sintetizza DNA a partire dai nucleotidi. La tecnica della reazione a catena della polimerasi riesce ad attivare in provetta lo stesso processo di replicazione del DNA che avviene nella cellula.
 
 Le biotecnologie sono utilizzate da millenni per produrre vino, formaggio e in generale i prodotti fermentati. Hanno però assunto grande importanza solo negli anni '80 dopo che, con la scoperta del DNA e del codice genetico, si è compreso il funzionamento dei geni e si è perfezionata la tecnica del DNA ricombinante. Attualmente le biotecnologie trovano impiego nella cura della salute (produzione di sostanze che sono alla base di farmaci), nell'alimentazione (lavorazione dei prodotti, controllo della qualità e dello stato di conservazione degli alimenti), nella difesa dell'ambiente (trattamento dei rifiuti, depurazione delle acque e nell'agricoltura (inserimento di particolari geni utili nel genoma delle piante).
 
@@ -503,9 +501,7 @@ Sono detti **organismi geneticamente modificati** (**OGM**) od **organismi trans
 
 #### Il Progetto Genoma Umano
 
-Il Progetto Genoma Umano è un programma internazionale di ricerca che si prefigge l'obiettivo di sequenziare i cromosomi umani, cioè identificare la sequenza dei nucleotidi cromosoma per cromosoma. Fu iniziato nel 1987 e ha coinvolto centri di ricerca di Stati Uniti, Inghilterra, Francia, Germania, Giappone e Cina, ciascuno con il compito di decifra-
-
-re porzioni diverse di genoma.
+Il Progetto Genoma Umano è un programma internazionale di ricerca che si prefigge l'obiettivo di sequenziare i cromosomi umani, cioè identificare la sequenza dei nucleotidi cromosoma per cromosoma. Fu iniziato nel 1987 e ha coinvolto centri di ricerca di Stati Uniti, Inghilterra, Francia, Germania, Giappone e Cina, ciascuno con il compito di decifrare porzioni diverse di genoma.
 
 La prima tappa del Progetto fu di localizzare i geni presenti su ciascuno dei cromosomi umani, per ottenerne una mappa; la seconda fase fu di sequenziare i geni, ossia trovare la successione delle basi su ciascun cromosoma.
 

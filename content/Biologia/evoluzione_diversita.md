@@ -7,12 +7,12 @@ weight: 3
 
 ## L'evoluzione degli organismi
 
-L'idea di **evoluzione **degli organismi è molto antica, ma, dopo secoli di abbandono, fu elaborata in modo scientifico solo nell'800, grazie all'opera di Darwin e Wallace. Basata sui concetti di **variabilità**, **selezione naturale** e lotta per l'esistenza, la teoria evolutiva fu perfezionata con lo sviluppo di nuove discipline biologiche, soprattutto della genetica: oggi è una delle teorie fondamentali della biologia.
+L'idea di **evoluzione** degli organismi è molto antica, ma, dopo secoli di abbandono, fu elaborata in modo scientifico solo nell'800, grazie all'opera di Darwin e Wallace. Basata sui concetti di **variabilità**, **selezione naturale** e lotta per l'esistenza, la teoria evolutiva fu perfezionata con lo sviluppo di nuove discipline biologiche, soprattutto della genetica: oggi è una delle teorie fondamentali della biologia.
 
 
 ### Il concetto di evoluzione
 
-Alla luce della teoria di Darwin e Wallace, per **evoluzione **si intende il **processo attraverso cui le diverse specie di viventi derivano da forme di vita preesistent**i, **in seguito a** graduali modificazioni, o **variazioni geniche**, trasmesse ereditariamente nel corso del tempo in base a un meccanismo determinato dalla **selezione naturale**: sopravvivono e si assicurano una discendenza quegli individui che presentano variazioni favorevoli, tali cioè da renderli **meglio adatti a fronteggiare le condizioni ambientali**.
+Alla luce della teoria di Darwin e Wallace, per **evoluzione** si intende il **processo attraverso cui le diverse specie di viventi derivano da forme di vita preesistenti**, in seguito a **graduali modificazioni**, o **variazioni geniche**, trasmesse ereditariamente nel corso del tempo in base a un meccanismo determinato dalla **selezione naturale**: sopravvivono e si assicurano una discendenza quegli individui che presentano variazioni favorevoli, tali cioè da renderli **meglio adatti a fronteggiare le condizioni ambientali**.
 
 
 #### Il pensiero evoluzionistico
@@ -178,7 +178,7 @@ _Plica semilunare, residuo della membrana nittitante che in altri mammiferi, neg
 
 
 *   **La somiglianza degli stadi embrionali** precoci di animali di gruppi diversi si spiega ammettendo un lontano antenato comune
-*   
+  
 
 
 
@@ -273,15 +273,15 @@ L'insieme dei geni (e degli alleli) di tutti gli individui di una popolazione co
 
 In un individuo le fonti della variabilità genica sono le mutazioni e la ricombinazione genetica durante la riproduzione sessuale.
 
-Le **mutazioni **sono rari cambiamenti dell'informazione genetica: molti non hanno effetti immediati sull'organismo, altri sono dannosi e pochi sono benefici: non sono quindi la causa primaria dell'evoluzione, ma sono fonte di nuovi alleli, su cui possono intervenire altri agenti dell'evoluzione.
+Le **mutazioni** sono rari cambiamenti dell'informazione genetica: molti non hanno effetti immediati sull'organismo, altri sono dannosi e pochi sono benefici: non sono quindi la causa primaria dell'evoluzione, ma sono fonte di nuovi alleli, su cui possono intervenire altri agenti dell'evoluzione.
 
 La **ricombinazione genetica** si produce durante la riproduzione sessuale all'atto della meiosi, quando i cromosomi omologhi sono distribuiti a caso nei gameti; oppure durante il crossing-over, con scambio di porzioni di cromosomi; o infine all'atto della fecondazione, per l'unione casuale di un gamete maschile e uno femminile. In una popolazione, fonti di variabilità sono la migrazione e la deriva genetica.
 
-La **migrazione è intesa come flusso di geni tra popolazioni **(e non solo "spostamento" fisico di una popolazione): per esempio, la "migrazione" di un maschio dominante in un nuovo branco fornisce nuovi geni al pool genico del branco. La migrazione può distribuire alleli vantaggiosi nelle diverse popolazioni di una specie e allo stesso tempo contribuisce a mantenere le caratteristiche della specie in tutto il territorio.
+La **migrazione è intesa come flusso di geni tra popolazioni** (e non solo "spostamento" fisico di una popolazione): per esempio, la "migrazione" di un maschio dominante in un nuovo branco fornisce nuovi geni al pool genico del branco. La migrazione può distribuire alleli vantaggiosi nelle diverse popolazioni di una specie e allo stesso tempo contribuisce a mantenere le caratteristiche della specie in tutto il territorio.
 
 La **deriva genetica** è la fluttuazione della frequenza allelica in una piccola popolazione dovuta a un evento casuale.
 
-**Nel meccanismo detto a "collo di bottiglia"** l'evento casuale è determinato da una **notevole riduzione del numero degli individui della popolazione **(per esempio, per malattia o carestia): se la popolazione non si estingue, la frequenza allelica delle future generazioni sarà determinata dal patrimonio dei pochi individui rimasti.
+**Nel meccanismo detto a "collo di bottiglia"** l'evento casuale è determinato da una **notevole riduzione del numero degli individui della popolazione** (per esempio, per malattia o carestia): se la popolazione non si estingue, la frequenza allelica delle future generazioni sarà determinata dal patrimonio dei pochi individui rimasti.
 
 
 
@@ -340,7 +340,7 @@ Alcuni interessanti meccanismi selettivi sono quelli che agiscono a livello dell
 
 **La competizione tra individui della stessa specie per le medesime risorse** è uno dei meccanismi più comuni e diretti di selezione.
 
-La **coevoluzione **è la continua reciproca interazione tra due specie, ciascuna delle quali esercita una pressione selettiva sull'altra. Per esempio, l'evoluzione della corolla dei fiori è stata determinata, e a sua volta ha determinato l'evoluzione degli apparati boccali degli insetti
+La **coevoluzione** è la continua reciproca interazione tra due specie, ciascuna delle quali esercita una pressione selettiva sull'altra. Per esempio, l'evoluzione della corolla dei fiori è stata determinata, e a sua volta ha determinato l'evoluzione degli apparati boccali degli insetti
 
 che da essa traevano il nettare; nella predazione si instaura una coevoluzione tra predatore e preda, per cui il predatore è costretto a sviluppare nuove strategie di attacco in seguito al perfezionamento di quelle di difesa della preda (o viceversa). La **selezione sessuale** è la scelta del compagno attuata da alcune specie di pesci e da molte specie di uccelli e mammiferi. È evidente che alcune caratteristiche del maschio (colori appariscenti o un certo tipo di corteggiamento) preferite dalle femmine saranno determinanti del suo successo riproduttivo.
 
@@ -441,7 +441,7 @@ _Esempio di microevoluzione, Biston betularia: A. comune. B. insularia. C. carbo
 
 ## La storia della vita sulla Terra
 
-La comparsa delle prime forme viventi fu preceduta, secondo le ipotesi ritenute più attendibili, da una fase detta **evoluzione prebiotica**, in cui si formarono le molecole organiche necessarie alla costruzione del materiale cellulare. Dalle forme di vita ancestrali consistenti di **organismi procarioti**, si svilupparono nel mare organismi dotati di **cellule eucarioti vegetali** (alghe), capaci di fotosintesi, **e animali **(invertebrati marini) progenitrici delle **piante **e degli **animali**, che grazie alla presenza di ossigeno nell'atmosfera poterono a un certo punto passare sulla terraferma.
+La comparsa delle prime forme viventi fu preceduta, secondo le ipotesi ritenute più attendibili, da una fase detta **evoluzione prebiotica**, in cui si formarono le molecole organiche necessarie alla costruzione del materiale cellulare. Dalle forme di vita ancestrali consistenti di **organismi procarioti**, si svilupparono nel mare organismi dotati di **cellule eucarioti vegetali** (alghe), capaci di fotosintesi, **e animali** (invertebrati marini) progenitrici delle **piante** e degli **animali**, che grazie alla presenza di ossigeno nell'atmosfera poterono a un certo punto passare sulla terraferma.
 
 Nel percorso evolutivo degli animali, **la tappa più recente è la comparsa dei mammiferi**, nel cui ambito si diversificarono i primati, l'ordine al quale appartiene l'uomo. L'evoluzione dell'uomo moderno si compì attraverso un insieme di eventi detto **ominazione**.
 
@@ -505,7 +505,7 @@ Secondo le ipotesi circa 1,6 miliardi di anni fa alcuni batteri anaerobici, che 
 
 
 1.  tra un batterio anaerobico ed eterotrofo e un batterio aerobico (che si evolve in mitocondrio): in questo caso si sarebbe formata la cellula animale;
-1.   tra un batterio contenente dei mitocondri e un cianobatterio (che si evolve in cloroplasto): in questo caso si sarebbe formata la cellula vegetale.
+2.   tra un batterio contenente dei mitocondri e un cianobatterio (che si evolve in cloroplasto): in questo caso si sarebbe formata la cellula vegetale.
 
 È probabile che anche i flagelli e altri organuli cellulari siano stati acquisiti con questo tipo di simbiosi. La membrana nucleare, invece, si sarebbe formata in seguito a un ripiegamento all'interno della membrana cellulare a formare una cavità.
 
@@ -1070,7 +1070,7 @@ L'enorme diversità di specie animali e vegetali che si sono evolute sulla Terra
 
 ### La classificazione degli organismi
 
-Viene chiamata **sistematica**, o **tassonomia **(dal greco táxis: ordinamento), la scienza che studia i criteri di classificazione degli organismi viventi secondo uno schema basato su una serie di categorie sistematiche, o táxa(singolare táxon), disposte a livelli gerarchici.
+Viene chiamata **sistematica**, o **tassonomia** (dal greco táxis: ordinamento), la scienza che studia i criteri di classificazione degli organismi viventi secondo uno schema basato su una serie di categorie sistematiche, o táxa(singolare táxon), disposte a livelli gerarchici.
 
 Le sette categorie principali sono, in ordine gerarchico decrescente: regno, phylum (per gli animali) o divisione (per le piante e i funghi), classe, ordine, famiglia, genere e specie.
 
@@ -1079,7 +1079,7 @@ Ciascuna categoria sistematica superiore comprende tutte quelle inferiori (come 
 
 #### La nomenclatura binomia
 
-Un organismo è identificato quando viene indicato a quale specie, genere, famiglia, ordine, classe, phylum (o divisione) esso appartiene. In pratica, però, per l'identificazione di un organismo si ricorre alle due categorie inferiori: il genere e la specie. Il nome scientifico di un organismo è infatti indicato per mezzo della nomenclatura binomia ideata nel '700 da Linneo. Questa nomenclatura è costituita da **due nomi latini**: **il primo designa il genere**, scritto per convenzione in maiuscolo, **il secondo designa la specie**, scritto in minuscolo. Così, il lupo è _Canis _(genere) _lupus _(specie), il cane _Canis _(genere) _familiaris _(specie), l'uomo _Homo _(genere) _sapiens _(specie).
+Un organismo è identificato quando viene indicato a quale specie, genere, famiglia, ordine, classe, phylum (o divisione) esso appartiene. In pratica, però, per l'identificazione di un organismo si ricorre alle due categorie inferiori: il genere e la specie. Il nome scientifico di un organismo è infatti indicato per mezzo della nomenclatura binomia ideata nel '700 da Linneo. Questa nomenclatura è costituita da **due nomi latini**: **il primo designa il genere**, scritto per convenzione in maiuscolo, **il secondo designa la specie**, scritto in minuscolo. Così, il lupo è _Canis_ (genere) _lupus_ (specie), il cane _Canis_ (genere) _familiaris_ (specie), l'uomo _Homo_ (genere) _sapiens_ (specie).
 
 Il nome di un nuovo genere o di una nuova specie viene assegnato nel corso di congressi scientifici internazionali, secondo diversi criteri: può essere il nome classico, tramandato dagli antichi greci o latini; può derivare dal nome dello scopritore; oppure indicare una caratteristica dell'esemplare.
 
@@ -1090,14 +1090,14 @@ La nomenclatura binomia viene usata come riferimento internazionale per superare
 
 Nell'800, con la diffusione delle teorie evoluzionistiche e del nuovo concetto di specie (un insieme di individui che possono incrociarsi fra loro e la cui prole risulta a sua volta fertile), prevalsero i sistemi di classificazione che tengono conto delle relazioni filogenetiche (o evolutive) tra le diverse specie, cercandone le derivazioni da antenati comuni.
 
-Oggi la **tassonomia ricerca **con sempre maggiore precisione **le affinità evolutive degli organismi** e si avvale dello studio di nuove discipline: oltre all'anatomia e all'embriologia, grande importanza ha la biochimica. Quest'ultima, tra l'altro, permette di determinare la sequenza di amminoacidi delle proteine; poiché le proteine sono codificate dal DNA, **quanto maggiore è la somiglianza nella composizione proteica tra due specie **differenti**, tanto più è probabile che i loro rapporti evolutivi siano stretti**.
+Oggi la **tassonomia ricerca** con sempre maggiore precisione **le affinità evolutive degli organismi** e si avvale dello studio di nuove discipline: oltre all'anatomia e all'embriologia, grande importanza ha la biochimica. Quest'ultima, tra l'altro, permette di determinare la sequenza di amminoacidi delle proteine; poiché le proteine sono codificate dal DNA, **quanto maggiore è la somiglianza nella composizione proteica tra due specie **differenti**, tanto più è probabile che i loro rapporti evolutivi siano stretti**.
 
 La tassonomia è una scienza complessa e la sistematica dei diversi raggruppamenti, soprattutto degli organismi inferiori, è tuttora controversa. I táxa sono soggetti a continue revisioni in seguito ai risultati delle ricerche nei diversi campi.
 
 
 #### I regni dei viventi
 
-Attualmente quasi tutte le classificazioni concordano sulla divisione degli organismi nei seguenti cinque regni: **monere **(_Monera_), **protisti **(_Protista_), **piante **(_Plantae_), **funghi **(_Fungi_), **animali **(_Animalia_), comprendenti ciascuno organismi con alcune caratteristiche fondamentali comuni.
+Attualmente quasi tutte le classificazioni concordano sulla divisione degli organismi nei seguenti cinque regni: **monere** (_Monera_), **protisti** (_Protista_), **piante** (_Plantae_), **funghi** (_Fungi_), **animali** (_Animalia_), comprendenti ciascuno organismi con alcune caratteristiche fondamentali comuni.
 
 
 
@@ -1106,7 +1106,7 @@ Attualmente quasi tutte le classificazioni concordano sulla divisione degli orga
 *   **le piante sono eucarioti pluricellulari autotrofi**
 *   **i funghi sono eucarioti pluricellulari eterotrofi (saprofiti)**
 
-I **virus **non rientrano in nessuno di questi regni e vengono sempre considerati a parte, al limite del mondo vivente.
+I **virus** non rientrano in nessuno di questi regni e vengono sempre considerati a parte, al limite del mondo vivente.
 
 
 <table>
@@ -1234,11 +1234,11 @@ La fase del ciclo vitale di un organismo vivente è caratterizzata da divisioni 
 
 **Gli organismi che si riproducono asessualmente per semplice divisione** (**mitosi**) mantengono sempre lo stesso numero di cromosomi nelle cellule e il ciclo quindi si esaurisce tra due successive divisioni e conosce **una sola generazione**.
 
-**Negli organismi a riproduzione sessuata** la produzione di gameti implica invece un dimezzamento, in seguito alla meiosi, del numero di cromosomi di alcune cellule (che si indica con n) e un raddoppiamento del numero dei cromosomi dei gameti in seguito alla fecondazione (2n). In questo caso dunque il ciclo vitale è costituito da un'**alternanza di generazione aploide** (cioè con metà numero di cromosomi, compresa tra la formazione delle cellule sessuali, cioè la meiosi, e la fecondazione) e di **generazione diploide **(con numero di cromosomi doppio, compresa tra la fecondazione e la meiosi).
+**Negli organismi a riproduzione sessuata** la produzione di gameti implica invece un dimezzamento, in seguito alla meiosi, del numero di cromosomi di alcune cellule (che si indica con n) e un raddoppiamento del numero dei cromosomi dei gameti in seguito alla fecondazione (2n). In questo caso dunque il ciclo vitale è costituito da un'**alternanza di generazione aploide** (cioè con metà numero di cromosomi, compresa tra la formazione delle cellule sessuali, cioè la meiosi, e la fecondazione) e di **generazione diploide** (con numero di cromosomi doppio, compresa tra la fecondazione e la meiosi).
 
-Caratteristica di alcuni gruppi di organismi e indice di minore o maggiore evoluzione è il prevalere di un tipo di generazione sull'altra. Si possono così distinguere** organismi aplonti **(con prevalenza della generazione aploide, come molti protisti, alghe e funghi), **diplonti **(con prevalenza della generazione diploide, come gli animali) e **aplodiplonti **(con equilibrio tra le due generazioni come molte piante).
+Caratteristica di alcuni gruppi di organismi e indice di minore o maggiore evoluzione è il prevalere di un tipo di generazione sull'altra. Si possono così distinguere **organismi aplonti** (con prevalenza della generazione aploide, come molti protisti, alghe e funghi), **diplonti** (con prevalenza della generazione diploide, come gli animali) e **aplodiplonti** (con equilibrio tra le due generazioni come molte piante).
 
-In molte piante la meiosi produce spore aploidi che si dividono per mitosi producendo un individuo aploide, o gametofito; il **gametofito **produce due gameti che si fondono in uno zigote diploide; questo formerà un individuo diploide, o **sporofito**, che a sua volta produrrà in seguito a meiosi spore aploidi per ricominciare il ciclo. Nel corso dell'evoluzione la fase gametofitica si va riducendo e nelle piante superiori predomina lo sporofito diploide (la maggior parte delle piante che vediamo), mentre il gametofito è ridotto a poche cellule del fiore per la produzione dei gameti.
+In molte piante la meiosi produce spore aploidi che si dividono per mitosi producendo un individuo aploide, o gametofito; il **gametofito** produce due gameti che si fondono in uno zigote diploide; questo formerà un individuo diploide, o **sporofito**, che a sua volta produrrà in seguito a meiosi spore aploidi per ricominciare il ciclo. Nel corso dell'evoluzione la fase gametofitica si va riducendo e nelle piante superiori predomina lo sporofito diploide (la maggior parte delle piante che vediamo), mentre il gametofito è ridotto a poche cellule del fiore per la produzione dei gameti.
 
 Nel ciclo vitale di alcuni animali diplonti, come i celenterati, l'alternanza delle generazioni avviene tra uno stadio a larva natante (medusa), che produce i gameti e si riproduce sessualmente, e l'adulto ancorato al fondale (polipo) che si riproduce in modo asessuato.
 
@@ -1257,7 +1257,7 @@ _Differenze fra i vari cicli cellulari._
 
 I virus sono particelle subcellulari, prive cioè di una struttura cellulare, capaci di moltiplicarsi soltanto all'interno di una cellula ospite da loro infettata. Per le loro ridotte dimensioni, che variano dai 17 ai 3000 nanometri, i virus possono essere osservati soltanto al microscopio elettronico.
 
-Tutti i virus sono costituiti da un** involucro proteico** (**capside**) formato da tante subunità (**capsomeri**) di una stessa proteina. Alcuni virus possiedono all'esterno del capside uno strato di protezione lipidico che il virus asporta dalla membrana della cellula infettata, quando, alla fine del ciclo infettivo, la cellula si rompe e libera le nuove unità di virus replicatesi. All'interno dell'involucro vi è un acido nucleico, che può essere DNA o RNA.
+Tutti i virus sono costituiti da un **involucro proteico** (**capside**) formato da tante subunità (**capsomeri**) di una stessa proteina. Alcuni virus possiedono all'esterno del capside uno strato di protezione lipidico che il virus asporta dalla membrana della cellula infettata, quando, alla fine del ciclo infettivo, la cellula si rompe e libera le nuove unità di virus replicatesi. All'interno dell'involucro vi è un acido nucleico, che può essere DNA o RNA.
 
 
 
@@ -1316,9 +1316,9 @@ _Un tipico ciclo di replicazione virale_
 
 ## Le monere e i protisti
 
-Le **monere**, o batteri, e i **protisti **sono gli organismi viventi con il livello di organizzazione cellulare più semplice: sono infatti costituiti da una sola cellula o da più cellule indifferenziate.
+Le **monere**, o batteri, e i **protisti** sono gli organismi viventi con il livello di organizzazione cellulare più semplice: sono infatti costituiti da una sola cellula o da più cellule indifferenziate.
 
-Questa è di tipo **procariote **nelle monere, di tipo **eucariote **nei protisti.
+Questa è di tipo **procariote** nelle monere, di tipo **eucariote** nei protisti.
 
 In entrambi i gruppi si osserva già la tendenza dell'evoluzione all'aggregazione: in alcuni casi gli organismi unicellulari si uniscono in colonie, dove iniziano a differenziare le loro funzioni.
 
@@ -1363,7 +1363,7 @@ _Esempio tipico di cellula procariote_
 
 #### Batteri gram-positivi e gram-negativi
 
-Con la** tecnica di colorazione di Gram **(dal nome del batteriologo danese H.C. Gram che la descrisse nel 1884) **è possibile distinguere due tipi di pareti cellulari**, in base alle quali si distinguono batteri gram-positivi e batteri gram-negativi. La parete cellulare dei batteri gram-negativi include una membrana che talvolta è tossica per i mammiferi e causa alcune malattie.
+Con la **tecnica di colorazione di Gram** (dal nome del batteriologo danese H.C. Gram che la descrisse nel 1884) **è possibile distinguere due tipi di pareti cellulari**, in base alle quali si distinguono batteri gram-positivi e batteri gram-negativi. La parete cellulare dei batteri gram-negativi include una membrana che talvolta è tossica per i mammiferi e causa alcune malattie.
 
 
 
@@ -1382,7 +1382,7 @@ In condizioni ottimali **i batteri si riproducono velocemente per divisione cell
 
 Si osserva anche una forma di sessualità, detta **coniugazione batterica**, per cui due batteri si scambiano materiale genetico, in genere plasmidi, senza tuttavia dividersi.
 
-Alcuni batteri formano **spore**, forme protettive o di resistenza, chiamate anche **endospore **(poiché sviluppate all'interno della cellula), in grado di sopravvivere in condizioni ambientali avverse ed essere trasportate per lunghe distanze nell'aria o nell'acqua. Le spore, che contengono materiale genetico e alcuni enzimi, germineranno quando si troveranno in condizioni favorevoli.
+Alcuni batteri formano **spore**, forme protettive o di resistenza, chiamate anche **endospore** (poiché sviluppate all'interno della cellula), in grado di sopravvivere in condizioni ambientali avverse ed essere trasportate per lunghe distanze nell'aria o nell'acqua. Le spore, che contengono materiale genetico e alcuni enzimi, germineranno quando si troveranno in condizioni favorevoli.
 
 
 
@@ -1397,7 +1397,7 @@ _Forme batteriche_
 
 ### Evoluzione ed ecologia dei batteri
 
-I batteri sono** i più antichi organismi conosciuti**: risalgono a circa 3,5 miliardi di anni fa. Grazie alla semplicità di organizzazione e alla mancanza di competizione con gli eucarioti, **hanno avuto enorme diffusione**, adattandosi in tutti gli ambienti naturali (terreno, acque), oltre che in ambienti "particolari" costituiti da animali e piante (sia all'esterno, sia all'interno di essi).
+I batteri sono **i più antichi organismi conosciuti**: risalgono a circa 3,5 miliardi di anni fa. Grazie alla semplicità di organizzazione e alla mancanza di competizione con gli eucarioti, **hanno avuto enorme diffusione**, adattandosi in tutti gli ambienti naturali (terreno, acque), oltre che in ambienti "particolari" costituiti da animali e piante (sia all'esterno, sia all'interno di essi).
 
 I batteri sono estremamente specializzati, perché una volta adattati al loro particolare ambiente non possono vivere in altre condizioni.
 
@@ -1405,20 +1405,20 @@ Alcuni batteri possono vivere solo in presenza di ossigeno e sono detti **aerobi
 
 Per quanto riguarda la temperatura, i batteri **psicrofili **vivono solo a temperature inferiori a 20 °C, i **mesofili **tra 20 e 45 °C, i **termofili **a temperature superiori ai 45 °C. I batteri possono condurre vita libera, o essere parassiti o simbionti.
 
-In relazione al modo in cui ricavano l'energia necessaria per vivere, i batteri possono essere **autotrofi **(in grado di sintetizzare le sostanze organiche necessarie) oppure **eterotrofi **(che utilizzano sostanze organiche già elaborate). I batteri autotrofi includono forme capaci di **fotosintesi **al pari delle piante (come i cianobatteri) e forme capaci di **chemiosintesi**, cioè in grado di ricavare energia da reazioni in cui l'ossigeno si combina con composti inorganici (quali sulfuri e ammoniaca). Molti batteri eterotrofi sono **decompositori **e partecipano ai più importanti cicli biogeochimici.
+In relazione al modo in cui ricavano l'energia necessaria per vivere, i batteri possono essere **autotrofi** (in grado di sintetizzare le sostanze organiche necessarie) oppure **eterotrofi** (che utilizzano sostanze organiche già elaborate). I batteri autotrofi includono forme capaci di **fotosintesi** al pari delle piante (come i cianobatteri) e forme capaci di **chemiosintesi**, cioè in grado di ricavare energia da reazioni in cui l'ossigeno si combina con composti inorganici (quali sulfuri e ammoniaca). Molti batteri eterotrofi sono **decompositori** e partecipano ai più importanti cicli biogeochimici.
 
 Alcuni batteri sono **azotofissatori**: sono aerobici, in genere flagellati, **capaci di utilizzare l'azoto atmosferico** per la sintesi di sostanze organiche azotate. Alcuni sono a vita libera, altri (Rhizobium) vivono nei tubercoli radicali delle leguminose, realizzando una forma di simbiosi.
 
 Altri batteri simbionti vivono nell'apparato digerente di numerosi animali, uomo compreso (nel quale costituiscono la flora intestinale).
 
-Numerosi batteri, infine, sono **patogeni**,** cioè causano malattie** sia alle piante sia agli animali, uomo compreso (nei cui confronti possono agire attaccando i tessuti direttamente o producendo tossine).
+Numerosi batteri, infine, sono **patogeni**, **cioè causano malattie** sia alle piante sia agli animali, uomo compreso (nei cui confronti possono agire attaccando i tessuti direttamente o producendo tossine).
 
 
 #### Sistematica
 
 Una relativamente recente proposta di classificazione generale delle monere, che sembra destinata a soppiantare le classificazioni tradizionali (alquanto controverse), è quella che distingue due raggruppamenti: quello molto piccolo degli archeobatteri (o batteri antichi) e quello degli eubatteri (o batteri veri), che riunisce la maggior parte di questi organismi.
 
-Gli **archeobatteri **(studiati a fondo solo di recente) presentano una serie di caratteristiche peculiari: per esempio, i lipidi della membrana plasmatica, la composizione della parete e l'RNA ribosomico sono differenti da quelli delle altre cellule procarioti e di quelle eucarioti. Sono probabilmente batteri primitivi, che vivono in condizioni oggi considerate estreme, ma che un tempo dovevano essere quelle più comuni sulla Terra.
+Gli **archeobatteri**( studiati a fondo solo di recente) presentano una serie di caratteristiche peculiari: per esempio, i lipidi della membrana plasmatica, la composizione della parete e l'RNA ribosomico sono differenti da quelli delle altre cellule procarioti e di quelle eucarioti. Sono probabilmente batteri primitivi, che vivono in condizioni oggi considerate estreme, ma che un tempo dovevano essere quelle più comuni sulla Terra.
 
 Fanno parte degli archeobatteri, tra gli altri:
 
@@ -1428,7 +1428,7 @@ Fanno parte degli archeobatteri, tra gli altri:
 *   i **batteri termoacidofili**, che vivono nelle sorgenti termali sulfuree, acide e calde
 *   i **batteri alofili**, che vivono in acque salate molto concentrate (come quelle del Mar Morto).
 
-Gli **eubatteri **riuniscono, come detto, la maggior parte delle classi di batteri conosciute, di cui fanno parte specie di grande utilità per l'uomo, come pure specie patogene.
+Gli **eubatteri** riuniscono, come detto, la maggior parte delle classi di batteri conosciute, di cui fanno parte specie di grande utilità per l'uomo, come pure specie patogene.
 
 Particolare importanza tra gli eubatteri rivestono i **cianobatteri**, capaci, come detto, di fotosintesi.
 
@@ -1445,7 +1445,7 @@ _Schemastrutturale di un Methanobrevibacter smithii, in cui si vedono la mebrana
 
 #### I cianobatteri
 
-I **cianobatteri **sono batteri aerobi fotosintetici. Sono detti anche **cianoficee**, o **alghe azzurre**, perché **contengono**, **oltre alla clorofilla**,** la ficocianina**, pigmento che conferisce il caratteristico colore blu-verde. La parete cellulare è rinforzata da uno strato di mucillagine che tiene uniti gli individui in colonie; la fotosintesi avviene nei tilacoidi, non inseriti in un cloroplasto. Si riproducono agamicamente.
+I **cianobatteri** sono batteri aerobi fotosintetici. Sono detti anche **cianoficee**, o **alghe azzurre**, perché **contengono**, **oltre alla clorofilla**, **la ficocianina**, pigmento che conferisce il caratteristico colore blu-verde. La parete cellulare è rinforzata da uno strato di mucillagine che tiene uniti gli individui in colonie; la fotosintesi avviene nei tilacoidi, non inseriti in un cloroplasto. Si riproducono agamicamente.
 
 Vivono nelle acque salate o dolci, spesso putride e ricche di detriti organici, che possono utilizzare direttamente.
 
@@ -1468,7 +1468,7 @@ _Colonie sferiche di cianobatteri d'acqua dolce, della specie Nostoc pruniforme.
 
 ### Il regno dei protisti
 
-**I protisti comprendono organismi eucarioti unicellulari e pluricellulari con tessuti non differenziat**i. Comprendono specie che possono essere considerate ai confini tra i regni delle piante, degli animali e dei funghi. **Si riproducono per lo più asessualmente**, per divisione cellulare, e **talvolta sessualmente**, **per coniugazione.** Secondo il modo di procurarsi il nutrimento, i protisti si possono distinguere in tre grandi raggruppamenti: protisti autotrofi, fotosintetici, assimilabili alle piante; protisti eterotrofi o protozoi, assimilabili agli animali; protisti saprofiti, che si nutrono per assorbimento, assimilabili ai funghi.
+**I protisti comprendono organismi eucarioti unicellulari e pluricellulari con tessuti non differenziati**. Comprendono specie che possono essere considerate ai confini tra i regni delle piante, degli animali e dei funghi. **Si riproducono per lo più asessualmente**, per divisione cellulare, e **talvolta sessualmente**, **per coniugazione.** Secondo il modo di procurarsi il nutrimento, i protisti si possono distinguere in tre grandi raggruppamenti: protisti autotrofi, fotosintetici, assimilabili alle piante; protisti eterotrofi o protozoi, assimilabili agli animali; protisti saprofiti, che si nutrono per assorbimento, assimilabili ai funghi.
 
 
 
@@ -1483,15 +1483,15 @@ _Composizione di vari protisti_
 
 #### I protisti autotrofi
 
-I **protisti autotrofi** sono acquatici e comprendono quasi tutte le **alghe**, **unicellulari **e **pluricellulari**. Le alghe unicellulari costituiscono complessivamente la biomassa prevalente del **fitoplancton**, responsabile di quasi il 70% di tutta l'attività fotosintetica della Terra. A questo gruppo appartengono tre phyla principali: le euglenofite, le crisofite e le pirrofite.
+I **protisti autotrofi** sono acquatici e comprendono quasi tutte le **alghe**, **unicellulari** e **pluricellulari**. Le alghe unicellulari costituiscono complessivamente la biomassa prevalente del **fitoplancton**, responsabile di quasi il 70% di tutta l'attività fotosintetica della Terra. A questo gruppo appartengono tre phyla principali: le euglenofite, le crisofite e le pirrofite.
 
-Le **euglenofite **(dal greco, alghe con la pupilla) **si muovono mediante un flagello**; una macchia oculare rileva la luce e quando non è sufficiente perdono i cloroplasti e si comportano da eterotrofi. Vivono nelle acque dolci e si riproducono per scissione.
+Le **euglenofite** (dal greco, alghe con la pupilla) **si muovono mediante un flagello**; una macchia oculare rileva la luce e quando non è sufficiente perdono i cloroplasti e si comportano da eterotrofi. Vivono nelle acque dolci e si riproducono per scissione.
 
-Le **crisofite **(dal greco, alghe d'oro) **possiedono **placche calcaree o silicee e, oltre alla clorofilla, **un pigmento giallo**, la **fucoxantina**. Si riproducono sia asessualmente, sia sessualmente. Hanno dimensioni minime e costituiscono pertanto il cosiddetto nannoplancton (insieme di organismi acquatici microscopici che galleggiano alla deriva).
+Le **crisofite** (dal greco, alghe d'oro) **possiedono** placche calcaree o silicee e, oltre alla clorofilla, **un pigmento giallo**, la **fucoxantina**. Si riproducono sia asessualmente, sia sessualmente. Hanno dimensioni minime e costituiscono pertanto il cosiddetto nannoplancton (insieme di organismi acquatici microscopici che galleggiano alla deriva).
 
 Comprendono le **diatomee**, con guscio siliceo, i cui depositi fossili hanno prodotto la cosiddetta "farina fossile".
 
-Le **pirrofite **(dal greco, alghe di fuoco), o **dinoflagellati**, **si muovono mediante due flagelli**. Possono avere un guscio di cellulosa diviso in placche da scanalature. Alcune specie, prive di pigmenti, sono eterotrofe. Vivono nell'acqua dolce, ma soprattutto nel mare; molte specie sono luminescenti. Alcuni (_Gonyaulax_) possiedono pig-menti rossi, che mascherano la clorofilla e sono responsabili del fenomeno della colorazione rossa delle acque. Altri (zooxantelle) vivono in simbiosi con i coralli.
+Le **pirrofite**( dal greco, alghe di fuoco), o **dinoflagellati**, **si muovono mediante due flagelli**. Possono avere un guscio di cellulosa diviso in placche da scanalature. Alcune specie, prive di pigmenti, sono eterotrofe. Vivono nell'acqua dolce, ma soprattutto nel mare; molte specie sono luminescenti. Alcuni (_Gonyaulax_) possiedono pig-menti rossi, che mascherano la clorofilla e sono responsabili del fenomeno della colorazione rossa delle acque. Altri (zooxantelle) vivono in simbiosi con i coralli.
 
 
 
@@ -1506,7 +1506,7 @@ _Assortimento di diatomee_
 
 ### Le alghe
 
-Le **alghe sono piante acquatiche**. **Possono essere unicellulari **(aggregate in colonie) o **pluricellulari**, **il cui corpo è formato da tessuti indifferenziati **(tallo).
+Le **alghe sono piante acquatiche**. **Possono essere unicellulari** (aggregate in colonie) o **pluricellulari**, **il cui corpo è formato da tessuti indifferenziati** (tallo).
 
 Le alghe pluricellulari hanno tuttavia sviluppato dei rizoidi, con i quali si attaccano al substrato.
 
@@ -1546,7 +1546,7 @@ Le **alghe rosse**, o **rodofite**, contengono, oltre alla clorofilla, la **fico
 
 Nelle **alghe brune**, o **feofite**, oltre alla clorofilla è presente il pigmento **fucoxantina**, che ne determina le particolari colorazioni giallo-brune. Il tallo è per lo più frondoso e può raggiungere notevoli dimensioni.
 
-Le **alghe verdi**, o **clorofite**, comprendono forme unicellulari flagellate o coccoidi (rotondeggianti e prive di flagelli), isolate o riunite in colonie, che potrebbero aver dato origine alle forme pluricellulari. **Contengono, accanto alla clorofilla, diverse xantofille **che non ne mascherano tuttavia il colore verde. Sono considerate le più evolute per il tipo di cloroplasti e di materiale di riserva (amido), simili a quelli delle piante superiori.
+Le **alghe verdi**, o **clorofite**, comprendono forme unicellulari flagellate o coccoidi (rotondeggianti e prive di flagelli), isolate o riunite in colonie, che potrebbero aver dato origine alle forme pluricellulari. **Contengono, accanto alla clorofilla, diverse xantofille** che non ne mascherano tuttavia il colore verde. Sono considerate le più evolute per il tipo di cloroplasti e di materiale di riserva (amido), simili a quelli delle piante superiori.
 
 
 <table>
@@ -1616,15 +1616,15 @@ _Alghe rosse e verdi_
 
 #### I protisti eterotrofi, o protozoi
 
-I **protisti eterotrofi**, o **protozoi **(dal greco, primi animali) sono prevalentemente acquatici; alcuni sono parassiti, altri sono simbionti, moltissimi sono presenti dove abbondano le sostanze organiche in decomposizione. Comprendono quattro gruppi principali: zooflagellati, sporozoi, sarcodini e ciliati.
+I **protisti eterotrofi**, o **protozoi** (dal greco, primi animali) sono prevalentemente acquatici; alcuni sono parassiti, altri sono simbionti, moltissimi sono presenti dove abbondano le sostanze organiche in decomposizione. Comprendono quattro gruppi principali: zooflagellati, sporozoi, sarcodini e ciliati.
 
-Gli **zooflagellati **sono considerati i protozoi più antichi. Vivono nel suolo e nell'acqua, dove si muovono mediante un flagello. Alcuni sono simbionti o parassiti: _Trypanosoma gambiense_ è l'agente della malattia del sonno, trasmessa dalla mosca tse-tse; altri vivono nell'intestino delle termiti, dove partecipano alla digestione della cellulosa.
+Gli **zooflagellati** sono considerati i protozoi più antichi. Vivono nel suolo e nell'acqua, dove si muovono mediante un flagello. Alcuni sono simbionti o parassiti: _Trypanosoma gambiense_ è l'agente della malattia del sonno, trasmessa dalla mosca tse-tse; altri vivono nell'intestino delle termiti, dove partecipano alla digestione della cellulosa.
 
-I **sarcodini possiedono prolungamenti citoplasmatici** (**pseudopodi**) **che permettono il movimento** (ameboide) e la cattura delle particelle alimentari. Le **amebe **non hanno forma definita; alcune sono parassite e possono provocare disturbi intestinali nell'uomo (amebiasi). I **foraminiferi**, marini, hanno gusci calcarei che, accumulandosi sul fondo del mare, formano la sabbia a foraminiferi. I **radiolari**, marini, hanno invece scheletri silicei che formano la sabbia a radiolari.
+I **sarcodini possiedono prolungamenti citoplasmatici** (**pseudopodi**) **che permettono il movimento** (ameboide) e la cattura delle particelle alimentari. Le **amebe** non hanno forma definita; alcune sono parassite e possono provocare disturbi intestinali nell'uomo (amebiasi). I **foraminiferi**, marini, hanno gusci calcarei che, accumulandosi sul fondo del mare, formano la sabbia a foraminiferi. I **radiolari**, marini, hanno invece scheletri silicei che formano la sabbia a radiolari.
 
 Gli **sporozoisono tutti parassiti e formano spore**. Emettono pseudopodi per catturare il cibo, ma si muovono scivolando o flettendosi. **Alternano riproduzione sessuale e asessuale**. Passano da un organismo all'altro utilizzando spesso gli insetti come vettori. Plasmodium, trasportato dalla zanzara anofele, provoca la malaria nell'uomo.
 
-I **ciliati **possiedono caratteristiche ciglia, che possono in alcune specie ricoprire tutto il corpo. Sono diffusi soprattutto nelle acque dolci, in forme libere o fisse a un substrato; sono detti anche infusori perché scoperti negli infusi di fieno. Si riproducono per scissione e per coniugazione. Sono considerati i protisti più evoluti; comprendono i generi _Paramecium_, _Vorticella_, _Stentor_.
+I **ciliati** possiedono caratteristiche ciglia, che possono in alcune specie ricoprire tutto il corpo. Sono diffusi soprattutto nelle acque dolci, in forme libere o fisse a un substrato; sono detti anche infusori perché scoperti negli infusi di fieno. Si riproducono per scissione e per coniugazione. Sono considerati i protisti più evoluti; comprendono i generi _Paramecium_, _Vorticella_, _Stentor_.
 
 
 
@@ -1641,9 +1641,9 @@ _Ammonia beccarii, foraminifero bentonico del Mare del Nord._
 
 I **protisti saprofiti** comprendono organismi simili a funghi, che **si nutrono per assorbimento di sostanze in decomposizione**. **Sono privi di parete cellulare** e vengono chiamati funghi mucillaginosi. Si dividono in due gruppi principali: gli acrasiomiceti e i mixomiceti.
 
-Gli **acrasiomiceti **hanno struttura cellulare. **Sono cellule ameboidi**, con prolungamenti citoplasmatici o pseudopodi. In condizioni avverse, possono riunirsi in un denso aggregato in cui alcune cellule si specializzano per compiti diversi.
+Gli **acrasiomiceti** hanno struttura cellulare. **Sono cellule ameboidi**, con prolungamenti citoplasmatici o pseudopodi. In condizioni avverse, possono riunirsi in un denso aggregato in cui alcune cellule si specializzano per compiti diversi.
 
-I **mixomiceti **non hanno struttura cellulare individuale:** formano una massa di citoplasma con miliardi di nuclei** non separati da una membrana, che può diffondersi in uno strato molto sottile per alcuni metri quadrati. Di colore giallo-arancio, vivono nelle foglie e nei tronchi marcescenti. Si riproducono per spore.
+I **mixomiceti** non hanno struttura cellulare individuale: **formano una massa di citoplasma con miliardi di nuclei** non separati da una membrana, che può diffondersi in uno strato molto sottile per alcuni metri quadrati. Di colore giallo-arancio, vivono nelle foglie e nei tronchi marcescenti. Si riproducono per spore.
 
 
 
@@ -1658,18 +1658,18 @@ _Fuligo septica_
 
 ## Le piante e i funghi
 
-Al **regno delle piante **appartengono organismi con una grande varietà di forme, che corrispondono a diversi stadi evolutivi. Comprendono le **briofite**, forme di transizione dall'ambiente acquatico a quello terrestre, e le piante terrestri più evolute, comprendenti le **spermatofite**, dotate di semi (che includono le piante con fiore o angiosperme).
+Al **regno delle piante** appartengono organismi con una grande varietà di forme, che corrispondono a diversi stadi evolutivi. Comprendono le **briofite**, forme di transizione dall'ambiente acquatico a quello terrestre, e le piante terrestri più evolute, comprendenti le **spermatofite**, dotate di semi (che includono le piante con fiore o angiosperme).
 
 Il **regno dei funghi** comprende organismi probabilmente derivati dalle alghe, che hanno seguito un percorso evolutivo differente da quello delle piante, perdendo la capacità di fotosintesi e divenendo eterotrofi.
 
 
 ### Il regno delle piante
 
-Al regno delle **piante **appartengono **gli organismi eucarioti**, **autotrofi **(capaci di fotosintesi), **pluricellulari **(tranne poche eccezioni).
+Al regno delle **piante** appartengono **gli organismi eucarioti**, **autotrofi** (capaci di fotosintesi), **pluricellulari** (tranne poche eccezioni).
 
-Le piante considerate più primitive (o piante inferiori) sono le **tallofite**, così dette perché hanno un corpo costituito da tessuti indifferenziati, detto **tallo**. Le tallofite acquatiche sono raggruppate sotto il nome di **alghe **(Protisti) mentre quelle considerate forme di passaggio dall'ambiente acquatico a quello terrestre sono denominate **briofite**.
+Le piante considerate più primitive (o piante inferiori) sono le **tallofite**, così dette perché hanno un corpo costituito da tessuti indifferenziati, detto **tallo**. Le tallofite acquatiche sono raggruppate sotto il nome di **alghe** (Protisti) mentre quelle considerate forme di passaggio dall'ambiente acquatico a quello terrestre sono denominate **briofite**.
 
-Le piante più evolute (o piante superiori) sono le **cormofite **terrestri, con un corpo differenziato in radici, fusto e foglie, detto **cormo**; queste piante sono denominate anche **piante vascolari**, o **tracheofite** perché dotate di vasi conduttori, o trachee; sono distinte in **pteridofite**, che comprendono le forme più primitive che si riproducono per spore, e in **spermatofite**, che comprendono le forme più evolute, perché si riproducono mediante semi.
+Le piante più evolute (o piante superiori) sono le **cormofite** terrestri, con un corpo differenziato in radici, fusto e foglie, detto **cormo**; queste piante sono denominate anche **piante vascolari**, o **tracheofite** perché dotate di vasi conduttori, o trachee; sono distinte in **pteridofite**, che comprendono le forme più primitive che si riproducono per spore, e in **spermatofite**, che comprendono le forme più evolute, perché si riproducono mediante semi.
 
 Tutte le piante mostrano un'alternanza di generazione tra sporofito e gametofito, con una graduale diminuzione della fase gametofitica rispetto a quella sporofitica dalle piante più primitive (alghe) a quelle più evolute (spermatofite).
 
@@ -1727,7 +1727,7 @@ dicotiledoni
 
 ### Le briofite
 
-Le briofite sono tallofite evolute probabilmente come adattamento di un'alga verde all'ambiente terrestre.** Pur non avendo ancora tessuti dfferenziati, in molte briofite si possono distinguere un fusticino**, minuscole **foglioline **e **rizoidi **per attaccarsi al terreno. Non avendo tessuti di conduzione e di protezione sviluppati per la vita sulla terraferma, mantengono piccole dimensioni (raggiungono un'altezza di pochi centimetri).
+Le briofite sono tallofite evolute probabilmente come adattamento di un'alga verde all'ambiente terrestre.** Pur non avendo ancora tessuti dfferenziati, in molte briofite si possono distinguere un fusticino**, minuscole **foglioline** e **rizoidi** per attaccarsi al terreno. Non avendo tessuti di conduzione e di protezione sviluppati per la vita sulla terraferma, mantengono piccole dimensioni (raggiungono un'altezza di pochi centimetri).
 
 
 
@@ -1742,7 +1742,7 @@ _Bryum argenteum_
 
 #### Riproduzione
 
-Il ciclo vitale delle briofite comprende un'**alternanza di generazioni**. Nel **gametofito **aploide dominante i gameti femminili sono prodotti negli archegoni e i gameti maschili negli anteridi. Lo **sporofito **diploide, molto ridotto, cresce sul gametofito ed è costituito da un peduncolo (**seta**) e da una **capsula **nella quale si formano meiospore, dalla cui germinazione deriverà il nuovo gametofito.
+Il ciclo vitale delle briofite comprende un'**alternanza di generazioni**. Nel **gametofito** aploide dominante i gameti femminili sono prodotti negli archegoni e i gameti maschili negli anteridi. Lo **sporofito** diploide, molto ridotto, cresce sul gametofito ed è costituito da un peduncolo (**seta**) e da una **capsula** nella quale si formano meiospore, dalla cui germinazione deriverà il nuovo gametofito.
 
 **La riproduzione delle briofite è ancora** strettamente **legata all'acqua**: i gameti maschili, per poter raggiungere l'archegonio femminile devono nuotare per mezzo di flagelli anche solo in un velo d'acqua; per questo le briofite vivono nel sottobosco, in luoghi molto umidi e ombrosi. Alcune specie possono tuttavia sopravvivere anche dove l'acqua è scarsa, come nei deserti o sulla nuda roccia.
 
@@ -1761,9 +1761,9 @@ _Ciclo vitale delle briofite_
 
 Le briofite comprendono le epatiche e i muschi.
 
-Le **epatiche **hanno tallo a forma di lamina e sono frequenti soprattutto nelle regioni di caldo umido. Vivono sul terreno, dove possono formare densi tappeti verdi, ma anche sulla corteccia degli alberi. 
+Le **epatiche** hanno tallo a forma di lamina e sono frequenti soprattutto nelle regioni di caldo umido. Vivono sul terreno, dove possono formare densi tappeti verdi, ma anche sulla corteccia degli alberi. 
 
-I **muschi **formano densi cuscinetti di minuscoli individui. Insieme ai licheni, i muschi sono organismi pionieri che sgretolano le rocce e rendono possibile la formazione di humus e la crescita di altre piante. Gli **sfagni **sono muschi di colore chiaro che vivono ai margini degli stagni e dalla cui decomposizione si forma la torba, usata come combustibile e in giardinaggio, per la capacità di trattenere l'acqua e cederla lentamente.
+I **muschi** formano densi cuscinetti di minuscoli individui. Insieme ai licheni, i muschi sono organismi pionieri che sgretolano le rocce e rendono possibile la formazione di humus e la crescita di altre piante. Gli **sfagni** sono muschi di colore chiaro che vivono ai margini degli stagni e dalla cui decomposizione si forma la torba, usata come combustibile e in giardinaggio, per la capacità di trattenere l'acqua e cederla lentamente.
 
 
 
@@ -1788,9 +1788,9 @@ Le tracheofite hanno sviluppato una struttura organizzata in apparati con funzio
 
 
 
-*   **radice **(sistema assorbente e di conduzione)
-*   **fusto **(sistema con funzione di sostegno e di conduzione)
-*   **foglie **(sistema fotosintetico e traspirante)
+*   **radice** (sistema assorbente e di conduzione)
+*   **fusto** (sistema con funzione di sostegno e di conduzione)
+*   **foglie** (sistema fotosintetico e traspirante)
 
 Come ulteriore evoluzione, nelle tracheofite **lo sporofito predomina sul gametofito**. Le tracheofite sono classificate secondo il tipo di riproduzione; si distinguono:
 
@@ -1856,11 +1856,9 @@ _Sottobosco di felci, boschi nei dintorni di Cantù_
 
 Negli ultimi 250 milioni di anni le spermatofite hanno invaso tutti gli ambienti terrestri, diventando le piante dominanti grazie a una più efficace strategia riproduttiva basata su due adattamenti principali: il polline e i semi.
 
-Il **polline è un insieme di microscopici granuli **(da 2,5 a 250 micron) contenenti cellule riproduttive, i gameti maschili. Costituisce dunque il **gametofito maschile** (ridotto quindi a poche cellule), mentre lo **sporofito è la pianta**, spesso di notevoli dimensioni.
+Il **polline è un insieme di microscopici granuli** (da 2,5 a 250 micron) contenenti cellule riproduttive, i gameti maschili. Costituisce dunque il **gametofito maschile** (ridotto quindi a poche cellule), mentre lo **sporofito è la pianta**, spesso di notevoli dimensioni.
 
-Ogni granulo di polline è rotondeggiante (in genere di colore giallo-arancio), formato da due cellule protette da un involucro esterno, rigido, con rilievi e disegni caratteristici
-
-per ogni specie.
+Ogni granulo di polline è rotondeggiante (in genere di colore giallo-arancio), formato da due cellule protette da un involucro esterno, rigido, con rilievi e disegni caratteristici per ogni specie.
 
 Vengono prodotte grandi quantità di polline che, leggero e minuto, viene trasportato facilmente dal vento o dagli animali e garantisce una sicura diffusione fino a raggiungere il gametofito femminile (impollinazione): con questo accorgimento la fecondazione è completamente svincolata dall'acqua.
 
@@ -1885,9 +1883,9 @@ _Girasole (Helianthus annuus)_
 
 Le **gimnosperme sono spermatofite con semi "nudi"**, cioè non avvolti da strutture di protezione.
 
-Gli organi della riproduzione sono ciuffi di foglie trasformate o **sporofilli **(squame) riuniti intorno a un asse centrale (rachide) in grappoli unisessuali detti **strobili**, o **coni**: quelli maschili (**microsporofilli**), in genere più piccoli e situati all'estremità dei rami più bassi, portano le sacche polliniche, in cui si svilupperanno i gameti maschili (cellule spermatiche); quelli femminili (**macrosporofilli**), più grandi, si trovano sui rami più alti e portano gli ovuli, in cui si svilupperanno i gameti femminili (cellule uovo).
+Gli organi della riproduzione sono ciuffi di foglie trasformate o **sporofilli** (squame) riuniti intorno a un asse centrale (rachide) in grappoli unisessuali detti **strobili**, o **coni**: quelli maschili (**microsporofilli**), in genere più piccoli e situati all'estremità dei rami più bassi, portano le sacche polliniche, in cui si svilupperanno i gameti maschili (cellule spermatiche); quelli femminili (**macrosporofilli**), più grandi, si trovano sui rami più alti e portano gli ovuli, in cui si svilupperanno i gameti femminili (cellule uovo).
 
-L'**impollinazione **è esclusivamente **anemofila**: i coni maschili liberano immense nuvole di polline che vengono trasportate dal vento. Alla base di ogni squama dei coni femminili si formano due ovuli, contenenti ciascuno una cellula uovo che viene fecondata dalla cellula spermatica di un granulo di polline atterrato vicino.
+L'**impollinazione** è esclusivamente **anemofila**: i coni maschili liberano immense nuvole di polline che vengono trasportate dal vento. Alla base di ogni squama dei coni femminili si formano due ovuli, contenenti ciascuno una cellula uovo che viene fecondata dalla cellula spermatica di un granulo di polline atterrato vicino.
 
 La cellula uovo fecondata rimane racchiusa nell'ovulo, che diventa una struttura rigida, il seme, in cui si sviluppa l'embrione. Nel frattempo i macrosporofilli lignificano e si aprono a maturità liberando i semi.
 
@@ -1929,13 +1927,13 @@ _Pigne maturande di Abete del Colorado (Picea pungens)_
 
 #### Le angiosperme
 
-Le **angiosperme**, dette anche magnoliofite, sono **piante a seme provviste di fiore**, con ovuli protetti in un involucro chiuso (ovario), che in seguito a fecondazione si sviluppa nel **frutto **(angiosperma significa infatti "seme racchiuso").
+Le **angiosperme**, dette anche magnoliofite, sono **piante a seme provviste di fiore**, con ovuli protetti in un involucro chiuso (ovario), che in seguito a fecondazione si sviluppa nel **frutto**(angiosperma significa infatti "seme racchiuso").
 
 Le angiosperme costituiscono oggi il gruppo dominante di piante: comprendono circa 230.000 specie, diffuse in ogni ambiente (piante acquatiche, terrestri, parassite). Il loro successo è dovuto a diversi adattamenti, i principali dei quali sono il fiore e il frutto.
 
-Il **fiore **è una **struttura riproduttiva complessa**, derivata dalla trasformazione di foglie, **in cui si formano e sono protetti i gametofiti maschili e femminili**, che, come nelle gimnosperme, sono ridotti a poche cellule del granulo pollinico e dell'ovulo.
+Il **fiore** è una **struttura riproduttiva complessa**, derivata dalla trasformazione di foglie, **in cui si formano e sono protetti i gametofiti maschili e femminili**, che, come nelle gimnosperme, sono ridotti a poche cellule del granulo pollinico e dell'ovulo.
 
-Il fiore, spesso con petali colorati,** ha una funzione vessillare**, rivolta cioè ad attirare gli insetti o gli altri animali impollinatori, garantendo così un maggiore successo riproduttivo.
+Il fiore, spesso con petali colorati, **ha una funzione vessillare**, rivolta cioè ad attirare gli insetti o gli altri animali impollinatori, garantendo così un maggiore successo riproduttivo.
 
 Anche la fecondazione avviene nel fiore e lo zigote rimane racchiuso nell'ovulo trasformato in seme.
 
@@ -1943,7 +1941,7 @@ Il **frutto è una struttura di protezione del seme** derivata dalla trasformazi
 
 Il successo delle angiosperme è stato favorito anche dalle **foglie a lamina larga** (**latifoglie**), che assorbono maggiormente la luce per una più efficace fotosintesi.
 
-La sistematica delle angiosperme si basa sulle caratteristiche del fiore, e primariamente sulla presenza nel seme di una o due foglioline embrionali (cotiledoni): si dividono così in **monocotiledoni **(un solo cotiledone) e **dicotiledoni **(due cotiledoni).
+La sistematica delle angiosperme si basa sulle caratteristiche del fiore, e primariamente sulla presenza nel seme di una o due foglioline embrionali (cotiledoni): si dividono così in **monocotiledoni**(un solo cotiledone) e **dicotiledoni** (due cotiledoni).
 
 Le più importanti monocotiledoni sono le glumiflore (a cui appartengono i cereali, fondamentali nell'alimentazione umana), specie alimentari come il banano e le palme, specie conosciute per i fiori come le liliacee e le orchidee.
 
@@ -1957,7 +1955,7 @@ Le dicotiledoni sono più diffuse: a esse appartengono le principali piante da f
 ![alt_text](images/Evoluzione-e50.jpg "image_tooltip")
 
 
-_ Fiore del genere Magnolia_
+_Fiore del genere Magnolia_
 
 
 ### Il regno dei funghi
@@ -1979,9 +1977,9 @@ _Composizione di Fungi_
 
 #### Struttura e riproduzione
 
-Le cellule dei funghi hanno per lo più una **parete **cellulare di micosina, una sostanza azotata simile alla chitina degli artropodi.
+Le cellule dei funghi hanno per lo più una **parete** cellulare di micosina, una sostanza azotata simile alla chitina degli artropodi.
 
-Il **tallo **è formato da una **massa di sottili ife filamentose detta micelio**, che si accresce nel terreno. In alcune specie le ife sono singole cellule allungate con più nuclei, in altre possono essere formate da più cellule divise da **setti**, perforati per il passaggio delle sostanze nutritive.
+Il **tallo** è formato da una **massa di sottili ife filamentose detta micelio**, che si accresce nel terreno. In alcune specie le ife sono singole cellule allungate con più nuclei, in altre possono essere formate da più cellule divise da **setti**, perforati per il passaggio delle sostanze nutritive.
 
 Poiché hanno una parete rigida, i funghi si nutrono per assorbimento, secernendo all'esterno enzimi digestivi e assorbendo le sostanze nutritive che vengono così liberate. Le ife si estendono per una grande superficie coprendo così una vasta area di assorbimento.
 
@@ -2027,15 +2025,15 @@ Anche la sistematica dei funghi è complessa e soggetta a continue revisioni. Ge
 *   basidiomiceti
 *   funghi imperfetti o deuteromiceti
 
-Gli **zigomiceti **formano spore sessuali, dette zigospore, per unione di due ife aploidi. Comprendono il fungo coprofilo (che ha cioè il suo habitat nelle feci) _Pilobolus _e la muffa nera del pane _Rhizopus_.
+Gli **zigomiceti** formano spore sessuali, dette zigospore, per unione di due ife aploidi. Comprendono il fungo coprofilo (che ha cioè il suo habitat nelle feci) _Pilobolus _e la muffa nera del pane _Rhizopus_.
 
-Negli **ascomiceti **le spore sono disposte in strutture a sacco, dette aschi, che si aggregano a formare corpi fruttiferi complessi, l'**ascocarpo**. Gli ascocarpi possono avere forme diverse, sulle quali si basa la sistematica della divisione. I più primitivi sono i cleistoteci, sferici; il peritecio ha invece forma a fiasco aperto; più evoluta sarebbe la forma ad apotecio, simile a una scodella aperta.
+Negli **ascomiceti** le spore sono disposte in strutture a sacco, dette aschi, che si aggregano a formare corpi fruttiferi complessi, l'**ascocarpo**. Gli ascocarpi possono avere forme diverse, sulle quali si basa la sistematica della divisione. I più primitivi sono i cleistoteci, sferici; il peritecio ha invece forma a fiasco aperto; più evoluta sarebbe la forma ad apotecio, simile a una scodella aperta.
 
 Gli **ascomiceti possono riprodursi sessualmente** con la produzione, in seguito a meiosi, di ascospore, **o asessualmente** con la produzione di conidi, speciali spore portate all'estremità di ife. Durante i periodi sfavorevoli gli ascomiceti possono produrre anche spore durature (**clamidiospore**), con pareti spesse e ricche di sostanze di riserva.
 
 Gli ascomiceti comprendono molte muffe che si sviluppano sui cibi avariati o sui vegetali e il ricercato **tartufo**, che cresce completamente sotto terra. Ascomiceti unicellulari sono i **lieviti**, microrganismi capaci di fermentazione alcolica: in scarsità di ossigeno trasformano gli zuccheri in alcol, e questo processo è sfruttato per la produzione del pane, della birra, del vino. _Saccharomyces _si riproduce per gemmazione ma può formare ascospore.
 
-Nei **basidiomiceti** le** **spore sono contenute in strutture a forma di clava, i **basidi**, portate spesso su sottili filamenti detti sterigmi. Il **corpo fruttifero** ha per lo più la **tipica forma a cappello sorretto da un gambo**. Sulla parte inferiore del cappello i basidi e le ife sterili formano uno strato continuo, o **imenio**, che riveste dei tubuli o delle lamelle. Alcuni basidiomiceti hanno corpo fruttifero crostoso e a mensola (come i funghi che crescono sui tronchi degli alberi); altri, considerati i meno evoluti, non hanno corpo fruttifero e sono per lo più parassiti delle piante.
+Nei **basidiomiceti** le **spore** sono contenute in strutture a forma di clava, i **basidi**, portate spesso su sottili filamenti detti sterigmi. Il **corpo fruttifero** ha per lo più la **tipica forma a cappello sorretto da un gambo**. Sulla parte inferiore del cappello i basidi e le ife sterili formano uno strato continuo, o **imenio**, che riveste dei tubuli o delle lamelle. Alcuni basidiomiceti hanno corpo fruttifero crostoso e a mensola (come i funghi che crescono sui tronchi degli alberi); altri, considerati i meno evoluti, non hanno corpo fruttifero e sono per lo più parassiti delle piante.
 
 I basidiomiceti sono considerati i funghi più evoluti: nel loro ciclo di sviluppo domina la generazione diploide. Comprendono il maggior numero dei funghi conosciuti, con specie commestibili, velenose e parassite.
 
@@ -2104,7 +2102,7 @@ La riproduzione avviene per:
 
 
 1.  diffusione delle spore dei funghi, che, se incontrano un'alga adatta, potranno ricostituire la struttura del lichene
-1.  per frammentazione del tallo (tali frammenti sono detti isidi e soredi).
+2.  per frammentazione del tallo (tali frammenti sono detti isidi e soredi).
 
 La crescita è lentissima.
 
@@ -2142,7 +2140,7 @@ _Composita di Animalia_
 
 ### Tendenze evolutive degli animali
 
-Sono **animali **gli organismi che, pur nella loro varietà, hanno in comune le seguenti **caratteristiche principali**:
+Sono **animali** gli organismi che, pur nella loro varietà, hanno in comune le seguenti **caratteristiche principali**:
 
 
 
@@ -2158,11 +2156,11 @@ Come le piante, anche gli animali hanno subìto un processo di evoluzione che ha
 
 
 1.  organizzazione cellulare
-1.  disposizione simmetrica degli organi e segmentazione
-1.  cefalizzazioneevoluzione di una cavità interna
-1.  segmentazione
-1.  evoluzione di strutture di sostegno
-1.  evoluzione del canale digerente
+2.  disposizione simmetrica degli organi e segmentazione
+3.  cefalizzazioneevoluzione di una cavità interna
+4.  segmentazione
+5.  evoluzione di strutture di sostegno
+6.  evoluzione del canale digerente
 
 Il grado via via crescente di complessità delle strutture e delle funzioni svolte da questi organismi costituisce la chiave per classificare gli animali.
 
@@ -2361,7 +2359,7 @@ _Foglietti embrionali_
 
 #### Simmetria e segmentazione
 
-**Gli animali più semplici **(le spugne) **sono privi di simmetria**.
+**Gli animali più semplici** (le spugne) **sono privi di simmetria**.
 
 Il primo tipo di disposizione simmetrica degli organi è a **simmetria raggiata**: gli organi sono disposti attorno a un asse centrale e il corpo dell'animale può essere idealmente attraversato da infiniti piani passanti per l'asse, che lo dividono in due parti uguali. Questo tipo di simmetria è caratteristico degli animali acquatici meno evoluti, che vivono fissi a un substrato (animali sessili) o sono poco mobili.
 
@@ -2453,11 +2451,11 @@ _Anfiosso (Branchiostoma lanceolatum), il più semplice dei Cordati_
 
 ### Poriferi
 
-I **poriferi**, o **spugne **(_phylum_ **Poriphera**), **sono gli animali più semplici**, poiché non possiedono né simmetria né veri e propri tessuti. Possono essere considerati delle colonie di organismi unicellulari con funzioni indipendenti.
+I **poriferi**, o **spugne** (_phylum_ **Poriphera**), **sono gli animali più semplici**, poiché non possiedono né simmetria né veri e propri tessuti. Possono essere considerati delle colonie di organismi unicellulari con funzioni indipendenti.
 
 Le spugne vivono in acqua e **hanno il corpo a forma di sacco cavo**, fisso al substrato e **perforato da numerosi pori**, attraverso i quali entrano le particelle alimentari portate dall'acqua. L'interno della cavità è rivestito da **particolari cellule** (**coanociti**), **provviste di un flagello che**, muovendosi, **assicura il continuo flusso dell'acqua**. Una sorta di "collare" che circonda il flagello funziona da setaccio che trattiene i microrganismi entrati dai pori. I prodotti di rifiuto fuoriescono da un'ampia apertura, l'**osculo**.
 
-Tra le cellule epiteliali e i coanociti si trova uno strato gelatinoso (**mesoglea**) che contiene **cellule ameboidi, le quali secernono spicole **calcaree, silicee o cornee **che danno sostegno all'animale**.
+Tra le cellule epiteliali e i coanociti si trova uno strato gelatinoso (**mesoglea**) che contiene **cellule ameboidi, le quali secernono spicole** calcaree, silicee o cornee **che danno sostegno all'animale**.
 
 La **riproduzione avviene per gemmazione** oppure è di tipo **sessuato**. Nel primo caso si forma una protuberanza, o gemma, sul corpo della spugna; accrescendosi, la gemma può rimanere attaccata al corpo del genitore oppure staccarsi. Se la riproduzione è sessuata, dalla fecondazione della cellula uovo si forma un larva ciliata libera, che viene dispersa dalla corrente e poi si fissa sul fondo per dare origine a un nuovo individuo.
 
@@ -2476,11 +2474,11 @@ _Una spugna marina (Aplysina aerophoba)_
 
 ### Cnidari, o celenterati
 
-Gli **cnidari**, o **celenterati **(_phylum_ **Cnidaria**), **sono invertebrati marini dal corpo a forma di polipo e medusa**: il polipo è sessile, cioè vive fisso al substrato, solitario o riunito in colonie; la medusa viene trasportata liberamente dalle correnti.
+Gli **cnidari**, o **celenterati** (_phylum_ **Cnidaria**), **sono invertebrati marini dal corpo a forma di polipo e medusa**: il polipo è sessile, cioè vive fisso al substrato, solitario o riunito in colonie; la medusa viene trasportata liberamente dalle correnti.
 
 **Polipo e medusa rappresentano due fasi del ciclo vitale del celenterato**: dalla fecondazione della cellula uovo, liberata da una medusa, si forma una larva ciliata, liberamente natante, che dopo un po' di tempo si fissa al substrato, trasformandosi in polipo. Questo, a sua volta, si allunga e si divide trasversalmente in numerose parti provviste di tentacoli e impilate l'una sull'altra. Staccandosi, ognuna di esse forma una piccola medusa (efira), che si accresce fino a diventare medusa sessualmente matura. A questo punto il ciclo ricomincia.
 
-Il **corpo dei celenterat**i, a simmetria raggiata, è costituito in larga parte da acqua e **ha perciò aspetto gelatinoso**. Sono presenti **due strati cellulari** (ectoderma ed endoderma) che circondano la **cavità gastrovascolare**. Questa è tappezzata da numerose **cellule ghiandolari con funzioni digestive** ed è comunicante con l'esterno mediante un'apertura circondata da tentacoli. Sulla superficie dei **tentacoli **sono distribuiti gli **cnidoblasti**, particolari cellule che, toccate da un corpo estraneo, estroflettono un filamento cavo. Quest'ultimo inocula nell'aggressore o nella preda un liquido urticante e paralizzante.
+Il **corpo dei celenterat**i, a simmetria raggiata, è costituito in larga parte da acqua e **ha perciò aspetto gelatinoso**. Sono presenti **due strati cellulari** (ectoderma ed endoderma) che circondano la **cavità gastrovascolare**. Questa è tappezzata da numerose **cellule ghiandolari con funzioni digestive** ed è comunicante con l'esterno mediante un'apertura circondata da tentacoli. Sulla superficie dei **tentacoli** sono distribuiti gli **cnidoblasti**, particolari cellule che, toccate da un corpo estraneo, estroflettono un filamento cavo. Quest'ultimo inocula nell'aggressore o nella preda un liquido urticante e paralizzante.
 
 Cellule nervose con lunghi prolungamenti (**cellule neuroepiteliali**) **costituiscono un rudimentale sistema nervoso**, che consente all'animale di reagire velocemente a uno stimolo ambientale. Specie tipiche sono gli anemoni di mare, le madrepore e i coralli.
 
@@ -2526,7 +2524,7 @@ _Anemone di mare (Actinaria)_
 
 ### Ctenofori
 
-Gli **ctenofori **(_phylum_ **Ctenophora**) **sono **anch'essi **animali marini, i primi in cui** allo stadio larvale **compare il terzo foglietto embrionario**, il mesoderma.
+Gli **ctenofori** (_phylum_ **Ctenophora**) **sono **anch'essi** animali marini, i primi in cui** allo stadio larvale **compare il terzo foglietto embrionario**, il mesoderma.
 
 Come i celenterati, anche gli ctenofori **hanno il corpo gelatinoso e trasparente**, formato per il 95% da acqua. Possiedono una bocca e, in posizione opposta, un organo di senso statico (**organo apicale**) dal quale si dipartono 8 strisce ciliate, chiamate **palette vibratili**, utilizzate per la locomozione. Certe specie sono provviste di due lunghi tentacoli che possono secernere sostanze adesive.
 
@@ -2545,7 +2543,7 @@ _Ctenoforo tentacolato_
 
 ### Tentacolati
 
-I **tentacolati **(_phylum_ **Tentaculata**) **sono piccoli animali marini**, che vivono isolati o in colonie. Il nome del _phylum _deriva da una corona di tentacoli (**lofoforo**) che circonda la bocca; il lofoforo crea un vortice d'acqua che convoglia gli alimenti verso la bocca.
+I **tentacolati** (_phylum_ **Tentaculata**) **sono piccoli animali marini**, che vivono isolati o in colonie. Il nome del _phylum _deriva da una corona di tentacoli (**lofoforo**) che circonda la bocca; il lofoforo crea un vortice d'acqua che convoglia gli alimenti verso la bocca.
 
 Alcuni tentacolati sono protetti da una conchiglia bivalve, altri vivono in tubuli, altri sono vermiformi.
 
@@ -2566,7 +2564,7 @@ _Bathocyroe fosteri_
 
 ### Platelminti
 
-I **platelminti **(_phylum_ **Plathelmynthes**) **hanno simmetria bilaterale e il corpo piatto** (per questo sono anche detti vermi piatti), lungo da pochi millimetri a diversi metri. **Sono gli animali più semplici in cui i tessuti siano raggruppati** in unità funzionali, gli **organi**.
+I **platelminti** (_phylum_ **Plathelmynthes**) **hanno simmetria bilaterale e il corpo piatto** (per questo sono anche detti vermi piatti), lungo da pochi millimetri a diversi metri. **Sono gli animali più semplici in cui i tessuti siano raggruppati** in unità funzionali, gli **organi**.
 
 La testa ha due **macchie oculari**, sensibili agli stimoli luminosi ma incapaci di formare immagini. Sono anche presenti **aggregati di cellule nervose** (**gangli**) che costituiscono un primitivo cervello. Il sistema nervoso si prolunga per l'intera lunghezza del corpo con 2 cordoni longitudinali uniti da fibre trasversali.
 
@@ -2618,7 +2616,7 @@ _Prostheceraeus giesbrechtii, un verme piatto_
 
 ### Nemertini
 
-I **nemertini **(_phylum_ **Nemertini**) sono animali **vermiformi**, **lunghi fino a 30 m**, che vivono per lo più **sui fondali fangosi dei mari**. Sono gli animali più semplici, in cui **il canale alimentare è provvisto di un'apertura posteriore**, l'**ano**.
+I **nemertini** (_phylum_ **Nemertini**) sono animali **vermiformi**, **lunghi fino a 30 m**, che vivono per lo più **sui fondali fangosi dei mari**. Sono gli animali più semplici, in cui **il canale alimentare è provvisto di un'apertura posteriore**, l'**ano**.
 
 Possiedono inoltre un rudimenatale pseudoceloma (cavità interna) e una specie di proboscide estroflessibile; quest'ultima può essere collegata a ghiandole velenifere ed è impiegata per catturare le prede e, quando non serve, viene riposta in una cavità allungata (**rincocele**) che decorre dorsalmente al canale alimentare.
 
@@ -2635,7 +2633,7 @@ _Micrura verrilli_
 
 ### Aschelminti
 
-Gli animali che appartengono agli **aschelminti **(_phylum_ **Aschelmintes**) hanno caratteristiche molto varie, tanto che alcuni studiosi contestano la parentela tra le diverse classi. Gli elementi che accomunano gli aschelminti sono: **simmetria bilaterale**, **pseudoceloma**, **sessi separati**.
+Gli animali che appartengono agli **aschelminti** (_phylum_ **Aschelmintes**) hanno caratteristiche molto varie, tanto che alcuni studiosi contestano la parentela tra le diverse classi. Gli elementi che accomunano gli aschelminti sono: **simmetria bilaterale**, **pseudoceloma**, **sessi separati**.
 
 
 <table>
@@ -2707,7 +2705,7 @@ _Priapulus caudatus, pescato nel mare di Barens_
 
 **Negli anellidi** (phylum **Anellida**) **compare il celoma**, ripieno di liquido, con funzione di scheletro idrostatico.
 
-Gli anellidi sono **anche detti vermi segmentati**, perché** il loro corpo è diviso in segmenti**, o **metameri**. In ogni metamero sono presenti due gangli nervosi, una coppia di organi escretori e due vasi sanguigni. I gangli nervosi di ciascun metamero sono uniti tra loro da un cordone trasversale e ai gangli dei metameri adiacenti da un cordone longitudinale.
+Gli anellidi sono **anche detti vermi segmentati**, perché **il loro corpo è diviso in segmenti**, o **metameri**. In ogni metamero sono presenti due gangli nervosi, una coppia di organi escretori e due vasi sanguigni. I gangli nervosi di ciascun metamero sono uniti tra loro da un cordone trasversale e ai gangli dei metameri adiacenti da un cordone longitudinale.
 
 L'**apparato digerente** ha inizio con la bocca, situata nel secondo metamero, e termina con l'ano, nell'ultimo segmento.
 
@@ -2761,11 +2759,11 @@ _Glycera sp._
 
 ### Artropodi
 
-Gli **artropodi **(_phylum_ **Arthropoda**) sono il _phylum _più vasto del regno animale. Sono provvisti di **appendici articolate atte alla locomozione** (da cui il nome del _phylum_) e di un **esoscheletro **con funzione protettiva, costituito da chitina e sali di calcio; all'interno dell'esoscheletro si inseriscono i muscoli. Essendo rigido, l'**esoscheletro** non può accrescersi insieme all'animale e quindi **deve essere periodicamente sostituito con un processo chiamato muta**.
+Gli **artropodi** (_phylum_ **Arthropoda**) sono il _phylum_ più vasto del regno animale. Sono provvisti di **appendici articolate atte alla locomozione** (da cui il nome del _phylum_) e di un **esoscheletro** con funzione protettiva, costituito da chitina e sali di calcio; all'interno dell'esoscheletro si inseriscono i muscoli. Essendo rigido, l'**esoscheletro** non può accrescersi insieme all'animale e quindi **deve essere periodicamente sostituito con un processo chiamato muta**.
 
-Gli artropodi hanno un **apparato circolatorio** aperto (il sangue non scorre nei vasi ma bagna direttamente gli organi interni). Respirano per mezzo di **branchie **se acquatici, oppure mediante **trachee **o **polmoni a libro** se terrestri. L'escrezione avviene grazie a nefridi o **tubuli malpighiani** che si aprono all'esterno.
+Gli artropodi hanno un **apparato circolatorio** aperto (il sangue non scorre nei vasi ma bagna direttamente gli organi interni). Respirano per mezzo di **branchie** se acquatici, oppure mediante **trachee** o **polmoni a libro** se terrestri. L'escrezione avviene grazie a nefridi o **tubuli malpighiani** che si aprono all'esterno.
 
-I metameri sono riuniti a formare tre regioni distinte: il **capo**, dove si trovano le **antenne **e gli **occhi composti**, il **torace **con gli arti e l'**addome**.
+I metameri sono riuniti a formare tre regioni distinte: il **capo**, dove si trovano le **antenne** e gli **occhi composti**, il **torace** con gli arti e l'**addome**.
 
 Lo sviluppo dell'uovo fecondato è indiretto e avviene attraverso più stadi larvali (**metamorfosi**).
 
@@ -2817,13 +2815,13 @@ _Composita di artropodi_
 
 ### Molluschi
 
-I **molluschi **(_phylum_ **Mollusca**) hanno questa particolarità: la loro larva presenta somiglianze con la trocofora degli anellidi e ciò ha fatto avanzare l'ipotesi di un antenato comune.
+I **molluschi** (_phylum_ **Mollusca**) hanno questa particolarità: la loro larva presenta somiglianze con la trocofora degli anellidi e ciò ha fatto avanzare l'ipotesi di un antenato comune.
 
 Tra i due _phyla _si osservano perciò dei caratteri comuni, ma anche molte differenze.
 
 Il corpo dei molluschi non è diviso in metameri, ma in un capo e un tronco. Il capo ha la bocca, i gangli cerebrali e i principali organi di senso. Il tronco è formato da un muscolo ventrale, chiamato **piede**, che serve per la locomozione; è presente anche un **sacco dei visceri**, contenente gli organi, rivestito da una piega cutanea, chiamata **mantello**; il mantello secerne la **conchiglia **calcarea.
 
-Nella bocca si trova la **radula**, una struttura nastriforme provvista di dentelli che servono per triturare il cibo. L'apparato digerente continua con la **faringe**, l'**esofago**, lo **stomaco **e l'**intestino**; una ghiandola, l'**epatopancreas**, ha funzione digestiva.
+Nella bocca si trova la **radula**, una struttura nastriforme provvista di dentelli che servono per triturare il cibo. L'apparato digerente continua con la **faringe**, l'**esofago**, lo **stomaco** e l'**intestino**; una ghiandola, l'**epatopancreas**, ha funzione digestiva.
 
 L'**apparato circolatorio è aperto** (il sangue non scorre nei vasi, ma bagna direttamente i tessuti) e composto da un cuore. I molluschi acquatici respirano per mezzo di branchie a forma di pettine (**ctenidi**), mentre quelli terrestri attraverso un "polmone" derivato da una porzione della cavità del mantello.
 
@@ -2881,17 +2879,17 @@ _Polpo comune, Octopus vulgaris_
 
 #### Altri phyla di animali
 
-I **gnatostomulidi **(_phylum_ **Gnathostomulida**) comprendono animali di piccole dimensioni (0,5-3 mm), dal corpo cilindrico e vermiforme, ricoperto da ciglia; la loro bocca si apre sul ventre. I gnatostomulidi sono animali ermafroditi e vivono nei fondali sabbiosi e fangosi.
+I **gnatostomulidi** (_phylum_ **Gnathostomulida**) comprendono animali di piccole dimensioni (0,5-3 mm), dal corpo cilindrico e vermiforme, ricoperto da ciglia; la loro bocca si apre sul ventre. I gnatostomulidi sono animali ermafroditi e vivono nei fondali sabbiosi e fangosi.
 
-I **sipunculidi **(_phylum_ **Sipunculida**) hanno il corpo allungato che si restringe all'estremità anteriore, dove forma una proboscide. Vivono sepolti nei fondali.
+I **sipunculidi** (_phylum_ **Sipunculida**) hanno il corpo allungato che si restringe all'estremità anteriore, dove forma una proboscide. Vivono sepolti nei fondali.
 
 I **camptozoi**, o endoprotti (_phylum_ **Kamptozoa**), sono animali acquatici che vivono in colonie. Ogni individuo è sostenuto da un peduncolo che in cima si dilata per contenere gli organi. La bocca è circondata da una corona di tentacoli.
 
 I **pentastomidi **(_phylum_ **Pentastomidi**) comprendono animali tutti parassiti di vertebrati terrestri. Come adattamento, nello stadio larvale possiedono quattro paia di "arti" muniti di uncini. Durante lo sviluppo, due paia di "arti" scompaiono e le rimanenti due sono riposte in quattro tasche situate attorno alla bocca (da cui il nome del _phylum_, "cinque bocche").
 
-I **tardigradi **(_phylum_ **Tardigrada**) sono animali di dimensioni microscopiche, con quattro paia di "arti" che terminano con unghie. La bocca è provvista di stiletti retrattili atti a pungere.
+I **tardigradi** (_phylum_ **Tardigrada**) sono animali di dimensioni microscopiche, con quattro paia di "arti" che terminano con unghie. La bocca è provvista di stiletti retrattili atti a pungere.
 
-Gli **onicofori **(_phylum_ **Onicophora**) ricordano gli anellidi per il corpo segmentato, in questo caso rivestito da una cuticola sottile. La testa è ben riconoscibile per la presenza di due antenne. Sul ventre sono presenti numerose appendici locomotorie munite di unghie (in greco, _ónicos_). I sessi sono separati e il dimorfismo sessuale è accentuato.
+Gli **onicofori** (_phylum_ **Onicophora**) ricordano gli anellidi per il corpo segmentato, in questo caso rivestito da una cuticola sottile. La testa è ben riconoscibile per la presenza di due antenne. Sul ventre sono presenti numerose appendici locomotorie munite di unghie (in greco, _ónicos_). I sessi sono separati e il dimorfismo sessuale è accentuato.
 
 
 <table>
@@ -2965,7 +2963,7 @@ Gli **onicofori **(_phylum_ **Onicophora**) ricordano gli anellidi per il corpo 
 
 ### Echinodermi
 
-Negli **echinodermi **(_phylum_ **Echinodermata**) la **larva è a simmetria bilaterale, mentre l'adulto ha simmetria pentaraggiata.**
+Negli **echinodermi** (_phylum_ **Echinodermata**) la **larva è a simmetria bilaterale, mentre l'adulto ha simmetria pentaraggiata**.
 
 Il corpo è sostenuto da un **dermascheletro**, cioè un rivestimento di piastre calcaree posto sotto l'epidermide. **Non si distingue una vera e propria testa**, ma un polo orale, dove
 
@@ -3029,7 +3027,7 @@ _Un echinoideo o riccio di mare_
 
 ### Cordati
 
-In tutti i **cordati **(_phylum_ **Chordata**), nonostante la notevole varietà morfologica, sono presenti le seguenti caratteristiche:
+In tutti i **cordati** (_phylum_ **Chordata**), nonostante la notevole varietà morfologica, sono presenti le seguenti caratteristiche:
 
 
 

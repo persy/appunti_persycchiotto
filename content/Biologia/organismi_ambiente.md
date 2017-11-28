@@ -13,7 +13,7 @@ Lo studio dell'anatomia e della fisiologia delle piante e degli animali ha perme
 
 ### L'ecologia
 
-È detta **ecologia la scienza che studia i rapporti che gli organismi intrattengono tra loro e con l'ambiente in cui vivono**. Il termine ecologia dal greco _ôikos _= dimora, casa e _lógos _= discorso) fu coniato nel 1866 dal biologo tedesco E. Haeckel (1834-1919).
+È detta **ecologia la scienza che studia i rapporti che gli organismi intrattengono tra loro e con l'ambiente in cui vivono**. Il termine ecologia dal greco _ôikos_ = dimora, casa e _lógos_ = discorso) fu coniato nel 1866 dal biologo tedesco E. Haeckel (1834-1919).
 
 L'ecologia è una scienza complessa, che si avvale del contributo di differenti discipline scientifiche. Si distinguono diversi indirizzi:
 
@@ -64,7 +64,7 @@ Si definisce infine **fattore limitante** quel fattore, chimico-fisico o biotico
 
 #### La legge dei fattori limitanti
 
-La legge dei fattori limitanti è una derivazione della** legge del minimo**, formulata dal chimico tedesco J. von Liebig (1803-1873): "La crescita dei vegetali dipende dall'elemento che è presente nella quantità minima, al di sotto della quale le sintesi non possono avvenire". I vegetali utilizzano per i propri processi metabolici numerosi elementi del sistema periodico, ma solo alcuni di questi sono indispensabili, alcuni in grandi quantità, altri in quantità minime (microelementi). Secondo la legge del minimo, la crescita non avviene se di un microelemento manca anche solo la quantità minima richiesta.
+La legge dei fattori limitanti è una derivazione della **legge del minimo**, formulata dal chimico tedesco J. von Liebig (1803-1873): "La crescita dei vegetali dipende dall'elemento che è presente nella quantità minima, al di sotto della quale le sintesi non possono avvenire". I vegetali utilizzano per i propri processi metabolici numerosi elementi del sistema periodico, ma solo alcuni di questi sono indispensabili, alcuni in grandi quantità, altri in quantità minime (microelementi). Secondo la legge del minimo, la crescita non avviene se di un microelemento manca anche solo la quantità minima richiesta.
 
 La **legge dei fattori limitanti** considera, anziché gli elementi, i fattori ecologici e stabilisce che una specie non può popolare un certo ambiente se in esso si verifica mancanza, scarsa intensità o eccesso di un certo fattore ecologico. Per esempio, se una popolazione di prede (poniamo erbivori) dovesse ridursi per qualche causa al di sotto di una certa soglia, la popolazione di predatori (carnivori) non sarebbe più in grado di sopravvivere in quelle date condizioni.
 
@@ -75,7 +75,7 @@ L'**ecosistema è l'unità ecologica fondamentale, formata da una comunità di o
 
 Un ecosistema comprende diversi habitat e differenti nicchie ecologiche.
 
-L**'habitat è il luogo fisico dove un animale o una pianta vivono normalmente**, in genere caratterizzato da una forma vegetale o da un aspetto fisico dominante (per esempio, un corso d'acqua o una foresta).
+L'**habitat è il luogo fisico dove un animale o una pianta vivono normalmente**, in genere caratterizzato da una forma vegetale o da un aspetto fisico dominante (per esempio, un corso d'acqua o una foresta).
 
 La **nicchia ecologica è il ruolo ecologico**, o"**funzione**", **che ogni specie occupa all'interno di un habitat**, cioè è uno spazio che include tutti gli aspetti dell'esistenza di quella
 
@@ -95,24 +95,24 @@ Per assicurare il **mantenimento di queste trasformazioni chimiche**, e quindi d
 
 **L'energia solare viene utilizzata dall'ecosistema mediante le piante verdi**, in grado di sfruttarla per fabbricare da sé il proprio nutrimento: attraverso la fotosintesi le piante trasformano l'energia luminosa in energia chimica, utilizzandone una parte per i propri bisogni fisiologici e immagazzinando il resto.
 
-**Il trasferimento di energia **agli altri organismi dell'ecosistema **avviene attraverso le catene alimentari **che collegano tra di loro i componenti della biocenosi.
+**Il trasferimento di energia** agli altri organismi dell'ecosistema **avviene attraverso le catene alimentari** che collegano tra di loro i componenti della biocenosi.
 
 
 #### Catene e reti alimentari
 
 **Una catena alimentare è data dalla successione con cui alcuni organismi si alimentano di quelli che li precedono e**, a loro volta, **costituiscono alimento per quelli che li seguono**. Secondo il posto occupato nella catena alimentare, gli organismi si collocano a diversi livelli trofici (alimentari): produttori, consumatori e decompositori.
 
-I **produttori **sono il punto di partenza delle catene alimentari; sono le piante verdi e, più in generale, gli organismi autotrofi (comprendenti alcuni batteri, come i cianobatteri), che catturano l'energia dall'esterno e la rendono disponibile nell'ecosistema;
+I **produttori** sono il punto di partenza delle catene alimentari; sono le piante verdi e, più in generale, gli organismi autotrofi (comprendenti alcuni batteri, come i cianobatteri), che catturano l'energia dall'esterno e la rendono disponibile nell'ecosistema;
 
-I **consumatori **sono distinti in primari, secondari, terziari ecc.
+I **consumatori** sono distinti in primari, secondari, terziari ecc.
 
 
 
 *   **consumatori primari** sono gli erbivori che si nutrono direttamente dei vegetali
-*   **consumatori secondari **sono i carnivori che si nutrono di erbivori
-*   c**onsumatori terziari** sono i carnivori che si nutrono di altri carnivori.
+*   **consumatori secondari** sono i carnivori che si nutrono di erbivori
+*   **consumatori terziari** sono i carnivori che si nutrono di altri carnivori.
 
-I **decompositori **sono costituiti da invertebrati, funghi e batteri che si nutrono di altri organismi morti, operandone la decomposizione in composti semplici, che sono rimessi in circolazione.
+I **decompositori** sono costituiti da invertebrati, funghi e batteri che si nutrono di altri organismi morti, operandone la decomposizione in composti semplici, che sono rimessi in circolazione.
 
 I consumatori e i decompositori, che devono procurarsi il nutrimento da materia organica preformata, sono eterotrofi.
 
@@ -137,19 +137,19 @@ Al flusso di energia si intrecciano i **cicli biogeochimici**, o **cicli dei nut
 
 Gli elementi indispensabili alla vita (come carbonio, ossigeno, idrogeno, azoto, fosforo), presenti nelle molecole inorganiche che si trovano nell'ambiente fisico (rocce, suolo, aria, acqua), sono continuamente incorporati e trasformati in molecole organiche dagli organismi viventi attraverso le catene alimentari; in seguito, nel corso dei processi metabolici degli organismi in vita e nel corso dei processi di decomposizione dopo la morte, questi elementi sono di nuovo trasferiti in molecole inorganiche e restituiti all'ambiente.
 
-La fonte principale, o serbatoio, di ogni elemento si trova in genere nell'ambiente non vivente. I cicli in cui il serbatoio è rappresentato dall'atmosfera (come quelli del carbonio e dell'azoto) sono detti** cicli atmosferici**; i cicli in cui il serbatoio è costituito dai sedimenti (come quello del fosforo) sono detti **cicli sedimentari**. I principali cicli biogeochimici sono il ciclo del carbonio , il ciclo dell'ossigeno, il ciclo dell'azoto, il ciclo del fosforo, dei quali vengono indicati di seguito gli stadi principali.
+La fonte principale, o serbatoio, di ogni elemento si trova in genere nell'ambiente non vivente. I cicli in cui il serbatoio è rappresentato dall'atmosfera (come quelli del carbonio e dell'azoto) sono detti **cicli atmosferici**; i cicli in cui il serbatoio è costituito dai sedimenti (come quello del fosforo) sono detti **cicli sedimentari**. I principali cicli biogeochimici sono il ciclo del carbonio , il ciclo dell'ossigeno, il ciclo dell'azoto, il ciclo del fosforo, dei quali vengono indicati di seguito gli stadi principali.
 
 
 #### Il ciclo del carbonio
 
-Il** ciclo del carbonio** si articola in quattro stadi:
+Il **ciclo del carbonio** si articola in quattro stadi:
 
 
 
 1.  **fissazione del diossido di carbonio** (**CO<sub>2</sub>**) **atmosferico**, consistente nella sua trasformazione in composti organici attraverso la fotosintesi delle piante (terrestri e marine)
-1.  **ritorno del diossido di carbonio all'atmosfera** in seguito all'ossidazione biologica della materia organica (respirazione, fermentazione, decomposizione) e alle reazioni di combustione (incendi naturali della vegetazione, uso di combustibili fossili ecc.)
-1.  **accumulo nelle rocce **di una frazione del carbonio in seguito al deposito dei resti di alghe e gusci di animali marini, formati da carbonato di calcio insolubile, nei sedimenti dei fondi oceanici; questi si trasformeranno, nel tempo, in rocce calcaree
-1.  **ritorno in circolo del carbonio delle rocce calcaree**; queste possono essere trascinate in profondità e ritornare in superficie attraverso le eruzioni vulcaniche, che liberano di nuovo CO<sub>2</sub> nell'atmosfera; oppure possono emergere come montagne ed essere dilavate dall'acqua che trascina in soluzione il carbonato di calcio come bicarbonato di calcio, rendendolo di nuovo disponibile per gli organismi viventi.
+2.  **ritorno del diossido di carbonio all'atmosfera** in seguito all'ossidazione biologica della materia organica (respirazione, fermentazione, decomposizione) e alle reazioni di combustione (incendi naturali della vegetazione, uso di combustibili fossili ecc.)
+3.  **accumulo nelle rocce **di una frazione del carbonio in seguito al deposito dei resti di alghe e gusci di animali marini, formati da carbonato di calcio insolubile, nei sedimenti dei fondi oceanici; questi si trasformeranno, nel tempo, in rocce calcaree
+4.  **ritorno in circolo del carbonio delle rocce calcaree**; queste possono essere trascinate in profondità e ritornare in superficie attraverso le eruzioni vulcaniche, che liberano di nuovo CO<sub>2</sub> nell'atmosfera; oppure possono emergere come montagne ed essere dilavate dall'acqua che trascina in soluzione il carbonato di calcio come bicarbonato di calcio, rendendolo di nuovo disponibile per gli organismi viventi.
 
 
 
@@ -181,14 +181,14 @@ Il **ciclo dell'ossigeno **comprende i seguenti stadi:
 
 _Ciclo dell'ossigeno_
 
-Il **ciclo biogeochimico dell'azoto **comprende i seguenti stadi:
+Il **ciclo biogeochimico dell'azoto** comprende i seguenti stadi:
 
 
 
 1.  **fissazione dell'azoto atmosferico** (che non può essere utilizzato direttamente dagli organismi) per opera di **batteri azotofissatori**, che vivono nel terreno; in questo processo l'azoto è trasformato in composti inorganici come ammoniaca e ioni ammonio, nitrati o nitriti
-1.  **utilizzazione dei composti inorganici azotati **da parte delle piante per assorbimento e successiva trasformazione in composti organici, soprattutto proteine, che passano nella catena alimentare
-1.  **ritorno dei composti azotati all'ambiente** per escrezione di urea, acido urico o ammoniaca nelle urine e di composti semplici nelle deiezioni degli animali
-1.  **ritorno di azoto molecolare all'atmosfera** per decomposizione di materia organica a opera di batteri denitrificanti nel terreno.
+2.  **utilizzazione dei composti inorganici azotati **da parte delle piante per assorbimento e successiva trasformazione in composti organici, soprattutto proteine, che passano nella catena alimentare
+3.  **ritorno dei composti azotati all'ambiente** per escrezione di urea, acido urico o ammoniaca nelle urine e di composti semplici nelle deiezioni degli animali
+4.  **ritorno di azoto molecolare all'atmosfera** per decomposizione di materia organica a opera di batteri denitrificanti nel terreno.
 
 
 
@@ -200,14 +200,14 @@ Il **ciclo biogeochimico dell'azoto **comprende i seguenti stadi:
 
 _Ciclo dell'azoto_
 
-Il** ciclo biogeochimico del fosforo **si articola nei seguenti stadi:
+Il **ciclo biogeochimico del fosforo** si articola nei seguenti stadi:
 
 
 
 1.  **diffusione del fosforo nel terreno e nei corsi d'acqua** per erosione a opera della pioggia delle rocce fosfatiche (in cui è presente come fosfato di calcio)
-1.  **assorbimento da parte delle piante** come ione fosfato, trasferimento agli altri organismi attraverso la catena alimentare; il fosforo viene incorporato in composti organici e nei fosfati inorganici costituenti delle ossa
-1.  **ritorno dei composti organici e inorganici del fosforo nell'ambiente**, sotto forma di prodotti dell'escrezione (guano degli uccelli) e di resti degli animali
-1.  **trasformazione in composti inorganici**, per decomposizione a opera di particolari batteri, del fosforo dei composti organici; il fosforo in forma di fosfati è riutilizzabile dalle piante (una parte di tali composti poco solubili si accumula nel terreno e nei sedimenti).
+2.  **assorbimento da parte delle piante** come ione fosfato, trasferimento agli altri organismi attraverso la catena alimentare; il fosforo viene incorporato in composti organici e nei fosfati inorganici costituenti delle ossa
+3.  **ritorno dei composti organici e inorganici del fosforo nell'ambiente**, sotto forma di prodotti dell'escrezione (guano degli uccelli) e di resti degli animali
+4.  **trasformazione in composti inorganici**, per decomposizione a opera di particolari batteri, del fosforo dei composti organici; il fosforo in forma di fosfati è riutilizzabile dalle piante (una parte di tali composti poco solubili si accumula nel terreno e nei sedimenti).
 
 
 
@@ -245,16 +245,16 @@ In un ecosistema, ogni popolazione, oltre a instaurare strette relazioni con l'a
 
 #### Competizione
 
-La **competizione è la concorrenza tra individui della stessa specie** (**competizione intraspecifica**) **o di specie differenti** (**competizione interspecifica**)** viventi nella stessa area per la conquista di una risorsa** (cibo, territorio, luce ecc.). Poiché le risorse di un ecosistema sono limitate, la competizione diventa un fattore fondamentale per mantenere l'equilibrio tra le popolazioni.
+La **competizione è la concorrenza tra individui della stessa specie** (**competizione intraspecifica**) **o di specie differenti** (**competizione interspecifica**) **viventi nella stessa area per la conquista di una risorsa** (cibo, territorio, luce ecc.). Poiché le risorse di un ecosistema sono limitate, la competizione diventa un fattore fondamentale per mantenere l'equilibrio tra le popolazioni.
 
-La **competizione intraspecifica **è la più pressante perché gli individui di una stessa specie hanno le stesse esigenze e gli stessi adattamenti e ciò li costringe a mettere in atto diversi comportamenti di competizione: competizione di lotta per la scelta del partner o per il territorio o per stabilire gerarchie di dominanza.
+La **competizione intraspecifica** è la più pressante perché gli individui di una stessa specie hanno le stesse esigenze e gli stessi adattamenti e ciò li costringe a mettere in atto diversi comportamenti di competizione: competizione di lotta per la scelta del partner o per il territorio o per stabilire gerarchie di dominanza.
 
 La **competizione interspecifica** è prevalente quando le diverse specie hanno esigenze simili, cioè quanto più occupano nicchie ecologiche simili, e quanto più aumenta la densità delle popolazioni vicine. Per evitare la competizione interspecifica ogni specie si concentra in una specifica parte dell'habitat e ne utilizza le risorse in modo esclusivo (principio di esclusione di nicchia).
 
 
 #### Predazione
 
-La **predazione è la cattura e l'uccisione a scopo alimentare da parte di alcuni animali **(**predatori**)** di altri animali** (**prede**) **di specie diverse**.
+La **predazione è la cattura e l'uccisione a scopo alimentare da parte di alcuni animali** (**predatori**)** di altri animali** (**prede**) **di specie diverse**.
 
 La predazione è un fattore di controllo delle popolazioni che dipende dalla densità: infatti con l'aumento della popolazione di prede crescono le possibilità di cattura da parte dei predatori; inoltre, una popolazione di prede che supera la capacità biologica specifica dell'ecosistema è più vulnerabile, perché è indebolita dalla mancanza di cibo o dalla diffusione di parassiti.
 
@@ -352,7 +352,7 @@ Il processo di successione tende al raggiungimento di un ecosistema stabile, o c
 
 La** successione primaria ha luogo in aree mai abitate **(per esempio, isole vulcaniche di recente formazione, dune sabbiose, colate laviche, superfici rocciose ecc.).
 
-La successione ha inizio con l'insediamento di **organismi pionieri **(batteri, licheni), in grado di sopravvivere e riprodursi in ambienti poco ospitali e con scarse disponibilità alimentari. Gli organismi pionieri operano modificazioni nell'ambiente, soprattutto perché favoriscono la formazione di humus (produzione di sostanza organica, mobilizzazione di elementi minerali dal terreno, frantumazione del suolo). Tali modificazioni **preparano l'insediamento della comunità successiva**, con organismi più complessi e con maggiori esigenze ecologiche. Le interazioni di questi ultimi con l'ambiente producono ulteriori variazioni che consentono l'insediamento di altri organismi, e così via fino al raggiungimento della comunità climax.
+La successione ha inizio con l'insediamento di **organismi pionieri** (batteri, licheni), in grado di sopravvivere e riprodursi in ambienti poco ospitali e con scarse disponibilità alimentari. Gli organismi pionieri operano modificazioni nell'ambiente, soprattutto perché favoriscono la formazione di humus (produzione di sostanza organica, mobilizzazione di elementi minerali dal terreno, frantumazione del suolo). Tali modificazioni **preparano l'insediamento della comunità successiva**, con organismi più complessi e con maggiori esigenze ecologiche. Le interazioni di questi ultimi con l'ambiente producono ulteriori variazioni che consentono l'insediamento di altri organismi, e così via fino al raggiungimento della comunità climax.
 
 La formazione di un ecosistema stabile dall'ambiente "nudo" richiede tempi lunghissimi: migliaia o decine di migliaia di anni.
 
@@ -407,7 +407,7 @@ Non sempre la successione secondaria porta all'insediamento della comunità clim
 
 #### Le comunità climax
 
-Le** successioni tendono a una comunità finale** detta **climax**, attraverso una serie di **comunità di transizione**, dette **sere **o **stadi serali**. Nel climax, la biomassa totale raggiunge il massimo valore e le specie sono in equilibrio con i propri competitori.
+Le** successioni tendono a una comunità finale** detta **climax**, attraverso una serie di **comunità di transizione**, dette **sere** o **stadi serali**. Nel climax, la biomassa totale raggiunge il massimo valore e le specie sono in equilibrio con i propri competitori.
 
 Le comunità climax sono influenzate dal clima e dalla geologia della regione. I biomi, come le foreste, i deserti o le praterie, sono esempi di comunità climax stabilitesi su ampie regioni geografiche, caratterizzate da condizioni ambientali simili e da comunità vegetali tipiche.
 
@@ -442,13 +442,13 @@ Gli ecosistemi della Terra sono di una varietà straordinaria, tuttavia presenta
 
 ### I biomi
 
-I biomi sonosistemi ambientali complessi, di ampia estensione geografica, costituiti da un insieme di ecosistemi, le cui comunità animali e vegetali hanno raggiunto, in una determinata area della superficie terrestre, una relativa stabilità in relazione alle condizioni ambientali.
+I **biomi** sono sistemi ambientali complessi, di ampia estensione geografica, costituiti da un insieme di ecosistemi, le cui comunità animali e vegetali hanno raggiunto, in una determinata area della superficie terrestre, una relativa stabilità in relazione alle condizioni ambientali.
 
 Ogni bioma è caratterizzato principalmente dalle condizioni climatiche della regione e da una particolare vegetazione che ospita una tipica fauna (insieme delle specie animali).
 
-Il **clima **è l'insieme delle condizioni meteorologiche medie di una regione della Terra nel corso dell'anno: le condizioni meteorologiche dipendono dagli elementi del clima, come temperatura, piovosità, che a loro volta dipendono da latitudine, altitudine, distanza dal mare ecc.
+Il **clima** è l'insieme delle condizioni meteorologiche medie di una regione della Terra nel corso dell'anno: le condizioni meteorologiche dipendono dagli elementi del clima, come temperatura, piovosità, che a loro volta dipendono da latitudine, altitudine, distanza dal mare ecc.
 
-Per **vegetazione **si intende l'associazione di specie che caratterizza una certa regione (per esempio, vegetazione alpina, vegetazione mediterranea) in quanto è dominante rispetto all'insieme delle specie vegetali (che costituiscono la flora).
+Per **vegetazione** si intende l'associazione di specie che caratterizza una certa regione (per esempio, vegetazione alpina, vegetazione mediterranea) in quanto è dominante rispetto all'insieme delle specie vegetali (che costituiscono la flora).
 
 La distribuzione dei biomi sulla Terra segue quindi a grandi linee la distribuzione delle fasce climatiche, in una successione orizzontale che corrisponde alle diverse latitudini (distanza dall'equatore) e una successione verticale corrispondente alle diverse altitudini.
 
@@ -456,7 +456,7 @@ I biomi sono distinti in:
 
 
 
-*   **biomi terrestri **comprendenti principalmente la tundra, le foreste, le praterie e i deserti
+*   **biomi terrestri** comprendenti principalmente la tundra, le foreste, le praterie e i deserti
 *   **biomi acquatici**, con caratteristiche più uniformi, comprendenti biomi marini (delle regioni oceaniche, della piattaforma continentale, delle aree di risalita e delle aree di estuario) e biomi di acqua dolce (di lago, di fiume, di palude).
 
 
@@ -466,7 +466,7 @@ Si distinguono una tundra artica e una tundra alpina.
 
 La **tundra artica** occupa circa il 20% delle terre emerse e si estende in una larga fascia tra la calotta polare artica e la foresta boreale ad aghifoglie, a latitudini comprese tra i 75° e il circolo polare (66° 33' N). La massima estensione di suoli a tundra si trova nella fascia settentrionale della Siberia.
 
-Il clima è caratterizzato da **una stagione estiva molto breve** (40-50 giorni), con temperature comprese tra 0 e 10 °C; durante** il resto dell'anno le temperature sono sempre al disotto dello zero**, toccando anche i -70 °C. I venti sono sempre intensi e le precipitazioni molto scarse. D'estate il terreno sgela solo superficialmente, per pochi decimetri; al di sotto di tale limite, il suolo è perennemente gelato (**permafrost**), perciò l'acqua di fusione dello strato superficiale non può essere assorbita dal terreno sottostante. Non è quindi possibile la crescita di alberi ad alto fusto, ma solo di una vegetazione bassa, costituita per lo più da licheni, muschi, sfagni e salici nani. In estate la tundra si popola di animali provenienti dalle regioni più meridionali (renne, volpi, lepri artiche, ermellini, pernici ecc.). La quota più consistente della fauna è costituita da insetti, che trovano un ambiente favorevole al loro sviluppo nei vasti acquitrini che ricoprono il suolo in estate.
+Il clima è caratterizzato da **una stagione estiva molto breve** (40-50 giorni), con temperature comprese tra 0 e 10 °C; durante **il resto dell'anno le temperature sono sempre al disotto dello zero**, toccando anche i -70 °C. I venti sono sempre intensi e le precipitazioni molto scarse. D'estate il terreno sgela solo superficialmente, per pochi decimetri; al di sotto di tale limite, il suolo è perennemente gelato (**permafrost**), perciò l'acqua di fusione dello strato superficiale non può essere assorbita dal terreno sottostante. Non è quindi possibile la crescita di alberi ad alto fusto, ma solo di una vegetazione bassa, costituita per lo più da licheni, muschi, sfagni e salici nani. In estate la tundra si popola di animali provenienti dalle regioni più meridionali (renne, volpi, lepri artiche, ermellini, pernici ecc.). La quota più consistente della fauna è costituita da insetti, che trovano un ambiente favorevole al loro sviluppo nei vasti acquitrini che ricoprono il suolo in estate.
 
 La **tundra alpina**, molto simile per associazioni vegetali a quella artica, si trova alle alte altitudini, corrisponde al limite della vegetazione, oltre le praterie alpine, fino alle rocce nude o ai ghiacciai perenni.
 
@@ -527,9 +527,9 @@ In montagna, le foreste decidue occupano altitudini inferiori alle foreste di co
 
 _Foresta decidua del centro Europa_
 
-Le **foreste tropicali **comprendono diverse tipologie di foreste della regione compresa fra i tropici del Cancro e del Capricorno.
+Le **foreste tropicali** comprendono diverse tipologie di foreste della regione compresa fra i tropici del Cancro e del Capricorno.
 
-Le** **foreste tropicali più note sono le **foreste pluviali**, che si estendono ad altitudini non troppo elevate in prossimità dell'Equatore: nell'America meridionale nel bacino del Rio delle Amazzoni e dell'Orinoco; in Africa nei bacini del Congo, del Niger e dello Zambesi; nella regione asiatica in India, Malesia, Borneo e nella Nuova Guinea.
+Le **foreste tropicali più note sono le **foreste pluviali**, che si estendono ad altitudini non troppo elevate in prossimità dell'Equatore: nell'America meridionale nel bacino del Rio delle Amazzoni e dell'Orinoco; in Africa nei bacini del Congo, del Niger e dello Zambesi; nella regione asiatica in India, Malesia, Borneo e nella Nuova Guinea.
 
 Il clima di queste regioni è caratterizzato da una piovosità che supera i 200 cm di pioggia all'anno, ben distribuita nelle stagioni (spesso con l'alternanza di una o più stagioni secche).
 
@@ -576,7 +576,7 @@ Le **praterie a erbe basse**, o **steppe**, si sviluppano nelle zone con clima p
 
 _Steppa kazaka_
 
-Le **praterie **o** pascoli alpini** sono limitate alle regioni di alta quota, al di sopra del limite della vegetazione arborea, con climi molto freddi e ampia disponibilità di acqua nel suolo; vi dominano le graminacee e le ciperacee basse, ma sono presenti anche specie erbacee a fiore, muschi e licheni.
+Le **praterie** o **pascoli alpini** sono limitate alle regioni di alta quota, al di sopra del limite della vegetazione arborea, con climi molto freddi e ampia disponibilità di acqua nel suolo; vi dominano le graminacee e le ciperacee basse, ma sono presenti anche specie erbacee a fiore, muschi e licheni.
 
 
 
@@ -656,15 +656,15 @@ In mare vivono molte specie di organismi che si sono adattati a tre forme di vit
 
 Il **plancton comprende vegetali** (**fitoplancton**) **e animali** (**zooplancton**) **che vivono sospesi nell'acqua**; di dimensioni per lo più microscopiche, sono in genere dotati di scarsa capacità di movimento, per cui sono trasportati dalle correnti.
 
-Il **fitoplancton **comprende alghe unicellulari (come le diatomee) e cianobatteri; sono i produttori primari dell'ecosistema marino (la loro produttività è maggiore rispetto alle grandi alghe pluricellulari che vivono sul fondo, o bentoniche).
+Il **fitoplancton** comprende alghe unicellulari (come le diatomee) e cianobatteri; sono i produttori primari dell'ecosistema marino (la loro produttività è maggiore rispetto alle grandi alghe pluricellulari che vivono sul fondo, o bentoniche).
 
-Lo **zooplancton **comprende protozoi (foraminiferi e radiolari), meduse e ctenofori, crostacei (come cladoceri e copepodi) e tunicati, che possono costituire grandi colonie galleggianti; fanno parte dello zooplancton anche organismi allo stadio di uova o larva. Lo zooplancton riunisce i consumatori primari.
+Lo **zooplancton** comprende protozoi (foraminiferi e radiolari), meduse e ctenofori, crostacei (come cladoceri e copepodi) e tunicati, che possono costituire grandi colonie galleggianti; fanno parte dello zooplancton anche organismi allo stadio di uova o larva. Lo zooplancton riunisce i consumatori primari.
 
 Il **necton comprende gli animali sospesi nell'acqua in grado di nuotare attivamente** vincendo la forza delle correnti: sono soprattutto pesci, alcuni molluschi cefalopodi (calamari), rettili come le tartarughe marine, mammiferi come foche e balene, delfini.
 
-Il **benton **(o **benthos**) **comprende gli animali e i vegetali che vivono sul fondo**. Si può distinguere un fitobenton, costituito da alghe e da batteri, e uno zoobenton, composto dagli animali, con rappresentanti di quasi tutti i _phyla_.
+Il **benton** (o **benthos**) **comprende gli animali e i vegetali che vivono sul fondo**. Si può distinguere un fitobenton, costituito da alghe e da batteri, e uno zoobenton, composto dagli animali, con rappresentanti di quasi tutti i _phyla_.
 
-In base alla capacità di spostamento si dicono **sessili **gli organismi che trascorrono la vita adulta fissati sul fondo, come alghe, poriferi (spugne), celenterati (coralli e madrepore, anemoni di mare), cirripedi incrostanti (balani); **sedentari **gli animali capaci di piccoli spostamenti sul substrato (come gli echinodermi: per esempio, le stelle di mare); **vagile**, la fauna capace di movimenti veri e propri sul fondo, come crostacei, molluschi e vermi.
+In base alla capacità di spostamento si dicono **sessili** gli organismi che trascorrono la vita adulta fissati sul fondo, come alghe, poriferi (spugne), celenterati (coralli e madrepore, anemoni di mare), cirripedi incrostanti (balani); **sedentari** gli animali capaci di piccoli spostamenti sul substrato (come gli echinodermi: per esempio, le stelle di mare); **vagile**, la fauna capace di movimenti veri e propri sul fondo, come crostacei, molluschi e vermi.
 
 Al benton appartengono anche organismi che si muovono nuotando, ma restano sempre nell'ambito del substrato a cui sono strettamente legati per il nutrimento o la riproduzione o in cui trovano riparo (molti pesci, molluschi e alcuni crostacei). Altri animali vivono all'interno del substrato (endobenton), nella sabbia e nel fango; sono soprattutto organismi scavatori e detritivori (policheti, bivalvi ecc.). Negli strati inferiori del mare vi sono anche i decompositori, in genere batteri che consumano i detriti di origine organica e i corpi morti degli organismi del necton e del plancton che cadono sul fondo: liberano enormi quantità di sostanze minerali arricchendo le acque più profonde.
 
@@ -717,7 +717,7 @@ Il dominio oceanico, o di oceano aperto, comprende, secondo la profondità:
 
 Il **dominio oceanico** è l'ambiente marino meno produttivo, paragonabile ai deserti sulla terraferma: la bassa concentrazione di sali minerali nell'acqua non permette lo sviluppo di grandi concentrazioni di fitoplancton e di conseguenza delle comunità marine a esso legate. Sono comunque presenti alcune specie di grossi pesci (**pesci pelagici**, tra cui squali, pesci spada e tonni).
 
-Nelle profondità oceaniche, le aree più pescose sono le **zone di risalita**, o di **risorgenza**, dove le correnti verticali riportano i sali nutrienti accumulati sul fondo fino alla zona fotica. Di notevole interesse ecologico sono infine le comunità dei "camini" (_black smokers_), **sorgenti sottomarine **che eruttano acqua calda nera di zolfo e sali minerali. Si trovano a notevoli profondità e ospitano inaspettatamente una ricca comunità di solfobatteri chemiosintetici (che sono quindi produttori primari), pesci rosati, piccoli granchi ciechi, mitili, giganteschi anellidi e anemoni di mare.
+Nelle profondità oceaniche, le aree più pescose sono le **zone di risalita**, o di **risorgenza**, dove le correnti verticali riportano i sali nutrienti accumulati sul fondo fino alla zona fotica. Di notevole interesse ecologico sono infine le comunità dei "camini" (_black smokers_), **sorgenti sottomarine** che eruttano acqua calda nera di zolfo e sali minerali. Si trovano a notevoli profondità e ospitano inaspettatamente una ricca comunità di solfobatteri chemiosintetici (che sono quindi produttori primari), pesci rosati, piccoli granchi ciechi, mitili, giganteschi anellidi e anemoni di mare.
 
 
 
@@ -763,11 +763,11 @@ La fitogeografia distingue la Terra in 6 regioni fitogeografiche principali.
 
 
 1.  La **regione oloartica** si estende su tutta l'Europa, l'Asia centrosettentrionale, la Groenlandia e parte dell'America settentrionale. Comprende biomi come la tundra, le foreste di conifere, le foreste di latifoglie; ai limiti meridionali comprende una fascia di vegetazione subtropicale (tra cui la macchia mediterranea) legata all'ambiente costiero dei mari interni
-1.  La **regione paleotropicale** comprende le parti tropicali dell'Africa e dell'Asia; i biomi principali sono le foreste tropicali e le savane
-1.  La **regione neotropicale **comprende le regioni tropicali delle Americhe con i biomi delle foreste tropicali e delle savane
-1.  La **regione capense **comprende la parte dell'Africa a sud del deserto del Kalahari, con clima di tipo mediterraneo e una flora specializzata
-1.  La **regione australiana** comprende l'Australia, con una flora di origine molto antica.
-1.  La **regione antartica**, che si estende alle isole Kerguelen, alle Falkland o Malvine, alle Macquarie, alla Nuova Zelanda e alla Patagonia, comprende numerose specie di licheni e poche specie di piante superiori.
+2.  La **regione paleotropicale** comprende le parti tropicali dell'Africa e dell'Asia; i biomi principali sono le foreste tropicali e le savane
+3.  La **regione neotropicale **comprende le regioni tropicali delle Americhe con i biomi delle foreste tropicali e delle savane
+4.  La **regione capense **comprende la parte dell'Africa a sud del deserto del Kalahari, con clima di tipo mediterraneo e una flora specializzata
+5.  La **regione australiana** comprende l'Australia, con una flora di origine molto antica.
+6.  La **regione antartica**, che si estende alle isole Kerguelen, alle Falkland o Malvine, alle Macquarie, alla Nuova Zelanda e alla Patagonia, comprende numerose specie di licheni e poche specie di piante superiori.
 
 <table>
   <tr>
@@ -851,7 +851,7 @@ Da migliaia di anni, e in particolare dalla rivoluzione industriale, la specie u
 
 #### La riduzione della biodiversità
 
-Si definisce **biodiversità **il **numero totale delle diverse specie** (e quindi il totale dei patrimoni genetici) **presenti in un ambiente**, della cui integrità è indice diretto.
+Si definisce **biodiversità** il **numero totale delle diverse specie** (e quindi il totale dei patrimoni genetici) **presenti in un ambiente**, della cui integrità è indice diretto.
 
 Si stima che sulla Terra esistano da 5 a 30 milioni di specie vegetali e animali differenti, di cui ne sono state descritte solo 1,4 milioni. Le foreste pluviali, benché degradate dalle attività umane mantengono uno dei valori più alti di biodiversità (con più del 50% della biodiversità globale); al contrario, per esempio, un campo coltivato con una sola varietà di cereali ha una biodiversità molto bassa.
 
@@ -883,7 +883,7 @@ Inquinanti atmosferici sono anche i prodotti radioattivi artificiali dovuti, olt
 
 Gli inquinanti possono diffondere negli strati alti dell'atmosfera oppure precipitare al suolo, portati dalle correnti atmosferiche anche a grandi distanze dalla sorgente inquinante, causando diversi effetti.
 
-L'effetto serra **è il fenomeno per cui l'energia emessa dalla superficie terrestre verso lo spazio **(in prevalenza come radiazione infrarossa), **per bilanciare il flusso di energia ricevuta dal Sole**, **viene parzialmente assorbita da alcuni gas presenti nell'atmosfera** (detti **gas serra**; in particolare, il diossido di carbonio) **e da questi irradiata nuovamente verso la Terra**, come fanno i vetri di una serra.
+L'effetto serra **è il fenomeno per cui l'energia emessa dalla superficie terrestre verso lo spazio** (in prevalenza come radiazione infrarossa), **per bilanciare il flusso di energia ricevuta dal Sole**, **viene parzialmente assorbita da alcuni gas presenti nell'atmosfera** (detti **gas serra**; in particolare, il diossido di carbonio) **e da questi irradiata nuovamente verso la Terra**, come fanno i vetri di una serra.
 
 Questo fenomeno mantiene sulla superficie terrestre una temperatura media maggiore di quella che ci sarebbe in assenza di atmosfera e permette così la vita. Tuttavia l'aumento dell'emissione da parte delle attività umane dei gas serra (oltre al diossido di carbonio, il metano, il protossido di azoto e i clorofluorocarburi, o CFC) rafforza l'effetto serra e potrebbe portare come conseguenza a un progressivo aumento della temperatura sulla Terra con disastrose modificazioni climatiche e sul regime delle acque).
 
@@ -1061,7 +1061,7 @@ di ossigeno possono mescolarsi a quelle più superficiali, facendo abbassare il 
 
 _Eutrofizzazione nel fiume Potomac: il colore verdastro delle acque è causato da uno sviluppo eccessivo di cianobatteri_
 
-**Il petrolio è l'inquinante marino più diffuso **a causa della pratica delle petroliere di scaricare in mare le acque di lavaggio delle cisterne, degli incidenti non rari che coinvolgono petroliere e dell'estrazione di petrolio dalle piattaforme marine.
+**Il petrolio è l'inquinante marino più diffuso** a causa della pratica delle petroliere di scaricare in mare le acque di lavaggio delle cisterne, degli incidenti non rari che coinvolgono petroliere e dell'estrazione di petrolio dalle piattaforme marine.
 
 Le acque possono essere inquinate anche dal calore, principalmente a causa del crescente impiego di acqua nei processi di raffreddamento delle industrie e soprattutto delle centrali termoelettriche e nucleari; l'acqua di raffreddamento, riscaldatasi, viene alla fine immessa in corsi d'acqua o bacini lacustri. L'aumento della temperatura dell'acqua ha come primo effetto la diminuzione della solubilità dell'ossigeno; inoltre accelera i processi di sviluppo delle forme di vita acquatica accentuando i processi di eutrofizzazione. Gli effetti più gravi sono dovuti agli improvvisi abbassamenti di temperatura che provocano, negli animali ormai adattati a un ambiente più caldo, i cosiddetti "stress freddi", che possono anche essere letali.
 
@@ -1103,13 +1103,13 @@ _Inquinamento del mare in seguito ad una dispersione di petrolio_
 
 #### L'inquinamento e le alterazioni del suolo
 
-Lo smaltimento nelle discariche dei **rifiuti solidi urbani **comporta il degrado del territorio e il rischio di infiltrazioni nel terreno di sostanze tossiche; l'incenerimento dei rifiuti causa inquinamento atmosferico. È diventata pertanto in dispensabile la **raccolta differenziata** per effettuare quanto possibile il riciclo delle materie prime (carta, plastica, vetro...).
+Lo smaltimento nelle discariche dei **rifiuti solidi urbani** comporta il degrado del territorio e il rischio di infiltrazioni nel terreno di sostanze tossiche; l'incenerimento dei rifiuti causa inquinamento atmosferico. È diventata pertanto in dispensabile la **raccolta differenziata** per effettuare quanto possibile il riciclo delle materie prime (carta, plastica, vetro...).
 
 Altra fonte di inquinamento possono essere i **fanghi **provenienti dagli impianti di depurazione delle acque luride delle città e delle lavorazioni industriali.
 
-L'uso di **antiparassitari **e **fertilizzanti **può causare il **bioaccumulo **di** **sostanze tossiche (come arsenico, cadmio, piombo) nella catena alimentare.
+L'uso di **antiparassitari** e **fertilizzanti** può causare il **bioaccumulo** di **sostanze tossiche** (come arsenico, cadmio, piombo) nella catena alimentare.
 
-La **deforestazione **impoverisce il suolo, influisce sulla piovosità e causa un probabile aumento dell'effetto serra.
+La **deforestazione** impoverisce il suolo, influisce sulla piovosità e causa un probabile aumento dell'effetto serra.
 
 In vaste regioni, soprattutto tropicali, lo sfruttamento eccessivo dei terreni marginali per l'agricoltura o il pascolo porta alla **desertificazione**.
 
@@ -1137,9 +1137,9 @@ Oltre che all'educazione di ciascuno di noi, la tutela della natura è affidata 
 
 
 
-*   **UICN **(Unione Internazionale per la Conservazione della Natura): è un'istituzione internazionale indipendente, composta di Stati membri e istituzioni internazionali o private. Gode dell'appoggio dell'UNESCO e della FAO; promuove e sostiene azioni sul piano mondiale per tutelare la natura e le risorse naturali
-*   **UNESCO **(Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura): fra i molteplici campi di attività, molti riguardano i problemi di istruzione ed educazione al rispetto della natura, for- mazione di docenti e di ricercatori. 
-*   **FAO **(Organizzazione delle Nazioni Unite per l'Alimentazione e l'Agricoltura): organizza sul piano mondiale le attività riguardanti la produzione agricola per il miglioramento delle condizioni di vita dell'uomo, con particolare riguardo all'utilizzazione razionale del suolo, della fauna e della flora.
+*   **UICN** (Unione Internazionale per la Conservazione della Natura): è un'istituzione internazionale indipendente, composta di Stati membri e istituzioni internazionali o private. Gode dell'appoggio dell'UNESCO e della FAO; promuove e sostiene azioni sul piano mondiale per tutelare la natura e le risorse naturali
+*   **UNESCO** (Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura): fra i molteplici campi di attività, molti riguardano i problemi di istruzione ed educazione al rispetto della natura, for- mazione di docenti e di ricercatori. 
+*   **FAO** (Organizzazione delle Nazioni Unite per l'Alimentazione e l'Agricoltura): organizza sul piano mondiale le attività riguardanti la produzione agricola per il miglioramento delle condizioni di vita dell'uomo, con particolare riguardo all'utilizzazione razionale del suolo, della fauna e della flora.
 
 
 #### Gli istituti di conservazione del territorio

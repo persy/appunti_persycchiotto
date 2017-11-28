@@ -22,7 +22,7 @@ Si usa distinguere i comportamenti in due categorie: quelli innati, cioè determ
 
 ### Comportamenti innati
 
-I **comportamenti innati **(o **istintivi**) **sono controllati da fattori genetici e sono tipici della specie**. Vengono trasmessi di generazione in generazione e non sono influenzati da esperienze precedenti, da imitazioni o dall'apprendimento.
+I **comportamenti innati** (o **istintivi**) **sono controllati da fattori genetici e sono tipici della specie**. Vengono trasmessi di generazione in generazione e non sono influenzati da esperienze precedenti, da imitazioni o dall'apprendimento.
 
 Sono particolarmente importanti per le specie poco evolute, dotate di un sistema nervoso primitivo non adatto a immagazzinare esperienze.
 
@@ -31,9 +31,9 @@ Si riconoscono quattro forme di comportamento innato: cinesi, tassie, riflessi e
 
 #### Cinesi e tassie
 
-**Cinesi **e **tassie sono movimenti dell'intero organismo **in risposta a uno stimolo ambientale. Le cinesi si manifestano come variazioni di velocità di un movimento casuale. Un esempio di cinesi è rappresentato dagli animali che vivono nel terreno e prediligono luoghi umidi: non essendo in grado di individuare l'ambiente che garantisca loro la sopravvivenza, questi animali accelerano l'andatura in una direzione casuale e si arrestano quando hanno trovato una zona umida.
+**Cinesi **e **tassie sono movimenti dell'intero organismo** in risposta a uno stimolo ambientale. Le cinesi si manifestano come variazioni di velocità di un movimento casuale. Un esempio di cinesi è rappresentato dagli animali che vivono nel terreno e prediligono luoghi umidi: non essendo in grado di individuare l'ambiente che garantisca loro la sopravvivenza, questi animali accelerano l'andatura in una direzione casuale e si arrestano quando hanno trovato una zona umida.
 
-Le **tassie **sono movimenti orientati in una precisa direzione (di avvicinamento o di allontanamento dalla sorgente di uno stimolo); un esempio di tassia si riscontra nelle falene, che vengono attratte da un lampione acceso.
+Le **tassie** sono movimenti orientati in una precisa direzione (di avvicinamento o di allontanamento dalla sorgente di uno stimolo); un esempio di tassia si riscontra nelle falene, che vengono attratte da un lampione acceso.
 
 
 #### L'etologia
@@ -54,7 +54,7 @@ I **riflessi sono movimenti di una sola parte del corpo**, spesso rapidi e che n
 
 #### Moduli di azione fissa
 
-I **moduli di azione fissa si manifestano in presenza di un preciso stimolo **(**stimolo chiave**, o _releaser_) e sono caratterizzati da una rigida sequenza di movimenti,che una volta innescata viene completata anche se lo stimolo cessa. Gli studi sui moduli di azione fissa vengono in genere compiuti su animali isolati dagli altri in età precoce, valutando le loro reazioni a stimoli chiave e comparandole con quelle di animali della stessa specie allevati in condizioni normali.
+I **moduli di azione fissa si manifestano in presenza di un preciso stimolo** (**stimolo chiave**, o _releaser_) e sono caratterizzati da una rigida sequenza di movimenti,che una volta innescata viene completata anche se lo stimolo cessa. Gli studi sui moduli di azione fissa vengono in genere compiuti su animali isolati dagli altri in età precoce, valutando le loro reazioni a stimoli chiave e comparandole con quelle di animali della stessa specie allevati in condizioni normali.
 
 La scoperta dei moduli di azione fissa ha permesso di constatare che ciascuna specie possiede un repertorio tipico di movimenti più o meno stereotipati. Esempi di moduli di azione fissa sono la modalità di richiesta di cibo dei piccoli e i rituali di corteggiamento, spesso molto complicati (come nell'albatro o nello svasso minore).
 
@@ -94,14 +94,14 @@ Qualora un animale apprenda nel proprio ambiente naturale un certo comportamento
 
 #### Assuefazione
 
-L**'assuefazione è la perdita graduale di reazione a uno stimolo innocuo ripetuto**. A differenza delle altre forme di apprendimento, comporta la perdita di risposta a uno stimolo.
+**L'assuefazione è la perdita graduale di reazione a uno stimolo innocuo ripetuto**. A differenza delle altre forme di apprendimento, comporta la perdita di risposta a uno stimolo.
 
 Grazie all'assuefazione gli animali non perdono tempo ed energia per rispondere a uno stimolo che non arreca loro né vantaggi né danni. Così, per esempio, gli uccelli imparano a ignorare uno spaventapasseri che inizialmente li dissuadeva dal posarsi su un campo.
 
 
 #### Intuito
 
-L**'intuito consente a un animale di risolvere una situazione nuova applicando le esperienze fatte in passato**, senza ricorrere a tentativi preliminari. È la forma più elevata di apprendimento ed è tipica dell'uomo. È stata studiata dal punto di vista etologico inizialmente negli scimpanzé ed è riscontrata in altri animali, quali i piccioni.
+**L''intuito consente a un animale di risolvere una situazione nuova applicando le esperienze fatte in passato**, senza ricorrere a tentativi preliminari. È la forma più elevata di apprendimento ed è tipica dell'uomo. È stata studiata dal punto di vista etologico inizialmente negli scimpanzé ed è riscontrata in altri animali, quali i piccioni.
 
 L'esperimento che ha dimostrato questa forma di apprendimento chiedeva a uno scimpanzé di trovare il modo per raggiungere delle banane poste sul soffitto di una gabbia. Lo scimpanzé, osservando l'ambiente, veniva attratto da alcune casse situate nella gabbia e grazie all'intuito capiva che se le impilava una sopra l'altra, queste potevano diventare uno strumento per raggiungere le banane.
 
@@ -130,7 +130,7 @@ A seconda degli organi sensoriali attraverso cui vengono recepiti gli stimoli, l
 
 La **comunicazione chimica è il tipo di comunicazione animale più primitivo** e quello più difficile da osservare, essendo basato sull'emissione di sostanze chimiche spesso in piccolissima concentrazione. Particolarmente importante nel comportamento sessuale e territoriale di molte specie è l'uso di sostanze chimiche complesse, i ferormoni.
 
-I **feromoni **sono composti di natura organica che vengono immessi nell'ambiente in piccole quantità da apposite ghian- dole; essendo molto volatili, i ferormoni hanno un elevato rendimento: possono aggirare gli ostacoli, raggiungere grandi distanze (fino a diversi chilometri) e permanere a lungo.
+I **feromoni** sono composti di natura organica che vengono immessi nell'ambiente in piccole quantità da apposite ghian- dole; essendo molto volatili, i ferormoni hanno un elevato rendimento: possono aggirare gli ostacoli, raggiungere grandi distanze (fino a diversi chilometri) e permanere a lungo.
 
 Vengono impiegati, tra l'altro, per attirare il compagno, segnalare una pista, delimitare dei confini e riconoscere i membri del proprio gruppo.
 
@@ -149,7 +149,7 @@ Come è evidente, la comunicazione tra animali della stessa specie svolge una fu
 
 In tre situazioni gli animali mettono in atto comportamenti particolarmente complessi: la difesa del territorio, la competizione per una risorsa e il corteggiamento.
 
-Gli animali occupano un territorio con confini ben precisi, all'interno del quale trovano rifugio, cibo, partner e allevano la prole. La **territorialità **è l'insieme dei **comportamenti manifestati da un animale in difesa del proprio territorio**. Può essere **interspecifica **se è rivolta contro individui di specie diversa; **intraspecifica **se si rivolge contro animali della stessa specie.
+Gli animali occupano un territorio con confini ben precisi, all'interno del quale trovano rifugio, cibo, partner e allevano la prole. La **territorialità **è l'insieme dei **comportamenti manifestati da un animale in difesa del proprio territorio**. Può essere **interspecifica** se è rivolta contro individui di specie diversa; **intraspecifica** se si rivolge contro animali della stessa specie.
 
 La difesa viene in genere attuata con scontri diretti nel momento in cui il territorio viene definito. Una volta conquistato il territorio, sono più frequenti manifestazioni indirette di territorialità, quali la demarcazione con urina, saliva o secrezioni ghiandolari (nei mammiferi), richiami canori (uccelli) o particolari comportamenti (tamburellare dei picchi, battersi il petto dei gorilla).
 
@@ -173,7 +173,7 @@ I sistemi sociali si sono evoluti, raggiungendo il massimo grado di complessità
 
 Alcuni insetti (api, formiche e termiti) hanno sviluppato complesse società caratterizzate dalla rigida ripartizione degli individui in caste. Fin dalla nascita un individuo viene destinato a una determinata casta, programmata per svolgere una precisa funzione.
 
-Le **società delle api **si compongono di una regina (la sola femmina fertile), pochi maschi (il cui unico compito è fecondare la regina) e migliaia di operaie, alle quali spettano tutte le mansioni necessarie al sostentamento dell'alveare.
+Le **società delle api** si compongono di una regina (la sola femmina fertile), pochi maschi (il cui unico compito è fecondare la regina) e migliaia di operaie, alle quali spettano tutte le mansioni necessarie al sostentamento dell'alveare.
 
 Le api operaie sono in grado di comunicare tra loro la presenza di una fonte di cibo e la sua distanza dall'alveare attraverso la cosiddetta "danza delle api"
 
