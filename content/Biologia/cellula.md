@@ -15,10 +15,8 @@ Tutti gli esseri viventi sono costituiti da cellule, corpuscoli delimitati da un
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/La-cellula0.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cork_Micrographia_Hooke.png/415px-Cork_Micrographia_Hooke.png)
 
 
 _Disegno della struttura del sughero così come apparve a Robert Hooke, che la osservò in un rudimentale microscopio. Tale immagine, contenuta nella sua opera Micrographia, è all'origine dell'utilizzo del termine cellula per indicare l'unità fondamentale degli organismi viventi_
@@ -40,10 +38,9 @@ cellula. Solo nella prima metà del XIX secolo si scoprì che si compongono di c
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/La-cellula1.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Struttura_della_cellula_animale.svg/700px-Struttura_della_cellula_animale.svg.png)
 
 
 _Schema di una cellula animale_
@@ -52,7 +49,7 @@ _Schema di una cellula animale_
 
 Ogni cellula possiede almeno tre componenti fondamentali: il **materiale genetico** (acido desossiribonucleico, o DNA), circondato da una matrice fluida detta **citoplasma**, il tutto
 
-racchiuso da una** membrana plasmatica**, un sottile involucro che la separa dall'esterno.
+racchiuso da una **membrana plasmatica**, un sottile involucro che la separa dall'esterno.
 
 Il numero di cellule che formano un individuo varia da 1 negli **organismi unicellulari**, a migliaia di miliardi negli **organismi pluricellulari** (10<sup>28</sup> nell'uomo). Negli organismi unicellulari la singola cellula adempie a tutti i compiti fondamentali per la vita, in quelli pluricellulari l'insieme di cellule si differenzia, specializzandosi nello svolgimanto di parti-
 
@@ -65,10 +62,8 @@ Negli organismi pluricellulari le cellule hanno **forma molto varia** (in rappor
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/La-cellula2.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Celltypes.svg/640px-Celltypes.svg.png)
 
 
 _Differenze fondamentali tra cellula eucariote e procariote_
@@ -385,10 +380,9 @@ Si definisce **membrana plasmatica** (o **cellulare**) **un involucro** dello sp
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/La-cellula3.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cell_membrane_detailed_diagram_4_it.svg/511px-Cell_membrane_detailed_diagram_4_it.svg.png)
 
 
 _Il modello a mosaico fluido della membrana plasmatica_
@@ -427,10 +421,8 @@ Il **nucleo** è una struttura esclusiva delle cellule eucarioti. Ha forma press
 
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula4.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/La-cellula4.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/it/f/f0/Schema_nucleo_cellulare.jpg)
 
 
 _Schema del nucleo cellulare e del reticolo endoplasmatico annesso_
@@ -454,13 +446,11 @@ Nel citoplasma delle cellule eucarioti sono incluse numerose **strutture citopla
 
 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula5.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nucleus_ER_golgi.svg/492px-Nucleus_ER_golgi.svg.png)
 
 
-![alt_text](images/La-cellula5.png "image_tooltip")
-
-
-_Schema del percorso secretorio tra nucleo, reticolo endoplasmatico e apparato del Golgi: 1.Membrana nucleare; 2.Poro nucleare; 3.Reticolo endoplasmatico rugoso (RER); 4.Reticolo endoplasmatico liscio (REL); 5.Ribosoma legato al RER; 6.Macromolecole; 7.Vescicole di trasporto; 8.Apparato di Golgi; 9.Faccia Cis dell'apparato di Golgi; 10.Faccia Trans dell'apparato di Golgi; 11.Cisterne del Golgi._
+_Schema del percorso secretorio tra nucleo, reticolo endoplasmatico e apparato del Golgi: 1. Membrana nucleare; 2. Poro nucleare; 3. Reticolo endoplasmatico rugoso (RER); 4. Reticolo endoplasmatico liscio (REL); 5. Ribosoma legato al RER; 6. Macromolecole; 7. Vescicole di trasporto; 8. Apparato di Golgi; 9. Faccia Cis dell'apparato di Golgi; 10. Faccia Trans dell'apparato di Golgi; 11. Cisterne del Golgi._
 
 Nella cellula eucariote animale le strutture citoplasmatiche comprendono:
 
@@ -485,10 +475,7 @@ I **lisosomi** sono vescicole che derivano dall'apparato di Golgi e **contengono
 
 
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula6.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/La-cellula6.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mitochondrie.svg/320px-Mitochondrie.svg.png)
 
 
 _Schema di un mitocondrio: 1. membrana interna, 2. membrana esterna, 3. cresta, 4 matrice_
@@ -503,10 +490,8 @@ I **centrioli** sono strutture cave di forma cilindrica, costituiti da 9 triplet
 
 
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula7.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/La-cellula7.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bronchiolar_epithelium_4_-_SEM.jpg/585px-Bronchiolar_epithelium_4_-_SEM.jpg)
 
 
 _Ciglia dell'epitelio di un polmone (microscopio a scansione)_
@@ -520,10 +505,8 @@ La cellula vegetale possiede alcune strutture esclusive, tra cui una parete cell
 
 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula8.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/La-cellula8.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Struttura_della_cellula_vegetale.svg/700px-Struttura_della_cellula_vegetale.svg.png)
 
 
 _Struttura della cellula vegetale_
@@ -536,13 +519,12 @@ I **cloroplasti provvedono al rifornimento dell'energia necessaria alla cellula*
 
 
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula9.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/La-cellula9.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/4/49/Plagiomnium_affine_laminazellen.jpeg)
 
 
-_Cloroplasto_
+_Cellule vegetali al cui interno sono visibili i cloroplasti_
 
 I **cromoplasti** contengono il pigmento rosso-arancione carotene; sono presenti nei fiori e nei frutti e servono ad attirare gli insetti per consentire l'impollinazione.
 
@@ -550,7 +532,7 @@ I **leucoplasti** sono privi di pigmenti e perciò bianchi; si trovano per esemp
 
 I **vacuoli** sono **cavità nelle quali si accumulano acqua, prodotti di rifiuto o sostanze nutritive**. Le cellule vegetali spesso presentano un unico, grosso vacuolo centrale ripieno d'acqua, che occupa fino al 90% dello spazio interno e che, premendo sulla membrana plasmatica, contribuisce a mantenere turgida la cellula.
 
-<immagine cellula vegetale>
+
 
 
 ### Il differenziamento delle cellule negli organismi pluricellulari
@@ -561,10 +543,9 @@ Negli organismi unicellulari l'unica cellula deve svolgere da sola tutte le funz
 
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula10.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/La-cellula10.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Figure_04_02_02.jpg/800px-Figure_04_02_02.jpg)
 
 
 _Dall'atomo all'organismo_
@@ -592,7 +573,7 @@ le. **Per le sue caratteristiche selettive riguardo il passaggio di molecole e i
 <p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula11.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/La-cellula11.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/8/86/TrasportoMembrana.png)
 
 
 _Alcune delle possibilità di movimento di molecole tra citoplasma (1) e spazio extracellulare (2). Trasporto passivo: A. Diffusione; B. Diffusione facilitata; Trasporto attivo:_
@@ -672,10 +653,9 @@ Il meccanismo attraverso il quale si compie la fotosintesi può essere scisso in
 
 
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula12.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/La-cellula12.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Reazioni_luce-dipendenti.png/800px-Reazioni_luce-dipendenti.png)
 
 
 Le reazioni della fase luce dipendente della fotosintesi clorofilliana.
@@ -691,10 +671,9 @@ Anche il fotosistema I viene raggiunto dall'energia solare e la clorofilla-centr
 
 
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula13.gif). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/La-cellula13.gif "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/f/f9/HatchSlackpathway.png)
 
 
 _Schema riassuntivo delle reazioni della fase luminosa e della fase oscura della fotosintesi_
@@ -703,10 +682,9 @@ Durante il ciclo di Calvin-Benson, una molecola di ribulosio difosfato (RuBP), u
 
 
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula14.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/La-cellula14.jpg "image_tooltip")
+![alt_text]https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Calvin-cycle3.png/699px-Calvin-cycle3.png)
 
 
 _Ciclo di Calvin_
@@ -735,10 +713,10 @@ La **respirazione cellulare è un processo aerobico che comporta la formazione d
 
 
 
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula15.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/La-cellula15.jpg "image_tooltip")
+
+![alt_text](https://odobiochem.files.wordpress.com/2016/03/ciclo-di-krebs-nel-contesto-della-respirazione-cellulare-aerobica.jpg?w=760)
 
 
 _Schema della respirazione cellulare_
@@ -758,17 +736,13 @@ Il ciclo di Krebs consiste in una serie di reazioni in cui sono convogliati i pr
 
 
 
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula16.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ciclo_di_Krebs.svg/719px-Ciclo_di_Krebs.svg.png)
 
 
-![alt_text](images/La-cellula16.png "image_tooltip")
+_Schema del Ciclo di Krebs_
 
-
-_Schema del Ciclo di Krebs _
-
-Tali prodotti, trasformati in **acido piruvico**, sono immessi nel ciclo sotto forma di acetil-coenzima A (o **acetil-CoA**), molecola ottenuta dall'unione di un gruppo acetilico (a 2 atomi di carbonio) con il coenzima A, presente all'interno dei mitocondri. Nella prima delle nove reazioni di cui si compone il ciclo, l'acetil-CoA reagisce con l'ossalacetato, formando
-
-un composto a 6 atomi di carbonio: l'acido citrico. Questo viene ossidato nel corso delle reazioni successive formando diversi composti intermedi, fino alla riformazione della molecola di ossalacetato che "chiude" un giro del ciclo.
+Tali prodotti, trasformati in **acido piruvico**, sono immessi nel ciclo sotto forma di acetil-coenzima A (o **acetil-CoA**), molecola ottenuta dall'unione di un gruppo acetilico (a 2 atomi di carbonio) con il coenzima A, presente all'interno dei mitocondri. Nella prima delle nove reazioni di cui si compone il ciclo, l'acetil-CoA reagisce con l'ossalacetato, formandoun composto a 6 atomi di carbonio: l'acido citrico. Questo viene ossidato nel corso delle reazioni successive formando diversi composti intermedi, fino alla riformazione della molecola di ossalacetato che "chiude" un giro del ciclo.
 
 Le ossidazioni avvengono attraverso l'azione di coenzimi, detti anche trasportatori di elettroni, che vengono ridotti, ossia assumono gli elettroni carichi di energia provenienti dalla rottura dei legami. I coenzimi coinvolti sono NAD (nicotinammide-adenin-dinucleotide) e FAD (flavin-adenin-dinu-cleotide) i quali, riducendosi, diventano rispettivamente NADH e FADH.
 
@@ -857,7 +831,7 @@ Gli acidi nucleici, **DNA** (**acido desossiribonucleico**) e **RNA** (**acido r
 <p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula17.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/La-cellula17.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Nucleotides_1-it.svg/800px-Nucleotides_1-it.svg.png)
 
 
 _Elementi costituitivi dei nucleotidi_
@@ -870,10 +844,7 @@ Il DNA è presente nel nucleo di tutte le cellule, di cui porta il codice geneti
 
 
 
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula18.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/La-cellula18.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/DNA_Overview_it.png/239px-DNA_Overview_it.png)
 
 
 _Struttura a doppia elica del DNA_
@@ -885,10 +856,7 @@ Grazie agli studi compiuti nel 1953 da due scienziati, l'inglese Francis Crick (
 
 
 
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula19.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/La-cellula19.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/DNA_chemical_structure_it.svg/514px-DNA_chemical_structure_it.svg.png)
 
 
 _Struttura chimica del DNA. Le sequenze possono essere definite senso e non senso._
@@ -914,10 +882,8 @@ L'**RNA ribosomiale** si lega ad alcune proteine per formare i ribosomi, organul
 
 
 
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula20.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/La-cellula20.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/f/fb/MRNA-interaction.png)
 
 
 _Il "ciclo vitale" di un mRNA in una cellula eucariote. L'RNA è trascritto nel nucleo cellulare; dopo essere stato completamente modificato viene trasportato nel citoplasma e tradotto da un ribosoma. Alla fine della sua vita l'mRNA viene degradato._
@@ -968,10 +934,8 @@ Il codice genetico è il sistema per cui le informazioni genetiche codificate ne
 
 
 
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula21.gif). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/La-cellula21.gif "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/GeneticCode21-version-2.svg/791px-GeneticCode21-version-2.svg.png)
 
 
 _Tabella codifica codoni nel DNA_
@@ -1001,7 +965,7 @@ La **traduzione è lo stadio della sintesi proteica in cui le istruzioni portate
 
 La traduzione ha luogo nel ribosoma (formato da r-RNA e proteine), composto da due subunità: quella piccola contiene un sito di legame per l'm-RNA; quella grande ha due siti di legame per due molecole di t-RNA e un sito che catalizza la formazione del legame peptidico tra due amminoacidi adiacenti.
 
-<processo traduzione>
+
 
 Ogni molecola di t-RNA è specifica per un unico amminoacido ed è in grado di riconoscere sia l'amminoacido che deve trasportare, sia il codone complementare di m-RNA associato al ribosoma.
 
@@ -1012,11 +976,7 @@ Il t-RNA di inizio si stacca dal ribosoma mentre il dipeptide (i due amminoacidi
 all'ultimo t-RNA. Il processo di allungamento della catena polipeptidica prosegue in questo modo finché tutte le triplette sono state tradotte e viene raggiunto il codone di "fine lettura". La proteina completa si stacca dal ribosoma e specifici enzimi scindono il legame con la metionina.
 
 
-
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula22.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/La-cellula22.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ribosome_mRNA_translation_it.svg/651px-Ribosome_mRNA_translation_it.svg.png)
 
 
 _Rappresentazione della traduzione e sintesi proteica nel ribosoma_
@@ -1034,10 +994,8 @@ Si forma così un nuovo filamento di DNA complementare al DNA che fa da "stampo"
 
 
 
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula23.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/La-cellula23.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/DNA_replication_it.svg/640px-DNA_replication_it.svg.png)
 
 
 _La replicazione del DNA_
@@ -1048,9 +1006,7 @@ Nelle cellule procarioti, in cui il DNA è circolare, la replicazione inizia in 
 
 Per il corretto funzionamento delle cellule figlie è importante che la replicazione avvenga con il minor numero possibile di errori: l'enzima DNA-polimerasi ha la funzione di impedire o rimuovere appaiamenti sbagliati di nucleotidi. Nonostante ciò, durante la replicazione si possono verificare errori, anche se con una frequenza molto bassa (un nucleotide sbagliato su 100 milioni appaiati correttamente).
 
-Questi errori provocano un cambiamento nella sequenza delle basi azotate, e di conseguenza dell'informazione genetica, e sono detti mutazioni. Le mutazioni sono alla base
-
-della variabilità genetica.
+Questi errori provocano un cambiamento nella sequenza delle basi azotate, e di conseguenza dell'informazione genetica, e sono detti mutazioni. Le mutazioni sono alla base della variabilità genetica.
 
 
 ## La riproduzione della cellula
@@ -1071,13 +1027,10 @@ Al termine di un ciclo cellulare si formano due cellule figlie identiche alla ce
 
 
 
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula24.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chromosome.svg/487px-Chromosome.svg.png)
 
 
-![alt_text](images/La-cellula24.png "image_tooltip")
-
-
-_Disegno di un Cromosoma eucariote duplicato e in metafase (1) Cromatidio – una delle due parti identiche dopo la fase G2. (2) Centromero – il punto di contatto dei due cromatidi e dove si legano i microtubuli. (3) Braccio corto. (4) Braccio lungo_
+_Disegno di un cromosoma eucariote duplicato e in metafase (1) Cromatidio – una delle due parti identiche dopo la fase G2. (2) Centromero – il punto di contatto dei due cromatidi e dove si legano i microtubuli. (3) Braccio corto. (4) Braccio lungo_
 
 Nella maggior parte delle cellule (cellule somatiche) si trovano coppie di cromosomi (ciascun membro della coppia è detto cromosoma omologo) con la stessa forma, la stessa lunghezza e un'informazione genetica molto simile: uno di origine paterna e uno di origine materna. **Si definisce diploide la cellula che possiede coppie di cromosomi omologhi**. Il numero dei cromosomi nelle cellule diploidi è caratteristico di ogni specie (nell'uomo è 46).
 
@@ -1094,10 +1047,7 @@ La **divisione cellulare** si compone di due processi distinti: la divisione nuc
 
 
 
-<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula25.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/La-cellula25.jpg "image_tooltip")
+![alt_text](https://mattiasegu.files.wordpress.com/2013/03/mitosi-meiosi.jpg)
 
 
 _Fasi della mitosi e della meiosi_
@@ -1130,13 +1080,11 @@ Alla telofase i cromatidi si despiralizzano per formare l'intreccio di filamenti
 
 
 
-<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula26.gif). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/La-cellula26.gif "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/9/91/Anaphase_IF.jpg)
 
-
-_Mitosi al icroscopio a scansione_
+_Cellula in anafase_
 
 
 #### La citodieresi
@@ -1163,10 +1111,8 @@ Dopo la meiosi I le cellule figlie entrano nell'interfase, durante la quale si a
 
 
 
-<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/La-cellula27.gif). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/La-cellula27.gif "image_tooltip")
 
 
 

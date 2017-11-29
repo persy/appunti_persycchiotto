@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riassunti on Appunti di Persycchiotto</title>
+    <link>http://www.persycchiotto.it/riassunti/</link>
+    <description>Recent content in Riassunti on Appunti di Persycchiotto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="http://www.persycchiotto.it/riassunti/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Orgoglio e Pregiudizio</title>
+      <link>http://www.persycchiotto.it/riassunti/orgoglio_e_pregiudizio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.persycchiotto.it/riassunti/orgoglio_e_pregiudizio/</guid>
+      <description>Introduzione Orgoglio e Pregiudizio è senz’altro il più noto romanzo di Jane Austen, ed è tra i romanzi più conosciuti e letti al mondo. Tra le tematiche principali di Orgoglio e Pregiudizio - tutte sviluppate dalla tipica ironia della scrittrice - si possono indicare il percorso di formazione e maturazione di una giovane donna (Elizabeth Bennet, detta Lizzy, una giovane ventunenne che Jane Austen tratteggia cogliendone le molteplici sfumature psicologiche e caratteriali), la presa di coscienza da parte dei protagonisti degli errori e delle false convinzioni che li condizionano nei rapporti con gli altri (dall&amp;rsquo;&amp;ldquo;orgoglio&amp;rdquo; di Darcy al &amp;ldquo;pregiudizio&amp;rdquo; di Elizabeth&amp;hellip;), la rappresentazione dello stile di vita della classe media inglese di inizio Ottocento.</description>
+    </item>
+    
+    <item>
+      <title>Frankenstein</title>
+      <link>http://www.persycchiotto.it/riassunti/frankenstein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.persycchiotto.it/riassunti/frankenstein/</guid>
+      <description>Introduzione Frankenstein o il Moderno Prometeo (Frankenstein or the Modern Prometheus) è opera della scrittrice inglese Mary Shelley (1797-1851), moglie del poeta romantico Percy Bysshe Shelley (1792-1822), delle cui opere è anche curatrice. Il padre di Mary, William Godwin (1756-1836), è un importante filosofo politico e la madre, Mary Wollstonecraft (1759-1797), una delle prime pensatrici femministe inglesi. Frankenstein viene pubblicato anonimamente nel 1818 (con una prefazione del marito e una dedica al padre), ma nel 1823 esce in Francia una seconda edizione del romanzo, questa volta con il nome dell’autrice.</description>
+    </item>
+    
+    <item>
+      <title>Don Chisciotte</title>
+      <link>http://www.persycchiotto.it/riassunti/don_chisciotte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.persycchiotto.it/riassunti/don_chisciotte/</guid>
+      <description>Introduzione Il Don Chisciotte della Mancia (nel titolo originale, El ingenioso hidalgo don Quijote de la Mancha) è un romanzo dello scrittore spagnolo Miguel de Cervantes Saavedra (1547-1616), pubblicata in due volumi a dieci anni di distanza l’uno dall’altro: il primo nel 1605, il secondo nel 1615. Il Don Chisciotte descrive le tragicomiche avventure di un hidalgo spagnolo (cioè, un esponente della piccola nobiltà), che si immedesima nelle figure dei romanzi cavallereschi e diventa così don Chisciotte.</description>
+    </item>
+    
+  </channel>
+</rss>

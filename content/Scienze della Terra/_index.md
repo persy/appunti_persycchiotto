@@ -3,7 +3,8 @@ title: "Scienze della Terra"
 draft: false
 ---
 
-Qui verranno messi gli appunti di Scienze della Terra.
+La sezione di Scienze della Terra contiene le seguenti sezioni principali:
+
 
  1. [Introduzione](scienze_della_terra_intro)
  2. [Astronomia fondamentale](astronomia_fondamentale)

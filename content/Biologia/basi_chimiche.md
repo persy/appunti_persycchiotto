@@ -196,10 +196,9 @@ Gli elettroni si muovono intorno al nucleo in regioni dello spazio dette orbital
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Le-basi0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Le-basi0.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Atom.svg/267px-Atom.svg.png)
 
 
 _Rappresentazione schematica di un atomo di elio. Attorno al nucleo, composto da due neutroni (in verde) e due protoni (in rosso), ruotano gli elettroni (in giallo)._
@@ -236,10 +235,10 @@ Un particolare tipo di interazione dipolo-dipolo è il **legame a idrogeno**, ch
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Le-basi1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Le-basi1.png "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/it/b/b6/Legami_a_idrogeno_3D.png)
 
 
 _Formazione dei legami a idrogeno tra le molecole di acqua a struttura dipolare_
@@ -747,10 +746,10 @@ Le **proteine sono composti a elevata massa molecolare** (macromolecole) **che d
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Le-basi2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Le-basi2.png "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/it/c/c5/Nuovo-33.png)
 
 
 _Formazione di un dipeptide da due amminoacidi_
@@ -766,10 +765,8 @@ In una molecola proteica si possono individuare quattro livelli di organizzazion
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Le-basi3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Le-basi3.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/a/a6/Protein-structure.png)
 
 
 _Dall'alto verso il basso: rappresentazione della struttura primaria, secondaria, terziaria e quaternaria di una proteina._
@@ -1119,10 +1116,8 @@ In ogni organismo e ogni cellula di un organismo, tuttavia, il risultato delle r
 
 
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Le-basi4.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Le-basi4.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Increasing_disorder.svg/800px-Increasing_disorder.svg.png)
 
 
 _Rappresentazione di un sistema (costituito da due gas differenti) in cui si ha aumento di entropia._
@@ -1140,10 +1135,8 @@ Non è detto, tuttavia, che le reazioni spontanee possano procedere con una velo
 
 
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Le-basi5.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Le-basi5.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/f/fb/Activeringsenergie.png)
 
 
 _Energia posseduta da un sistema prima dello svolgimento di una reazione (a sinistra), durante l'innesco della reazione (in corrispondenza del picco) e dopo lo svolgimento della reazione (a destra)._
@@ -1240,10 +1233,9 @@ Data la grande specificità del sito attivo, il modello del meccanismo enzima-su
 
 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Le-basi6.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Le-basi6.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/CatalysisScheme.png/640px-CatalysisScheme.png)
 
 
 _La catalisi è un fenomeno chimico-fisico per cui particolari sostanze, dette catalizzatori, provocano, anche se presenti in quantità minime, un aumento della velocità di una reazione, senza apparentemente prendervi parte. L'azione di un catalizzatore si esplica in quanto diminuisce l'energia di attivazione, cioè la barriera energetica che i reagenti devono superare per trasformarsi in prodotti. Esistono anche catalizzatori detti negativi (o inibitori), che diminuiscono la velocità di una reazione. La natura chimica del catalizzatore è altamente specifica per una determinata reazione (o per reazioni dello stesso tipo). La catalisi è detta enzimatica quando è operata da particolari catalizzatori biologici, gli enzimi (costituiti da complesse molecole proteiche), che presiedono in modo assai selettivo allo svolgimento dei processi biochimici che avvengono negli or-ganismi viventi._
@@ -1261,10 +1253,8 @@ esempio, all'attacco di alcuni gruppi fosforici o di altri gruppi (reazioni a lo
 
 
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Le-basi7.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Le-basi7.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Diagramma_adattamento_indotto.svg/640px-Diagramma_adattamento_indotto.svg.png)
 
 
 _Meccanismo di azione di un enzima: il sito attivo si lega alla molecola di substrato, formando un complesso enzima-substrato che favorisce la scissione del substrato nei prodotti finali._
@@ -1276,10 +1266,8 @@ Le reazioni endoergoniche non sono spontanee e possono avvenire solo mediante ap
 
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Le-basi8.gif). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Le-basi8.gif "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/b/bd/AdenosineTriphosphate.qutemol.gif)
 
 
 _Modello 3D dell'ATP_
@@ -1294,10 +1282,9 @@ L'ATP funge così da accumulatore di energia destinata a essere spesa a breve te
 
 
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Le-basi9.gif). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Le-basi9.gif "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ADP_ATP_cycle.png/800px-ADP_ATP_cycle.png)
 
 
 _Ciclo dell'ATP nelle cellule_
