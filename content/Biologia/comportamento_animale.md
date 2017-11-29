@@ -184,11 +184,3 @@ Fra le termiti si riconosce una quarta casta, quella dei soldati, individui prov
 Al contrario di quanto avviene tra gli insetti, **nei mammiferi le società sono dinamiche**, organizzate in maniera poco rigida e adattabili. I componenti del gruppo sono distinti secondo una gerarchia di dominanza che non è immutabile e può essere messa in discussione qualora l'individuo dominante muoia o venga sostituito per vecchiaia o inabilità. I compiti sono ripartiti, ma ciascun individuo mantiene un elevato grado di autonomia. Molto importante è la gerarchia di dominanza nei confronti della precedenza nell'accoppiamento.
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Il-comportamento0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Il-comportamento0.png "image_tooltip")
-
-
-_Le api e le loro danze per determinare la distanza dei fiori dall'alveare_

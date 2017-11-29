@@ -77,10 +77,7 @@ La teoria dell'evoluzione ebbe grande impatto sul pensiero dell'800 e, in partic
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e0.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Evoluzione-e0.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Darwin%27s_finches_by_Gould.jpg/795px-Darwin%27s_finches_by_Gould.jpg)
 
 
 _Le varie specie di fringuello delle Isole Galapagos derivano dallo stesso antenato comune_
@@ -96,10 +93,8 @@ Dopo la morte di Darwin la teoria evolutiva fu sostenuta con fermezza o fortemen
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e1.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e1.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/a/af/LimestoneWithFossilUSGOV.jpg)
 
 
 _Calcare con resti fossili di bivalvi presenti come impronte del guscio_
@@ -113,30 +108,30 @@ _Calcare con resti fossili di bivalvi presenti come impronte del guscio_
    <td>
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e2.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/Evoluzione-e2.jpg" width="" alt="alt_text" title="image_tooltip">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/640px-White_shark.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Squalo (Chondrichthyes)</em>
    </td>
    <td>
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e3.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/Evoluzione-e3.jpg" width="" alt="alt_text" title="image_tooltip">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dolphind.jpg/640px-Dolphind.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Delfino (Mammalia)</em>
    </td>
    <td>
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e4.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/Evoluzione-e4.jpg" width="" alt="alt_text" title="image_tooltip">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Ichthyosaurus_h_harder.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Ittiosauro (Reptilia)</em>
@@ -153,13 +148,12 @@ _Animali marini: gli squali, appartenenti alla classe dei pesci cartilaginei, i 
 
 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e5.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e5.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Homology_vertebrates-en.svg/640px-Homology_vertebrates-en.svg.png)
 
 
-_L'omologia degli arti nei vertebrati _
+_L'omologia degli arti nei vertebrati_
 
 
 
@@ -167,10 +161,9 @@ _L'omologia degli arti nei vertebrati _
 
 
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e6.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e6.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/d/de/Membrana_nittitante.jpg)
 
 
 _Plica semilunare, residuo della membrana nittitante che in altri mammiferi, negli uccelli, nei rettili e negli anfibi è molto più sviluppata e può essere distesa sull'occhio, a palpebra aperta, svolgendo una funzione di protezione e lubrificazione._
@@ -182,10 +175,8 @@ _Plica semilunare, residuo della membrana nittitante che in altri mammiferi, neg
 
 
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e7.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e7.jpg "image_tooltip")
+![alt_text](https://matthew2262.files.wordpress.com/2012/07/embryo-drawings.jpg)
 
 
 _Somiglianza fra embrioni (fila in alto), fra pesci, salamandra, tartaruga, gallina, maiale, vacca, coniglio e umano_
@@ -196,13 +187,12 @@ _Somiglianza fra embrioni (fila in alto), fra pesci, salamandra, tartaruga, gall
 
 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e8.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e8.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/CollapsedtreeLabels-simplified.svg/800px-CollapsedtreeLabels-simplified.svg.png)
 
 
-_Un cladogranma che collega tutti i gruppi importanti di organismi viventi al LUA (il tronco (segmento) nero nella parte inferiore). Questo grafico è derivato dalla sequenza del RNA ribosomico._
+_Un cladogramma che collega tutti i gruppi importanti di organismi viventi al LUA (il tronco (segmento) nero nella parte inferiore). Questo grafico è derivato dalla sequenza del RNA ribosomico._
 
 
 
@@ -211,10 +201,9 @@ _Un cladogranma che collega tutti i gruppi importanti di organismi viventi al LU
 
 
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e9.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e9.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Animal_diversity_October_2007.jpg/500px-Animal_diversity_October_2007.jpg)
 
 
 _La biodiversità_
@@ -225,10 +214,8 @@ _La biodiversità_
 
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e10.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e10.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Horseevolution.png/632px-Horseevolution.png)
 
 
 _Evoluzione del cavallo_
@@ -288,7 +275,7 @@ La **deriva genetica** è la fluttuazione della frequenza allelica in una piccol
 <p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e11.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e11.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Population_bottleneck.svg/440px-Population_bottleneck.svg.png)
 
 
 _Effetto collo di bottiglia: la popolazione o riesce a sopravvivere o si estingue_
@@ -297,10 +284,9 @@ Analogo è "**l'effetto del fondatore**": se **pochi individui colonizzano una n
 
 
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e12.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e12.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Founder_effect.svg/608px-Founder_effect.svg.png)
 
 
 _Effetto del fondatore: a sinistra la popolazione originale, a destra tre possibili colonie_
@@ -320,10 +306,8 @@ I cambiamenti evolutivi non sono necessariamente "buoni" o finalizzati, ma solo 
 
 
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e13.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e13.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Male_Peacock_in_courtship_display_at_Ranthambhore_Tiger_Reserve.jpg/800px-Male_Peacock_in_courtship_display_at_Ranthambhore_Tiger_Reserve.jpg)
 
 
 _Pavo cristatus. Un esempio di selezione sessuale: il bellissimo piumaggio esibito dal pavone maschio serve ad attrarre e orientare la scelta della femmina._
@@ -362,20 +346,20 @@ I meccanismi della speciazione che favoriscono la divergenza sono ricollegabili 
    <td>
 
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e14.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/Evoluzione-e14.jpg" width="" alt="alt_text" title="image_tooltip">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Flickr_-_Rainbirder_-_African_pygmy-kingfisher_%28Ceyx_pictus%29.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Il martin pescatore africano pigmeo (Ispidina picta), che vive nelle foreste a sud del Sahara </em>
    </td>
    <td>
 
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e15.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/Evoluzione-e15.jpg" width="" alt="alt_text" title="image_tooltip">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Malachite_kingfisher_%28Corythornis_cristatus%29.jpg/600px-Malachite_kingfisher_%28Corythornis_cristatus%29.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Corythornis cristatus: le due specie sono affini ma l'enorme estensione delle foreste le ha isolate diversificandole</em>
@@ -430,13 +414,13 @@ Tutti questi studi permettono di valutare il grado di somiglianza anche a livell
 
 
 
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e16.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e16.jpg "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Biston_betularia_couple.JPG/800px-Biston_betularia_couple.JPG)
 
 
-_Esempio di microevoluzione, Biston betularia: A. comune. B. insularia. C. carbonaria_
+_Esempio di microevoluzione, Biston betularia: A. comune. B. carbonaria_
 
 
 ## La storia della vita sulla Terra

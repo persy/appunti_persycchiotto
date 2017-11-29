@@ -102,41 +102,35 @@ dei quali compare in due forme diverse. Inoltre per la struttura stessa del fior
 
 Mendel incrociò piante di pisello di due linee pure (P) che differivano tra loro per un solo carattere (**incrocio monoibrido**). I prodotti di ogni incrocio, cioè la prima generazione filiale (F<sub>1</sub>), furono piante tutte uguali, che presentavano il carattere di uno solo dei due genitori. Mendel chiamò **ibridi** i discendenti ottenuti dall'incrocio di due linee pure.
 
-Incrociando tra loro le piante della generazione F<sub>1</sub>, Mendel ottenne la seconda generazione filiale (F<sub>2</sub>), costituita per tre quarti da piante che continuavano a presentare il carattere di F<sub>1</sub> e per un quarto da piante nelle quali ricompariva il carattere presente nella generazione P, apparentemente scomparso nella F<sub>1</sub>. Mendel chiamò questo **carattere recessivo** (dal latino recedere, restare indietro), mentre chiamò **dominante** il carattere che compariva nei
-
-tre quarti delle piante.
+Incrociando tra loro le piante della generazione F<sub>1</sub>, Mendel ottenne la seconda generazione filiale (F<sub>2</sub>), costituita per tre quarti da piante che continuavano a presentare il carattere di F<sub>1</sub> e per un quarto da piante nelle quali ricompariva il carattere presente nella generazione P, apparentemente scomparso nella F<sub>1</sub>. Mendel chiamò questo **carattere recessivo** (dal latino recedere, restare indietro), mentre chiamò **dominante** il carattere che compariva nei tre quarti delle piante.
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/eredit-delle0.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/eredit-delle0.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mendelian_inheritance.svg/425px-Mendelian_inheritance.svg.png)
 
 
-_Modalità di trasmissione del carattere giallo (BB) e verde (bb) del seme di pisello: incrociando due individui omozigoti, uno dominante (BB) e uno recessivo (bb), si ottengono nella F<sub>1</sub> solo individui eterozigoti verde chiaro uguali (Bb). Dall'incrocio di due eteroziogoti, si ottengono nella F<sub>2</sub> individui omozigoti dominanti gialli (BB), omozigoti recessivi (bb) e eterozigoti (Bb)_
+_Fenotipi dominanti e recessivi. (1) Generazione parentale. (2) Generazione F1. (3) Generazione F2._
 
 Mendel eseguì anche **incroci diibridi** (**cioè considerò due caratteri contemporaneamente**), ottenendo dei risultati analoghi: nella F<sub>1</sub> si manifestava solo la variante dominante di entrambi i caratteri; nella F<sub>2</sub> ottenne piante per 1/16 con le due varianti recessive, per 9/16 con le due varianti dominanti, per 3/16 con una variante dominante, per 3/16 con l'altra variante dominante.
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/eredit-delle1.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/eredit-delle1.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dihybrid_cross.svg/403px-Dihybrid_cross.svg.png)
 
 
-_Trasmissione dei caratteri analoga nache nel caso di incroci diibridi, cioè considerando due caratteri: seme di pisello liscio (AA) o rugoso (aa) e di colore giallo (BB) o verde (bb)_
+_Incroci diibridi: I fenotipi dei due tratti indipendenti nella seconda generazione mostrano un rapporto 9:3:3:1; in questo esempio il colore del pelo è indicato da B (marrone, dominante) e b (bianco, recessivo), mentre la lunghezza della coda è indicata da S (corta, dominate) e s (lunga); quando i genitori sono omozigoti per ogni tratto (SSbb e ssBB), la loro prole nella generazione F<sub>1</sub> è eterozigote in tutti i loci e mostrano solo fenotipo dominate (SsbB); Se i figli si incrociano fra loro, nella generazione F<sub>2</sub> appariranno tutte le combinazioni di colore del pelo e lunghezza della coda: 9 sono marroni/corte (riquadri viola), 3 sono bianchi/corte (riquadri rosa), 3 sono marroni/lunghe (riquadri blu) e uno è bianco/lunga (riquadro verde)_
 
 
 #### Mendel, il fondatore della genetica
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/eredit-delle2.gif). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/eredit-delle2.gif "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gregor_Mendel_Monk.jpg/457px-Gregor_Mendel_Monk.jpg)
 
 
 _Il biologo, matematico e monaco agostiniano ceco Gregor Mendel_
@@ -231,7 +225,7 @@ Se il genitore con fenotipo dominante è eterozigote, i discendenti avranno per 
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/eredit-delle3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/eredit-delle3.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Punnett_Square.svg/480px-Punnett_Square.svg.png)
 
 
 _Se il genitore con fenotipo dominante è eterozigote (Yy) i suoi discendenti avranno per metà il fenotipo dominante (Yy) e per metà quello recessivo (yy); se invece è omozigote dominante (YY), avranno tutti fenotipo dominante (Yy)_
@@ -449,13 +443,12 @@ Anche negli eucarioti vi possono essere meccanismi di regolazione a breve termin
 
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/eredit-delle4.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/eredit-delle4.jpg "image_tooltip")
+![alt_text](https://i.imgur.com/n4Mcpon.jpg)
 
 
-_Trascizione dell'operone_
+_Trascrizione dell'operone_
 
 
 ### La ricombinazione genetica
