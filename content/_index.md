@@ -4,7 +4,8 @@ draft: false
 ---
 
 
-# **WOFF!** _(**wo**-rk in **ff**-rogress!)_
+# **WOFF!** 
+<p align="center"><i>(<b>wo</b>-rk in <b>ff</b>-rogress!)</i></p>
 
 
 <div style="display: flex; ">
@@ -22,6 +23,7 @@ draft: false
     </a>
 </div>
 
+---
 In questo sito potrai trovare i miei appunti, liberamente scaricabili e modificabili sulle seguenti tematiche:
 
 + **[Biologia](biologia)** : dalla cellula, passando per i tessuti vegetali e animali e all'etologia
