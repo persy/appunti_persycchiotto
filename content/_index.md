@@ -3,7 +3,6 @@ title: "Appunti di Persycchiotto"
 draft: false
 ---
 
-
 # **WOFF!** 
 <p align="center"><i>(<b>wo</b>-rk in <b>ff</b>-rogress!)</i></p>
 
@@ -23,7 +22,8 @@ draft: false
     </a>
 </div>
 
----
+
+
 In questo sito potrai trovare i miei appunti, liberamente scaricabili e modificabili sulle seguenti tematiche:
 
 + **[Biologia](biologia)** : dalla cellula, passando per i tessuti vegetali e animali e all'etologia
@@ -32,7 +32,6 @@ In questo sito potrai trovare i miei appunti, liberamente scaricabili e modifica
 + **[Storia](storia)**: tutto il Novecento, anno per anno, seguendo i fatti storici, i cambiamenti di costume, la società nei vari decenni, le scoperte scientifiche, le arti, il cinema del grande e del piccolo schermo, il pensiero filosofico
 + **[Riassunti di letteratura](riassunti)**: raccolta di riassunti dei principali capolavori di letteratura italiana e straniera (_in corso_)
 
-<footer>
+<footer align="center" style="height:100%;">
     <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-
 </footer>
