@@ -272,7 +272,7 @@ La **deriva genetica** è la fluttuazione della frequenza allelica in una piccol
 
 
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e11.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Population_bottleneck.svg/440px-Population_bottleneck.svg.png)
@@ -440,11 +440,6 @@ Successivamente, **le molecole nel brodo primordiale** (tra cui amminoacidi, lip
 
 
 
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e17.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Evoluzione-e17.jpg "image_tooltip")
-
 
 _Schema biogeochimico dell'ecosistema dei vulcani sottomarini_
 
@@ -465,10 +460,9 @@ Altri scienziati ancora propongono la teoria della **panspermia**, secondo la qu
 
 
 
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e18.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e18.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Miller-Urey_experiment-it.svg/644px-Miller-Urey_experiment-it.svg.png)
 
 
 _Esperimento di Miller sul brodo primordiale_
@@ -718,10 +712,8 @@ Secondo le ipotesi circa 1,6 miliardi di anni fa alcuni batteri anaerobici, che 
 
 
 
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e19.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e19.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Geologic_Clock_with_events_and_periods_it.svg/801px-Geologic_Clock_with_events_and_periods_it.svg.png)
 
 
 _Orologio geologico: una proiezione dei 4,5 miliardi di anni della Terra sotto forma di orologio ("Ma" = Megaanno = un milione di anni fa; "Ga" = Gigaanno = un miliardo di anni fa_
@@ -743,10 +735,9 @@ Circa 500 milioni di anni fa comparvero gli ostracodermi, i primi animali dotati
 
 
 
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e20.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e20.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mikrofoto.de-volvox-4.jpg/640px-Mikrofoto.de-volvox-4.jpg)
 
 
 _Si ritiene che l'alga verde Volvox aureus sia molto simile alle prime piante pluricellulari_
@@ -758,10 +749,8 @@ Con il progressivo aumento dell'ossigeno nell'atmosfera e la formazione dello st
 
 
 
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e21.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e21.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Acanthostega_model.jpg/800px-Acanthostega_model.jpg)
 
 
 _Ricostruzione museale (Museo statale di Storia Naturale di Stoccarda), tetrapode primitivo e uno dei primi vertebrati a possedere delle zampe riconoscibili, anatomicamente intermedio tra i pesci dalle pinne lobate e i primi tetrapodi pienamente capaci di camminare sulla terra_
@@ -777,10 +766,8 @@ Un successivo periodo secco (286-248 milioni di anni fa) segnò il passaggio all
 
 
 
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e22.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e22.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Plant_Diversity_%282%29.svg/800px-Plant_Diversity_%282%29.svg.png)
 
 
 _Evoluzione delle piante: Charophyta, muschi, felci, gimnosperme e angiosperme_
@@ -808,10 +795,9 @@ Quando la maggior parte dei rettili si estinse, i mammiferi si diversificarono e
 
 
 
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e23.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e23.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Allosaurus_attacks_Stegosaurus.jpg/628px-Allosaurus_attacks_Stegosaurus.jpg)
 
 
 _Scheletri di Allosaurus (a sinistra) e di Stegosaurus (a destra)_
@@ -838,10 +824,8 @@ Quasi contemporaneamente comparve in Africa una nuova specie, forse derivata da 
 
 
 
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e24.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e24.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/MEH_Australopithecus_africanus_29-04-2012_11-32-46_2592x3888.JPG/400px-MEH_Australopithecus_africanus_29-04-2012_11-32-46_2592x3888.JPG)
 
 
 _Australopithecus africanus ricostruzione_
@@ -855,10 +839,8 @@ Circa 90.000 anni fa, comparve l'uomo moderno, Homo sapiens, che un poco alla vo
 
 
 
-<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e25.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e25.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Neandertaler-im-Museum.jpg/800px-Neandertaler-im-Museum.jpg)
 
 
 _L'uomo di Neanderthal, ultimo congenere noto del sapiens è convissuto almeno per alcune decine di migliaia di anni con la nostra specie. L'immagine mostra una ricostruzione fatta dal Landesmuseum für Vorgeschichte Sachsen-Anhalt ad Halle, Germania: la tesi principale, esposta nel 2006, confermata nel 2007 e basata su tecniche avanzate di biologia molecolare, ipotizza che la specie, in Europa, abbia sviluppato individui di carnagione bianca con capelli rossi; il tipo di pigmentazione è in accordo con la scarsa irradiazione ultravioletta del territorio colonizzato._
@@ -1203,10 +1185,9 @@ Il ciclo vitale di un organismo è considerato un elemento importante per valuta
 
 
 
-<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e26.gif). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e26.gif "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/3/34/Fasciola_LifeCycle_2013.png)
 
 
 _Ciclo vitale di Fasciola hepatica e suoi diversi ospiti_
@@ -1228,13 +1209,11 @@ Nel ciclo vitale di alcuni animali diplonti, come i celenterati, l'alternanza de
 
 
 
-<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e27.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/5/52/Ciclo_aplodiplonte.png)
 
 
-![alt_text](images/Evoluzione-e27.jpg "image_tooltip")
-
-
-_Differenze fra i vari cicli cellulari._
+_Ciclo aplodiplonte_
 
 
 ### I virus
@@ -1245,10 +1224,8 @@ Tutti i virus sono costituiti da un **involucro proteico** (**capside**) formato
 
 
 
-<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e28.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e28.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Phage.jpg/512px-Phage.jpg)
 
 
 _Batteriofagi in azione._
@@ -1264,10 +1241,9 @@ I **fagi **hanno una struttura più complessa, in cui si possono riconoscere cin
 
 
 
-<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e29.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e29.jpg "image_tooltip")
+![alt_text](https://thumbs.dreamstime.com/z/classificazione-dei-virus-68736220.jpg)
 
 
 _Alcuni dei virus più diffusi._
@@ -1289,10 +1265,9 @@ Uno dei più noti RNA virus è il retrovirus HIV, responsabile della sindrome da
 
 
 
-<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e30.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e30.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Virus_Replication.svg/521px-Virus_Replication.svg.png)
 
 
 _Un tipico ciclo di replicazione virale_
@@ -1315,10 +1290,7 @@ Per la loro grande varietà di adattamenti, i batteri sono gli esseri viventi pi
 
 
 
-<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e31.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Evoluzione-e31.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Diversidad_procariota.PNG/361px-Diversidad_procariota.PNG)
 
 
 _Composizione di immagini di diversi procarioti_
@@ -1336,10 +1308,8 @@ I batteri possiedono diversi tipi di forme caratteristiche: le più comuni sono 
 
 
 
-<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e32.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e32.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tipica_cellula_procariote.svg/494px-Tipica_cellula_procariote.svg.png)
 
 
 _Esempio tipico di cellula procariote_
@@ -1351,10 +1321,8 @@ Con la **tecnica di colorazione di Gram** (dal nome del batteriologo danese H.C.
 
 
 
-<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e33.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e33.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gram_negative_cell_wall.svg/800px-Gram_negative_cell_wall.svg.png)
 
 
 _Struttura della parete cellulare di un Gram negativo_
@@ -1370,10 +1338,9 @@ Alcuni batteri formano **spore**, forme protettive o di resistenza, chiamate anc
 
 
 
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e34.gif). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e34.gif "image_tooltip")
+![alt_text](https://qph.ec.quoracdn.net/main-qimg-9d1f71f90bbb2471492a02e1ee1e53a6)
 
 
 _Forme batteriche_
@@ -1387,7 +1354,7 @@ I batteri sono estremamente specializzati, perché una volta adattati al loro pa
 
 Alcuni batteri possono vivere solo in presenza di ossigeno e sono detti **aerobi obbligati**; altri, detti **anaerobi obbligati**, non possono vivere in presenza di ossigeno; altri ancora, infine, possono vivere sia in presenza, sia in assenza di ossigeno e sono detti **anaerobi facoltativi**.
 
-Per quanto riguarda la temperatura, i batteri **psicrofili **vivono solo a temperature inferiori a 20 °C, i **mesofili **tra 20 e 45 °C, i **termofili **a temperature superiori ai 45 °C. I batteri possono condurre vita libera, o essere parassiti o simbionti.
+Per quanto riguarda la temperatura, i batteri **psicrofili **vivono solo a temperature inferiori a 20 °C, i **mesofili** tra 20 e 45 °C, i **termofili** a temperature superiori ai 45 °C. I batteri possono condurre vita libera, o essere parassiti o simbionti.
 
 In relazione al modo in cui ricavano l'energia necessaria per vivere, i batteri possono essere **autotrofi** (in grado di sintetizzare le sostanze organiche necessarie) oppure **eterotrofi** (che utilizzano sostanze organiche già elaborate). I batteri autotrofi includono forme capaci di **fotosintesi** al pari delle piante (come i cianobatteri) e forme capaci di **chemiosintesi**, cioè in grado di ricavare energia da reazioni in cui l'ossigeno si combina con composti inorganici (quali sulfuri e ammoniaca). Molti batteri eterotrofi sono **decompositori** e partecipano ai più importanti cicli biogeochimici.
 
@@ -1418,13 +1385,12 @@ Particolare importanza tra gli eubatteri rivestono i **cianobatteri**, capaci, c
 
 
 
-<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e35.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e35.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Methanobrevibacter_smithii_cell_wall_and_membrane.png/704px-Methanobrevibacter_smithii_cell_wall_and_membrane.png)
 
 
-_Schemastrutturale di un Methanobrevibacter smithii, in cui si vedono la mebrana cellulare (ocra) e la parete cellulare (violetto)_
+_Schema strutturale di un Methanobrevibacter smithii, in cui si vedono la membrana cellulare (ocra) e la parete cellulare (violetto)_
 
 
 #### I cianobatteri
@@ -1441,10 +1407,9 @@ Si pensa che i cianobatteri siano stati tra i primi organismi viventi, insieme a
 
 
 
-<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e36.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e36.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CyanobacteriaColl1.jpg/800px-CyanobacteriaColl1.jpg)
 
 
 _Colonie sferiche di cianobatteri d'acqua dolce, della specie Nostoc pruniforme._
@@ -1456,10 +1421,9 @@ _Colonie sferiche di cianobatteri d'acqua dolce, della specie Nostoc pruniforme.
 
 
 
-<p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e37.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e37.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Protist_collage.jpg/689px-Protist_collage.jpg)
 
 
 _Composizione di vari protisti_
@@ -1479,10 +1443,9 @@ Le **pirrofite**( dal greco, alghe di fuoco), o **dinoflagellati**, **si muovono
 
 
 
-<p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e38.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e38.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Diatom2.jpg/600px-Diatom2.jpg)
 
 
 _Assortimento di diatomee_
@@ -1498,10 +1461,10 @@ Le alghe pluricellulari hanno tuttavia sviluppato dei rizoidi, con i quali si at
 
 
 
-<p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e39.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e39.jpg "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/e/e7/CaulerpaTaxifolia.jpg)
 
 
 _Caulerpa taxifolia_
@@ -1589,13 +1552,11 @@ da vescicole piene di gas <em>Macrocystis gigantea</em> cresce lungo la costa de
 
 
 
-<p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e40.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+![alt_text](https://www.naturamediterraneo.com/Public/data7/paolofon/Civitata%20Capraia%20LI%2001-06-10%20180b.jpg_201061816489_Civitata%20Capraia%20LI%2001-06-10%20180b.jpg)
 
 
-![alt_text](images/Evoluzione-e40.jpg "image_tooltip")
-
-
-_Alghe rosse e verdi_
+_Alghe bianche, rosse e verdi_
 
 
 #### I protisti eterotrofi, o protozoi
@@ -1612,10 +1573,9 @@ I **ciliati** possiedono caratteristiche ciglia, che possono in alcune specie ri
 
 
 
-<p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e41.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e41.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ammonia_beccarii.jpg/640px-Ammonia_beccarii.jpg)
 
 
 _Ammonia beccarii, foraminifero bentonico del Mare del Nord._
@@ -1631,10 +1591,8 @@ I **mixomiceti** non hanno struttura cellulare individuale: **formano una massa 
 
 
 
-<p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e42.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e42.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fuligo_septica_-_Gelbe_Lohbl%C3%BCte_-_Hexenbutter_-_02.jpg/724px-Fuligo_septica_-_Gelbe_Lohbl%C3%BCte_-_Hexenbutter_-_02.jpg)
 
 
 _Fuligo septica_
@@ -1715,10 +1673,8 @@ Le briofite sono tallofite evolute probabilmente come adattamento di un'alga ver
 
 
 
-<p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e43.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e43.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bryum_argenteum_2005.07.26_13.29.24.jpg/799px-Bryum_argenteum_2005.07.26_13.29.24.jpg)
 
 
 _Bryum argenteum_
@@ -1732,10 +1688,8 @@ Il ciclo vitale delle briofite comprende un'**alternanza di generazioni**. Nel *
 
 
 
-<p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e44.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Evoluzione-e44.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ciclo_Muschi.png/720px-Ciclo_Muschi.png)
 
 
 _Ciclo vitale delle briofite_
@@ -1751,10 +1705,10 @@ I **muschi** formano densi cuscinetti di minuscoli individui. Insieme ai licheni
 
 
 
-<p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e45.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e45.jpg "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lunularia_cruciata.jpg/794px-Lunularia_cruciata.jpg)
 
 
 _Lunularia cruciata, una epatica_
@@ -1785,10 +1739,10 @@ Come ulteriore evoluzione, nelle tracheofite **lo sporofito predomina sul gameto
 
 
 
-<p id="gdcalert47" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e46.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert48">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e46.jpg "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leaf_1_web.jpg/800px-Leaf_1_web.jpg)
 
 
 _La foglia è la parte della pianta in cui avviene la maggiorparte della fotosintesi_
@@ -1827,10 +1781,10 @@ Come nel caso delle briofite, le **pteridofite sono ancora legate all'ambiente a
 
 
 
-<p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e47.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e47.jpg "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Felci.JPG/800px-Felci.JPG")
 
 
 _Sottobosco di felci, boschi nei dintorni di Cantù_
@@ -1854,10 +1808,10 @@ Le spermatofite comprendono le gimnosperme (spermatofite con seme nudo) e le ang
 
 
 
-<p id="gdcalert49" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e48.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert50">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e48.jpg "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/A_sunflower.jpg/450px-A_sunflower.jpg)
 
 
 _Girasole (Helianthus annuus)_
@@ -1900,10 +1854,10 @@ Le gimnosperme sono tutte piante legnose e si dividono in ginkgofite, cicadofite
 
 
 
-<p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e49.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e49.jpg "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Picea_Pungens_Young_Cones.jpg/400px-Picea_Pungens_Young_Cones.jpg)
 
 
 _Pigne maturande di Abete del Colorado (Picea pungens)_
@@ -1933,10 +1887,10 @@ Le dicotiledoni sono più diffuse: a esse appartengono le principali piante da f
 
 
 
-<p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e50.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e50.jpg "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/1/12/Magnolia_liliiflora2.jpg)
 
 
 _Fiore del genere Magnolia_
@@ -1950,10 +1904,10 @@ Derivano probabilmente, come le piante, dalle alghe, ma presto nel corso dell'ev
 
 
 
-<p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e51.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e51.jpg "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fungi_Diversity.jpg/430px-Fungi_Diversity.jpg)
 
 
 _Composizione di Fungi_
@@ -1973,10 +1927,10 @@ La **riproduzione asessuata avviene per frammentazione del micelio**. Periodicam
 
 
 
-<p id="gdcalert53" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e52.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert54">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e52.png "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fungi_sessuate_reproduction.png/643px-Fungi_sessuate_reproduction.png)
 
 
 _Riproduzione sessuata dei funghi_
@@ -1988,10 +1942,10 @@ I funghi vivono in ambienti umidi del sottobosco e sono, con i batteri, **import
 
 
 
-<p id="gdcalert54" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e53.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert55">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Evoluzione-e53.jpg "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mycena_galericulata_60303.jpg/450px-Mycena_galericulata_60303.jpg)
 
 
 _Mycena galericulata (basidiomiceti)_
@@ -2030,7 +1984,7 @@ Gli **oomiceti** hanno pareti cellulari che spesso contengono cellulosa invece d
   <tr>
    <td>
 
-<p id="gdcalert55" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e54.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert56">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e54.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -2040,7 +1994,7 @@ Gli **oomiceti** hanno pareti cellulari che spesso contengono cellulosa invece d
    </td>
    <td>
 
-<p id="gdcalert56" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e55.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert57">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e55.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -2052,7 +2006,7 @@ Gli **oomiceti** hanno pareti cellulari che spesso contengono cellulosa invece d
   <tr>
    <td>
 
-<p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e56.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e56.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -2062,7 +2016,7 @@ Gli **oomiceti** hanno pareti cellulari che spesso contengono cellulosa invece d
    </td>
    <td>
 
-<p id="gdcalert58" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e57.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert59">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e57.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -2098,7 +2052,7 @@ I licheni crescono in qualunque ambiente con molta luce, sopportando lunghi peri
 
 
 
-<p id="gdcalert59" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e58.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert60">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e58.jpg "image_tooltip")
@@ -2113,7 +2067,7 @@ Il regno degli animali comprende gli organismi pluricellulari eterotrofi che si 
 
 
 
-<p id="gdcalert60" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e59.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert61">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e59.jpg "image_tooltip")
@@ -2332,7 +2286,7 @@ Si osserva una tendenza alla complessità anche per quanto riguarda il **numero 
 
 
 
-<p id="gdcalert61" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e60.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert62">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e60.jpg "image_tooltip")
@@ -2351,7 +2305,7 @@ Il primo tipo di disposizione simmetrica degli organi è a **simmetria raggiata*
 
 
 
-<p id="gdcalert62" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e61.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert63">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e61.jpg "image_tooltip")
@@ -2366,7 +2320,7 @@ La **cefalizzazione è il fenomeno per cui gli organi di senso, le cellule nervo
 
 
 
-<p id="gdcalert63" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e62.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert64">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e62.jpg "image_tooltip")
@@ -2424,7 +2378,7 @@ Si usa distinguere gli animali in **vertebrati**, **provvisti di endoscheletro**
 
 
 
-<p id="gdcalert64" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e63.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert65">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e63.jpg "image_tooltip")
@@ -2447,7 +2401,7 @@ La **riproduzione avviene per gemmazione** oppure è di tipo **sessuato**. Nel p
 
 
 
-<p id="gdcalert65" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e64.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert66">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e64.jpg "image_tooltip")
@@ -2497,7 +2451,7 @@ Cellule nervose con lunghi prolungamenti (**cellule neuroepiteliali**) **costitu
 
 
 
-<p id="gdcalert66" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e65.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert67">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e65.jpg "image_tooltip")
@@ -2516,7 +2470,7 @@ Sono animali ermafroditi, cioè uno stesso individuo produce gameti sia maschili
 
 
 
-<p id="gdcalert67" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e66.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert68">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e66.jpg "image_tooltip")
@@ -2537,7 +2491,7 @@ Comprendono i foronoidei, i briozoi e i brachiopodi. Tra questi vanno segnalati 
 
 
 
-<p id="gdcalert68" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e67.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert69">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e67.jpg "image_tooltip")
@@ -2589,7 +2543,7 @@ I platelminti comprendono animali a vita libera, marini o terrestri, e parassiti
 
 
 
-<p id="gdcalert69" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e68.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert70">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e68.jpg "image_tooltip")
@@ -2606,7 +2560,7 @@ Possiedono inoltre un rudimenatale pseudoceloma (cavità interna) e una specie d
 
 
 
-<p id="gdcalert70" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e69.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert71">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e69.jpg "image_tooltip")
@@ -2676,7 +2630,7 @@ I nematodi comprendono forme libere, che vivono in tutti gli ambienti, ma sono s
 
 
 
-<p id="gdcalert71" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e70.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert72">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e70.jpg "image_tooltip")
@@ -2732,7 +2686,7 @@ La riproduzione è sessuata e lo sviluppo passa attraverso la larva trocofora, a
 
 
 
-<p id="gdcalert72" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e71.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert73">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e71.jpg "image_tooltip")
@@ -2788,7 +2742,7 @@ Lo sviluppo dell'uovo fecondato è indiretto e avviene attraverso più stadi lar
 
 
 
-<p id="gdcalert73" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e72.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert74">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e72.png "image_tooltip")
@@ -2852,7 +2806,7 @@ La **riproduzione è sempre sessuata** (in qualche specie gli individui sono erm
 
 
 
-<p id="gdcalert74" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e73.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert75">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e73.jpg "image_tooltip")
@@ -2880,7 +2834,7 @@ Gli **onicofori** (_phylum_ **Onicophora**) ricordano gli anellidi per il corpo 
   <tr>
    <td>
 
-<p id="gdcalert75" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e74.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert76">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e74.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -2890,7 +2844,7 @@ Gli **onicofori** (_phylum_ **Onicophora**) ricordano gli anellidi per il corpo 
    </td>
    <td>
 
-<p id="gdcalert76" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e75.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert77">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e75.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -2900,7 +2854,7 @@ Gli **onicofori** (_phylum_ **Onicophora**) ricordano gli anellidi per il corpo 
    </td>
    <td>
 
-<p id="gdcalert77" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e76.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert78">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e76.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -2912,7 +2866,7 @@ Gli **onicofori** (_phylum_ **Onicophora**) ricordano gli anellidi per il corpo 
   <tr>
    <td>
 
-<p id="gdcalert78" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e77.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert79">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e77.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -2922,7 +2876,7 @@ Gli **onicofori** (_phylum_ **Onicophora**) ricordano gli anellidi per il corpo 
    </td>
    <td>
 
-<p id="gdcalert79" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e78.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert80">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e78.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -2932,7 +2886,7 @@ Gli **onicofori** (_phylum_ **Onicophora**) ricordano gli anellidi per il corpo 
    </td>
    <td>
 
-<p id="gdcalert80" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e79.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert81">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e79.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -3000,7 +2954,7 @@ I sessi sono separati e la riproduzione è sessuata. Lo sviluppo è indiretto co
 
 
 
-<p id="gdcalert81" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e80.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert82">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 ![alt_text](images/Evoluzione-e80.jpg "image_tooltip")
@@ -3025,7 +2979,7 @@ In tutti i **cordati** (_phylum_ **Chordata**), nonostante la notevole varietà 
    <td>
 
 
-<p id="gdcalert82" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e81.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert83">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e81.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -3035,7 +2989,7 @@ In tutti i **cordati** (_phylum_ **Chordata**), nonostante la notevole varietà 
    </td>
    <td>
 
-<p id="gdcalert83" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e82.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert84">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e82.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -3045,7 +2999,7 @@ In tutti i **cordati** (_phylum_ **Chordata**), nonostante la notevole varietà 
    </td>
    <td>
 
-<p id="gdcalert84" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e83.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert85">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e83.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -3175,7 +3129,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
   <tr>
    <td>
 
-<p id="gdcalert85" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e84.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert86">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e84.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -3185,7 +3139,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
    </td>
    <td>
 
-<p id="gdcalert86" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e85.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert87">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e85.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -3197,7 +3151,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
   <tr>
    <td>
 
-<p id="gdcalert87" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e86.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert88">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e86.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -3207,7 +3161,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
    </td>
    <td>
 
-<p id="gdcalert88" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e87.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert89">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e87.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -3219,7 +3173,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
   <tr>
    <td>
 
-<p id="gdcalert89" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e88.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert90">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e88.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -3229,7 +3183,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
    </td>
    <td>
 
-<p id="gdcalert90" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e89.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert91">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e89.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -3241,7 +3195,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
   <tr>
    <td>
 
-<p id="gdcalert91" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e90.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert92">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e90.jpg" width="" alt="alt_text" title="image_tooltip">
@@ -3251,7 +3205,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
    </td>
    <td>
 
-<p id="gdcalert92" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Evoluzione-e91.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert93">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Evoluzione-e91.jpg" width="" alt="alt_text" title="image_tooltip">
