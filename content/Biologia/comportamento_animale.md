@@ -31,7 +31,7 @@ Si riconoscono quattro forme di comportamento innato: cinesi, tassie, riflessi e
 
 #### Cinesi e tassie
 
-**Cinesi **e **tassie sono movimenti dell'intero organismo** in risposta a uno stimolo ambientale. Le cinesi si manifestano come variazioni di velocità di un movimento casuale. Un esempio di cinesi è rappresentato dagli animali che vivono nel terreno e prediligono luoghi umidi: non essendo in grado di individuare l'ambiente che garantisca loro la sopravvivenza, questi animali accelerano l'andatura in una direzione casuale e si arrestano quando hanno trovato una zona umida.
+**Cinesi** e **tassie sono movimenti dell'intero organismo** in risposta a uno stimolo ambientale. Le cinesi si manifestano come variazioni di velocità di un movimento casuale. Un esempio di cinesi è rappresentato dagli animali che vivono nel terreno e prediligono luoghi umidi: non essendo in grado di individuare l'ambiente che garantisca loro la sopravvivenza, questi animali accelerano l'andatura in una direzione casuale e si arrestano quando hanno trovato una zona umida.
 
 Le **tassie** sono movimenti orientati in una precisa direzione (di avvicinamento o di allontanamento dalla sorgente di uno stimolo); un esempio di tassia si riscontra nelle falene, che vengono attratte da un lampione acceso.
 
@@ -149,7 +149,7 @@ Come è evidente, la comunicazione tra animali della stessa specie svolge una fu
 
 In tre situazioni gli animali mettono in atto comportamenti particolarmente complessi: la difesa del territorio, la competizione per una risorsa e il corteggiamento.
 
-Gli animali occupano un territorio con confini ben precisi, all'interno del quale trovano rifugio, cibo, partner e allevano la prole. La **territorialità **è l'insieme dei **comportamenti manifestati da un animale in difesa del proprio territorio**. Può essere **interspecifica** se è rivolta contro individui di specie diversa; **intraspecifica** se si rivolge contro animali della stessa specie.
+Gli animali occupano un territorio con confini ben precisi, all'interno del quale trovano rifugio, cibo, partner e allevano la prole. La **territorialità** è l'insieme dei **comportamenti manifestati da un animale in difesa del proprio territorio**. Può essere **interspecifica** se è rivolta contro individui di specie diversa; **intraspecifica** se si rivolge contro animali della stessa specie.
 
 La difesa viene in genere attuata con scontri diretti nel momento in cui il territorio viene definito. Una volta conquistato il territorio, sono più frequenti manifestazioni indirette di territorialità, quali la demarcazione con urina, saliva o secrezioni ghiandolari (nei mammiferi), richiami canori (uccelli) o particolari comportamenti (tamburellare dei picchi, battersi il petto dei gorilla).
 
@@ -158,7 +158,7 @@ Gli animali hanno sviluppato dei comportamenti tipici della propria specie atti 
 
 #### La competizione per le risorse
 
-**Animali della stessa specie sono spesso in competizione per la precedenza nell'accoppiamento, per **assumere **il comando del gruppo, per **stabilire **la priorità nell'accesso al cibo**. Possono nascere lotte accese e feroci, nelle quali i maschi esprimono tutta la loro aggressività. Raramente, tuttavia, i combattimenti si concludono in modo cruento: più spesso i rivali si fronteggiano per valutare le forze reciproche e il vincitore è proclamato in base a criteri di forza e dimensioni. Il combattimento termina quando uno dei contendenti mostra al vincitore particolari segnali di sottomissione.
+**Animali della stessa specie sono spesso in competizione per la precedenza nell'accoppiamento, per** assumere **il comando del gruppo, per** stabilire **la priorità nell'accesso al cibo**. Possono nascere lotte accese e feroci, nelle quali i maschi esprimono tutta la loro aggressività. Raramente, tuttavia, i combattimenti si concludono in modo cruento: più spesso i rivali si fronteggiano per valutare le forze reciproche e il vincitore è proclamato in base a criteri di forza e dimensioni. Il combattimento termina quando uno dei contendenti mostra al vincitore particolari segnali di sottomissione.
 
 Grazie a questi confronti all'interno del gruppo le perdite sono limitate e si forma una **gerarchia di dominanza**, in cui ciascun individuo acquista una certo livello di "autorità".
 

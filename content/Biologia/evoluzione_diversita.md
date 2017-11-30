@@ -1987,17 +1987,17 @@ Gli **oomiceti** hanno pareti cellulari che spesso contengono cellulosa invece d
 
 
 
-<img src="images/Evoluzione-e54.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Zygomycetes_on_solid_media..png" width="" alt="alt_text" title="image_tooltip">
 
 <p>
-<em>Pane di soia fermentato (zigomicete)</em>
+<em>zigomicete</em>
    </td>
    <td>
 
 
 
 
-<img src="images/Evoluzione-e55.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Truffle_4.jpg/640px-Truffle_4.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Tartufo, Tuber (ascomiceti)</em>
@@ -2009,20 +2009,20 @@ Gli **oomiceti** hanno pareti cellulari che spesso contengono cellulosa invece d
 
 
 
-<img src="images/Evoluzione-e56.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Penicilliummandarijntjes.jpg/640px-Penicilliummandarijntjes.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
-<em>Penicillium glaucum del gorgonzola (deuteromicete)</em>
+<em>Penicillium su alcuni mandarini</em>
    </td>
    <td>
 
 
 
 
-<img src="images/Evoluzione-e57.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tomaat_Phytophthora.jpg/537px-Tomaat_Phytophthora.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
-<em>Peronospora della patata e del pomodoro, Phytophthora infestans (oomicete)</em>
+<em>Peronospora su un grappolo di pomodori, Phytophthora infestans (oomicete)</em>
    </td>
   </tr>
 </table>
@@ -2031,7 +2031,7 @@ Gli **oomiceti** hanno pareti cellulari che spesso contengono cellulosa invece d
 
 #### I licheni
 
-I licheni sono** associazioni vegetali formate da funghi e alghe**, che vivono in stretta simbiosi formando un unico tallo. Il micelio dei funghi, per lo più ascomiceti, assume acqua e sali minerali dal substrato e trattiene l'umidità; le alghe, clorofite unicellulari o cianobatteri, producono gli zuccheri.
+I licheni sono **associazioni vegetali formate da funghi e alghe**, che vivono in stretta simbiosi formando un unico tallo. Il micelio dei funghi, per lo più ascomiceti, assume acqua e sali minerali dal substrato e trattiene l'umidità; le alghe, clorofite unicellulari o cianobatteri, producono gli zuccheri.
 
 I pigmenti delle alghe sono responsabili dei colori vivaci di alcuni licheni, dal verde all'arancio.
 
@@ -2055,7 +2055,7 @@ I licheni crescono in qualunque ambiente con molta luce, sopportando lunghi peri
 
 
 
-![alt_text](images/Evoluzione-e58.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cladina_portentosa_%282005_11_06%29.jpg/800px-Cladina_portentosa_%282005_11_06%29.jpg)
 
 
 _Cladonia portentosa lichene composto_
@@ -2070,7 +2070,7 @@ Il regno degli animali comprende gli organismi pluricellulari eterotrofi che si 
 
 
 
-![alt_text](images/Evoluzione-e59.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Animalia_diversity.jpg/436px-Animalia_diversity.jpg)
 
 
 _Composita di Animalia_
@@ -2084,7 +2084,7 @@ Sono **animali** gli organismi che, pur nella loro varietà, hanno in comune le 
 
 1.  sono **pluricellulari**
 1.  sono **eterotrofi**
-1.  hanno** cellule prive di parete cellulare**
+1.  hanno **cellule prive di parete cellulare**
 1.  **si riproducono sessualmente** (in molte specie, tuttavia, la riproduzione è anche agamica)
 1.  **sono mobili**, almeno in un periodo della loro vita
 1.  **reagiscono agli stimoli esterni**
@@ -2251,25 +2251,13 @@ oloturoidei
 <p>
 urocordati
 <p>
-vertebrati: 
-<p>
-
-    ciclostomi
-<p>
-
-    pesci
-<p>
-
-    anfibi
-<p>
-
-    rettili
-<p>
-
-    uccelli
-<p>
-
-    mammiferi
+vertebrati: <br />
+- ciclostomi<br />
+- pesci<br />
+- anfibi<br />
+- rettili<br />
+- uccelli<br />
+- mammiferi<br />
    </td>
   </tr>
 </table>
@@ -2289,10 +2277,10 @@ Si osserva una tendenza alla complessità anche per quanto riguarda il **numero 
 
 
 
-![alt_text](images/Evoluzione-e60.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gastrulation.png/640px-Gastrulation.png)
 
 
-_Foglietti embrionali_
+_Gastrulazione di un diploblastico: La formazione dei foglietti germinativi (o embrionali) da (1) blastula a (2) gastrula. Alcune cellule dell'ectoderma (in arancione) si introflettono a formare l'endoderma (in rosso)._
 
 
 #### Simmetria e segmentazione
@@ -2308,10 +2296,10 @@ Il primo tipo di disposizione simmetrica degli organi è a **simmetria raggiata*
 
 
 
-![alt_text](images/Evoluzione-e61.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Plectaster_decanus.jpg/640px-Plectaster_decanus.jpg)
 
 
-_Differenti tipi di simmetria_
+_Simmetria radiale della stella marina_
 
 
 #### Cefalizzazione
@@ -2323,7 +2311,7 @@ La **cefalizzazione è il fenomeno per cui gli organi di senso, le cellule nervo
 
 
 
-![alt_text](images/Evoluzione-e62.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pseudobiceros_bedfordi.jpg/640px-Pseudobiceros_bedfordi.jpg)
 
 
 _Pseudobiceros bedfordi,  platelminta (verme piatto), uno degli animali più semplici in cui s'è appena accennata la cefalizzazione_
@@ -2381,7 +2369,7 @@ Si usa distinguere gli animali in **vertebrati**, **provvisti di endoscheletro**
 
 
 
-![alt_text](images/Evoluzione-e63.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Branchiostoma_lanceolatum.jpg/606px-Branchiostoma_lanceolatum.jpg)
 
 
 _Anfiosso (Branchiostoma lanceolatum), il più semplice dei Cordati_
@@ -2397,14 +2385,14 @@ Tra le cellule epiteliali e i coanociti si trova uno strato gelatinoso (**mesogl
 
 La **riproduzione avviene per gemmazione** oppure è di tipo **sessuato**. Nel primo caso si forma una protuberanza, o gemma, sul corpo della spugna; accrescendosi, la gemma può rimanere attaccata al corpo del genitore oppure staccarsi. Se la riproduzione è sessuata, dalla fecondazione della cellula uovo si forma un larva ciliata libera, che viene dispersa dalla corrente e poi si fissa sul fondo per dare origine a un nuovo individuo.
 
-<classificazione dei poriferi>
 
 
 
 
 
 
-![alt_text](images/Evoluzione-e64.jpg "image_tooltip")
+
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/e/ee/Aplysina_aerophoba.jpg)
 
 
 _Una spugna marina (Aplysina aerophoba)_
@@ -2454,7 +2442,7 @@ Cellule nervose con lunghi prolungamenti (**cellule neuroepiteliali**) **costitu
 
 
 
-![alt_text](images/Evoluzione-e65.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/e/eb/Alicia_mirabilis.jpg)
 
 
 _Anemone di mare (Actinaria)_
@@ -2473,7 +2461,7 @@ Sono animali ermafroditi, cioè uno stesso individuo produce gameti sia maschili
 
 
 
-![alt_text](images/Evoluzione-e66.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/9/9d/Ctenophore.jpg)
 
 
 _Ctenoforo tentacolato_
@@ -2494,7 +2482,7 @@ Comprendono i foronoidei, i briozoi e i brachiopodi. Tra questi vanno segnalati 
 
 
 
-![alt_text](images/Evoluzione-e67.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/2/21/Bathocyroe_fosteri.jpg)
 
 
 _Bathocyroe fosteri_
@@ -2546,7 +2534,7 @@ I platelminti comprendono animali a vita libera, marini o terrestri, e parassiti
 
 
 
-![alt_text](images/Evoluzione-e68.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Prostheceraeus_giesbrechtii_Schmarda%2C_1859_4.jpg/640px-Prostheceraeus_giesbrechtii_Schmarda%2C_1859_4.jpg)
 
 
 _Prostheceraeus giesbrechtii, un verme piatto_
@@ -2563,7 +2551,7 @@ Possiedono inoltre un rudimenatale pseudoceloma (cavità interna) e una specie d
 
 
 
-![alt_text](images/Evoluzione-e69.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Micrura_verrilli.jpg/640px-Micrura_verrilli.jpg)
 
 
 _Micrura verrilli_
@@ -2633,7 +2621,7 @@ I nematodi comprendono forme libere, che vivono in tutti gli ambienti, ma sono s
 
 
 
-![alt_text](images/Evoluzione-e70.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Priapulus_caudatus.jpg/640px-Priapulus_caudatus.jpg)
 
 
 _Priapulus caudatus, pescato nel mare di Barens_
@@ -2689,7 +2677,7 @@ La riproduzione è sessuata e lo sviluppo passa attraverso la larva trocofora, a
 
 
 
-![alt_text](images/Evoluzione-e71.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Glycera_alba_%28dim%29.jpg/640px-Glycera_alba_%28dim%29.jpg)
 
 
 _Glycera sp._
@@ -2745,7 +2733,7 @@ Lo sviluppo dell'uovo fecondato è indiretto e avviene attraverso più stadi lar
 
 
 
-![alt_text](images/Evoluzione-e72.png "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arthropoda.jpg/400px-Arthropoda.jpg)
 
 
 _Composita di artropodi_
@@ -2755,9 +2743,9 @@ _Composita di artropodi_
 
 I **molluschi** (_phylum_ **Mollusca**) hanno questa particolarità: la loro larva presenta somiglianze con la trocofora degli anellidi e ciò ha fatto avanzare l'ipotesi di un antenato comune.
 
-Tra i due _phyla _si osservano perciò dei caratteri comuni, ma anche molte differenze.
+Tra i due _phyla_ si osservano perciò dei caratteri comuni, ma anche molte differenze.
 
-Il corpo dei molluschi non è diviso in metameri, ma in un capo e un tronco. Il capo ha la bocca, i gangli cerebrali e i principali organi di senso. Il tronco è formato da un muscolo ventrale, chiamato **piede**, che serve per la locomozione; è presente anche un **sacco dei visceri**, contenente gli organi, rivestito da una piega cutanea, chiamata **mantello**; il mantello secerne la **conchiglia **calcarea.
+Il corpo dei molluschi non è diviso in metameri, ma in un capo e un tronco. Il capo ha la bocca, i gangli cerebrali e i principali organi di senso. Il tronco è formato da un muscolo ventrale, chiamato **piede**, che serve per la locomozione; è presente anche un **sacco dei visceri**, contenente gli organi, rivestito da una piega cutanea, chiamata **mantello**; il mantello secerne la **conchiglia** calcarea.
 
 Nella bocca si trova la **radula**, una struttura nastriforme provvista di dentelli che servono per triturare il cibo. L'apparato digerente continua con la **faringe**, l'**esofago**, lo **stomaco** e l'**intestino**; una ghiandola, l'**epatopancreas**, ha funzione digestiva.
 
@@ -2809,7 +2797,7 @@ La **riproduzione è sempre sessuata** (in qualche specie gli individui sono erm
 
 
 
-![alt_text](images/Evoluzione-e73.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Octopus3.jpg/741px-Octopus3.jpg)
 
 
 _Polpo comune, Octopus vulgaris_
@@ -2823,79 +2811,11 @@ I **sipunculidi** (_phylum_ **Sipunculida**) hanno il corpo allungato che si res
 
 I **camptozoi**, o endoprotti (_phylum_ **Kamptozoa**), sono animali acquatici che vivono in colonie. Ogni individuo è sostenuto da un peduncolo che in cima si dilata per contenere gli organi. La bocca è circondata da una corona di tentacoli.
 
-I **pentastomidi **(_phylum_ **Pentastomidi**) comprendono animali tutti parassiti di vertebrati terrestri. Come adattamento, nello stadio larvale possiedono quattro paia di "arti" muniti di uncini. Durante lo sviluppo, due paia di "arti" scompaiono e le rimanenti due sono riposte in quattro tasche situate attorno alla bocca (da cui il nome del _phylum_, "cinque bocche").
+I **pentastomidi** (_phylum_ **Pentastomidi**) comprendono animali tutti parassiti di vertebrati terrestri. Come adattamento, nello stadio larvale possiedono quattro paia di "arti" muniti di uncini. Durante lo sviluppo, due paia di "arti" scompaiono e le rimanenti due sono riposte in quattro tasche situate attorno alla bocca (da cui il nome del _phylum_, "cinque bocche").
 
 I **tardigradi** (_phylum_ **Tardigrada**) sono animali di dimensioni microscopiche, con quattro paia di "arti" che terminano con unghie. La bocca è provvista di stiletti retrattili atti a pungere.
 
 Gli **onicofori** (_phylum_ **Onicophora**) ricordano gli anellidi per il corpo segmentato, in questo caso rivestito da una cuticola sottile. La testa è ben riconoscibile per la presenza di due antenne. Sul ventre sono presenti numerose appendici locomotorie munite di unghie (in greco, _ónicos_). I sessi sono separati e il dimorfismo sessuale è accentuato.
-
-
-<table>
-  <tr>
-   <td>
-
-
-
-
-<img src="images/Evoluzione-e74.jpg" width="" alt="alt_text" title="image_tooltip">
-
-<p>
-<em>Gnatosostomulida</em>
-   </td>
-   <td>
-
-
-
-
-<img src="images/Evoluzione-e75.jpg" width="" alt="alt_text" title="image_tooltip">
-
-<p>
-<em>Sipunculide</em>
-   </td>
-   <td>
-
-
-
-
-<img src="images/Evoluzione-e76.jpg" width="" alt="alt_text" title="image_tooltip">
-
-<p>
-<em>Camptozoa</em>
-   </td>
-  </tr>
-  <tr>
-   <td>
-
-
-
-
-<img src="images/Evoluzione-e77.jpg" width="" alt="alt_text" title="image_tooltip">
-
-<p>
-<em>Pentastomide</em>
-   </td>
-   <td>
-
-
-
-
-<img src="images/Evoluzione-e78.jpg" width="" alt="alt_text" title="image_tooltip">
-
-<p>
-<em>Tardigradi </em>
-   </td>
-   <td>
-
-
-
-
-<img src="images/Evoluzione-e79.jpg" width="" alt="alt_text" title="image_tooltip">
-
-<p>
-<em>Onicofori</em>
-   </td>
-  </tr>
-</table>
 
 
 
@@ -2903,9 +2823,7 @@ Gli **onicofori** (_phylum_ **Onicophora**) ricordano gli anellidi per il corpo 
 
 Negli **echinodermi** (_phylum_ **Echinodermata**) la **larva è a simmetria bilaterale, mentre l'adulto ha simmetria pentaraggiata**.
 
-Il corpo è sostenuto da un **dermascheletro**, cioè un rivestimento di piastre calcaree posto sotto l'epidermide. **Non si distingue una vera e propria testa**, ma un polo orale, dove
-
-si apre la bocca, e un polo aborale, dove si apre l'ano. Tipico degli echinodermi è l'**apparato acquifero**: questo è formato da un canale circolare posto attorno alla bocca da cui si diramano 5 canali pieni di liquido. In corrispondenza dei canali radiali fuoriescono delle appendici munite di ventose (**pedicelli ambulacrali**) utilizzate per la locomozione e la respirazione. Quest'ultima funzione è svolta anche, a seconda delle specie, da polmoni o da branchie.
+Il corpo è sostenuto da un **dermascheletro**, cioè un rivestimento di piastre calcaree posto sotto l'epidermide. **Non si distingue una vera e propria testa**, ma un polo orale, dove si apre la bocca, e un polo aborale, dove si apre l'ano. Tipico degli echinodermi è l'**apparato acquifero**: questo è formato da un canale circolare posto attorno alla bocca da cui si diramano 5 canali pieni di liquido. In corrispondenza dei canali radiali fuoriescono delle appendici munite di ventose (**pedicelli ambulacrali**) utilizzate per la locomozione e la respirazione. Quest'ultima funzione è svolta anche, a seconda delle specie, da polmoni o da branchie.
 
 L'apparato circolatorio è formato da lacune parallele ai canali dell'apparato acquifero; un anello posto attorno alla bocca e 5 tronchi radiali formano il sistema nervoso. Anche gli organi riproduttori (gonadi) sono di regola 5.
 
@@ -2957,7 +2875,7 @@ I sessi sono separati e la riproduzione è sessuata. Lo sviluppo è indiretto co
 
 
 
-![alt_text](images/Evoluzione-e80.jpg "image_tooltip")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/2/26/Woda-3_ubt.jpeg)
 
 
 _Un echinoideo o riccio di mare_
@@ -2970,9 +2888,9 @@ In tutti i **cordati** (_phylum_ **Chordata**), nonostante la notevole varietà 
 
 
 1.  una **corda dorsale** (**notocorda**) di tessuto cartilagineo od osseo, flessibile ed elastica, che fornisce il punto d'attacco per i muscoli
-1.  un **tubo neurale**, che nella regione cefalica si dilata a formare il **cervello **e dal quale si dipartono i nervi
+1.  un **tubo neurale**, che nella regione cefalica si dilata a formare il **cervello** e dal quale si dipartono i nervi
 1.  delle **fessure branchiali faringee**, che possono restare aperte oppure possono chiudersi durante i primi stadi di sviluppo
-1.  una **coda **che prolunga l'estremità posteriore dello scheletro dell'animale.
+1.  una **coda** che prolunga l'estremità posteriore dello scheletro dell'animale.
 
 <table>
   <tr>
@@ -2982,7 +2900,7 @@ In tutti i **cordati** (_phylum_ **Chordata**), nonostante la notevole varietà 
 
 
 
-<img src="images/Evoluzione-e81.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ascidia.JPG/640px-Ascidia.JPG" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Ascidia semplice (Urocordati) </em>
@@ -2992,7 +2910,7 @@ In tutti i **cordati** (_phylum_ **Chordata**), nonostante la notevole varietà 
 
 
 
-<img src="images/Evoluzione-e82.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Branchiostoma_lanceolatum.jpg/606px-Branchiostoma_lanceolatum.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Amphioxus (Cefalocordati)</em>
@@ -3002,7 +2920,7 @@ In tutti i **cordati** (_phylum_ **Chordata**), nonostante la notevole varietà 
 
 
 
-<img src="images/Evoluzione-e83.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Yellow-headed_caracara_%28Milvago_chimachima%29_on_capybara_%28Hydrochoeris_hydrochaeris%29.JPG/640px-Yellow-headed_caracara_%28Milvago_chimachima%29_on_capybara_%28Hydrochoeris_hydrochaeris%29.JPG" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Caracara dalla testa gialla, Milvago chimachima poggiato su un capibara, Hydrochoeris hydrochaeris, gruppo craniata (Emicefalocordati)</em>
@@ -3132,7 +3050,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
 
 
 
-<img src="images/Evoluzione-e84.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/J%C3%B5esilmud2.jpg/640px-J%C3%B5esilmud2.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Lampreda di fiume, Lampetra fluviatilis (agnata)</em>
@@ -3142,7 +3060,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
 
 
 
-<img src="images/Evoluzione-e85.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Carcharodon_carcharias.jpg/640px-Carcharodon_carcharias.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Squalo bianco, Carcharodon carcharias (condritto)</em>
@@ -3154,7 +3072,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
 
 
 
-<img src="images/Evoluzione-e86.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yellowfin_tuna_nurp.jpg/640px-Yellowfin_tuna_nurp.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Tonno, Thunnus (osteitti)</em>
@@ -3164,7 +3082,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
 
 
 
-<img src="images/Evoluzione-e87.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Teichfrosch.jpg/575px-Teichfrosch.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Rana ibrida dei fossi o rana comune, Pelophylax esculentus (anfibi)</em>
@@ -3176,7 +3094,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
 
 
 
-<img src="images/Evoluzione-e88.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blue-toungued_skink444.jpg/640px-Blue-toungued_skink444.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Tiliqua nigrolutea (rettili)</em>
@@ -3186,7 +3104,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
 
 
 
-<img src="images/Evoluzione-e89.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Snowy.owl.overall.arp.750pix.jpg/535px-Snowy.owl.overall.arp.750pix.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Civetta delle nevi, Bubo scandiacus (uccelli)</em>
@@ -3198,7 +3116,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
 
 
 
-<img src="images/Evoluzione-e90.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Platypus.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Ornitorinco o platipo, Ornithorhynchus anatinus. E' monotremo (solo 5 specie) e depone le uova (mammiferi)</em>
@@ -3208,7 +3126,7 @@ La sistematica dei cordati si basa sulla posizione della corda: sono considerati
 
 
 
-<img src="images/Evoluzione-e91.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Mus_muscul_061113_tdp.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 <em>Topo, Mus musculis (mammiferi)</em>
