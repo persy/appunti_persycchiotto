@@ -7,3 +7,5 @@ draft: false
 * [Orgoglio e Pregiudizio](orgoglio_e_pregiudizio)
 * [Frankenstein](frankenstein)
 * [Don Chisciotte della Mancia](don_chisciotte)
+* [Jane Eyre](jane_eyre)
+* [Cime Tempestose](cime_tempestose)
