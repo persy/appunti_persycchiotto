@@ -26,7 +26,7 @@ draft: false
 
 In questo sito potrai trovare i miei appunti, liberamente scaricabili e modificabili sulle seguenti tematiche:
 
-+ **[Biologia](biologia)** : dalla cellula, passando per i tessuti vegetali e animali e all'etologia
++ **[Biologia](biologia)**: dalla cellula, passando per i tessuti vegetali e animali e all'etologia
 
 + **[Scienze della Terra](scienze-della-terra)**: dal centro della Terra fino ai quasar
 + **[Storia](storia)**: tutto il Novecento, anno per anno, seguendo i fatti storici, i cambiamenti di costume, la società nei vari decenni, le scoperte scientifiche, le arti, il cinema del grande e del piccolo schermo, il pensiero filosofico
