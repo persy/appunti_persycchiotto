@@ -11,3 +11,5 @@ draft: false
 * [Cime Tempestose](cime_tempestose)
 * [Moby Dick](moby_dick)
 * [La lettera scarlatta](lettera_scarlatta)
+* [Grandi Speranze](grandi_speranze)
+* [Delitto e Castigo](delitto_castigo)
