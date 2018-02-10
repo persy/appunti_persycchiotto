@@ -15,3 +15,4 @@ draft: false
 * [Delitto e Castigo](delitto_castigo)
 * [Anna Karenina](anna_karenina)
 * [Le avventure di Huckleberry Finn](huckleberry_finn)
+* [I Dolori del Giovane Werther](giovane_werther)
