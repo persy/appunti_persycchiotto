@@ -16,3 +16,4 @@ draft: false
 * [Anna Karenina](anna_karenina)
 * [Le avventure di Huckleberry Finn](huckleberry_finn)
 * [I Dolori del Giovane Werther](giovane_werther)
+* [Madame Bovary](madame_bovary)
