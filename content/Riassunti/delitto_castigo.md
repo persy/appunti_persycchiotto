@@ -1,5 +1,5 @@
 ---
-title: "Delitto e Castigo"
+title: "Delitto e Castigo – Fyodor Dostoyevsky (1866)"
 draft: false
 weight: 9
 ---

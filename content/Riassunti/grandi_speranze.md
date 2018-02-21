@@ -1,11 +1,11 @@
 ---
-title: "Grandi speranze"
+title: "Grandi speranze - Charles Dickens (1860)"
 draft: false
 weight: 8
 ---
 
 
-Grandi speranze (titolo originale Great Expectations) è il tredicesimo romanzo di Charles Dickens; scritto e pubblicato a puntate tra il 1860 e il 1861 è anche il secondo, dopo David Copperfield, ad essere stato scritto interamente in prima persona.
+Grandi speranze (titolo originale _Great Expectations_) è il tredicesimo romanzo di Charles Dickens; scritto e pubblicato a puntate tra il 1860 e il 1861 è anche il secondo, dopo David Copperfield, ad essere stato scritto interamente in prima persona.
 
 L'opera fu pubblicata per la prima volta a puntate settimanali, dal 1º dicembre 1860 ad agosto 1861 sulla rivista All the Year Round, periodico diretto dallo stesso Dickens.
 

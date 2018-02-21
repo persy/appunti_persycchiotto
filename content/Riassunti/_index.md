@@ -2,19 +2,113 @@
 title: "Riassunti"
 draft: false
 ---
-## Elenco dei riassunti delle opere letterarie più famose
+## Elenco dei riassunti delle opere letterarie più famose (in aggiornamento)
 
-* [Orgoglio e Pregiudizio](orgoglio_e_pregiudizio)
-* [Frankenstein](frankenstein)
-* [Don Chisciotte della Mancia](don_chisciotte)
-* [Jane Eyre](jane_eyre)
-* [Cime Tempestose](cime_tempestose)
-* [Moby Dick](moby_dick)
-* [La lettera scarlatta](lettera_scarlatta)
-* [Grandi Speranze](grandi_speranze)
-* [Delitto e Castigo](delitto_castigo)
-* [Anna Karenina](anna_karenina)
-* [Le avventure di Huckleberry Finn](huckleberry_finn)
-* [I Dolori del Giovane Werther](giovane_werther)
-* [Madame Bovary](madame_bovary)
-* [Cuore di Tenebra](cuore_tenebra)
+
+* [Don Chisciotte della Mancia – Cervantes (1605)](don_chisciotte)
+* [Robinson Crusoe - Daniel Defoe (1719)](robinson_crusoe)
+* [I Dolori del Giovane Werther – J. W. Goethe (1774)](giovane_werther)
+ <!-- * Le Affinità Elettive – Goethe (1809) -->
+* [Orgoglio e Pregiudizio – Jane Austen (1813)](orgoglio_e_pregiudizio)
+<!-- * Emma – Jane Austen (1815) -->
+* [Frankenstein, o il moderno Prometeo - Mary Shelley (1818)](frankenstein)
+<!-- * I Promessi Sposi – Alessandro Manzoni (1827)
+* Il Rosso e il Nero – Stendhal (1830)
+* Oliver Twist – Charles Dickens (1837)
+* Canto di Natale – Charles Dickens (1843)
+* I Tre Moschettieri – Alexandre Dumas (1844)
+* Il Conte di Monte Cristo – Alexandre Dumas (1846) -->
+* [Jane Eyre - Charlotte Brontë (1847)](jane_eyre)
+* [Cime Tempestose – Emily Brontë (1847)](cime_tempestose)
+<!-- * La fiera delle vanità – William Makepeace Thackeray (1848)
+* David Copperfield – Charles Dickens (1849) -->
+* [La lettera scarlatta - Nathaniel Hawthorne (1850)](lettera_scarlatta)
+* [Moby Dick – Herman Melville (1851)](moby_dick)
+<!-- * Bleak House – Charles Dickens (1852) -->
+* [Madame Bovary – Gustave Flaubert (1856)](madame_bovary)
+* [Grandi speranze - Charles Dickens (1860)](grandi_speranze)
+<!-- * I Miserabili – Victor Hugo (1862)
+* Guerra e Pace – Leo Tolstoy (1865)
+* Alice nel Paese delle Meraviglie – Lewis Carroll (1865) -->
+* [Delitto e Castigo – Fyodor Dostoyevsky (1866)](delitto_castigo)
+<!-- * Piccole Donne – Louisa M. Alcott (1868)-->
+* [Middlemarch - George Eliot (1874)](middlemarch)
+* [Anna Karenina – Leo Tolstoj (1877)](anna_karenina)
+<!-- * I Malavoglia – Giovanni Verga (1881)
+* Le Avventure di Pinocchio – Collodi (1883)-->
+* [Le Avventure di Huckleberry Finn - Mark Twain (1884)](huckleberry_finn)
+<!-- * Germinale – Emile Zola (1885)
+* Cuore – Edmondo de Amicis (1886)
+* Tre Uomini in Barca – Jerome K. Jerome (1889)
+* Il Ritratto di Dorian Gray – Oscar Wilde (1890)
+* Le Avventure di Sherlock Holmes – Sir Arthur Conan Doyle (1892) -->
+* [Cuore di tenebra – Joseph Conrad (1899)](cuore_tenebra)
+<!-- * I Buddenbrook. Decadenza di una famiglia  – Thomas Mann (1901)
+* Il Fu Mattia Pascal – Luigi Pirandello (1904)
+* La metamorfosi - Franz Kafka (1915)
+* Ulisse – James Joyce (1922)
+* Siddharta – Hermann Hesse (1922)
+* La Coscienza di Zeno – Italo Svevo (1923)
+* Il Grande Gatsby – F. Scott Fitzgerald (1925)
+* Il Processo – Franz Kafka (1925)
+* Gli Indifferenti – Alberto Moravia (1929)
+* Niente di nuovo sul fronte occidentale – Remarque (1931)
+* Il mondo nuovo – Aldous Huxley (1932)
+* Via col Vento – Margaret Mitchell (1936)
+* Uomini e topi – John Steinbeck (1937)
+* The Faraway Tree Collection – Enid Blyton (1939)
+* Il Piccolo Principe – Antoine De Saint-Exupery (1943)
+* Brideshead Revisited – Evelyn Waugh (1945)
+* La Fattoria degli Animali – George Orwell (1945)
+* Cristo si è fermato ad Eboli – Carlo Levi (1945)
+* Se questo è un uomo – Primo Levi (1947)
+* 1984 – George Orwell (1949)
+* La luna e i Falò – Cesare Pavese (1950)
+* Memorie di Adriano – Marguerite Yourcenar (1951)
+* Il Giovane Holden – Salinger (1951)
+* Il Vecchio e il Mare – Ernest Hemingway (1952)
+* La tela di Carlotta – E. B. White (1952)
+* Il Signore delle Mosche – William Golding (1954)
+* Lolita – Vladimir Nabokov (1955)
+* Il Barone Rampante – Italo Calvino (1957)
+* Sulla Strada – Jack Kerouac (1957)
+* Il Gattopardo – Tommasi di Lampedusa (1958)
+* Il buio oltre la siepe – Harper Lee (1960)
+* Comma 22 – Joseph Heller (1961)
+* Il Giardino dei Finzi Contini – Giorgio Bassani (1962)
+* Lessico Familiare – Natalia Ginzburg (1963)
+* La fabbrica di cioccolato – Roald Dahl (1964)
+* Cent'nni di Solitudine – Gabriel Garcia Marquez (1967)
+* Guida Galattica per Autostoppisti – Douglas Adams (1979) 
+* Un Uomo – Oriana Fallaci (1979)
+* Il Nome della Rosa – Umberto Eco (1980)
+* I figli della mezzanotte – Salman Rushdie (1981)
+* Il Colore Viola – Alice Walker (1982)
+* La fabbrica degli orrori – Iain Banks (1984)
+* L’insostenibile leggerezza dell’essere – Milan Kundera (1984)
+* L’Amore ai Tempi del Colera – Gabriel Garcia Marquez (1985)
+* Quel che resta del giorno – Kazuo Ishiguro (1989)
+* Possessione – A. S. Byatt (1990)
+* Il Mandolino del Capitano Corelli – Louis De Berniere (1993)
+* Il Diario di Bridget Jones – Helen Fielding (1995)
+* Un perfetto equilibrio – Rohinton Mistry (1995)
+* Notizie da un'isoletta – Bill Bryson (1995)
+* Memorie di una Geisha – Arthur Golden (1997)
+* Vita di Pi – Yann Martel (2001)
+* L’ombra del vento – Carlos Ruiz Zafon (2001)
+* Amabili resti – Alice Sebold (2002)
+* Lo strano caso del cane ucciso a mezzanotte – Mark Haddon (2003)
+* Il Cacciatore di Aquiloni – Khaled Hosseini (2003) -->
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,5 +1,5 @@
 ---
-title: "Frankenstein"
+title: "Frankenstein, o il moderno Prometeo - Mary Shelley (1818)"
 draft: false
 weight: 2
 ---

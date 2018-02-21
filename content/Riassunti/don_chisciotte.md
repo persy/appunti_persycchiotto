@@ -1,5 +1,5 @@
 ---
-title: "Don Chisciotte"
+title: "Don Chisciotte della Mancia – Cervantes (1605)"
 draft: false
 weight: 3
 ---

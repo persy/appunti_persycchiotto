@@ -1,7 +1,7 @@
 ---
-title: "Madame Bovary"
+title: "Cuore di tenebra – Joseph Conrad (1899)"
 draft: false
-weight: 14
+weight: 15
 ---
 
 

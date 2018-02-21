@@ -1,5 +1,5 @@
 ---
-title: "Moby Dick"
+title: "Moby Dick – Herman Melville (1851)"
 draft: false
 weight: 6
 ---

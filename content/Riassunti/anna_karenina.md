@@ -1,5 +1,5 @@
 ---
-title: "Anna Karenina"
+title: "Anna Karenina – Leo Tolstoj (1877)"
 draft: false
 weight: 10
 ---

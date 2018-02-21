@@ -1,5 +1,5 @@
 ---
-title: "Le Avventure di Huckleberry Finn"
+title: "Le Avventure di Huckleberry Finn - Mark Twain (1884)"
 draft: false
 weight: 11
 ---

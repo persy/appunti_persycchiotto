@@ -1,5 +1,5 @@
 ---
-title: "Orgoglio e Pregiudizio"
+title: "Orgoglio e Pregiudizio – Jane Austen (1813)"
 draft: false
 weight: 1
 ---

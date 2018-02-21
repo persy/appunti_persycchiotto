@@ -1,5 +1,5 @@
 ---
-title: "La lettera scarlatta"
+title: "La lettera scarlatta - Nathaniel Hawthorne (1850)"
 draft: false
 weight: 7
 ---

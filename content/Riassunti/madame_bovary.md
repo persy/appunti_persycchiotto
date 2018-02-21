@@ -1,5 +1,5 @@
 ---
-title: "Madame Bovary"
+title: "Madame Bovary – Gustave Flaubert (1856)"
 draft: false
 weight: 13
 ---

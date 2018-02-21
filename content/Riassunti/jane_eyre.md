@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre"
+title: "Jane Eyre - Charlotte Brontë (1847)"
 draft: false
 weight: 4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "I dolori del giovane Werther"
+title: "I Dolori del Giovane Werther – J. W. Goethe (1774)"
 draft: false
 weight: 12
 ---
