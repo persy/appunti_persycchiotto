@@ -8,42 +8,42 @@ draft: false
 * [Don Chisciotte della Mancia – Cervantes (1605)](don_chisciotte)
 * [Robinson Crusoe - Daniel Defoe (1719)](robinson_crusoe)
 * [I Dolori del Giovane Werther – J. W. Goethe (1774)](giovane_werther)
- <!-- * Le Affinità Elettive – Goethe (1809) -->
-* [Orgoglio e Pregiudizio – Jane Austen (1813)](orgoglio_e_pregiudizio)
-<!-- * Emma – Jane Austen (1815) -->
+* Le Affinità Elettive – Goethe (1809)
+* [Orgoglio e Pregiudizio – Jane Austen (1813) ](orgoglio_e_pregiudizio)
+* Emma – Jane Austen (1815)
 * [Frankenstein, o il moderno Prometeo - Mary Shelley (1818)](frankenstein)
-<!-- * I Promessi Sposi – Alessandro Manzoni (1827)
+* I Promessi Sposi – Alessandro Manzoni (1827)
 * Il Rosso e il Nero – Stendhal (1830)
 * Oliver Twist – Charles Dickens (1837)
 * Canto di Natale – Charles Dickens (1843)
 * I Tre Moschettieri – Alexandre Dumas (1844)
-* Il Conte di Monte Cristo – Alexandre Dumas (1846) -->
+* Il Conte di Monte Cristo – Alexandre Dumas (1846)
 * [Jane Eyre - Charlotte Brontë (1847)](jane_eyre)
 * [Cime Tempestose – Emily Brontë (1847)](cime_tempestose)
-<!-- * La fiera delle vanità – William Makepeace Thackeray (1848)
-* David Copperfield – Charles Dickens (1849) -->
+* La fiera delle vanità – William Makepeace Thackeray (1848)
+* David Copperfield – Charles Dickens (1849)
 * [La lettera scarlatta - Nathaniel Hawthorne (1850)](lettera_scarlatta)
 * [Moby Dick – Herman Melville (1851)](moby_dick)
-<!-- * Bleak House – Charles Dickens (1852) -->
+* Bleak House – Charles Dickens (1852)
 * [Madame Bovary – Gustave Flaubert (1856)](madame_bovary)
 * [Grandi speranze - Charles Dickens (1860)](grandi_speranze)
-<!-- * I Miserabili – Victor Hugo (1862)
+* I Miserabili – Victor Hugo (1862)
 * Guerra e Pace – Leo Tolstoy (1865)
-* Alice nel Paese delle Meraviglie – Lewis Carroll (1865) -->
+* Alice nel Paese delle Meraviglie – Lewis Carroll (1865)
 * [Delitto e Castigo – Fyodor Dostoyevsky (1866)](delitto_castigo)
-<!-- * Piccole Donne – Louisa M. Alcott (1868)-->
-* [Middlemarch - George Eliot (1874)](middlemarch)
+* Piccole Donne – Louisa M. Alcott (1868)
+* Middlemarch - George Eliot (1874)
 * [Anna Karenina – Leo Tolstoj (1877)](anna_karenina)
-<!-- * I Malavoglia – Giovanni Verga (1881)
-* Le Avventure di Pinocchio – Collodi (1883)-->
+* I Malavoglia – Giovanni Verga (1881)
+* Le Avventure di Pinocchio – Collodi (1883)
 * [Le Avventure di Huckleberry Finn - Mark Twain (1884)](huckleberry_finn)
-<!-- * Germinale – Emile Zola (1885)
+* Germinale – Emile Zola (1885)
 * Cuore – Edmondo de Amicis (1886)
 * Tre Uomini in Barca – Jerome K. Jerome (1889)
 * Il Ritratto di Dorian Gray – Oscar Wilde (1890)
-* Le Avventure di Sherlock Holmes – Sir Arthur Conan Doyle (1892) -->
+* Le Avventure di Sherlock Holmes – Sir Arthur Conan Doyle (1892)
 * [Cuore di tenebra – Joseph Conrad (1899)](cuore_tenebra)
-<!-- * I Buddenbrook. Decadenza di una famiglia  – Thomas Mann (1901)
+* I Buddenbrook. Decadenza di una famiglia  – Thomas Mann (1901)
 * Il Fu Mattia Pascal – Luigi Pirandello (1904)
 * La metamorfosi - Franz Kafka (1915)
 * Ulisse – James Joyce (1922)
@@ -98,16 +98,7 @@ draft: false
 * L’ombra del vento – Carlos Ruiz Zafon (2001)
 * Amabili resti – Alice Sebold (2002)
 * Lo strano caso del cane ucciso a mezzanotte – Mark Haddon (2003)
-* Il Cacciatore di Aquiloni – Khaled Hosseini (2003) -->
-
-
-
-
-
-
-
-
-
+* Il Cacciatore di Aquiloni – Khaled Hosseini (2003)
 
 
 
