@@ -32,7 +32,7 @@ draft: false
 * Alice nel Paese delle Meraviglie – Lewis Carroll (1865)
 * [Delitto e Castigo – Fyodor Dostoyevsky (1866)](delitto_castigo)
 * Piccole Donne – Louisa M. Alcott (1868)
-* Middlemarch - George Eliot (1874)
+* [Middlemarch - George Eliot (1874)](middlemarch)
 * [Anna Karenina – Leo Tolstoj (1877)](anna_karenina)
 * I Malavoglia – Giovanni Verga (1881)
 * Le Avventure di Pinocchio – Collodi (1883)
