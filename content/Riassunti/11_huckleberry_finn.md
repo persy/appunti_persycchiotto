@@ -13,7 +13,13 @@ Huck, figlio di un ubriacone incallito, viene abbandonato dal padre. Comincia co
 
 La parte del tesoro di Huck (ben seimila dollari), che è stato trovato nella caverna alla fine del primo romanzo, viene messo in banca in modo da poter fruttare al ragazzo una cospicua e sicura rendita economica; ma Huck rimpiange presto la vita libera che conduceva precedentemente e, rimessi i suoi stracci, riprende a vivere nella sua amata botte fino a quando l'amico Tom riesce a dissuaderlo. Accetta allora di tornare dalla vedova e ricomincia con una certa insofferenza la vita civile che gli viene imposta: lavarsi, vestirsi bene ed esser educato a tavola, studiare e frequentar la scuola. Si sente però schiacciato da tutte queste convenzioni sociali che lui giudica francamente incomprensibili.
 In Illinois e all'isola Jackson
-Huck e Jim sulla zattera, illustrazione dell'edizione del 1884
+
+
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Huck_and_jim_on_raft.jpg/385px-Huck_and_jim_on_raft.jpg">
+
+<i>Huck e Jim sulla zattera, illustrazione dell'edizione del 1884</i></div>
+
 
 ### In Illinois e all'isola Jackson
 

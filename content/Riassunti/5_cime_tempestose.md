@@ -12,7 +12,9 @@ Cime tempestose (nel titolo originale, Wuthering Heights), pubblicato nel 1847 (
 
 L’ambientazione è quella della suggestiva brughiera inglese, presso la casa colonica di Wuthering Heights, che dà il nome a libro. Cime tempestose ha una struttura complessa, organizzata per flashback successivi, in modo che una narrazione interna ne richiami un’altra ambientata nel passato che a sua volta ne richiama un’altra e così via, come in un gioco di scatole cinesi.
 
- 
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/The_Climb_to_Top_Withens._-_geograph.org.uk_-_393405.jpg">
+
+<i>La salita a Top Withens, casa Earnshaw in "Cime Tempestose"</i>
 
 ## Trama
 

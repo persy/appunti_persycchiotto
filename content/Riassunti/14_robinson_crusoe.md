@@ -15,7 +15,9 @@ Il libro racconta le avventure di un giovane marinaio inglese, che naufraga su u
 
 Robinson Crusoe è il primo romanzo di Daniel Defoe, che lo pubblica nel 1719, all’età di ormai sessant’anni, dopo una vita passata tra attività commerciali, una ricca carriera giornalistica, la politica e addirittura lo spionaggio. Già pochi mesi dopo la sua pubblicazione, il romanzo conosce un grandissimo successo presso il pubblico borghese del tempo; col tempo Robinson Crusoe diventerà una delle letture più popolari per adulti e bambini di tutto il mondo e una delle opere letterarie più importanti della letteratura occidentale.
 
- 
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Robinson_von_Offterdinger_und_Zweigle_Kap_12.jpg/522px-Robinson_von_Offterdinger_und_Zweigle_Kap_12.jpg">
+
+<i>Robinson sulla zattera.</i></div>
 
 ## Riassunto
 

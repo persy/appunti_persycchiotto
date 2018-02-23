@@ -15,6 +15,12 @@ Grandi speranze appartiene al genere detto "Bildungsroman" (romanzo di formazion
 La vicenda ha inizio dalla vigilia di Natale del 1812 (anno di nascita di Dickens), quando l'orfano ha circa sette anni, e termina nell'inverno del 1840.
 Ogni puntata in All the Year Round conteneva due capitoli ed era scritta in modo che "catturasse" i lettori, stimolando la loro curiosità verso il fascicolo successivo. La sua prima apparizione in volume fu in tre tomi, senza illustrazioni, nel luglio del 1861.
 
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Breakhisheart.jpg">
+
+<i>Miss Havisham ed Estella in compagnia di Pip in un'illustrazione di H. M. Brock (1901-1903)</i>
+
+
 
 ## Trama
 
@@ -42,6 +48,13 @@ I due decidono allora, con l'aiuto anche di Startop, di far fuggire Magwitch in 
 Magwitch è condannato all'impiccagione ma muore prima dell'esecuzione. Contemporaneamente, a causa di tutte le spese che ha dovuto sostenere a Londra, Pip non è più in grado di mantenere la sua abituale vita lussuosa né tanto meno di ultimare gli studi, se ne torna così nella cittadina natale; qui ritrova Joe sposato con la sua ex insegnante Biddy.
 
 In seguito l'oramai giovane uomo, rimasto del tutto squattrinato, se ne va in Egitto assieme all'amico Herbert e alla moglie di questi, dove comincia a guadagnarsi la vita come impiegato. Undici anni dopo Pip torna davanti alle rovine di Satis House e qui incontra nuovamente Estella, resa umile dal matrimonio con il violento Drummle, il quale ha continuato a maltrattare lei finché non è morto per strada. Estella e Pip, prendendosi per mano, decidono di rimanere amici: corre l'anno 1846 e sono passati più di tre decenni da quando Pip aveva incontrato l'evaso al cimitero.
+
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Structure_de_G._E._%28Sch%C3%A9ma%29.png">
+
+<i>Schema delle relazioni intercorrenti tra i personaggi.</i>
+
+
 
 ## Finali alternativi
 

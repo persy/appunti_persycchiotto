@@ -39,11 +39,9 @@ invece di tifo addominale a causa delle pessime condizioni in cui è tenuta la s
 ultima con successo, e successivamente opera all'interno dello stesso istituto come stimata insegnante. Questa professione la rende
 una donna libera ed indipendente, permettendole di coltivare i suoi interessi, e trovare un'occupazione presso la dimora di Thornfield
 Hall, appartenuta da sempre alla nobile famiglia dei Rochester, dove svolge il ruolo di istitutrice per Adele, la figlia adottiva del
-padrone di casa, il misterioso Mr . Rochester.
-Questo periodo da istitutrice trascorre serenamente fino al giorno dell'improvviso arrivo di Mr. Rochester, un uomo imponente e
-sarcastico, che è subito colpito dalla vivida intelligenza e dall'indipendenza di spirito di Jane. Il rapporto tra i due attraversa varie
-traversie, tra cui l'annunciato e poi disdetto matrimonio di Mr. Rochester con Blanche Ingram, una donna bellissima che vuole
-sposarlo soltanto per interesse. Infine Mr. Rochester scopre che l'amore che egli sin dal primo momento aveva riposto in Jane è ben
+padrone di casa, il misterioso Mr. Rochester.
+Questo periodo da istitutrice trascorre serenamente fino al giorno dell'improvviso arrivo di Mr. Rochester, un uomo imponente e sarcastico, che è subito colpito dalla vivida intelligenza e dall'indipendenza di spirito di Jane. Il rapporto tra i due attraversa varie
+traversie, tra cui l'annunciato e poi disdetto matrimonio di Mr. Rochester con Blanche Ingram, una donna bellissima che vuole sposarlo soltanto per interesse. Infine Mr. Rochester scopre che l'amore che egli sin dal primo momento aveva riposto in Jane è ben
 corrisposto, e perciò le chiede la mano.
 Ma un terribile segreto è racchiuso tra le mura di Thornfield Hall e viene fortuitamente rivelato il giorno stesso delle nozze tra Jane e
 Rochester: l'uomo è già sposato con Bertha Mason, una donna completamente pazza e tenuta segregata nella soffitta di Thornfield.

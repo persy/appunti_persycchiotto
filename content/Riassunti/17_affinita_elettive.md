@@ -7,7 +7,11 @@ weight: 17
 
 Doveva entrare a far parte degli Anni di viaggio di Wilhelm Meister, in forma di novella; lo sviluppo imprevisto, per struttura e mole letteraria, rese invece Le affinità elettive (Die Wahlverwandtschaften, 1809) un racconto autonomo, il quarto romanzo pubblicato da Johann Wolfgang von Goethe: una delle più significative tra le sue opere narrative, ma anche tra le più apprezzate, sia dai contemporanei che dai posteri, per bontà della scrittura, modernità delle tematiche trattate e ricchezza di idee.
 
- 
+
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/3/31/Goethe_Ottilie_Kaulbach.jpg/411px-Goethe_Ottilie_Kaulbach.jpg">
+
+<i>Ottilie con il figlio di Charlotte.</i></div>
+
 
 ## Trama
 

@@ -13,7 +13,10 @@ Frankenstein o il Moderno Prometeo (Frankenstein or the Modern Prometheus) è op
 
 Il romanzo ha anche un’origine assai curiosa, in quanto nasce da una competizione letteraria tra amici. Durante la piovosissima estate del 1816, Mary e Percy soggiornano in una villa sul lago di Ginevra con John Polidori (1795-1821), ospitati da Lord Byron (1788-1824). Quest’ultimo, per ingannare la noia del tempo inclemente, sfida tutti a scrivere il miglior racconto dell’orrore. Da qui nasceranno il mito di Frankenstein e Il vampiro (1819) di Polidori, romanzo breve che fonda tutte le storie sui vampiri, fino al Dracula (1897) di Bram Stoker (1847-1912).
 
- 
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Frontispiece_to_Frankenstein_1831.jpg/464px-Frontispiece_to_Frankenstein_1831.jpg">
+
+<i>Illustrazione dalla copertina interna dell'edizione di Frankenstein del 1831</i></div>
+
 
 ## Trama
 

@@ -14,6 +14,9 @@ Nelle stesure iniziali Middlemarch era la storia di un medico ambizioso, Lydgate
 
 Al crescere dell'estensione del romanzo, si decise anche in merito alla modalità di pubblicazione: nel maggio del 1871 Lewes chiese all'editore John Blackwood di fare uscire la storia in otto parti, a intervalli bimestrali a partire dal dicembre del 1871. Blackwood accettò e gli otto libri apparvero come convenuto durante il 1872, mentre le ultime due parti furono pubblicate in due mesi consecutivi, nel novembre e dicembre 1872.
 
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dorothea_and_Will_Ladislaw.jpg/401px-Dorothea_and_Will_Ladislaw.jpg">
+
+<i>Dorothea Brooke e Will Ladislaw</i></div>
 
 ## Trama
 
@@ -28,11 +31,11 @@ Questi tre intrecci narrativi - con alcune sottotrame come quella che vede il tr
 L'ultimo filone del complesso intreccio (anche questo parallelo agli altri) riguarda Ladislaw, che fin dal primo incontro non ha mai fatto parola del suo amore per Dorothea. Rimane per un periodo a Middlemarch, lavorando per Mr. Brooke e diventando il fulcro delle insidiose attenzioni di Rosamond. Dopo il fallimento della campagna elettorale di Brooke non c'è nulla che trattenga Ladislaw a Middlemarch, e fa quindi visita a Dorothea per annunciarle il suo addio. Ma Dorothea, sollevata dalla presenza di Casaubon ma ancora prigioniera del suo testamento, scandalizza nuovamente la sua famiglia, annunciando di sposare Ladislaw. Allo stesso tempo Fred, che si è dimostrato un allievo capace nella professione di Caleb, ottiene finalmente l'approvazione e la mano di Mary.
 
 Al di là delle storie principali, continui sono gli accenni alle altre scene: osserviamo gli avari parenti di Featherstone che fanno visita al vecchio possidente per essere inclusi nel testamento; visitiamo lo strano ménage familiare di Farebrother; veniamo a conoscenza di enormi divisioni economiche e sociali. Ma queste fanno soprattutto da sfondo, mentre l'autrice lascia nel finale le storie principali in gran parte sospese, affidando a un breve Epilogo il compito di riassumere le fortune dei nostri protagonisti durante i successivi trent'anni. Il libro si conclude come era iniziato, con Dorothea: «La piena natura di lei [...] si esaurì in rivoli che sulla terra non portavano un gran nome. Ma l'effetto della sua esistenza su coloro che la circondavano si diffuse in misura incalcolabile: perché il bene crescente del mondo in parte dipende da azioni prive di storia».
-Tematiche trattate
-Istruzione
+## Tematiche trattate
+### Istruzione
 
 Il libro esamina il ruolo dell'istruzione nella vita dei personaggi e come essa li abbia influenzati. Gli studi in una scuola di buone maniere di Rosamond Vincy sono in contrasto con la religiosa ricerca continua di conoscenza di Dorothea. In principio Rosamond ammira Lydgate per il suo intelletto e la sua cultura esotica (avendo questi studiato a Parigi, a differenza di molti altri medici di Middlemarch). Una dinamica simile è presente nella relazione tra Casaubon e Dorothea, provando quest'ultima una forte riverenza verso l'intelligenza e l'eloquenza del marito. Ma in entrambi i casi le aspettative delle giovani mogli sulle capacità dei consorti non rispecchiano la realtà. A dispetto della sua estrema erudizione, Mr. Casaubon è spaventato dall'idea della pubblicazione in quanto crede di dover scrivere un'opera che sia al di sopra da tutte le critiche. Al contrario, Lydgate si gloria di tanto in tanto delle sue capacità, inimicandosi i suoi colleghi medici. Egli guarda ai cittadini di Middlemarch con un certo disprezzo, generato dalla convinzione che la gente di provincia sia ritrosa e priva di interesse. Nella sua istruzione, comunque, non hanno fatto parte il tatto e la pratica politica, competenze essenziali in una cittadina ma viste da Lydgate come inferiori al suo status di brillante dottore.
-Classi sociali
+### Classi sociali
 
 I personaggi del libro appartengono a distinte classi sociali basate su lignaggio e censo. La classe signorile (cioè quella classe di possidenti terrieri finanziariamente indipendente che non ha bisogno di lavorare per vivere) rappresentata da Sir James Chettam, Mr. Casaubon, il vecchio Mr. Featherstone e la famiglia Brooke (Dorothea, Celia e lo zio). La classe dei mercanti e quella dei professionisti sono rappresentate dalla famiglia Vincy (e in particolare da Fred e Rosamond), mentre la classe di lavoratori è rappresentata dalla famiglia Garth.
 

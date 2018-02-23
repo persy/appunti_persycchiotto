@@ -9,6 +9,10 @@ La lettera scarlatta (The Scarlet Letter), pubblicato nel 1850, è un classico d
 
 Il romanzo è incorniciato da un'introduzione (chiamata "La dogana") nella quale lo scrittore, un alter ego di Hawthorne, finge di aver trovato documenti e carte che raccontano la storia di Prynne e ne provano l'autenticità. Il narratore sostiene anche che quando toccò la lettera ricamata (trovata assieme alle carte) aveva provato "un calore bruciante... come se la lettera non fosse di panno scarlatto, ma di ferro arroventato fino a diventare rosso". In precedenza Hawthorne aveva lavorato nella Dogana di Salem per lungo tempo, perdendo il proprio lavoro a causa di un cambiamento dell'amministrazione politica.
 
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hugues_Merle_-_The_Scarlet_Letter_-_Walters_37172.jpg/486px-Hugues_Merle_-_The_Scarlet_Letter_-_Walters_37172.jpg">
+
+<i>The Scarlet Letter di Hugues Merle</i>
 
 ## Trama
 
