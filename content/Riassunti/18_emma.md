@@ -7,7 +7,7 @@ weight: 18
 
 ## Trama
 
-« Emma Woodhouse, bella, intelligente e ricca, con una casa confortevole e un carattere allegro, sembrava riunire in sé il meglio che la vita può offrire, e aveva quasi raggiunto i ventun anni senza subire alcun dolore o grave dispiacere. »
+_« Emma Woodhouse, bella, intelligente e ricca, con una casa confortevole e un carattere allegro, sembrava riunire in sé il meglio che la vita può offrire, e aveva quasi raggiunto i ventun anni senza subire alcun dolore o grave dispiacere. »_
 (Incipit di "Emma", traduzione di Pietro Meneghelli)
 
 Emma è una giovane donna dell'Inghilterra della Reggenza. Orfana di madre, vive con suo padre Mr. Woodhouse, un ipocondriaco che si occupa principalmente della propria salute e della propria sicurezza e di quella di chi ama. Amico di Emma e suo critico è Mr Knightley, suo vicino e fratello maggiore di suo cognato,cioè del marito della sorella Isabella. Il romanzo si apre con le nozze della signorina Taylor, governante di Emma, sua amica e confidente. Emma, che ha presentato la signorina Taylor al suo futuro marito, Mr Weston, ritiene di avere il merito della loro unione e ha tutte le intenzioni di combinare un altro matrimonio appena ne capiterà l'occasione.

@@ -123,28 +123,24 @@ Il 14 ottobre 2010 è uscito il film Goethe! incentrato sulle vicende del romanz
 
 La gran diffusione del romanzo ispirò al giornalista, poeta e traduttore Ernesto Ragazzoni, per altro traduttore in italiano di Goethe, la seguente quartina parodistica:
 
-« Il giovane Werther amava Carlotta
+_« Il giovane Werther amava Carlotta
+e già della cosa fu grande sussurro:
+sapete in che modo si prese la cotta?
+La vide una volta spartir pane e burro._
 
-    e già della cosa fu grande sussurro:
-    sapete in che modo si prese la cotta?
-    La vide una volta spartir pane e burro.
+_Ma aveva marito Carlotta, ed in fondo
+un uomo era Werther dabbene e corretto:
+e mai non avrebbe, per quanto c'è al mondo,
+voluto a Carlotta mancar di rispetto._
 
-Ma aveva marito Carlotta, ed in fondo
+_Così maledisse la porca sua stella:
+strillò che bersaglio di guai era e centro
+e un giorno si fece saltar le cervella
+con tutte le storie che c'erano dentro._
 
-    un uomo era Werther dabbene e corretto:
-    e mai non avrebbe, per quanto c'è al mondo,
-    voluto a Carlotta mancar di rispetto.
-
-Così maledisse la porca sua stella:
-
-    strillò che bersaglio di guai era e centro
-    e un giorno si fece saltar le cervella
-    con tutte le storie che c'erano dentro.
-
-Lo vide Carlotta che caldo era ancora
-
-    si tèrse una stilla dal bell'occhio azzurro
-    e poi, vòlta a casa, da brava signora
-    riprese a spalmare sul pane il suo burro. »
+_Lo vide Carlotta che caldo era ancora
+si tèrse una stilla dal bell'occhio azzurro
+e poi, vòlta a casa, da brava signora
+riprese a spalmare sul pane il suo burro. »_
 
 (Ernesto Ragazzoni)

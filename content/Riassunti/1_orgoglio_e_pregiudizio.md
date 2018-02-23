@@ -4,14 +4,78 @@ draft: false
 weight: 1
 ---
 
+## Trama
+
+Il famoso incipit del romanzo:
+
+« It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife », cioè:
+
+« È verità universalmente riconosciuta che uno scapolo in possesso di un solido patrimonio debba essere in cerca di moglie »
+
+
+
+La famiglia Bennet è composta dai coniugi Bennet e dalle loro cinque figlie: Jane, Elizabeth, Mary, Catherine (detta anche Kitty) e Lydia. L'obiettivo rimasto alla signora Bennet, vista la mancanza di un figlio maschio che possa ereditare la loro tenuta di Longbourn nell'Hertfordshire, è quello di vedere sposate le sue figlie. La signora Bennet è una donna frivola mentre il signor Bennet è un uomo intelligente, sarcastico e imprevedibile. È tuttavia affezionato a Jane e soprattutto a Elizabeth, di carattere assennato e ragionevole.
+
+Quando il ricco e celibe signor Bingley si trasferisce a Netherfield, una bella dimora in affitto nelle vicinanze, la signora Bennet freme affinché le figlie gli vengano presentate quanto prima e prega il marito di presentarsi a porgere i propri omaggi al nuovo vicino. Intende combinare un matrimonio tra il signor Bingley e una delle sue figlie e non vuole correre il rischio di vederselo accaparrato da qualche altra vicina. Il signor Bennet, nonostante l'apparente reticenza, si presenta al nuovo arrivato e le figlie gli vengono presentate durante il ballo dato da Sir Lucas, un vicino di casa. Il signor Bingley è giunto a Netherfield in compagnia delle sue due sorelle, Caroline e la signora Hurst, del marito di quest'ultima e del suo più caro amico, il signor Darcy. È immediatamente evidente la grande ammirazione di Bingley per Jane. Al contrario, Darcy non mostra alcun interesse per la compagnia e quindi viene subito etichettato come un uomo orgoglioso e altero. Durante il ballo Elizabeth viene definita da Darcy "appena passabile": Elizabeth lo sente e lo prende in antipatia.
+
+Jane viene invitata delle sorelle del signor Bingley a pranzo nella tenuta di Netherfield. La madre obbliga Jane ad andare all'appuntamento a cavallo, sperando che la pioggia la trattenga là per la notte; Jane prende freddo e si ammala, rimanendo quindi a Netherfield per diversi giorni. Preoccupata, Elizabeth va a visitarla percorrendo a piedi diverse miglia ed esponendosi quindi alle critiche delle sorelle di Mr Bingley. Durante la visita Elizabeth e il signor Darcy discutono vivacemente a proposito delle qualità che una donna debba possedere e dei rispettivi caratteri.
+
+Qualche giorno dopo, la famiglia di Longbourn riceve la visita del signor Collins, cugino delle ragazze nonché pastore anglicano. William Collins è per legge il legittimo erede di Longbourn e spera di poter sposare una delle figlie dei Bennet. La scelta ricade prima su Jane e poi su Elizabeth, che cerca di evitarlo in ogni modo. Nello stesso perido la famiglia Bennet conosce Wickam, un affascinante ufficiale dell'esercito che racconta di essere stato privato dell'eredità e trattata molto crudelmente da Darcy; il racconto inasprisce l'opinione che Elizabeth ha di Darcy.
+Elizabeth rivela al padre cosa Darcy ha fatto per Lydia (1833)
+
+Il signor Bingley organizza un ballo a Netherfield. Il suo trasporto nei riguardi di Jane è visibile, tanto che la società locale dà il loro matrimonio per certo. Durante il ricevimento, ogni membro della famiglia Bennet si comporta in modo da mettere involontariamente in imbarazzo Jane ed Elizabeth. Pochi giorni dopo Darcy e tutta la famiglia Bingley si trasferiscono improvvisamente a Londra, dove resteranno tutto l'inverno. Elizabeth, letta la lettera che Caroline Bingley ha inviato a Jane, sospetta che le sorelle e Darcy abbiano intenzione di trattenere Bingley a Londra per porre fine al suo attaccamento per la sorella.
+
+Nel frattempo il signor Collins chiede la mano di Elizabeth. Lei rifiuta categoricamente nonostante le rimostranze della madre. Il signor Collins, deciso a tornare a casa con una moglie, sceglie di sposare Charlotte Lucas, la migliore amica di Elizabeth.
+
+Dopo il matrimonio, mentre Elizabeth è in visita presso Collins e Charlotte, il signor Darcy le fa una proposta di matrimonio che lei rifiuta, arrabbiata sia per via di Jane che di Wickam. Egli le scrive allora una lettera in cui spiega i motivi delle sue azioni. Elizabeth è talmente sorpresa dalla lettera che cambia opinione su Darcy.
+
+Giunta l'estate, Elizabeth parte con gli zii londinesi per un viaggio di piacere nel Derbyshire, durante il quale si trovano vicino a Pemberley, la tenuta in cui vive Darcy. Convinta che il legittimo padrone non sia in casa, Elizabeth acconsente a visitare la tenuta. Tuttavia durante la visita incontra proprio il signor Darcy, rientrato prima del tempo; i modi di Darcy sono molto mutati, sembra essere socievole e gentile. Elizabeth è felice di potergli presentare i signori Gardiner, che sono brillanti ed intelligenti. Il giorno seguente Darcy le presenta la sorella Georgiana, desideroso che le due giovani facciano amicizia. Elizabeth ha anche occasione di incontrare il signor Bingley, il cui comportamento le fa sperare che sia ancora innamorato di Jane.
+
+Elizabeth viene però raggiunta da una pessima notizia: Lydia è scappata con Wickham e non si sa se lui abbia intenzione di sposarla o meno. Elizabeth nell'emozione del momento racconta tutto a Darcy. Assieme agli zii rientra a Longbourn e lo zio raggiunge il signor Bennet a Londra per cercare la coppia. Il signor Gardiner convince il signor Bennet a tornare a casa dalla famiglia e pochi giorni dopo li avverte di aver trovato Lydia e Wickham e di averli convinti a sposarsi. Qualche tempo più tardi Elizabeth viene a sapere che è invece stato il signor Darcy a trovarli e a combinare il matrimonio, saldando i debiti di Wickam e pagandolo profumatamente.
+
+Pochi giorni dopo giungono a Longbourn Darcy e Bingley col pretesto della stagione di caccia. Pochi giorni dopo Bingley chiede la mano di Jane, che l'accetta. Elizabeth viene sorpresa da una visita improvvisa della zia di Darcy, Lady Catherine De Bourgh, che pretende il suo impegno a non sposarsi mai con Darcy. Elizabeth rifiuta e Darcy, che viene a sapere dell'accaduto, si ripropone a Elizabeth, che accetta. L'epilogo è il matrimonio tra Elizabeth e Darcy e quello tra Jane e Bingley.
+
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/PrideandPrejudiceCH15.jpg/407px-PrideandPrejudiceCH15.jpg">
+
+<i>Mr Danny presenta alle sorelle Bennet un suo amico, George Wickham</i></div>
+
+## Personaggi
+### Personaggi principali
+
+- Elizabeth Bennet: protagonista femminile del romanzo, ragazza intelligente e brillante. Non ancora ventunenne, è capace di scandalizzare con la sua impertinenza e di godere della comicità delle cose grazie all'ironia e alle battute taglienti. Secondogenita dai coniugi Bennet, è la seconda più bella tra le 5 sorelle. Si ritrova innamorata del signor Darcy più o meno alla fine, quando lo rivede per la prima volta a Pemberley; mentre inizialmente si era basata sui pregiudizi che aveva su di lui, che l'avevano portata a considerarlo antipatico, troppo orgoglioso, quasi vanitoso e arrogante, a Pemberley scopre in lui un individuo dal carattere amabile e determinato. Alla fine si sposano. Lizzie riceve in tutto tre richieste di matrimonio, una dal signor Collins e due dal signor Darcy, che infine sposerà. Diventerà amica intima di sua cognata Georgiana.
+- Jane Bennet: primogenita della famiglia Bennet, è ovunque ammirata per la sua bellezza e stimata per la dolcezza e la bontà del suo carattere. Si innamora abbastanza facilmente, perché non riesce a vedere i difetti delle persone essendo troppo buona e gentile. Anche se è la più bella tra tutte le sorelle, non è per nulla vanitosa come invece sono le due sorelle minori. Infine si innamora e sposa Charles Bingley.
+- Fitzwilliam Darcy: ricco gentiluomo, con una rendita di oltre 10.000 sterline l'anno, è proprietario dell'immensa tenuta di Pemberley nel Derbyshire. Dal carattere sprezzante e orgoglioso, è però un amico fedele e un uomo onesto con alti principi morali. Si innamora quasi subito di Elizabeth anche se combatte contro il suo amore per lei a causa della bassa classe sociale della giovane, delle sue sorelle minori e dell'impertinenza di sua madre. Si scoprirà follemente innamorato di Lizzie e le chiederà di sposarlo due volte e alla fine si sposeranno. Si innamora di Elizabeth perché è l'unica che lo tratta senza favoritismi, come per esempio fa Caroline Bingley sorella del signor Bingley. Per amore di Elizabeth ritrova la sorella Lydia perduta e ripaga i risarcimenti, inoltre fa combinare il matrimonio tra Jane e il signor Bingley.
+- Signor Bennet: gentiluomo flemmatico e indolente di Longbourn. Molto simpatico ma impertinente e disilluso nei confronti del genere umano. Nonostante ammetta di non essersi occupato sufficientemente delle sue figlie, è particolarmente legato a Elizabeth. Giudica le sue due figlie minori sciocche e civette.
+- Signora Bennet: donna sciocca e invadente. La sua unione con il Signor Bennet non le concede molte gioie, così riversa il suo impegno nel tentativo di trovare marito alle figlie, mettendo in mostra la pochezza del proprio carattere. Parla troppo e anche solo la metà di quel che dice fa vergognare le figlie maggiori ed il marito.
+- Charles Bingley: ricco gentiluomo con una rendita di oltre 5.000 sterline l'anno che affitta la tenuta di Netherfield. Nonostante la posizione sociale che ricopre, ha un carattere schietto e amichevole che gli procura, ovunque vada, immediate simpatie. Si innamora quasi subito di Jane anche se la lascia per un anno, influenzato dall'amico e soprattutto dal giudizio delle sue due sorelle. Alla fine il signor Darcy ripara il danno fatto dicendo all'amico i sentimenti che nutre Jane per lui e spingendolo così a chiedere la sua mano.
+- George Wickham: figlio dell’amministratore del padre di Darcy, di cui aveva catturato la simpatia. Da quest’ultimo riesce ad ottenere la promessa in punto di morte di diventare pastore in un’importante parrocchia quando avesse preso i voti. Nonostante questo cambia idea e chiede a Darcy dei soldi per iscriversi all’Università, sperperandoli in pochissimo tempo. Tornato da Darcy con nuove richieste, quest’ultimo lo allontana malamente. Decide allora di vendicarsi sulla sorella Georgiana, seducendola e progettando di scappare insieme. La fuga va però all’aria e Wickham successivamente entra a far parte della milizia di Meryton. Verso la fine della storia scappa a Londra con Lydia, la minore della sorelle Bennet, ma vengono ritrovati da Mr Gardiner e Mr Darcy e costretti a sposarsi, ristabilendo così l’onore della famiglia Bennet.
+- Lydia Bennet: ultima per età delle sorelle Bennet, è estremamente viziata dalla madre e si comporta da civetta. La sua sconsideratezza mette in imbarazzo le due sorelle maggiori e, approfittando dell'eccessiva indulgenza dei genitori, fugge con Wickham che solo in seguito sposerà per intervento della famiglia Bennet e di Darcy.
+- Mary Bennet: terza delle sorelle Bennet, è priva di doti naturali, fisiche o intellettuali, riversando così tutto il suo tempo negli studi che però la rendono una persona pedante e saccente.
+- Catherine Bennet: detta anche Kitty, ha due anni più della sorella minore Lydia, di cui è succube.
+- William Collins: cugino del Signor Bennet che alla sua morte erediterà la tenuta di Longbourn. Rettore del beneficio ecclesiastico di Lady Catherine de Bourgh, la sua scarsa intelligenza e debolezza di carattere lo portano a venerare la sua patronessa e al contempo a mantenere un alto sentire di sé. Dopo aver meditato di fare una proposta a Jane ed essersi dichiarato a Elizabeth, sposa Charlotte Lucas. Jane Austen lo descrive come "un misto di superbia e servilismo, di boria e di bassa umiltà".
+- Charlotte Lucas: amica di Elizabeth, è bruttina e senza mezzi finanziari il che, a ventisette anni, la condanna alla nomina di zitella. Alla fine, accetta la mano del signor Collins.
+
+### Altri personaggi
+
+- Caroline Bingley: sorella di Charles Bingley, è molto snob e spera di riuscire a sposare Darcy. Disprezza tutti quelli al di sotto del suo rango, specialmente la famiglia Bennet e in particolare la secondogenita delle sorelle, di cui è particolarmente invidiosa per la preferenza che Darcy mostra verso di lei.
+- Louisa Hurst: sorella di Charles Bingley, altezzosa quanto la sorella Caroline, è sposata con il Signor Hurst.
+- Georgiana Darcy: sorella minore di Darcy. Sedicenne, ha modi di fare semplici e cortesi uniti a una profonda timidezza, spesso scambiata per orgoglio. Inoltre, è molto abile nel suonare il pianoforte. Diventerà amica di sua cognata Elizabeth.
+- Lady Catherine de Bourgh: aristocratica zia di Darcy, è una donna altera e autoritaria. Benefattrice del Signor Collins, non conosce affabilità che possa far dimenticare l'inferiorità sociale ai suoi interlocutori. Ha un'unica figlia, Anne, che desidera sposi il nipote Darcy, come aveva progettato insieme alla madre di quest'ultimo.
+- Signor Hurst: gentiluomo insipido e superficiale. Non si interessa del prossimo o di ciò che lo circonda avendo come uniche preoccupazioni il divertimento, il bere e le carte.
+- Anne de Bourgh: figlia di Lady Catherine de Bourgh, è una giovane insignificante dall'aspetto pallido e gracile. Parla pochissimo e vive succube del carattere forte della madre. Nonostante le aspettative della madre, non mostra alcun interesse per Darcy.
+- Colonnello Fitzwilliam: cugino di Darcy di circa 30 anni. Non particolarmente bello, ha però un comportamento da gentiluomo e un dialogo piacevole ed educato.
+- Signore e Signora Gardiner: fratello della Signora Bennet e sua moglie. Sono molto sensibili e ben educati nonostante siano di umili origini. Molto legati a Elizabeth e Jane, trascorreranno una vacanza con la prima nelle contee del nord e ospiteranno la seconda a Londra nella loro casa di Cheapside. Inoltre, intervengono in soccorso dei Bennet aiutandoli nel favorire le nozze tra Lydia e Wickham.
+- Signora Philips: sorella del Signor Gardiner e della Signora Bennet, è per carattere più simile a quest'ultima. Vive a Meryton, vicino a Longbourn, e spesso le sue nipoti le fanno visita sperando di incontrare gli ufficiali dell'esercito che è di stanza proprio nella cittadina.
+- Sir William Lucas: vicino dei Bennet e padre di Charlotte. Uomo affabile ma non particolarmente brillante, si impressiona facilmente davanti a persone di rango elevato e vive nel ricordo della sua presentazione a Corte avvenuta molti anni prima.
+- Maria Lucas: figlia sempliciotta di Sir Lucas e sorella di Charlotte, accompagnerà Elizabeth nel Kent a trovare i coniugi Collins.
+
+Mappa dei personaggi
+
 
 ## Introduzione
 
 Orgoglio e Pregiudizio è senz’altro il più noto romanzo di Jane Austen, ed è tra i romanzi più conosciuti e letti al mondo. Tra le tematiche principali di Orgoglio e Pregiudizio - tutte sviluppate dalla tipica ironia della scrittrice - si possono indicare il percorso di formazione e maturazione di una giovane donna (Elizabeth Bennet, detta Lizzy, una giovane ventunenne che Jane Austen tratteggia cogliendone le molteplici sfumature psicologiche e caratteriali), la presa di coscienza da parte dei protagonisti degli errori e delle false convinzioni che li condizionano nei rapporti con gli altri (dall'"orgoglio" di Darcy al "pregiudizio" di Elizabeth...), la rappresentazione dello stile di vita della classe media inglese di inizio Ottocento. Centrali, come negli altri romanzi dell'autrice, sono sempre l'amore, nelle sue diverse declinazioni, e il matrimonio.
 
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/PrideandPrejudiceCH15.jpg/407px-PrideandPrejudiceCH15.jpg">
-
-<i>Mr Danny presenta alle sorelle Bennet un suo amico, George Wickham</i></div>
 
 ## Trama 
 

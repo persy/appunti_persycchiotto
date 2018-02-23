@@ -41,7 +41,7 @@ Robinson Crusoe è un romanzo d’avventura che è stato letto da molte parti co
 
 In effetti, nella fittizia introduzione d’autore, di mano dello stesso Defoe, che apre il romanzo si legge:
 
-    La storia è narrata con sobrietà, serietà e applicando con sentimento religioso gli eventi ai fini ai quali i saggi sempre li applicano, cioè a insegnare agli altri con l’esempio, e a giustificare e onorare la saggezza della Provvidenza nelle nostre più varie circostanze, comunque si presentino.
+_La storia è narrata con sobrietà, serietà e applicando con sentimento religioso gli eventi ai fini ai quali i saggi sempre li applicano, cioè a insegnare agli altri con l’esempio, e a giustificare e onorare la saggezza della Provvidenza nelle nostre più varie circostanze, comunque si presentino._
 
 Anche nelle Serie riflessioni nella vita e nelle sorprendenti avventure di Robinson Crusoe (1720), ovvero in un tentativo di Defoe di “continuare” le avventure del suo eroe, lo scrittore inglese si soffermerà sui modi di azione della Provvidenza, affermando che essa agisce in tempi e modi incerti, onde evitare che l’uomo non prenda cura di sé e non rifletta sulle sue azioni dando per scontato che essa si manifesti.
 
