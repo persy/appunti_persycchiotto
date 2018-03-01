@@ -10,7 +10,6 @@ Le prime testimonianze storiche che abbiamo della rosa risalgono all'epoca dei *
 
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rosa_alba2.jpg/450px-Rosa_alba2.jpg">
-
 <i>Rosa alba 'Maiden's Blush', 1400</i>
 </div> 
 
@@ -19,7 +18,6 @@ Quanto a **Roma**, sembra che la rosa vi fosse importata dalla Grecia non molto 
 
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rosa_%27Old_Blush%27.jpg/640px-Rosa_%27Old_Blush%27.jpg">
-
 <i>Rosa chinensis ('Old Blush' o 'Parsons' Pink China'), 1752</i>
 </div>    
  
@@ -31,7 +29,6 @@ La condanna dell'uso smodato della rosa da parte di **Seneca** e dei filosofi st
 
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rosa_%27Charles_de_Mills%272.jpg/640px-Rosa_%27Charles_de_Mills%272.jpg">
-
 <i>Rosa gallica 'Charles de Mills', 1790</i>
 </div>
 
@@ -39,7 +36,6 @@ Molte varietà andarono perdute negli anni che intercorsero tra la caduta dell'i
 
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rosa_%27Quatre_Saisons%27.jpg/619px-Rosa_%27Quatre_Saisons%27.jpg">
-
 <i>Rose di Damasco 'Quatre Saisons'</i>
 </div> 
 
@@ -50,7 +46,6 @@ In Inghilterra la rosa aveva acquistato rilievo come fiore araldico già dal reg
 
 <div align="center">
     <img src="https://www.davidaustinroses.co.uk/media/catalog/product/cache/1/image/818x818/925f46717e92fbc24a8e2d03b22927e1/C/e/Centifolia_1_1.jpg">
-
 <i>Rosa centifolia 'cabbage', 1700</i>
 </div> 
 
@@ -63,7 +58,6 @@ Fino alla fine del XVIII secolo le più importanti rose coltivate erano state _R
 
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Rosa_%27Blanc_Double_de_Coubert%27.jpg/547px-Rosa_%27Blanc_Double_de_Coubert%27.jpg">
-
 <i>Rosa rugosa 'Blanc Double de Coubert, 1893</i>
 </div>
 
@@ -90,7 +84,6 @@ Tutte le varietà principali di rosa del XIX secolo derivarono da queste 4 piant
 
 <div align="center">
     <img src="">
-
 <i></i>
 </div>
 
