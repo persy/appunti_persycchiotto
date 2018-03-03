@@ -17,6 +17,7 @@ La maggior parte degli ibridi vogliono **energiche potature**, più energiche ch
 <img src="https://2.bp.blogspot.com/-x308jqSWdRQ/VsGtbHxL9HI/AAAAAAAABYY/EJjbvhZHPbg/s640/POTATURA%2BDELLE%2BROSE.gif">
 <i>Come si esegue il taglio sopra la gemma</i>
 </div>
+
 ---
 
 
@@ -32,6 +33,7 @@ Un fatto curioso è che le piante di rosa coltivate nelle città sono generalmen
 <img src="https://www.giardinaggio.it/speciali/malattie_rose/parassiti_rose_NG3.jpg">
 <i>Oidio</i>
 </div>
+
 ---
 
 ### Malattie crittogamiche
@@ -48,6 +50,7 @@ Un fatto curioso è che le piante di rosa coltivate nelle città sono generalmen
 <img src="https://www.giardinaggio.it/speciali/malattie_rose/parassiti_rose_NG1.jpg">
 <i>Afidi</i>
 </div>
+
 ---
 
 ### Malattie da parassiti
@@ -66,6 +69,7 @@ Un fatto curioso è che le piante di rosa coltivate nelle città sono generalmen
 <img src="https://www.giardinaggio.it/speciali/malattie_rose/parassiti_rose_NG4.jpg">
 <i>Macchia nera</i>
 </div>
+
 ---
 
 ## Altri problemi
@@ -80,6 +84,7 @@ Un fatto curioso è che le piante di rosa coltivate nelle città sono generalmen
 <img src="https://i.imgur.com/mBzTc1r.jpg">
 <i>Clorosi</i>
 </div>
+
 ---
 
 ## Propagazione
