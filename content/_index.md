@@ -31,6 +31,7 @@ In questo sito potrai trovare i miei appunti, liberamente scaricabili e modifica
 + **[Scienze della Terra](scienze-della-terra)**: dal centro della Terra fino ai quasar
 + **[Storia](storia)**: tutto il Novecento, anno per anno, seguendo i fatti storici, i cambiamenti di costume, la società nei vari decenni, le scoperte scientifiche, le arti, il cinema del grande e del piccolo schermo, il pensiero filosofico
 + **[Riassunti di letteratura](riassunti)**: raccolta di riassunti dei principali capolavori di letteratura italiana e straniera (_in corso_)
++ **[Contenuti causali](random)**: un insieme eterogeneo di guide, raccolte e opinioni
 
 <footer align="center" style="height:100%;">
     <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
