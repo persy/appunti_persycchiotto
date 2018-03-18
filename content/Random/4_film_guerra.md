@@ -1,6 +1,6 @@
 ---
 title: "I film più belli sulla Seconda Guerra mondiale"
-draft: true
+draft: false
 weight: 4
 ---
 
