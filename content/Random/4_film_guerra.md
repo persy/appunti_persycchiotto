@@ -424,7 +424,7 @@ Tra gli altri film di Pearl Harbour, **Da qui all'eternità**  (*From Here To Et
 
 ---
 
-## Gli italiani ebrei: Italia - 1942/43
+## Gli italiani ebrei:  1942 - 1943
 
 *L'evento reale*: persone ebree provenienti da tutta Europa sono state raggruppate e inviate nei campi di concentramento, dove verranno costrette al lavoro, umiliate ed uccise.
 
@@ -983,7 +983,13 @@ Il regista Quentin Tarantino si è ispirato in parte a Quella sporca dozzina per
 
 *Il film*: **La caduta - Gli ultimi giorni di Hitler** (*Der Untergang*, 2004) è un film tedesco che racconta gli ultimi giorni del dittatore nazista nel suo bunker di Berlino. Classificato come il 103° miglior film secondo IMDb (Internet Movie Database), è stato nominato per l'Oscar come miglior film straniero nel 2004.
 
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/it/7/72/La_caduta_film.jpg">
 
+<i>Adolf Hitler (Bruno Ganz) prima di suicidarsi</i>
+</div>
+
+---
 
 
 ## Missione di volo di Enola Gay: 6 agosto 1945
@@ -999,6 +1005,7 @@ Il regista Quentin Tarantino si è ispirato in parte a Quella sporca dozzina per
 
 <i>Billy Crystal è il tenente Jake Beser</i>
 </div>
+
 ---
 
 ## La resa dei conti e il processo di Norimberga: 20 novembre 1945 - 1º ottobre 1946
@@ -1022,15 +1029,18 @@ Il regista Quentin Tarantino si è ispirato in parte a Quella sporca dozzina per
 <i> Alec Baldwin come Robert H. Jackson</i>
 </div>
 
+---
+
 ## Il secondo dopoguerra
 
-*L'evento*:
+*L'evento*: un'Europa distrutta, milioni di morti e feriti, centinaia di sfollati, la fame e la povertà accumuna tutti i popoli sia i vincitori sia i vinti
 
 *I film*: l'elenco di film sul dopoguerra è pressoché infinito, di seguito verranno elencati i più famosi; 
 - **Ladri di biciclette** (1948), prodotto e in parte sceneggiato da Vittorio De Sica. Girato con un'ampia partecipazione di attori non professionisti, è basato sull'omonimo romanzo (1946) di Luigi Bartolini. È tuttora considerato un classico del cinema ed è ritenuto uno dei massimi capolavori del neorealismo cinematografico italiano. La trama ruota tutta attorno a Antonio Ricci (Franco Interlenghi), un disoccupato di Roma che trova lavoro come attacchino comunale.
 - **Sciuscià** (1946), diretto da Vittorio De Sica. È considerato uno dei capolavori del neorealismo italiano, fu la prima pellicola ad aggiudicarsi il premio Oscar come miglior film straniero (come premio speciale). Tratta tematiche legate ai bambini e alla difficile vita che sono costretti a portare avanti per sopravvivere al complicato dopoguerra. Sciuscià è un termine della lingua napoletana, ora in disuso, che deriva dall'inglese shoe-shine e sta ad indicare i lustrascarpe del dopoguerra. 
 - **La strada** (1954), diretto da Federico Fellini. È l'opera che diede notorietà internazionale al regista, nel 1957 vinse l'Oscar al miglior film straniero alla decima edizione in cui fu istituita tale categoria di premio. Il film è stato in seguito selezionato tra i 100 film italiani da salvare. Zampanò (Anthony Quinn) è un rozzo saltimbanco che per guadagnarsi da vivere girovaga attraverso i paesi più poveri dell'Italia ancora contadina ed ingenua degli anni cinquanta, esibendosi in improbabili prove di forza. Gelsomina (Giulietta Masina), ragazza fragile e menomata, sostituisce la sorella, morta improvvisamente, come compagna, di viaggio e di lavoro, del rude Zampanò, e si accoda all'artista straccione al fine di imparare un mestiere. Nella realtà la giovialità e l'ingenuità di Gelsomina non servono a mitigare il terribile carattere di Zampanò, nel quale il barbaro istinto di sopravvivenza guida ogni azione. 
-- 
+
+<!--
 - Roma città aperta, 
 - Mamma Roma (1962), 
-- Pane, amore e fantasia (1953)
+- Pane, amore e fantasia (1953) -->
