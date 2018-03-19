@@ -7,8 +7,7 @@ weight: 4
 
 ### La premessa: una maratona di film di guerra in ordine cronologico rispetto gli eventi realmente successi
 
-Di recente mi ero messo a guardare alcuni vecchi film sulla seconda guerra mondiale. Il primo film che ho visto è stato **Missione segreta** (*Thirty Seconds Over Tokyo*) del 1944, che parla delle prime bombe che gli Stati Uniti sganciarono su Tokyo, dopo l'attacco a Pearl Harbor del 7 dicembre '41. Il secondo film che ho visto è stato **La battaglia di Midway** (*Midway*) del 1976, che parlava di una battaglia rivoluzionaria nel Pacifico, con al centro di tutto il ruolo fondamentale degli strateghi e del controspionaggio: la cosa interessante era che all'inizio di Midway, i generali giapponesi erano arrabbiati che gli Stati Uniti avevano appena bombardato Tokyo. Ero tipo "Ehi, ho appena visto quel film!".. e così la mia mente ha iniziato a pensare, qualcosa di eccitante e spaventoso. Ho pensato che sarebbe stato bello fare una cronologia dei film della seconda guerra mondiale, quindi dopo un bel po' di tempo di ricerche su numero infinito di siti (Wikipedia e IMDB per primi) la mia maratona del film della Seconda Guerra Mondiale in ordine cronologico da quando è stata ultimata.
-
+Di recente mi ero messo a guardare alcuni vecchi film sulla seconda guerra mondiale. Il primo film che ho visto è stato *Missione segreta* (*Thirty Seconds Over Tokyo*, 1944) con Robert Mitchum e che parla dei primi bombardamenti che gli Stati Uniti effettuarono susuolo giapponese, dopo l'attacco a Pearl Harbor del 7 dicembre '41. Il secondo film che ho visto è stato *La battaglia di Midway* (*Midway*, 1976) con lo stesso Mitchum, Henry Fonda e Charlton Heston e che invece parlava della battaglia aeronavale nei pressi delle isole Midway nel Pacifico e del ruolo fondamentale degli strateghi e del controspionaggio: mi sono accorto subito che, all'inizio del film, i generali giapponesi erano tutti molto arrabbiati dal fatto che gli Stati Uniti erano riusciti a bombardare Tokyo. Come colto un dejà vu, ho realizzato che la parte in cui gli Stati Uniti bombardavano Tokyo l'avevo appena vita e mi sono chiesto se non era il caso di fare un po' d'ordine fra le centinaia di film di guerra e creare una sorta di cronologia che, partendo dalle prime fasi preliminari in Europa, che portarono allo scoppio della guerra, ripercorresse tutti gli eventi più importanti, attraverso la visione di film del calibro di *La vita e bella*, *I cannoni di Navarone*", *Il giorno più Lungo* e *Tora! Tora! Tora!*. Ed è proprio per questo motivo che ho crato questa megalista, consultando principalmente Wikipedia, IMDB e soprattuto aggiungendo quel pizzico di parere personale, che non guasta mai. 
 
 <!--
 
@@ -36,7 +35,7 @@ Di recente mi ero messo a guardare alcuni vecchi film sulla seconda guerra mondi
 <i>Da sinistra: Liesl, Georg von Trapp, Gretel, Brigitta, Louisa, Kurt, Friedrich, Marta. Sullo sfondo Maria, la baronessa e Max Detweiler</i>
 </div>
 
-*Pregevole menzione*: anche nel capolavoro parodistico **Il Grande Dittatore** (*The Great Dictator, 1940* [2h5m]), interpretato da Charlie Chaplin, viene ripreso l'evento dell'annessione dell'Austria alla Germania (nel film _dell'Ostria alla Tomania_), ma l'opera percorre un periodo troppo lungo per essere inclusa solo per questo evento, senza sminuirla. Il film, nonostante sia diventato un classico della filmografia, ha ricevuto 5 candidature all'Oscar senza vincerne una.
+*Pregevole menzione*: anche nel capolavoro parodistico **Il Grande Dittatore** (*The Great Dictator, 1940* [2h5m]), interpretato da Charlie Chaplin, viene ripreso l'evento dell'annessione dell'Austria alla Germania (nel film _dell'Ostria alla Tomania_), ma l'opera percorre un periodo troppo lungo per essere inclusa solo per questo evento, senza sminuirla. Il film, nonostante sia diventato un classico della filmografia, ha ricevuto 5 candidature all'Oscar senza vincerne uno.
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Dictator_charlie5.jpg">
@@ -48,7 +47,7 @@ Di recente mi ero messo a guardare alcuni vecchi film sulla seconda guerra mondi
 
 ## I nemici politici del fascismo e l'esilio
 
-*L'evento reale*: Il domicilio coatto (spesso detto confino) era una misura di prevenzione prevista dall'ordinamento giuridico italiano durante il regno d'Italia. Era un provvedimento che poteva essere proposto dalle autorità di polizia ed imposto anche senza la necessità di un processo regolare e di una condanna per un reato effettivamente previsto nel codice penale ed effettivamente commesso. 
+*L'evento reale*: il domicilio coatto (spesso detto confino) era una misura di prevenzione prevista dall'ordinamento giuridico italiano durante il regno d'Italia. Era un provvedimento che poteva essere proposto dalle autorità di polizia ed imposto anche senza la necessità di un processo regolare e di una condanna per un reato effettivamente previsto nel codice penale ed effettivamente commesso. 
 
 *Il film*: **Cristo si è fermato a Eboli** (1979) è un film diretto da Francesco Rosi, tratto dal romanzo omonimo di Carlo Levi e interpretato da Gian Maria Volonté. Carlo Levi è un pittore, scrittore e medico che per la sua ideologia antifascista, viene condannato al confino ad Aliano, in Lucania. Aliano è un paese sperduto, povero, dove Cristo non è mai sceso a portare la sua redenzione. Inizialmente in difficoltà, entra poi in contatto con una varietà di personaggi: l'arciprete, uomo di cultura ma col vizio di bere, il carabiniere arricchitosi alle spalle dei contadini, Giulia, la donna di servizio, e il podestà, uomo di cultura e sostenitore di Benito Mussolini. 
 
@@ -65,7 +64,7 @@ Di recente mi ero messo a guardare alcuni vecchi film sulla seconda guerra mondi
 
 *L'evento reale*: la visita ufficiale di Adolf Hitler a Roma ebbe l'obiettivo di consolidare l'amicizia fra Italia e Germania prima dello scoppio del conflitto.
 
-*Il film*: la vicenda riassume la vita di due persone: Antonietta (Sophia Loren), casalinga ingenua ed ignorante e madre di sei figli, è sposata con un impiegato statale, fervente fascista e Gabriele (Marcello Mastroianni), un ex radiocronista dell'EIAR disoccupato. La pellicola, diretta da Ettore Scola, ha ottenuto vari riconoscimenti internazionali vincendo, tra gli altri, il Golden Globe quale miglior film straniero e ricevendo inoltre due candidature al Premio Oscar, per il miglior film straniero e per il miglior attore, a Marcello Mastroianni. 
+*Il film*: **Una giornata particolare** (1977) è un film diretto da Ettore Scola. La vicenda riassume la vita di due persone: Antonietta (Sophia Loren), casalinga ingenua ed ignorante e madre di sei figli, è sposata con un impiegato statale, fervente fascista e Gabriele (Marcello Mastroianni), un ex radiocronista dell'EIAR disoccupato. La pellicola, diretta da Ettore Scola, ha ottenuto vari riconoscimenti internazionali vincendo, tra gli altri, il Golden Globe quale miglior film straniero e ricevendo inoltre due candidature al Premio Oscar, per il miglior film straniero e per il miglior attore, a Marcello Mastroianni. 
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/it/1/14/Una_giornata_particolare_%28film%29.jpg">
@@ -89,7 +88,7 @@ Di recente mi ero messo a guardare alcuni vecchi film sulla seconda guerra mondi
 
 ---
 
-## La disperata fuga degli ebrei dal dominio nazista: circa 1939
+## La disperata fuga degli ebrei dal dominio nazista: 1939 circa
 
 *L'evento reale*: Oskar Schindler è stato un imprenditore tedesco, famoso per aver salvato durante la seconda guerra mondiale circa 1.100 ebrei dallo sterminio (Shoah), con il pretesto di impiegarli come personale necessario allo sforzo bellico presso la sua fabbrica di utensili, la D.E.F. (Deutsche Emaillewaren-Fabrik), nel distretto industriale di Zablocie, a Cracovia. 
 
@@ -160,8 +159,7 @@ I roghi, concepiti per eliminare "lo spirito non tedesco", vennero organizzati d
 
 *L'evento reale*: Anna Frank, una ragazza ebrea nata a Francoforte e rifugiatasi con la famiglia ad Amsterdam, fu costretta nel 1942 a entrare nella clandestinità insieme alla famiglia per sfuggire alle persecuzioni e ai campi di sterminio nazisti. Nell'agosto del 1944 i clandestini vennero scoperti e arrestati; furono condotti al campo di concentramento di Westerbork; da qui le loro strade si divisero ma, ad eccezione del padre di Anna, tutti quanti morirono all'interno dei campi di sterminio nazisti. Dopo essere stata deportata nel settembre 1944 ad Auschwitz, Anna morirà di tifo a Bergen-Belsen, nel febbraio o marzo del 1945. 
 
-*Il film*: **Il diario di Anna Frank** (*The Diary of Anne Frank*, 1959) è un film  diretto da George Stevens, presentato in concorso al 12º Festival di Cannes, vincitore di tre Premi Oscar (migliore attrice non protagonista, migliore fotografia b/n, migliore scenografia b/n). Il film, basato sull'adattamento teatrale del diario, è stato girato a 14 anni di distanza dalla morte di Anna Frank.
-Nel 2009 la BBC rilasciò una miniserie televisiva remake del film.
+*Il film*: **Il diario di Anna Frank** (*The Diary of Anne Frank*, 1959) è un film  diretto da George Stevens, presentato in concorso al 12º Festival di Cannes, vincitore di tre Premi Oscar (migliore attrice non protagonista, migliore fotografia b/n, migliore scenografia b/n). Il film, basato sull'adattamento teatrale del diario, è stato girato a 14 anni di distanza dalla morte di Anna Frank. Nel 2009 la BBC rilasciò una miniserie televisiva remake del film.
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/it/3/3c/Diario_di_Anna_Frank_1959.png">
@@ -187,7 +185,7 @@ Nel 2009 la BBC rilasciò una miniserie televisiva remake del film.
 ---
 
 
-## Occupazione tedesca della Francia: : 22 giugno 1940
+## Occupazione tedesca della Francia: 22 giugno 1940
 
 *L'evento reale*: dopo l'armistizio di Compiègne del 22 giugno 1940 il territorio francese venne diviso in due parti: la parte settentrionale e le coste atlantiche vennero occupate militarmente dalla Wehrmacht; la parte centro-meridionale restò invece sotto il controllo di un nuovo governo francese formalmente indipendente dai tedeschi
 
@@ -272,7 +270,9 @@ Nel 2009 la BBC rilasciò una miniserie televisiva remake del film.
 <i>James Mason come il generale feldmaresciallo Erwin Rommel</i>
 </div>
 
-*Pregevole menzione*: **Tobruk** (1967 [1h50m]) è un film ispirato ad una vera operazione di commando britannici (Operazione Daffodil) contro il porto di Tobruk nel settembre 1942. Il raid tuttavia si risolse in un disastro e, più che i tedeschi, furono i reparti italiani a respingere l'attacco. Di conseguenza la trama del film è in buona parte inventata. Fra gli attori 
+*Pregevole menzione*: **Tobruk** (1967 [1h50m]) è un film ispirato ad una vera operazione di commando britannici (Operazione Daffodil) contro il porto di Tobruk nel settembre 1942. Il raid tuttavia si risolse in un disastro e, più che i tedeschi, furono i reparti italiani a respingere l'attacco. Di conseguenza la trama del film è in buona parte inventata. Il film fu girato in Spagna, California ed Arizona e la 40a divisione corazzata della Guardia Nazionale americana fornì l'assistenza tecnica. Parte del materiale fu riutilizzato nel 1971 da Henry Hathaway per il suo film Attacco a Rommel.
+I carri tedeschi e italiani sono dei carri americani M41 Walker Bulldog e M48 Patton. Il caccia che mitraglia la colonna è un P40 Kittyhawk della RAF. Nel cast spiccano  Rock Hudson nel ruolo del maggiore Craig e George Peppard in quello del capitano Bergman.
+
 
 ---
 
@@ -351,7 +351,7 @@ Tra gli altri film di Pearl Harbour, **Da qui all'eternità**  (*From Here To Et
 
 *L'evento reale*: gli U-Boot tedeschi stavano creando scompiglio nell'Oceano Atlantico, specialmente attorno alle rotte marittime britanniche. Con un tasso di mortalità del 75%, la maggior parte degli equipaggi degli U-boat tedeschi vivevano i loro ultimi giorni.
 
-*Il film*: **U-Boot 96** (*Das Boot, 1981*) non è solo uno dei migliori film di guerra di sempre, è uno dei migliori film di sempre. È classificato come il 65esimo miglior film secondo IMDb (Internet Movie Database) ed è stato nominato per 6 Oscar. Lo slogan del film era "40.000 uomini sono stati mandati sugli U-Boot tedeschi... 30.000 non sono mai tornati". Non buone probabilità se tu fossi assegnato ad un U-boat. Jurgen Prochnow interpreta il capitano della barca ed è l'unico volto familiare nel film. Prochnow in seguito divenne il cattivo in Beverly Hills Cop II.
+*Il film*: **U-Boot 96** (*Das Boot, 1981*) non è solo uno dei migliori film di guerra di sempre, è uno dei migliori film di sempre. È classificato come il 65esimo miglior film secondo IMDb (Internet Movie Database) ed è stato nominato per 6 Oscar. Lo slogan del film era *"40.000 uomini sono stati mandati sugli U-Boot tedeschi... 30.000 non sono mai tornati"*. Non buone probabilità se tu fossi assegnato ad un U-boat. Jurgen Prochnow interpreta il capitano della barca ed è l'unico volto familiare nel film. Prochnow in seguito divenne il cattivo in Beverly Hills Cop II.
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/U_Boot_96.png/800px-U_Boot_96.png">
@@ -399,7 +399,7 @@ Tra gli altri film di Pearl Harbour, **Da qui all'eternità**  (*From Here To Et
 
 *L'evento reale*: L'evacuazione di un'infermiera della Marina e di diverse infermiere dell'esercito da Corregidor in Australia dal sottomarino USS Spearfish
 
-*il film*: **Operazione Sottoveste** (*Operation Petticoat*, 1959). Matt T. Sherman (Cary Grant), ammiraglio della Marina Militare USA, ripercorre in flashback le avventure del sommergibile di cui era comandante durante la Seconda Guerra Mondiale, sfogliando il giornale di bordo, prima che il sommergibile stesso venga destinato alla demolizione. Tony Curtis (nel film il tenente Holden) si era unito alla Marina degli Stati Uniti durante la seconda guerra mondiale con l'intento di entrare nel servizio sottomarino in parte perché il suo eroe, Cary Grant, era apparso nel film Destinazione Tokyo (1943). Dopo essere diventato una star, Curtis suggerì di creare un film in cui Grant potesse fissare un periscopio come faceva in quel film e così iniziò a svilupparsi l'idea per Operazione sottoveste. Curtis dichiarò in seguito che gli era piaciuto molto lavorare con Grant. 
+*Il film*: **Operazione Sottoveste** (*Operation Petticoat*, 1959). Matt T. Sherman (Cary Grant), ammiraglio della Marina Militare USA, ripercorre in flashback le avventure del sommergibile di cui era comandante durante la Seconda Guerra Mondiale, sfogliando il giornale di bordo, prima che il sommergibile stesso venga destinato alla demolizione. Tony Curtis (nel film il tenente Holden) si era unito alla Marina degli Stati Uniti durante la seconda guerra mondiale con l'intento di entrare nel servizio sottomarino in parte perché il suo eroe, Cary Grant, era apparso nel film Destinazione Tokyo (1943). Dopo essere diventato una star, Curtis suggerì di creare un film in cui Grant potesse fissare un periscopio come faceva in quel film e così iniziò a svilupparsi l'idea per Operazione sottoveste. Curtis dichiarò in seguito che gli era piaciuto molto lavorare con Grant. 
 
 <div align="center">
 <img src="https://i.imgur.com/LTAkFQ2.jpg">
@@ -413,7 +413,7 @@ Tra gli altri film di Pearl Harbour, **Da qui all'eternità**  (*From Here To Et
 
 *L'evento reale*: The Battle of Midway è considerato uno dei punti di svolta della seconda guerra mondiale mentre le speranze del Giappone di distruggere il resto della marina degli Stati Uniti fallirono.
 
-*Il film*: **La battaglia di Midway** (*Midway* ,1976), che ha un cast di attori molto famosi, è una rivisitazione storica della Battaglia di Midway. Il film è interpretato da Henry Fonda, Charlton Heston, Robert Mitchum, James Coburn e Glenn Ford. La battaglia di Midway è stato uno dei più grandi successi al botteghino degli anni '70. Ci sono scene all'inizio del film che provengono dal raid di Doolittle.
+*Il film*: **La battaglia di Midway** (*Midway*, 1976), che ha un cast di attori molto famosi, è una rivisitazione storica della Battaglia di Midway. Il film è interpretato da Henry Fonda, Charlton Heston, Robert Mitchum, James Coburn e Glenn Ford. La battaglia di Midway è stato uno dei più grandi successi al botteghino degli anni '70. Ci sono scene all'inizio del film che provengono dal raid di Doolittle.
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/it/6/6d/La_battaglia_di_Midway.png">
@@ -517,7 +517,7 @@ Nel 2013 è uscito un altro film, con l'omonimo titolo e sempre con Thomas Krets
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/it/1/1d/Cielodifuoco-Peck.png">
 
-<i> Gregory Peck è il generale Frank Savage</i>
+<i>Gregory Peck è il generale Frank Savage</i>
 </div>
 
 
@@ -573,7 +573,7 @@ Nel 2013 è uscito un altro film, con l'omonimo titolo e sempre con Thomas Krets
 
 ---
 
-## Estate 1943: l'Italia allo sbando
+## L'Italia allo sbando: estate 1943
 
 *L'evento reale*: nelle periferie di Roma la gente vive tra la paura di essere catturata dalle truppe naziste o essere uccisa dai bombardamenti degli Alleati
 
@@ -655,7 +655,7 @@ Il sottotenente del Regio Esercito Italiano Alberto Innocenzi e i suoi soldati, 
 
 *L'evento reale*: la Repubblica Sociale Italiana (RSI) fu il regime, esistito tra il settembre 1943 e l'aprile 1945, voluto dalla Germania nazista e guidato da Benito Mussolini, al fine di governare parte dei territori italiani controllati militarmente dai tedeschi dopo l'armistizio di Cassibile (3 settembre 1943)
 
-*Il film*: **Salò o le 120 giornate di Sodoma** (1975) è l'ultimo film scritto e diretto da Pier Paolo Pasolini. L'idea di base s'ispira al libro del marchese Donatien Alphonse François de Sade Le centoventi giornate di Sodoma e il film presenta riferimenti incrociati con l'extratesto dell'Inferno di Dante, tra l'altro presenti nello stesso De Sade. Il film, presentato postumo in anteprima al Festival di Parigi il 22 novembre 1975, tre settimane dopo l'uccisione del regista, viene spesso considerato sbrigativamente il disperato testamento poetico di Pier Paolo Pasolini[4]. Arrivò nelle sale italiane il 10 gennaio 1976 e scatenò proteste vigorose e lunghe persecuzioni giudiziarie: il produttore Alberto Grimaldi subì processi per oscenità e corruzione di minori e nel 1976 fu decretato il sequestro della pellicola, che scomparve dagli schermi prima di essere rimessa in circolazione nel 1978. Il film è suddiviso in quattro parti, i cui titoli si rifanno in parte alla geografia dantesca dell'Inferno: Antinferno, Girone delle Manie, Girone della Merda e Girone del Sangue. I tre "Gironi" in particolare richiamano l'analoga tripartizione dantesca del Cerchio dei Violenti.
+*Il film*: **Salò o le 120 giornate di Sodoma** (1975) è l'ultimo film scritto e diretto da Pier Paolo Pasolini. L'idea di base s'ispira al libro del marchese Donatien Alphonse François de Sade Le centoventi giornate di Sodoma e il film presenta riferimenti incrociati con l'extratesto dell'Inferno di Dante, tra l'altro presenti nello stesso De Sade. Il film, presentato postumo in anteprima al Festival di Parigi il 22 novembre 1975, tre settimane dopo l'uccisione del regista, viene spesso considerato sbrigativamente il disperato testamento poetico di Pier Paolo Pasolini. Arrivò nelle sale italiane il 10 gennaio 1976 e scatenò proteste vigorose e lunghe persecuzioni giudiziarie: il produttore Alberto Grimaldi subì processi per oscenità e corruzione di minori e nel 1976 fu decretato il sequestro della pellicola, che scomparve dagli schermi prima di essere rimessa in circolazione nel 1978. Il film è suddiviso in quattro parti, i cui titoli si rifanno in parte alla geografia dantesca dell'Inferno: Antinferno, Girone delle Manie, Girone della Merda e Girone del Sangue. I tre "Gironi" in particolare richiamano l'analoga tripartizione dantesca del Cerchio dei Violenti.
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/it/thumb/1/10/Sal%C3%B2_o_le_120_giornate_di_Sodoma_001.jpg/640px-Sal%C3%B2_o_le_120_giornate_di_Sodoma_001.jpg">
@@ -710,8 +710,7 @@ Il sottotenente del Regio Esercito Italiano Alberto Innocenzi e i suoi soldati, 
 
 *L'evento reale*: il 28 dicembre del 1943 a Reggio Emilia vengono fucilati i sette figli del noto antifascista Alcide Cervi:Gelindo, Antenore, Aldo, Ferdinando, Agostino, Ovidio ed Ettore. La stessa sorte tocca a Quarto Camurri, loro compagno di battaglia. Si tratta di una rappresaglia per la morte violenta, mai rivendicata, del segretario del PFR di Bagnolo in Piano. Le vittime erano state arrestate il 25 novembre, dopo uno scontro a fuoco svoltosi nella loro masseria di Praticella, epicentro delle azioni partigiane della zona. Questa vicenda rappresenta una delle più drammatiche pagine di storia della lunga lotta dell’antifascismo, cominciata molto tempo prima, nel 1922, all’epoca della cosiddetta “marcia su Roma”.
 
-*Il film*: **I sette fratelli Cervi** (1968), diretto da Gianni Puccini ripercorre gli ultimi giorni dei fratelli Cervi.
-Il regista Gianni Puccini morì pochi mesi dopo la fine delle riprese. Il film fu a lungo boicottato dalla censura preventiva
+*Il film*: **I sette fratelli Cervi** (1968), diretto da Gianni Puccini ripercorre gli ultimi giorni dei fratelli Cervi. Il regista Gianni Puccini morì pochi mesi dopo la fine delle riprese. Il film fu a lungo boicottato dalla censura preventiva
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/it/thumb/5/5e/I_sette_fratelli_Cervi..jpg/800px-I_sette_fratelli_Cervi..jpg">
@@ -720,6 +719,30 @@ Il regista Gianni Puccini morì pochi mesi dopo la fine delle riprese. Il film f
 </div>
 
 ---
+
+## Le spie e il contorspionaggio: inverno 1943 - 1944
+
+*L'evento reale*: durante la seconda guerra mondiale, per la Gran Bretagna, il vasto sistema di "doppio gioco", fu gestito soprattutto dall'*MI5*, delegato al controspionaggio, che nutrì di notizie fuorvianti gli agenti tedeschi. I tentativi del *SIS* (*Secret Intelligence Service*) di creare una rete in Germania invece fallirono ad opera dell'*Abwehr* nazista. Il maggior successo dell'*MI6*, guidato dal 1939 da Stewart Menzies, fu il decrittaggio del codice Enigma tedesco, tramite Ultra. Menzies, promosso maggior generale, guidò il servizio fino al 1952. 
+
+*Il film*: **Dove osano le aquile** (*Where Eagles Dare*, 1968) è un film britannico  diretto da Brian G. Hutton con  Richard Burton e Clint Eastwood. La sceneggiatura è tratta dall'omonimo romanzo di Alistair MacLean (lo stesso de *I Cannoni di Navarone*). Un commando di paracadutisti inglesi è incaricato di liberare il generale statunitense Carnaby, ideatore del piano d'invasione dell'Europa. Il generale è stato catturato dai tedeschi e tenuto prigioniero in un castello sulle Alpi bavaresi. 
+
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/it/b/ba/Dove_osano_le_aquile.jpg">
+
+<i>I protagonisti: il Magg. Smith (Richard Burton) e il Ten. Schaffer (Clint Eastwood)</i>
+</div>
+
+*Pregevole menzione*: **The Imitation Game** (2014) è un film  diretto da Morten Tyldum, con protagonista Benedict Cumberbatch nei panni del matematico e crittoanalista Alan Turing. Candidato a otto premi Oscar, si aggiudica quello della migliore sceneggiatura non originale. 
+Il brillante matematico Alan Turing decide di mettere le proprie abilità al servizio del governo della Gran Bretagna. L'obiettivo è far terminare il conflitto quanto prima, collaborando alla segretissima operazione di decriptazione dei codici segreti nazisti, codificati con la macchina denominata Enigma.
+
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/it/a/a1/The_Imitation_Game.jpg">
+
+<i>Benedict Cumberbatch è Alan Turing</i>
+</div>
+
+---
+
 
 ## La grande fuga: 25-29 marzo 1944
 
@@ -737,9 +760,9 @@ Il regista Gianni Puccini morì pochi mesi dopo la fine delle riprese. Il film f
 
 ## Il segreto di Santa Vittoria: estate 1943
 
-*l'evento reale*: appena caduto il fascismo, durante il periodo di occupazione, i tedeschi arrivano a Santa Vittoria, paese rinomato per la qualità del proprio vino, per impossessarsi di tutte le bottiglie custodite nella cantina sociale.
+*L'evento reale*: appena caduto il fascismo, durante il periodo di occupazione, i tedeschi arrivano a Santa Vittoria, paese rinomato per la qualità del proprio vino, per impossessarsi di tutte le bottiglie custodite nella cantina sociale.
 
-*il film*: **Il segreto di Santa Vittoria** (*The Secret of Santa Vittoria*, 1969) è diretto da Stanley Kramer (che diresse anche *Vincitori e Vinti*), ebbe due candidature agli Oscar, per il montaggio e la colonna sonora, e vinse il Golden Globe come miglior film commedia nel 1970. Pregievole le interpretazioni di Anna Magnani (Rosa), Anthony Queen (Italo), Virna Lisi (Caterina) e Giancarlo Giannini (Fabio)
+*Il film*: **Il segreto di Santa Vittoria** (*The Secret of Santa Vittoria*, 1969) è diretto da Stanley Kramer (che diresse anche *Vincitori e Vinti*), ebbe due candidature agli Oscar, per il montaggio e la colonna sonora, e vinse il Golden Globe come miglior film commedia nel 1970. Pregievole le interpretazioni di Anna Magnani (Rosa), Anthony Queen (Italo), Virna Lisi (Caterina) e Giancarlo Giannini (Fabio)
 
 <div align="center">
 <img src="https://quinlan.it/upload/images/2017/06/il-segreto-di-santa-vittoria-1969-stanley-kramer-5-932x529.jpg">
@@ -837,7 +860,7 @@ Il regista Quentin Tarantino si è ispirato in parte a Quella sporca dozzina per
 <i>Ray Danton e Robert Mitchum in una scena del film.</i>
 </div>
 
-*Pregevole menzione*: per avere una visione più realistica della conquista delle spiagge e della carneficina che si era consumata nelle prime ore dopo lo sbarco, **Salvate il soldato Ryan** (*Saving Private Ryan*, 1998) di Steven Spielberg è la scelta più azzzeccata per guardare probabilmente il ritratto più accurato del brutale sbarco sulla spiaggia, con ben 24 minuti di riprese fatte proprio in Normandia. I suoi 5 Oscar sono una garazia di qualità
+*Pregevole menzione*: per avere una visione più realistica della conquista delle spiagge e della carneficina che si era consumata nelle prime ore dopo lo sbarco, **Salvate il soldato Ryan** (*Saving Private Ryan*, 1998) di Steven Spielberg è la scelta più azzeccata per guardare probabilmente il ritratto più accurato del brutale sbarco sulla spiaggia, con ben 24 minuti di riprese fatte proprio in Normandia. I suoi 5 Oscar sono una garazia di qualità
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/it/thumb/0/0e/Soldato_Ryan.jpg/800px-Soldato_Ryan.jpg">
@@ -846,7 +869,7 @@ Il regista Quentin Tarantino si è ispirato in parte a Quella sporca dozzina per
 
 ---
 
-## Le opere d'arte trafugate nel treno n. 40.044:: agosto 1944
+## Le opere d'arte trafugate nel treno n. 40.044: agosto 1944
 
 *L'evento reale*: Alexander Rosenberg delle forze francesi di liberazioni e noto gallerista d'arte, riesce ad intercettare un treno il cui carico era costituito da preziose opere d'arte d'inestimabile valore.
 
@@ -901,7 +924,7 @@ Il regista Quentin Tarantino si è ispirato in parte a Quella sporca dozzina per
 
 *L'evento reale*: Iwo Jima è a soli 750 miglia da Tokyo. Ovviamente sia le forze giapponesi sia le forze alleate volevano controllare l'isola. Il Giappone voleva che l'isola proteggesse la loro terraferma mentre le forze alleate volevano l'isola in modo da poter sfruttarla per far decollare i propri B-17. Il risultato finale fu uno dei combattimenti più brutali nella storia della guerra, con quasi 25mila soldati uccisi da entrambi gli schieramenti.
 
-*Il film*:  **Lettere da Iwo Jima** (*Letters from Iwo Jima*, 2006) è un film del leggendario regista Clint Eastwood e racconta la storia dal lato giapponese delle cose. Letters From Iwo Jima è stato nominato per il miglior Oscar. Eastwood ha anche diretto Flags of our Fathers che si svolge anche su Iwo Jima, ma racconta la storia dal lato alleato. 
+*Il film*:  **Lettere da Iwo Jima** (*Letters from Iwo Jima*, 2006) è un film del leggendario regista Clint Eastwood e racconta la storia dal lato giapponese delle cose. Letters From Iwo Jima è stato nominato per il miglior Oscar. Eastwood ha anche diretto **Flags of our Fathers** che si svolge anche su Iwo Jima, ma racconta la storia dal lato alleato. 
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/it/c/cf/Ldij.png">
@@ -953,7 +976,7 @@ Il regista Quentin Tarantino si è ispirato in parte a Quella sporca dozzina per
 
 *L'evento reale*: Nel tentativo di sfuggire alla disfatta definitiva della Repubblica Sociale Italiana e sperando ancora in un sussulto dei suoi con la possibilità di trattare un accordo di resa a condizione, Mussolini abbandona il 18 aprile 1945 l'isolata sede di Palazzo Feltrinelli a Gargnano, sulla sponda occidentale del lago di Garda, e si trasferisce a Milano, dove arriva in serata prendendo alloggio nella prefettura; il giorno precedente aveva discusso nell'ultimo consiglio dei ministri sulla possibile resistenza nel Ridotto della Valtellina. Ma la storia era già scritta. L'unica speranza di salvezza del Duce è il travestirsi da soldato tedesco, mescolato tra i soldati caricati sui camion ma, a un secondo posto di blocco, a Dongo sul lago di Como, viene riconosciuto e, dopo essere stato arrestato, viene trasportato in varie e improvvisate prigioni, tra cui un casolare contadino, in attesa di una decisione sulla sua sorte. Il CLN incarica di giustiziarlo il colonnello Walter Audisio, noto con il nome di battaglia di Valerio, e il mattino del 28 aprile 1945 viene quindi condotto a Giulino di Mezzegra e lì fucilato; insieme a lui muore anche Claretta Petacci, che al primo sparo si era frapposta tra il proiettile e l'amante.
 
-*Il film*: Rod Steiger nei panni del Duce riesce a trasmettere ed enfatizzare l'immagine di un leone ormai senza criniera, smarrito, spodestato dal proprio trono e senza un'ideale se non la fuga. 
+*Il film*: **Mussolini ultimo atto** (1974) è un film diretto da Carlo Lizzani. Rod Steiger nei panni del Duce riesce a trasmettere ed enfatizzare l'immagine di un leone ormai senza criniera, smarrito, spodestato dal proprio trono e senza un'ideale se non la fuga. 
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/it/d/d0/Mussolini_ultimo_atto.png">
