@@ -651,6 +651,20 @@ Il sottotenente del Regio Esercito Italiano Alberto Innocenzi e i suoi soldati, 
 
 ---
 
+## Fondazione del Comitato Nazionale di Liberazione: 9 settembre 1943
+
+*L'evento reale*: il Comitato di Liberazione nazionale era una formazione interpartitica formata da movimenti di diversa estrazione culturale e ideologica, composta da rappresentanti del Partito Comunista Italiano (PCI), della Democrazia Cristiana (DC), del Partito d'Azione (PdA), Partito Liberale Italiano (PLI), Partito Socialista Italiano di Unità Proletaria (PSIUP) e Partito Democratico del Lavoro (DL). Nel gruppo dei sei partiti esisteva una frattura tra i tre partiti di sinistra (PCI, PSIUP e PdA) e i tre partiti di destra (DC, PLI e DL), con i primi che erano associati più strettamente tra loro attraverso vari patti e accordi: comunisti e socialisti erano legati da un "patto di unità d'azione", per poi formare insieme agli azionisti una "giunta tripartita", in modo da concordare una posizione unitaria da tenere innanzi agli altri partiti.
+
+*Il film*: **Una vita difficile** (1961) è un film diretto da Dino Risi con Alberto Sordi e Vittorio Gassman e  al 58° posto fra i 100 film italiani da salvare. Il romano Silvio Magnozzi, dopo aver combattuto come sottotenente del regio esercito nei pressi del lago di Como prima dell'armistizio dell'8 settembre, si unisce ai gruppi partigiani locali contro le forze nazifasciste. Cercando un rifugio viene inviato in un albergo per prendere contatto con la padrona, la signora Amalia Pavinato, qui Silvio viene scoperto da un tedesco che intende fucilarlo sul posto ma Elena, la figlia della proprietaria dell'albergo, gli salva la vita uccidendo il tedesco con un ferro da stiro e, inoltre, indica al partigiano un luogo sicuro dove dormire e ripararsi dalle rappresaglie tedesche, il mulino che era di proprietà dei defunti nonni della ragazza.
+
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/it/4/4e/Vitadifficile-1961-Risi-01.png">
+
+<i>Alberto Sordi in una scena del film</i>
+</div>
+
+---
+
 ## Fondazione della Repubblica Sociale Italiana: 23 settembre 1943 
 
 *L'evento reale*: la Repubblica Sociale Italiana (RSI) fu il regime, esistito tra il settembre 1943 e l'aprile 1945, voluto dalla Germania nazista e guidato da Benito Mussolini, al fine di governare parte dei territori italiani controllati militarmente dai tedeschi dopo l'armistizio di Cassibile (3 settembre 1943)
