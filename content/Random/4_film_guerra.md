@@ -318,7 +318,7 @@ Fu l'assedio più lungo di tutta la seconda guerra mondiale. La data in cui si c
 
 *L'evento reale*: l'Europa era in guerra. Gli Stati Uniti erano in disparte, ma quello stava per cambiare con il bombardamento di Pearl Harbor solo pochi giorni prima.
 
-*Il film*: **Casablanca** (1943, [1h42m]), uno dei più grandi film di tutti i tempi. È vero, è una storia d'amore, ma si possono dimenticare gli eventi che riportano Bogart e Bergman l'uno nelle braccia dell'altro. I tedeschi hanno il controllo, gli americani (Bogart) sono neutrali, e tutti gli altri (Bergman) stanno cercando di sfuggire alla morsa dei tedeschi. Casablanca ha vinto 3 Oscar tra cui il miglior film.
+*Il film*: **Casablanca** (1943, [1h42m]) è un film diretto da Michael Curtiz, con  Humphrey Bogart nel ruolo di Rick Blaine e Ingrid Bergman in quello di Ilsa Lund Laszlo. Durante la seconda guerra mondiale, l'espatriato statunitense Rick Blaine gestisce un locale, il Rick's Café Américain, a Casablanca, nel Marocco francese, parte della cosiddetta "Francia non occupata", controllata dal regime filo-nazista del Governo di Vichy. Blaine ha un passato di contrabbandiere d'armi, in favore degli etiopi durante l'invasione italiana del 1935, e di combattente repubblicano, durante la guerra civile spagnola nel 1936, ma sembra essere diventato un uomo cinico e dichiaratamente neutrale sulle vicende politiche e belliche che stanno accadendo.
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Principal_Cast_in_Casablanca_Trailer_crop.jpg">
