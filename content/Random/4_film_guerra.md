@@ -883,6 +883,21 @@ Il regista Quentin Tarantino si è ispirato in parte a Quella sporca dozzina per
 
 ---
 
+## L'attentato a Hitler: 20 luglio 1944
+
+*L'evento reale*: l'attentato del 20 luglio 1944 (noto con il nome in codice di *Operazione Valchiria*) fu il tentativo organizzato da alcuni politici e militari tedeschi della Wehrmacht, e attuato dal colonnello Claus Schenk von Stauffenberg, di assassinare Adolf Hitler: esso ebbe luogo all'interno della Wolfsschanze, il quartier generale del Führer, sito a Rastenburg, nella Prussia Orientale.
+
+*Il film*: **Operazione Valchiria** (*Valkyrie*, 2008) è un film del diretto da Bryan Singer. La pellicola racconta la preparazione e l'esecuzione dell'attentato a Hitler. Vede protagonista Tom Cruise nel ruolo di Stauffenberg, affiancato da Kenneth Branagh, Bill Nighy e Tom Wilkinson, rispettivamente nei panni di Henning von Tresckow, Friedrich Olbricht e Friedrich Fromm.
+
+
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/it/thumb/b/bf/Operazione_Valchiria-Tom_Cruise.jpg/800px-Operazione_Valchiria-Tom_Cruise.jpg">
+<i>Tom Cruise è il colonnello Claus Schenk von Stauffenberg</i>
+</div>
+
+---
+
+
 ## Le opere d'arte trafugate nel treno n. 40.044: agosto 1944
 
 *L'evento reale*: Alexander Rosenberg delle forze francesi di liberazioni e noto gallerista d'arte, riesce ad intercettare un treno il cui carico era costituito da preziose opere d'arte d'inestimabile valore.
@@ -896,6 +911,7 @@ Il regista Quentin Tarantino si è ispirato in parte a Quella sporca dozzina per
 </div>
 
 ---
+
 
 ## Operazione Market Garden: 17 - 24 settembre 1944
 
