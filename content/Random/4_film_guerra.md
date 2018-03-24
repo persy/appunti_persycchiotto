@@ -1044,13 +1044,28 @@ Il regista Quentin Tarantino si è ispirato in parte a Quella sporca dozzina per
 
 ---
 
+## Liberazione e massacro di Dacau: 29 aprile 1945
+
+*L'evento reale*: Il massacro di Dachau è un atto di rappresaglia commesso da militari dell'esercito statunitense il 29 aprile 1945. Le rappresaglie di liberazione di Dachau furono una serie di incidenti in cui i prigionieri di guerra tedeschi furono uccisi dai soldati americani e dagli internati nel campo di concentramento, durante la seconda guerra mondiale. Non è chiaro quanti membri delle SS siano stati uccisi nell'incidente, ma la maggior parte delle stime pone il numero ucciso intorno al 35-50.
+
+*Il film*: **Shutter Island** (2010) è un film diretto da Martin Scorsese con Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley, Michelle Williams, Emily Mortimer e Max von Sydow, basato sul romanzo del 2003 *L'isola della paura* (Shutter Island) di Dennis Lehane.
+Nel 1954, gli agenti federali Edward "Teddy" Daniels e la sua spalla Chuck Aule vengono mandati all'Ashecliff Hospital, su Shutter Island, specializzato nella cura di criminali malati di mente. I due agenti devono investigare sulla scomparsa di Rachel Solando, una paziente rinchiusa in una stanza blindata e svanita nel nulla. Il dottor John Cawley (Ben Kingsley), primario dell'ospedale, spiega che Rachel è stata ricoverata dopo aver affogato ed ucciso i suoi tre figli, ma, nonostante ciò, lei crede ancora di trovarsi a casa, che i suoi figli siano ancora vivi e che il personale e i pazienti dell'istituto altro non siano che postini, lattai, fattorini e giardinieri.
+Per quanto romanzata, è pregevole il continuo rimando, sotto forma di flashback, al massacro di Dacau, in cui Teddy era uno dei soldati dell'esecuzione sommaria in cui furono giustiziate molte guardie del campo.
+
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/it/thumb/0/09/Shutter_Island.jpg/799px-Shutter_Island.jpg">
+
+<i>Gli agenti federali Edward "Teddy" Daniels Leonardo DiCaprio e Chuck Aule (Mark Ruffalo)</i>
+</div>
+
+---
 
 ## Missione di volo di Enola Gay: 6 agosto 1945
 
 *L'evento reale*: anche se la guerra in Europa era finita da tre mesi, la guerra nel Pacifico stava ancora facendo grossi pedaggi. La battaglia di Okinawa è durata 82 giorni dall'inizio di aprile a metà giugno 1945 e ha visto il risultato della battaglia il maggior numero di vittime nel teatro del Pacifico durante la seconda guerra mondiale. Il Giappone perse oltre 100.000 soldati e gli Alleati subirono più di 65.000 vittime di ogni tipo. Gli Stati Uniti, nel tentativo di evitare ulteriori conflitti come Okinawa, decisero di lanciare due bombe atomiche sul Giappone. Il 15 agosto 1945 il Giappone si era arreso e la Seconda guerra mondiale era finita
 
 
-*Il film*: Enola Gay: The Men, The Mission, the Atomic Bomb (1980) prende in considerazione la decisione di far cadere la bomba atomica, la segretezza che circonda la missione e gli uomini che l'hanno volata. Billy Crystal (in un raro ruolo drammatico) e Patrick Duffy recitano in questo film TV.
+*Il film*: **Enola Gay: The Men, The Mission, the Atomic Bomb** (1980) prende in considerazione la decisione di far cadere la bomba atomica, la segretezza che circonda la missione e gli uomini che l'hanno volata. Billy Crystal (in un raro ruolo drammatico) e Patrick Duffy recitano in questo film TV.
 
 
 <div align="center">
@@ -1065,7 +1080,7 @@ Il regista Quentin Tarantino si è ispirato in parte a Quella sporca dozzina per
 
 *I fatti reali*: davanti al Tribunale militare internazionale (IMT) vennero giudicati ventiquattro dei più importanti capi nazisti catturati o ancora ritenuti in vita tra i quali Karl Dönitz (Großadmiral, comandante della Kriegsmarine dal 1943 e, dopo la morte di Hitler, presidente del Reich), Hermann Göring (comandante in capo della Luftwaffe, prima che Hitler lo romosse), Rudolf Hess (successore designato di Hitler e segretario del partito nazista fino al 1941), Ernst Kaltenbrunner (capo del Reichssicherheitshauptamt, maggior gerarca delle SS sopravvissuto alla guerra), Wilhelm Keitel (capo dell'OKW), Joachim von Ribbentrop (ideatore del patto di non aggressione fra Germania e Unione Sovietica), Fritz Sauckel (plenipotenziario del programma di sfruttamento del lavoro dei prigionieri), Arthur Seyss-Inquart (uno degli artefici dell'Anschluss) e Albert Speer (ministro degli armamenti del governo Hitler)
 
-*Il film*: **Vincitori e vinti** (Judgment at Nuremberg*, 1961) di Stanley Kram con Burt Lancaster narra le vicende di un anziano giudice americano che viene invitato a presiedere una corte penale militare in in processo intentato contro quattro giudici te; vincerà due Oscar.
+*Il film*: **Vincitori e vinti** (*Judgment at Nuremberg*, 1961) di Stanley Kram con Burt Lancaster narra le vicende di un anziano giudice americano che viene invitato a presiedere una corte penale militare in in processo intentato contro quattro giudici te; vincerà due Oscar.
 
 
 <div align="center">
