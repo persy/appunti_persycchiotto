@@ -13,7 +13,7 @@ draft: false
 * [Emma – Jane Austen (1815)](18_emma)
 * [Frankenstein, o il moderno Prometeo - Mary Shelley (1818)](2_frankenstein)
 * [I Promessi Sposi – Alessandro Manzoni (1827)](19_promessi_sposi)
-* ]Il Rosso e il Nero – Stendhal (1830)](20_rosso_nero)
+* [Il Rosso e il Nero – Stendhal (1830)](20_rosso_nero)
 * Oliver Twist – Charles Dickens (1837)
 * Canto di Natale – Charles Dickens (1843)
 * I Tre Moschettieri – Alexandre Dumas (1844)
