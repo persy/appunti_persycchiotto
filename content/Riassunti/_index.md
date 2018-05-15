@@ -15,7 +15,6 @@ draft: false
 * [I Promessi Sposi – Alessandro Manzoni (1827)](19_promessi_sposi)
 * [Il Rosso e il Nero – Stendhal (1830)](20_rosso_nero)
 * [Oliver Twist – Charles Dickens (1837)](21_oliver_twist)
-* Canto di Natale – Charles Dickens (1843)
 * I Tre Moschettieri – Alexandre Dumas (1844)
 * Il Conte di Monte Cristo – Alexandre Dumas (1846)
 * [Jane Eyre - Charlotte Brontë (1847)](4_jane_eyre)
