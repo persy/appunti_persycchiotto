@@ -16,7 +16,7 @@ draft: false
 * [Il Rosso e il Nero – Stendhal (1830)](20_rosso_nero)
 * [Oliver Twist – Charles Dickens (1837)](21_oliver_twist)
 * [I Tre Moschettieri – Alexandre Dumas (1844)](22_tre_moschettieri)
-* Il Conte di Monte Cristo – Alexandre Dumas (1846)
+* [Il Conte di Monte Cristo – Alexandre Dumas (1846)](23_conte_montecristo)
 * [Jane Eyre - Charlotte Brontë (1847)](4_jane_eyre)
 * [Cime Tempestose – Emily Brontë (1847)](5_cime_tempestose)
 * La fiera delle vanità – William Makepeace Thackeray (1848)
