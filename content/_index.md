@@ -14,11 +14,17 @@ draft: false
     <a href="/scienze-della-terra" style="margin-left:5px;">        
         <img src="https://www.shareicon.net/data/128x128/2016/03/20/736631_planet_512x512.png" alt="scienze-della-terra">          
     </a>
-    <a href="storia" style="margin-left:5px;">        
+    <a href="/storia" style="margin-left:5px;">        
         <img src="https://www.shareicon.net/data/128x128/2016/09/21/832713_weapon_512x512.png" alt="storia">                   
     </a>
-    <a href="riassunti" style="margin-left:5px;">
+    <a href="/riassunti" style="margin-left:5px;">
         <img src="https://www.shareicon.net/data/128x128/2016/09/23/833143_book_512x512.png" alt="riassunti">          
+    </a>
+    <a href="/matematica" style="margin-left:5px;">
+        <img src="https://www.shareicon.net/data/128x128/2015/09/20/643710_math_512x512.png" alt="matematica">  
+    </a>
+    <a href="/random" style="margin-left:5px;">
+        <img src="https://www.shareicon.net/data/128x128/2016/09/26/834493_game_512x512.png" alt="random">  
     </a>
 </div>
 
@@ -31,6 +37,7 @@ In questo sito potrai trovare i miei appunti, liberamente scaricabili e modifica
 + **[Scienze della Terra](scienze-della-terra)**: dal centro della Terra fino ai quasar
 + **[Storia](storia)**: tutto il Novecento, anno per anno, seguendo i fatti storici, i cambiamenti di costume, la società nei vari decenni, le scoperte scientifiche, le arti, il cinema del grande e del piccolo schermo, il pensiero filosofico
 + **[Riassunti di letteratura](riassunti)**: raccolta di riassunti dei principali capolavori di letteratura italiana e straniera (_in corso_)
++ **[Matematica](matematica)**: sintesi di tutte le formule principali, dall'insiemistica alle derivate
 + **[Contenuti causali](random)**: un insieme eterogeneo di guide, raccolte e opinioni
 
 <footer align="center" style="height:100%;">

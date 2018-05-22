@@ -4,7 +4,7 @@ draft: false
 ---
 ## Elenco sezioni
 
-### [Algebra e Geometria](algebra_geometria)
+### [Algebra](1_algebra)
 * Insiemi numerici e funzioni
 * Insiemi *N* e *Z*
 * Insiemi *Q* e *R*
@@ -16,6 +16,8 @@ draft: false
 * Parallellismo e perpendicolarità
 * Isometrie e quadrilateri
 * Circonferenze e poligoni
+
+### [Geometria](2_geometria)
 
 
 

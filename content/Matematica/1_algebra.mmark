@@ -1,6 +1,7 @@
 ---
-title: "Algebra e Geometria"
+title: "Algebra"
 draft: false
+weight: 1
 ---
 <!-- script MathJax -->
 
@@ -316,23 +317,14 @@ riferirsi a regole particolari guardando il numero dei termini del polinomio;
 #### Quadrinomio
 * cubo di un binomio: $a^3 \pm 3a^2b + 3ab^2 \pm b^3 = (a \pm b)^3$
 * differenza di due quadrati: 
-<div>$$\begin{align*}
-a^2 + 2ab + b^2 - x^2 &= (a + b)^2  - x^2 \\ 
- &= (a + b + x)(a + b - x) 
-\end{align*}
-$$</div>
+$a^2 + 2ab + b^2 - x^2 = (a + b)^2  - x^2 = (a + b + x)(a + b - x) $
 
 #### Polinomio di sei termini
 * quadrato di un trinomio: $a^2 + 4b^2 + 9 + 4ab - 6a - 12b = (a + 2b -3)^2$
 * differenza dei quadrati di due binomi:  
-$\begin{align*}
-a^2 + 2a + 1 - x^2 + 2xy - y^2 
-&= (a^2 + 2a + 1) - (x^2 - 2xy + y^2) \\ 
-&= (a + 1) ^2 - (x - y) ^2 \\
-&= (a + 1 + x - y)(a + 1 - x + y)
-\end{align*}$
+$a^2 + 2a + 1 - x^2 + 2xy - y^2 = (a^2 + 2a + 1) - (x^2 - 2xy + y^2)$ 
+$= (a + 1) ^2 - (x - y) ^2 = (a + 1 + x - y)(a + 1 - x + y)$
 
-<div>$$x^2$$</div>
 
 
 
@@ -359,77 +351,116 @@ Con le frazioni algebriche si possono eseguire tutte le operazioni che si posson
 * si può semplificare una frazione scomponendo i suoi termini e dividendo numeratore e denominatore per i fattori comuni
 * si possono sommare, sottrarre, moltiplicare o dividere due frazioni algebriche con regole analoghe a quelle applicate alle stesse operazioni con le frazioni numeriche:
 
-$$
-\frac{A}{B} + \frac{C}{D} = \frac{AD + BC}{BD}; \; \frac{A}{B}\cdot \frac{C}{D} = \frac{AC}{BD}; \; \frac{A}{B} : \frac{C}{D} = \frac{A}{B} \cdot \frac{D}{C} = \frac{AD}{BC}
-$$
+$
+\dfrac{A}{B} + \dfrac{C}{D} = \dfrac{AD + BC}{BD}; \; \dfrac{A}{B}\cdot \dfrac{C}{D} = \dfrac{AC}{BD}; \; \dfrac{A}{B} : \dfrac{C}{D} = \dfrac{A}{B} \cdot \dfrac{D}{C} = \dfrac{AD}{BC}
+$
 
 * si può elevare a potenza una frazione elevando a quella potenza il numeratore e il denominatore: 
-$$
-\left ( \frac{A}{B} \right)^n = \frac{A^n}{B^n}
-$$
+
+$
+\left ( \dfrac{A} {B} \right) ^n = \dfrac{A^n} {B^n}
+$
 
 ## Le equazioni
-Identità ed equazioni 
-Una identità è l'uguaglianza fra due espressioni algebriche che è verificata qualunque siano i valori, appartenenti al dominio delle due espressioni, che vengono attribuiti alle variabili.
-Un'equazione è l'uguaglianza fra due espressioni algebriche che è verificata solo quando le sue variabili assumono particolari valori; tali valori sono le sue soluzioni o radici.
+
+### Identità ed equazioni 
+Una **identità** è l'uguaglianza fra due espressioni algebriche che è verificata qualunque siano i valori, appartenenti al dominio delle due espressioni, che vengono attribuiti alle variabili.
+
+Un'**equazione** è l'uguaglianza fra due espressioni algebriche che è verificata solo quando le sue variabili assumono particolari valori; tali valori sono le sue soluzioni o radici.
+
 In base al numero di soluzioni, un'equazione può essere:
-determinata se ha un numero finito di soluzioni
-indeterminata se ha un numero infinito di soluzioni
-impossibile se non ha soluzioni
+
+* **determinata** se ha un numero finito di soluzioni
+* **indeterminata** se ha un numero infinito di soluzioni
+* **impossibile** se non ha soluzioni
+
 Un'equazione si dice poi:
-intera se i denominatori non contengono l'incognita, frazionaria in caso contrario
-numerica se l'unica lettera è l'incognita, letterale se contiene anche altre lettere
-Equazioni equivalenti
-Due equazioni sono equivalenti se hanno le stesse soluzioni.
-Per passare da un'equazione di dominio  ad un'altra ad essa equivalente si applicano due principi di equivalenza:
-primo principio: sommando ai due membri di un'equazione una stessa espressione di dominio  si ottiene un'equazione equivalente a quella data
-secondo principio: moltiplicando i due membri di un'equazione per una stessa espressione di dominio  e non nulla si ottiene un'equazione equivalente a quella data.
+* **intera** se i denominatori non contengono l'incognita, **frazionaria** in caso contrario
+* **numerica** se l'unica lettera è l'incognita, **letterale** se contiene anche altre lettere
+
+### Equazioni equivalenti
+Due equazioni sono **equivalenti** se hanno le stesse soluzioni.
+Per passare da un'equazione di dominio $D$ ad un'altra ad essa equivalente si applicano due principi di equivalenza:
+* *primo principio*: sommando ai due membri di un'equazione una stessa espressione di dominio $D$ si ottiene un'equazione equivalente a quella data
+* *secondo principio*: moltiplicando i due membri di un'equazione per una stessa espressione di dominio  e non nulla si ottiene un'equazione equivalente a quella data.
+
 Conseguenze di questi due principi sono le seguenti:
-si può spostare un termine da un membro all'altro cambiandogli segno
-due termini uguali in due membri diversi si possono elidere
-si può scrivere un'equazione intera in forma normale trasportando tutti i termini al primo membro
-se i due membri dell'equazione hanno un fattore comune numerico non nullo, questo può essere semplificato
-si possono cambiare i segni a tutti i termini di un'equazione
-si possono eliminare i denominatori dell'equazione moltiplicando entrambi i membri per il loro m.c.m
-Equazioni lineari
-Grado di un'equazione intera  è il grado del polinomio .
-Un'equazione di primo grado, o equazione lineare, assume quindi la forma .
+* si può spostare un termine da un membro all'altro cambiandogli segno
+* due termini uguali in due membri diversi si possono elidere
+* si può scrivere un'equazione intera in forma normale trasportando tutti i termini al primo membro
+* se i due membri dell'equazione hanno un fattore comune numerico non nullo, questo può essere semplificato
+* si possono cambiare i segni a tutti i termini di un'equazione
+* si possono eliminare i denominatori dell'equazione moltiplicando entrambi i membri per il loro m.c.m
+
+### Equazioni lineari
+Il **grado** di un'equazione intera $E(x) = 0$ è il grado del polinomio $E(x)$.
+Un'equazione di primo grado, o equazione lineare, assume quindi la forma $ax + b = 0$.
+
 Per risolvere un'equazione lineare si applicano i due principi di equivalenza e:
-se , la soluzione è 
-se  e anche  l'equazione è indeterminata, ovvero ha infinite soluzioni
- e  l'equazione è impossibile
-Equazioni non lineari
-Per risolvere un'equazione  dove  è un polinomio di grado superiore al primo, si deve:
-scomporre  in fattori tutti di primo grado:
+* se $a \neq 0$, la soluzione è $- \dfrac{b}{a}$ 
+* se $a = 0$ e anche $b = 0$ l'equazione è indeterminata, ovvero ha infinite soluzioni
+* $a = 0$ e $b \neq 0$ l'equazione è impossibile
+
+### Equazioni non lineari
+Per risolvere un'equazione $E(x) = 0$ dove $E(x)$ è un polinomio di grado superiore al primo, si deve:
+* scomporre  in fattori tutti di primo grado: 
+
+$(x - a)(x - b)(x - c) = 0$
+
+* applicare la legge di annullamento del prodotto:
+
+$x - a = 0 \; \vee \; x - b = 0 \; \vee \; x - c = 0$
+
+* da cui si ricavano le soluzioni:
+
+$x = a  \; \vee \; x = b  \; \vee \; x = c $
+
+## Le disequazioni
+
+### Le proprietà delle disuguaglianze numeriche
+Dalla relazione $a > b$ (o dalla sua analoga $a < b$) si possono dedurre anche le seguenti:
+* si può sommare (o sottrarre) ai due membri di una disuguaglianza uno stesso numero: $a + c > b + c$ 
+* se si moltiplicano (o si dividono) entrambi i membri di una disuguaglianza per uno stesso numero positivo si ottiene una disuguaglianza dello stesso verso: $a \cdot c > b \cdot c$  se $c > 0$
+* se si moltiplicano (o si dividono) entrambi i membri di una disuguaglianza per uno stesso numero negativo si ottiene una disuguaglianza di verso opposto: $a \cdot c < b \cdot c$  se $c < 0$  
  
-applicare la legge di annullamento del prodotto:
+### Disequazioni e disequazioni lineari
+Una disequazione è una relazione della forma $A(x) > B(x)$ (oppure $A(x) < B(x)$); risolverla significa determinare i valori di $x$ per i quali l'espressione $A(x)$ assume valori maggiori (oppure minori) dell'espressione $B(x)$.
+Una **disequazione intera lineare** si può sempre ricondurre alla forma $ax + b > 0$ che ha soluzione:
+* $x > -\dfrac{b}{a}$ se $a > 0$ 
+* $x < -\dfrac{b}{a}$ se $a < 0$
 
-da cui si ricavano le soluzioni:
+Se $a = 0$ la disequazione diventa una disuguaglianza numerica; se tale disuguaglianza è vera allora $S = R$, se è falsa allora $S = \varnothing$.
 
+### Disequazioni frazionarie
+Una **disequazione frazionaria** si può sempre scrivere nella forma $\dfrac{A(x)}{B(x)} > 0$ oppure $\dfrac{A(x)}{B(x)} < 0$ nelle quali il denominatore non si può eliminare.
 
-Le disequazioni
-Le proprietà delle disuguaglianze numeriche
-Dalla relazione  (o dalla sua analoga ) si possono dedurre anche le seguenti:
-si può sommare (o sottrarre) ai due membri di una disuguaglianza uno stesso numero:   
-se si moltiplicano (o si dividono) entrambi i membri di una disuguaglianza per uno stesso numero positivo si ottiene una disuguaglianza dello stesso verso:   se 
-se si moltiplicano (o si dividono) entrambi i membri di una disuguaglianza per uno stesso numero negativo si ottiene una disuguaglianza di verso opposto:   se 
-Disequazioni e disequazioni lineari
-Una disequazione è una relazione della forma  (oppure ); risolverla significa determinare i valori di  per i quali l'espressione  assume valori maggiori (oppure minori) dell'espressione .
-Una disequazione intera lineare si può sempre ricondurre alla forma  che ha soluzione:
-  se 
-  se 
-Se  la disequazione diventa una disuguaglianza numerica; se tale disuguaglianza è vera allora , se è falsa allora .
-Disequazioni frazionarie
-Una disequazione frazionaria si puoÁ sempre scrivere nella forma  oppure  nelle quali il denominatore non si può eliminare.
-Per risolverla si studiano i segni del polinomio  e del polinomio  e si riporta la loro variazione in una tabella; dal segno di ciascuno dei fattori si deduce poi il segno della frazione e, di conseguenza, l'insieme delle soluzioni.
-Disequazioni non lineari
-Una disequazione non lineare   si può risolvere con un metodo analogo a quello seguito per le disequazioni frazionarie se l'espressione   è un polinomio scomponibile nel prodotto di fattori di primo grado. In questo caso, si studia la variazione del segno di ogni fattore del prodotto, si costruisce la tabella dei segni, si determina il segno di  e da esso si deduce l'insieme delle soluzioni.
-Sistemi di disequazioni
-Due o più disequazioni si scrivono in un sistema se si vuole che esse siano verificate contemporaneamente. Per determinare l'insieme delle soluzioni si risolve ciascuna disequazione e si calcola l'intersezione degli insiemi soluzione.
-Equazioni e disequazioni con i moduli
+Per risolverla si studiano i segni del polinomio $A(x)$ e del polinomio $B(x)$ e si riporta la loro variazione in una tabella; dal segno di ciascuno dei fattori si deduce poi il segno della frazione e, di conseguenza, l'insieme delle soluzioni.
+
+### Disequazioni non lineari
+Una **disequazione non lineare** $A(x)$  si può risolvere con un metodo analogo a quello seguito per le disequazioni frazionarie se l'espressione $A(x)$ è un polinomio scomponibile nel prodotto di fattori di primo grado. In questo caso, si studia la variazione del segno di ogni fattore del prodotto, si costruisce la tabella dei segni, si determina il segno di $A(x)$ e da esso si deduce l'insieme delle soluzioni.
+
+### Sistemi di disequazioni
+Due o più disequazioni si scrivono in un **sistema** se si vuole che esse siano verificate contemporaneamente. Per determinare l'insieme delle soluzioni si risolve ciascuna disequazione e si calcola l'**intersezione** degli insiemi soluzione.
+
+### Equazioni e disequazioni con i moduli
 Se un'equazione o una disequazione contengono un modulo, si deve studiare il segno dell'espressione che è argomento del modulo e risolvere poi l'equazione o la disequazione nell'ambito del segno studiato:
-l'equazione  è equivalente ai due sistemi:
-	
-la disequazione  è equivalente ai due sistemi: 
+* l'equazione $|A(x)| = B(x)$ è equivalente ai due sistemi:
+`$$\begin{cases}
+A(x) \geq 0 \\ 
+A(x) = B(x) 
+\end{cases} \, \vee \,  
+\begin{cases}
+A(x) < 0 \\ 
+-A(x) = B(x) 
+\end{cases}$$`
+* la disequazione $|A(x)| > B(x)$ è equivalente ai due sistemi: 
+`$$\begin{cases}
+A(x) \geq 0 \\ 
+A(x) > B(x) 
+\end{cases} \, \vee \,  
+\begin{cases}
+A(x) < 0 \\ 
+-A(x) > B(x) 
+\end{cases}$$`
 	
 
