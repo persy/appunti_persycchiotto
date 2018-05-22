@@ -8,11 +8,11 @@ draft: false
 </script>
 
 Prova di testo matematico:
-$$
+<div>$$
 \sqrt{\frac{4}{3}} = \frac{\sqrt{4}}{\sqrt{3}} = \frac{2}{\sqrt{3}}= \frac{2 \cdot \sqrt{3}}{\sqrt{3} \cdot \sqrt{3}} = \frac{2 \cdot \sqrt{3}}{3} = \frac{2}{3} \cdot \sqrt{3}
-$$
+$$</div>
 
-Prova di testo matematico *inline* $\sqrt{2-x}$
+Prova di testo matematico *inline* `$\sqrt{2-x}$`
 
 
 
