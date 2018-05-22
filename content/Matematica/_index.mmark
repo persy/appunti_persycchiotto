@@ -2,25 +2,21 @@
 title: "Matematica"
 draft: false
 ---
-<!-- script MathJax -->
+## Elenco sezioni
 
+### [Algebra e Geometria](algebra_geometria)
+* Insiemi numerici e funzioni
+* Insiemi *N* e *Z*
+* Insiemi *Q* e *R*
+* Monomi e polinomi
+* La fattorizzazione dei polinomi
+* Le frazioni algebriche
+* Equazioni e disequazioni
+* Primi elementi di geometria piana e triangoli
+* Parallellismo e perpendicolarità
+* Isometrie e quadrilateri
+* Circonferenze e poligoni
 
-
-Prova di testo matematico:
-
-<div>$\frac{n!}{r!(n-r)!}$</div>
-
-$\frac{2}{3}$
-
-# $\frac{2}{3^2}$
-
-## $\frac{2}{3^2}$
-
-### $\frac{2}{3^2}$
-
-#### $\frac{2}{3^2}$
-
-Prova di testo matematico *inline* $\sqrt{5-y}$ e anche $\frac{A(x)}{B(x)}$
 
 
 

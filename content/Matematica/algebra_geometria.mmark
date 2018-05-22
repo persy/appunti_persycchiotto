@@ -1,0 +1,39 @@
+---
+title: "Algebra e Geometria"
+draft: false
+---
+<!-- script MathJax -->
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+
+## Insiemi e funzioni
+
+### Gli insiemi e la loro rappresentazione
+
+La parola **insieme** indica un raggruppamento di oggetti di natura qualunque pensati come un unico ente; gli oggetti che formano un insieme sono i suoi **elementi**. Un insieme è finito se si possono elencare tutti i suoi elementi; infinito in caso contrario. Un insieme che non ha elementi si dice **vuoto**.
+
+Un insieme si può rappresentare:
+
+*   per **elencazione** scrivendo l'elenco dei suoi elementi all'interno di una coppia di parentesi graffe
+*   mediante **proprietà caratteristica** indicando la frase che individui quali sono gli elementi dell'insieme
+*   graficamente mediante un **diagramma di Eulero-Venn**.
+
+
+### I sottoinsiemi
+
+Si dice che $B$  un **sottoinsieme** di un insieme $A$ se tutti gli elementi di $B$ sono anche elementi di $A$ e si scrive $B \subseteq A$. In particolare se in $A$ ci sono altri elementi oltre a quelli di $B$, allora $B$è un **sottoinsieme proprio** di $A$ e vale la relazione $B \subset A$; se in $A$ non ci sono altri elementi oltre a quelli di $B$ allora $B = A$. L'insieme $A$ stesso e l'insieme vuoto sono i *sottoinsiemi impropri* di $A$.
