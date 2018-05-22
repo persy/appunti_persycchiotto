@@ -10,7 +10,7 @@ draft: false
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
+    inlineMath: [['$','$'], ['\\(','$']],
     displayMath: [['$$','$$'], ['\[','\]']],
     processEscapes: true,
     processEnvironments: true,
@@ -107,7 +107,7 @@ Si definisce poi $a^1=a$ e  $a^0=1$, mentre non ha significato la scrittura $0^0
 Valgono le seguenti proprietà:
 * $a^m \cdot a^n = a^{m+n}$
 * $a^m : a^n = a^{m-n}$
-* \\((a^m)^n = a^{m \cdot n}\\)
+* $(a^m) ^n = a^{m \cdot n}$
 
 
 ### La divisibilità in $\mathbb{N}$
@@ -165,9 +165,9 @@ Si pone poi: $a^1 = a$ per ogni $a$; $a^0 = 1$ se $a \neq 0$;  non si attribuisc
 Se $n$ e $m$ sono due numeri interi, tenendo presenti le considerazioni fatte sulla base della potenza, valgono le seguenti proprietà:
 * $a^n \cdot a^m = a^{n+m}$
 * $a^n : a^m = a^{n-m}$
-* \\((a^n)^m = a^{n \cdot m}\\)
-* \\((a \cdot b)^n = a^n \cdot b^n\\)
-* \\((a : b)^n = a^n : b^n\\)
+* $a^n)^m = a^{n \cdot m}$
+* $a \cdot b)^n = a^n \cdot b^n$
+* $(a : b) ^n = a^n : b^n$
 
 ### Percentuali, rapporti e proporzioni
 Una percentuale equivale a una frazione con denominatore :  è la stessa cosa di .
