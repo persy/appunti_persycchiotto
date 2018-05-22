@@ -23,9 +23,11 @@ MathJax.Hub.Config({
 
 Prova di testo matematico:
 
-<div>$\frac{\sqrt 2}{x_3}$</div>
 
-$\frac{13^2}{z}$
+<div>$\frac{n!}{r!(n-r)!}$</div>
+
+
+## $\frac{13^2}{z}$
 
 Prova di testo matematico *inline* $\sqrt{5-y}$
 
