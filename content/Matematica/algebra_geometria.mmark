@@ -165,7 +165,7 @@ Si pone poi: $a^1 = a$ per ogni $a$; $a^0 = 1$ se $a \neq 0$;  non si attribuisc
 Se $n$ e $m$ sono due numeri interi, tenendo presenti le considerazioni fatte sulla base della potenza, valgono le seguenti proprietà:
 * $a^n \cdot a^m = a^{n+m}$
 * $a^n : a^m = a^{n-m}$
-* $a^n)^m = a^{n \cdot m}$
+* $(a^n) ^m = a^{n \cdot m}$
 * $a \cdot b)^n = a^n \cdot b^n$
 * $(a : b) ^n = a^n : b^n$
 
