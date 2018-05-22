@@ -107,7 +107,7 @@ Si definisce poi $a^1=a$ e  $a^0=1$, mentre non ha significato la scrittura $0^0
 Valgono le seguenti proprietà:
 * $a^m \cdot a^n = a^{m+n}$
 * $a^m : a^n = a^{m-n}$
-* $(a^m)^n = a^{m \cdot n}$
+* \\((a^m) ^n = a^{m \cdot n}\\)
 
 
 ### La divisibilità in $\mathbb{N}$
