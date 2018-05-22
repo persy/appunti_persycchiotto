@@ -251,10 +251,10 @@ Diciamo poi che due monomi sono:
 
 ### Le operazioni fra monomi
 * La **somma** o la **differenza** fra monomi dà luogo ad un monomio solo se i monomi sono simili; la somma di monomi non simili è un polinomio: $2ax - 3ax = -ax$ è un monomio; $2a + 3b$ è un polinomio;
-* il **prodotto** fra monomi si può sempre eseguire applicando le proprietà delle potenze: $4ab^2 \cdot (-3abx) = -12a^2b^3x$;
+* il **prodotto** fra monomi si può sempre eseguire applicando le proprietà delle potenze: $4ab^2 \cdot (-3abx) = -12a^2 b^3 x$;
 * il **quoziente** fra monomi dà luogo a un monomio solo se le lettere del divisore hanno una potenza minore o uguale di quelle corrispondenti del dividendo: 
-$\dfrac{5}{2}b^3y^2z : \left ( - \dfrac{10}{9} by\right ) = - \dfrac{9}{4}b^2yz$;  
-$4a^3b:2ax=\dfrac{2a^2b}{x}$ (non è un monomio)
+$\dfrac{5}{2}b^3 y^2 z : \left ( - \dfrac{10}{9} b y \right ) = - \dfrac{9}{4}b^2 y z$;  
+$4a^3 b : 2ax = \dfrac{2a^2 b}{x}$ (non è un monomio)
 
 ### I polinomi
 Un polinomio è la somma algebrica di più monomi.
@@ -315,18 +315,23 @@ riferirsi a regole particolari guardando il numero dei termini del polinomio;
 
 #### Quadrinomio
 * cubo di un binomio: $a^3 \pm 3a^2b + 3ab^2 \pm b^3 = (a \pm b)^3$
-* differenza di due quadrati: $\begin{align*}
+* differenza di due quadrati: 
+$$\begin{align*}
 a^2 + 2ab + b^2 - x^2 &= (a + b)^2  - x^2\\ 
  &= (a + b + x)(a + b - x) 
-\end{align*}$
+\end{align*}
+$$
 
 #### Polinomio di sei termini
 * quadrato di un trinomio: $a^2 + 4b^2 + 9 + 4ab - 6a - 12b = (a + 2b -3)^2$
-* differenza dei quadrati di due binomi:  $\begin{align*}
-a^2 + 2a + 1 - x^2 + 2xy - y^2 &= (a^2 + 2a + 1) - (x^2 - 2xy + y^2) =\\ 
- &= (a + 1)^2 - (x - y)^2 = \\
+* differenza dei quadrati di due binomi:  
+$$
+\begin{align*}
+a^2 + 2a + 1 - x^2 + 2xy - y^2 &= (a^2 + 2a + 1) - (x^2 - 2xy + y^2)\\ 
+ &= (a + 1)^2 - (x - y)^2\\
  &= (a + 1 + x - y)(a + 1 - x + y)
-\end{align*}$
+\end{align*}
+$$
 
 
 ### M.C.D. e m.c.m. fra polinomi
@@ -351,13 +356,13 @@ Per passare da una frazione a un'altra ad essa equivalente si applica la proprie
 Con le frazioni algebriche si possono eseguire tutte le operazioni che si possono eseguire con le frazioni numeriche; quindi:
 * si può semplificare una frazione scomponendo i suoi termini e dividendo numeratore e denominatore per i fattori comuni
 * si possono sommare, sottrarre, moltiplicare o dividere due frazioni algebriche con regole analoghe a quelle applicate alle stesse operazioni con le frazioni numeriche: 
-  $$
-  \frac{A}{B} + \frac{C}{D} = \frac{AD + BC}{BD}; \; \frac{A}{B}\cdot \frac{C}{D} = \frac{AC}{BD}; \; \frac{A}{B} : \frac{C}{D} = \frac{A}{B} \cdot \frac{D}{C} = \frac{AD}{BC}
-  $$
+$$
+\frac{A}{B} + \frac{C}{D} = \frac{AD + BC}{BD}; \; \frac{A}{B}\cdot \frac{C}{D} = \frac{AC}{BD}; \; \frac{A}{B} : \frac{C}{D} = \frac{A}{B} \cdot \frac{D}{C} = \frac{AD}{BC}
+$$
 * si può elevare a potenza una frazione elevando a quella potenza il numeratore e il denominatore: 
-  $$
-  \left ( \frac{A}{B} \right)^n = \frac{A^n}{B^n}
-  $$
+$$
+\left ( \frac{A}{B} \right)^n = \frac{A^n}{B^n}
+$$
 
 ## Le equazioni
 Identità ed equazioni 
