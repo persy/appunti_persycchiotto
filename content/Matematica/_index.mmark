@@ -23,12 +23,11 @@ MathJax.Hub.Config({
 
 Prova di testo matematico:
 
-<div>$\sqrt 2$</div>
-$$x^2$$
-$x_{2-3}$
+<div>$\frac{\sqrt 2}{x_3}$</div>
 
+$\frac{13^2}{z}$
 
-Prova di testo matematico *inline* `$\sqrt{2-x}$` e $\sqrt{5-y}$
+Prova di testo matematico *inline* $\sqrt{5-y}$
 
 
 
