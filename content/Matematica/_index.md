@@ -5,13 +5,24 @@ draft: false
 <!-- script MathJax -->
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
 </script>
  Prova di testo matematico:
 $$
 \sqrt{\frac{4}{3}} = \frac{\sqrt{4}}{\sqrt{3}} = \frac{2}{\sqrt{3}}= \frac{2 \cdot \sqrt{3}}{\sqrt{3} \cdot \sqrt{3}} = \frac{2 \cdot \sqrt{3}}{3} = \frac{2}{3} \cdot \sqrt{3}
 $$
 
-Prova di testo matematico *inline* $\sqrt {2-x} + \vec A$
+Prova di testo matematico *inline* $\sqrt{2-x}$ 
 
 
 
