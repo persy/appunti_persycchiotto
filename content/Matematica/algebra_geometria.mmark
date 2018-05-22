@@ -325,13 +325,11 @@ $$
 #### Polinomio di sei termini
 * quadrato di un trinomio: $a^2 + 4b^2 + 9 + 4ab - 6a - 12b = (a + 2b -3)^2$
 * differenza dei quadrati di due binomi:  
-\[
-\begin{align*}
+<div>$$\begin{align*}
 a^2 + 2a + 1 - x^2 + 2xy - y^2 &= (a^2 + 2a + 1) - (x^2 - 2xy + y^2)\\ 
  &= (a + 1) ^2 - (x - y) ^2\\
  &= (a + 1 + x - y)(a + 1 - x + y)
-\end{align*}
-\]
+\end{align*}$$</div>
 
 
 ### M.C.D. e m.c.m. fra polinomi
