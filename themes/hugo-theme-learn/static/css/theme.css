@@ -638,6 +638,15 @@ code + .copy-to-clipboard {
     height: 21px;
     top: 0;
 }
+code.has-jax {
+    font: inherit;
+    font-size: 100%;
+    background: inherit;
+    border: inherit;
+    color: #515151;
+}
+
+
 pre {
     padding: 1rem;
     margin: 2rem 0;
@@ -1126,5 +1135,6 @@ pre .copy-to-clipboard:hover {
 #searchResults {
     text-align: left;
 }
+
 
 /*# sourceMappingURL=theme.css.map */
