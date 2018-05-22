@@ -23,7 +23,7 @@ MathJax.Hub.Config({
 
 Prova di testo matematico:
 
-$\sqrt 2$
+<div>$\sqrt 2$</div>
 $$x^2$$
 $x_{2-3}$
 
