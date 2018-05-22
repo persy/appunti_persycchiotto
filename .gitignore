@@ -7,3 +7,4 @@
 *.db-shm
 *.db
 *.log
+.vscode/settings.json
