@@ -355,10 +355,12 @@ Per passare da una frazione a un'altra ad essa equivalente si applica la proprie
 ### Le operazioni
 Con le frazioni algebriche si possono eseguire tutte le operazioni che si possono eseguire con le frazioni numeriche; quindi:
 * si può semplificare una frazione scomponendo i suoi termini e dividendo numeratore e denominatore per i fattori comuni
-* si possono sommare, sottrarre, moltiplicare o dividere due frazioni algebriche con regole analoghe a quelle applicate alle stesse operazioni con le frazioni numeriche: 
+* si possono sommare, sottrarre, moltiplicare o dividere due frazioni algebriche con regole analoghe a quelle applicate alle stesse operazioni con le frazioni numeriche:
+
 $$
 \frac{A}{B} + \frac{C}{D} = \frac{AD + BC}{BD}; \; \frac{A}{B}\cdot \frac{C}{D} = \frac{AC}{BD}; \; \frac{A}{B} : \frac{C}{D} = \frac{A}{B} \cdot \frac{D}{C} = \frac{AD}{BC}
 $$
+
 * si può elevare a potenza una frazione elevando a quella potenza il numeratore e il denominatore: 
 $$
 \left ( \frac{A}{B} \right)^n = \frac{A^n}{B^n}
