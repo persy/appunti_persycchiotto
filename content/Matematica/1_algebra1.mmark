@@ -3,6 +3,7 @@ title: "Algebra"
 draft: false
 weight: 1
 ---
+
 <!-- script MathJax -->
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
@@ -445,22 +446,29 @@ Due o più disequazioni si scrivono in un **sistema** se si vuole che esse siano
 ### Equazioni e disequazioni con i moduli
 Se un'equazione o una disequazione contengono un modulo, si deve studiare il segno dell'espressione che è argomento del modulo e risolvere poi l'equazione o la disequazione nell'ambito del segno studiato:
 * l'equazione $|A(x)| = B(x)$ è equivalente ai due sistemi:
-`$$\begin{cases}
+
+<div align="center">
+$$\begin{cases}
 A(x) \geq 0 \\ 
 A(x) = B(x) 
 \end{cases} \, \vee \,  
 \begin{cases}
 A(x) < 0 \\ 
 -A(x) = B(x) 
-\end{cases}$$`
+\end{cases}$$
+</div>
+
 * la disequazione $|A(x)| > B(x)$ è equivalente ai due sistemi: 
-`$$\begin{cases}
+
+<div align="center">
+$$\begin{cases}
 A(x) \geq 0 \\ 
 A(x) > B(x) 
 \end{cases} \, \vee \,  
 \begin{cases}
 A(x) < 0 \\ 
 -A(x) > B(x) 
-\end{cases}$$`
+\end{cases}$$
+</div>
 	
 

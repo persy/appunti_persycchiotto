@@ -4,9 +4,219 @@ draft: false
 weight: 3
 ---
 
+<!-- script MathJax -->
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','$']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+
 ## I sistemi lineari
 
+### I sistemi
+Un'equazione in due o piuÁ variabili, se non è impossibile, ammette sempre infinite soluzioni; se di due o piuÁ equazioni
+in due o piuÁ incognite si vogliono trovare le soluzioni comuni si deve risolvere il sistema delle loro equazioni. Scrivere
+un sistema di equazioni significa quindi richiedere che tutte le equazioni siano verificate per gli stessi valori delle variabili.
+
+Il grado di un sistema è il prodotto dei gradi delle sue equazioni; in particolare un sistema è di primo grado se tutte le
+sue equazioni sono di primo grado.
+Un sistema può essere:
+* determinato se ha un numero finito di soluzioni
+* indeterminato se ha infinite soluzioni
+* impossibile se non ha soluzioni.
+
+### I principi di equivalenza
+Due sistemi sono equivalenti se hanno le stesse soluzioni.
+
+Come nel caso delle equazioni, per risolvere un sistema, supponiamo di due equazioni in due incognite, si deve passare da una forma ad un'altra ad essa equivalente fino ad arrivare a una del tipo 
+
+<div align="center">
+$\begin{cases}
+x = k \\
+y = h 
+\end{cases}$
+</div> 
+ 
+in questo caso la soluzione del sistema è la coppia ordinata $(k, \, h)$.
+
+I principi di equivalenza che valgono per un sistema di equazioni sono i seguenti.
+* **principio di sostituzione**. Se in un sistema si sostituisce ad una incognita la sua espressione ricavata da un'altra equazione, si ottiene un sistema equivalente a quello dato.
+* **principio di riduzione**. Se in un sistema si sommano membro a membro le sue equazioni (tutte o alcune) e si sostituisce l'equazione ottenuta ad una di esse, si ottiene un sistema equivalente a quello dato.
+
+### I sistemi lineari
+Un sistema è lineare se è di primo grado. Se è composto da due equazioni in due incognite $x$ e $y$ la sua forma normale è la seguente
+
+<div align="center">
+$\begin{cases}
+ax + by = c \\
+dx + ey = f 
+\end{cases}$ 
+</div>
+
+I metodi per la risoluzione di un sistema si basano sui principi di equivalenza e sono i seguenti:
+* il **metodo di sostituzione**, che consiste nel ricavare l'espressione di una variabile da una delle equazioni e sostituire tale espressione nelle altre
+* il **metodo di riduzione**, che consiste nel sostituire ad una delle equazioni quella che si ottiene sommando membro a membro l'equazione stessa con un'altra (dopo averle eventualmente moltiplicate per un opportuno fattore non nullo), in modo da eliminare una delle variabili
+* il **metodo del confronto**, che consiste nel ricavare l'espressione della stessa variabile da due equazioni e nel confrontare le espressioni ottenute.
+
+### Le matrici e i determinanti
+Una tabella di numeri della forma 
+
+<div align="center">
+$\begin{bmatrix}
+a & b\\ 
+c & d
+\end{bmatrix}$ 
+</div>
+
+si chiama matrice e poiché ha due righe e due colonne si dice che è una matrice quadrata di ordine due. Ad ogni matrice di questo tipo si può associare un numero, chiamato **determinante**,
+che si calcola in questo modo:
+
+<div align="center">
+$
+\begin{vmatrix}
+a & b\\ 
+c & d
+\end{vmatrix} = ad - bc
+$
+</div>
+
+### Il metodo di Cramer
+Per risolvere un sistema lineare, oltre ai precedenti metodi, si può usare uno schema di risoluzione che prende il nome di metodo di Cramer. Relativamente ai sistemi lineari di due equazioni in due incognite scritti in forma normale, si devono calcolare i seguenti **determinanti**:
+
+<div align="center">
+$\Delta =
+\begin{vmatrix}
+a & b\\ 
+c & d
+\end{vmatrix} = ae - bd$
+</div>
+
+<div align="center">
+$\Delta x =
+\begin{vmatrix}
+c & b\\ 
+f & e
+\end{vmatrix} = ce - bf$
+</div>
+
+<div align="center">
+$\Delta y =
+\begin{vmatrix}
+a & c\\ 
+d & f
+\end{vmatrix} = af - cd$
+</div>
+
+e si verifica che:
+* se $\Delta \neq 0$ il sistema è determinato con soluzione 
+
+<div align="center">
+$\begin{cases}
+x = \dfrac{\Delta x}{\Delta} \\
+\\ 
+y = \dfrac{\Delta x}{\Delta}  
+\end{cases}$
+</div>
+
+* se $\Delta = 0$ e $\Delta x = \Delta y = 0$ il sistema è indeterminato
+* se $\Delta = 0$ e $\Delta x \neq 0$ oppure $\Delta \neq 0$ il sistema è impossibile.
+
+Alle stesse conclusioni si può giungere anche analizzando i rapporti tra i coefficienti delle due equazioni; si verifica
+infatti che:
+* il sistema è **determinato** se $\dfrac{a}{d} \neq \dfrac{b}{e}$
+* il sistema è **indeterminato** se  $\dfrac{a}{d} = \dfrac{b}{e} = \dfrac{c}{f}$
+* il sistema è impossibile se $\dfrac{a}{d} = \dfrac{b}{e} \neq \dfrac{c}{f}$
+
+
 ## I radicali
+
+### La funzione radice e i radicali
+Nell'insieme $\mathbb{R}^+ _0$ dei numeri reali positivi o nulli l'operazione di elevamento a potenza si puoÁ invertire e l'operazione
+inversa è l'estrazione di radice.
+
+Dato un qualunque numero reale $a \geq 0$, si dice radice $n$-esima di $a$ il numero non negativo $b$ per il quale $b^n = a$.
+
+La radice $n$-esima di $a$ si indica con il simbolo $\sqrt[n]{a}$.
+
+### La proprietà invariantiva
+I radicali in $\mathbb{R}^+ _0$ godono della fondamentale **proprietà invariantiva**:
+* se l'indice della radice e l'esponente del radicando vengono moltiplicati o divisi per uno stesso numero intero positivo, si ottiene un radicale che ha lo stesso valore di quello dato: $\sqrt[n]{a^m} = \sqrt[np]{a^{mp}}; \; \forall p \in Z^+$
+
+Grazie a questa proprietà si possono eseguire le seguenti operazioni:
+* semplificare un radicale dividendo indice della radice ed esponente del radicando per il loro M.C.D.
+* ridurre due o piuÁ radicali allo stesso indice che è il m.c.m fra gli indici delle radici
+* moltiplicare o dividere due radicali se questi hanno lo stesso indice:
+
+<div align="center">
+$\sqrt[n]{a} \cdot \sqrt[n]{b} = \sqrt[n]{ab}$
+</div>
+
+
+
+<div align="center">
+$\dfrac{\sqrt[n]{a}}{\sqrt[n]{b}} = \sqrt[n]{\dfrac{a}{b}}$
+</div>
+
+* portar dentro o portar fuori dal simbolo di radice i possibili fattori.
+
+Quando due radicali non hanno lo stesso indice, per trovare il loro prodotto o quoziente si devono prima ricondurre allo stesso indice.
+
+### Radicali e moduli
+Quando si eseguono delle operazioni sui radicali, si deve prestare attenzione a che:
+* il dominio dell'espressione che si ottiene come risultato sia lo stesso di quello dell'espressione data
+* il segno dell'espressione che si ottiene come risultato sia lo stesso di quello dell'espressione data.
+
+In caso contrario, si deve valutare di quali fattori è necessario considerare il modulo al fine di mantenere lo stesso dominio e lo stesso segno.
+
+### Operazioni con i radicali
+* **Moltiplicazione e divisione**: si possono eseguire solo tra radicali dello stesso indice.
+    * Radicali quadratici: $\sqrt{a} \cdot \sqrt{b} = \sqrt{ab}$; $\dfrac{\sqrt{a}}{\sqrt{b}}= \sqrt{\dfrac{a}{b}}$
+
+
+    * Radicali cubici: $\sqrt[3]{a} \cdot \sqrt[3]{b} = \sqrt[3]{ab}$; $\dfrac{\sqrt[3]{a}}{\sqrt[3]{b}}= \sqrt[3]{\dfrac{a}{b}}$
+
+* **Addizione e sottrazione**: si possono eseguire solo tra radicali simili.
+    * Radicali quadratici: $\sqrt{a} + 3 \sqrt{a} = 4 \sqrt{a}$
+    
+    * Radicali cubici: $2 \sqrt[3]{a} + \sqrt[3]{a} = 3 \sqrt[3]{a}$
+
+
+* **Potenza**: si eleva a potenza l'argomento del radicale $(\sqrt{a} ) ^3 = \sqrt{a^3}$
+
+### I radicali quadratici doppi
+Un radicale quadratico doppio è un radicale che ha la forma $\sqrt{a \pm \sqrt{b}}$.
+
+Se $a^2 - b$ è un quadrato perfetto, il radicale si puoÁ trasformare nella somma o differenza di due radicali semplici con la formula:
+
+<div align="center">
+$\sqrt{a \pm \sqrt{b}} = \sqrt{\dfrac{a + \sqrt{a^2 -b}}{2}} \pm \sqrt{\dfrac{a - \sqrt{a^2 -b}}{2}}$
+</div>
+
+
+
+### La razionalizzazione
+Razionalizzare una frazione che ha un denominatore che contiene dei radicali significa scriverla in modo che il denominatore diventi un'espressione razionale. Per fare questo si devono moltiplicare il numeratore e il denominatore della frazione per un opportuno **fattore razionalizzante** che ha una forma diversa a seconda dei casi:
+* se la frazione è del tipo $\dfrac{1}{\sqrt{a}}$; il fattore razionalizzante è $\sqrt{a}$
+* se la frazione è del tipo $\dfrac{1}{\sqrt[3]{a^k}}$; il fattore razionalizzante è $\sqrt[3]{a^{3 - k}}$ con $k < 3$
+* se la frazione è del tipo $\dfrac{1}{\sqrt{a} \pm \sqrt{b}}$; il fattore razionalizzante è $\sqrt{a} \mp \sqrt{b}$
+* se la frazione è del tipo $\dfrac{1}{\sqrt[3]{a} \pm \sqrt[3]{b}}$; il fattore razionalizzante è $(\sqrt[3]{a^2} \mp \sqrt[3]{ab} + \sqrt[3]{b^2})$
+
+### Le potenze ad esponente razionale
+Un radicale di argomento $a \geq 0$ si puoÁ scrivere sotto forma di potenza ad esponente razionale con la seguente corrispondenza: $\sqrt[n]{a^m} = a^{\frac{m}{n}}$.
+Alle potenze ad esponente frazionario si possono applicare proprietà analoghe a quelle delle potenze ad esponente
+intero.
 
 ## Il piano cartesiano e la retta
 
@@ -20,10 +230,3 @@ weight: 3
 
 ## Sistemi non lineari
 
-## La probabilità
-
-## Equivalenza dei poligoni e il calcolo delle aree
-
-## Omotetie e similitudini
-
-## La geometri nello spazio
