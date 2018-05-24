@@ -26,8 +26,8 @@ MathJax.Hub.Config({
 ## I sistemi lineari
 
 ### I sistemi
-Un'equazione in due o piuÁ variabili, se non è impossibile, ammette sempre infinite soluzioni; se di due o piuÁ equazioni
-in due o piuÁ incognite si vogliono trovare le soluzioni comuni si deve risolvere il sistema delle loro equazioni. Scrivere
+Un'equazione in due o più variabili, se non è impossibile, ammette sempre infinite soluzioni; se di due o più equazioni
+in due o più incognite si vogliono trovare le soluzioni comuni si deve risolvere il sistema delle loro equazioni. Scrivere
 un sistema di equazioni significa quindi richiedere che tutte le equazioni siano verificate per gli stessi valori delle variabili.
 
 Il grado di un sistema è il prodotto dei gradi delle sue equazioni; in particolare un sistema è di primo grado se tutte le
@@ -49,7 +49,7 @@ y = h
 \end{cases}$
 </div> 
  
-in questo caso la soluzione del sistema è la coppia ordinata $(k, \, h)$.
+in questo caso la soluzione del sistema è la coppia ordinata $(k, \space h)$.
 
 I principi di equivalenza che valgono per un sistema di equazioni sono i seguenti.
 * **principio di sostituzione**. Se in un sistema si sostituisce ad una incognita la sua espressione ricavata da un'altra equazione, si ottiene un sistema equivalente a quello dato.
@@ -143,7 +143,7 @@ infatti che:
 ## I radicali
 
 ### La funzione radice e i radicali
-Nell'insieme $\mathbb{R}^+ _0$ dei numeri reali positivi o nulli l'operazione di elevamento a potenza si puoÁ invertire e l'operazione
+Nell'insieme $\mathbb{R}^+ _0$ dei numeri reali positivi o nulli l'operazione di elevamento a potenza si può invertire e l'operazione
 inversa è l'estrazione di radice.
 
 Dato un qualunque numero reale $a \geq 0$, si dice radice $n$-esima di $a$ il numero non negativo $b$ per il quale $b^n = a$.
@@ -156,7 +156,7 @@ I radicali in $\mathbb{R}^+ _0$ godono della fondamentale **proprietà invariant
 
 Grazie a questa proprietà si possono eseguire le seguenti operazioni:
 * semplificare un radicale dividendo indice della radice ed esponente del radicando per il loro M.C.D.
-* ridurre due o piuÁ radicali allo stesso indice che è il m.c.m fra gli indici delle radici
+* ridurre due o più radicali allo stesso indice che è il m.c.m fra gli indici delle radici
 * moltiplicare o dividere due radicali se questi hanno lo stesso indice:
 
 <div align="center">
@@ -198,7 +198,7 @@ In caso contrario, si deve valutare di quali fattori è necessario considerare i
 ### I radicali quadratici doppi
 Un radicale quadratico doppio è un radicale che ha la forma $\sqrt{a \pm \sqrt{b}}$.
 
-Se $a^2 - b$ è un quadrato perfetto, il radicale si puoÁ trasformare nella somma o differenza di due radicali semplici con la formula:
+Se $a^2 - b$ è un quadrato perfetto, il radicale si può trasformare nella somma o differenza di due radicali semplici con la formula:
 
 <div align="center">
 $\sqrt{a \pm \sqrt{b}} = \sqrt{\dfrac{a + \sqrt{a^2 -b}}{2}} \pm \sqrt{\dfrac{a - \sqrt{a^2 -b}}{2}}$
@@ -214,11 +214,89 @@ Razionalizzare una frazione che ha un denominatore che contiene dei radicali sig
 * se la frazione è del tipo $\dfrac{1}{\sqrt[3]{a} \pm \sqrt[3]{b}}$; il fattore razionalizzante è $(\sqrt[3]{a^2} \mp \sqrt[3]{ab} + \sqrt[3]{b^2})$
 
 ### Le potenze ad esponente razionale
-Un radicale di argomento $a \geq 0$ si puoÁ scrivere sotto forma di potenza ad esponente razionale con la seguente corrispondenza: $\sqrt[n]{a^m} = a^{\frac{m}{n}}$.
+Un radicale di argomento $a \geq 0$ si può scrivere sotto forma di potenza ad esponente razionale con la seguente corrispondenza: $\sqrt[n]{a^m} = a^{\frac{m}{n}}$.
 Alle potenze ad esponente frazionario si possono applicare proprietà analoghe a quelle delle potenze ad esponente
 intero.
 
 ## Il piano cartesiano e la retta
+
+### Il sistema di ascisse sulal retta
+Fissato su una retta orientata un sistema di ascisse:
+* la misura del segmento di estremi $A(x)$ e $B(x_B)$ è uguale a: $|x_B - x_A|$
+* l'ascissa del punto medio del segmento $AB$ è: $\dfrac{x_A + x_B}{2}$
+
+### Il sistema di riferimento cartesiano nel piano
+
+Fissato nel piano un sistema di riferimento cartesiano ortogonale e dati due punti $A_(x_A, \space y_A)$ e $B_(x_B, \space y_B)$:
+* la distanza fra $A$ e $B$ è uguale a: $\overline{AB} = \sqrt{(x_B - x_A) ^2 + (y_B - y_A) ^2}$
+    * in particolare, se $A$ e $B$ hanno la stessa ordinata: $\overline{AB} = |x_B - x_A|$
+    * se $A$ e $B$ hanno la stessa ascissa: $\overline{AB} = |y_B - y_A|$
+* le coordinate del punto $M$ medio fra $A$ e $B$ sono: $x_M = \dfrac{x_A + x_B}{2}$ e $y_M = \dfrac{y_A + y_B}{2}$
+
+### Le isometrie nel piano cartesiano
+Un'isometria è una funzione che ad ogni punto del piano fa corrispondere un altro punto in modo che a segmenti congruenti corrispondano segmenti congruenti. In un sistema di assi cartesiani ortogonali, le isometrie più semplici sono le simmetrie rispetto agli assi cartesiani e rispetto a un punto (l'origine o qualsiasi altro punto) e le traslazioni.
+
+Dato un punto $P(x, \space y)$
+* il suo **simmetrico rispetto all'asse** $x$ è il punto ${P}'(x, \space -y)$
+* il suo **simmetrico rispetto all'asse** $y$ è il punto ${P}'(-x, \space y)$
+* il suo **simmetrico rispetto all'origine** $O$ è il punto ${P}'(-x, \space -y)$
+* il suo **simmetrico rispetto al punto** $A(a, \space b)$ è il punto ${P}'(2a - x, \space 2b - y)$
+* il suo corrispondente nella **translazione** di vettore $\vec v (v_x, \space v_y)$ è il punto ${P}'(x + v_x, \space y + v_y)$
+
+### L'equazione della retta
+In un sistema di riferimento cartesiano ortogonale, una retta ha equazione
+* $x = h$ se è parallela all'asse $y$; in particolare l'asse $y$ ha equazione $x = 0$
+* $y = k$ se è parallela all'asse $x$; in particolare l'asse $x$ ha equazione $y = 0$
+* $y = mx$ se passa per l'origine
+* $y = mx + q$ se non passa per l'origine
+
+La forma implicita dell'equazione di una retta è $ax + by + c = 0$
+
+In particolare poi:
+* $y = x$ è l'equazione della bisettrice del primo e terzo quadrante
+* $y = -x$ è l'equazione della bisettrice del secondo e quarto quadrante
+
+### Il coefficiente angolare di una retta
+Il parametro $m$ rappresenta il coefficiente angolare e si ha che:
+* se $m > 0$ la retta forma un angolo acuto con la direzione poisitiva dell'asse $x$
+* se $m < 0$ la retta forma un angolo ottuso con la direzione poisitiva dell'asse $x$ 
+* se $m = 0$ la retta è parallela all'asse $x$
+
+Una retta parallela all'asse $y$ non ha un coefficiente angolare.
+
+Se sono note le coordinate $(x_1, \space y_1)$ e $(x_2, \space y_2)$ di due punti di una retta ed è $x_1 \neq x_2$: $m = \dfrac{y_2 - y_1}{x_2 - x_1}$
+
+### Come scrivere l'equazione di una retta
+Se di una retta si conoscono le coordinate di un punto $(x_0, \space y_0)$ ed il coefficiente angolare $m$, la sua equazione si trova con la formula $y - y_0 = m(x - x_0)$.
+
+Se di una retta si conoscono le coordinate di due punti $(x_1, \space y_1)$ e $(x_2, \space y_2)$ e se la retta non è parallela agli assi cartesiani, la sua equazione si trova con la formula $\dfrac{y - y_1}{y_2 - y_1} = \dfrac{x - x_1}{x_2 - x_1}$.
+
+La condizione di parallelismo fra due rette è $m = {m}'$.
+
+La condizione di perpendicolarità fra due rette è $m \cdot {m}' = -1$
+
+### Altre considerazioni sulla retta
+Per trovare il **punto di intersezione di due rette** si deve risolvere il sistema formato dalle loro equazioni. Le situazioni che si possono presentare sono:
+* il sistema è determinato e allora le due rette si intersecano in un punto
+* il sistema è indeterminato e allora le due rette coincidono (sono in realtà la stessa retta)
+* il sistema è impossibile e allora le due rette sono parallele e non coincidenti
+
+La **distanza** $d$ del punto $P(x_0, \space y_0)$ dalla retta $r$ di equazione $ax + by + c = 0$ si calcola con la formula:
+<div align="center">
+$d = \dfrac{|ax_0 + by_0 + c|}{\sqrt{a^2 + b^2}}$
+</div>
+
+### Gli zeri di una funzione e le soluzioni di una disequazione
+Se il grafico di una funzione $f(x)$ interseca l'asse $x$ in uno o più punti, di ciascuna delle ascisse di questi punti si dice che rappresenta uno **zero** della funzione.
+
+La soluzione di ogni equazione lineare $ax + b = 0$ può quindi essere interpretata come lo zero della funzione $y = ax + b$, cioè come l'ascissa del punto di intersezione di una retta con l'asse $x$.
+
+Anche le soluzioni della disequazione $ax + b > 0$ oppure $ax + b < 0$ si possono interpretare in modo grafico ricercando le ascisse dei punti della retta che hanno una ordinata rispettivamente positiva o negativa.
+
+### I fasci di retta
+L'insieme delle rette che passano per $P(x_0, \space y_0)$ è un fascio proprio di rette la cui equazione è $y - y_0 = m(x - x_0)$, con $m$ parametro variabile.
+
+L'insieme delle rette parallele di coefficiente angolare $m$ è un fascio improprio di rette la cui equazione è $y = mx + k$, con $k$ parametro variabile.
 
 ## Luoghi di punti e funzioni
 
