@@ -227,7 +227,7 @@ Fissato su una retta orientata un sistema di ascisse:
 
 ### Il sistema di riferimento cartesiano nel piano
 
-Fissato nel piano un sistema di riferimento cartesiano ortogonale e dati due punti $A_(x_A, \space y_A)$ e $B_(x_B, \space y_B)$:
+Fissato nel piano un sistema di riferimento cartesiano ortogonale e dati due punti $A(x_A, \space y_A)$ e $B(x_B, \space y_B)$:
 * la distanza fra $A$ e $B$ è uguale a: $\overline{AB} = \sqrt{(x_B - x_A) ^2 + (y_B - y_A) ^2}$
     * in particolare, se $A$ e $B$ hanno la stessa ordinata: $\overline{AB} = |x_B - x_A|$
     * se $A$ e $B$ hanno la stessa ascissa: $\overline{AB} = |y_B - y_A|$
