@@ -181,7 +181,7 @@ IMMAGINI
 * una retta incidente ad un piano in un punto $P$ è perpendicolare al piano se è perpendicolare a due delle rette del piano che passano per $P$; in tal caso essa è perpendicolare anche a tutte le altre rette del piano che passano per $P$
 * se una retta $r$ è perpendicolare ad un piano $\alpha$ in un punto $P$ e da $P$ esce una retta $s$ perpendicolare ad una terza retta $t$ di $\alpha$, allora $t$ è perpendicolare al piano di $r$ e $s$ (**teorema delle tre perpendicolari**).
 
-##Diedri e angoloidi
+## Diedri e angoloidi
 * Due semipiani che hanno l'origine in comune dividono lo spazio in due **angoli diedri** dei quali uno è concavo e l'altro è convesso
 * ogni piano che interseca un diedro definisce un angolo che rappresenta la sezione del diedro; se il piano è perpendicolare allo spigolo del diedro si parla di **sezione normale**; la misura di un diedro è la misura della sua sezione normale
 * due piani sono perpendicolari se sono incidenti e formano diedri retti
