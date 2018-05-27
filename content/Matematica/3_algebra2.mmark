@@ -282,8 +282,9 @@ Per trovare il **punto di intersezione di due rette** si deve risolvere il siste
 * il sistema è impossibile e allora le due rette sono parallele e non coincidenti
 
 La **distanza** $d$ del punto $P(x_0, \space y_0)$ dalla retta $r$ di equazione $ax + by + c = 0$ si calcola con la formula:
+
 <div align="center">
-$d = \dfrac{|ax_0 + by_0 + c|}{\sqrt{a^2 + b^2}}$
+$d = \dfrac{|a x_0 + b y_0 + c|}{\sqrt{a^2 + b^2}}$
 </div>
 
 ### Gli zeri di una funzione e le soluzioni di una disequazione
@@ -371,6 +372,7 @@ Per risolvere la disequazione $ax^2 + bx + c  \lessgtr 0$, dove si suppone che s
 da del segno del disciminante, sono i seguenti:
 
 IMMAGINI DELTA PARABOLE
+
 Di conseguenza:
 * se $\Delta > 0$ il trinomio è positivo per valori esterni all'intervallo delle radici, è negativo per valori compresi
 * se $\Delta = 0$ il trinomio è positivo per ogni $x \in \mathbb{R}$ escluso il punto in cui il trinomio si annulla e non è mai negativo
