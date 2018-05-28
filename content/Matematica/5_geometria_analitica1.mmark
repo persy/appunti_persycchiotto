@@ -1,0 +1,83 @@
+---
+title: "Geometria Analitica 1"
+draft: false
+weight: 5
+---
+
+<!-- script MathJax -->
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','$']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+
+## La parabola
+
+### La parabola e la sua equazione
+La parabola è il luogo dei punti che hanno uguale distanza da un punto fisso $F$, detto fuoco, e da una retta fissa $d$, detta direttrice.
+
+In un sistema di riferimento cartesiano ortogonale, l'equazione di una parabola ha forma diversa a secondo che l'asse di simmetria sia parallelo all'asse $x$ o all'asse $y$.
+* Se l'asse di simmetria è parallelo all'asse $y$ la parabola ha equazione
+
+<div align="center">
+$y = a x^2 + bx +c$
+</div>
+
+e la concavità è rivolta:
+
+* verso l'alto se $a > 0$
+* verso il basso se $a < 0$
+
+* Se l'asse di simmetria è parallelo all'asse $x$ la parabola ha equazione
+
+<div align="center">
+$x = a y^2 + by +c$
+</div>
+
+e la concavità è rivolta:
+
+* verso destra se $a > 0$
+* verso sinistra se $a < 0$
+
+### Altri elementi caratteristici
+Se si conosce l'equazione di una parabola, posto $\Delta = b^2 - 4 ac$, si possono trovare il vertice, il fuoco, l'equazione dell'asse e della direttrice con queste formule:
+
+* per la parabola $y = a x^2 + bx + c$:
+    * vertice $V \left ( - \dfrac{b}{2a}, \space - \dfrac{\Delta}{4a} \right )$
+    * fuoco $F \left ( - \dfrac{b}{2a}, \space \dfrac{1 - \Delta}{4a} \right )$
+    * asse $x = - \dfrac{b}{2a}$
+    * direttrice $y = - \dfrac{1 + \Delta}{4a}$
+
+* per la parabola $x = a y^2 + by + c$:
+    * vertice $V \left ( - \dfrac{\Delta}{4a}, \space   - \dfrac{b}{2a} \right )$
+    * fuoco $F \left ( \dfrac{1 - \Delta}{4a}, \space - \dfrac{b}{2a} \right )$
+    * asse $x = - \dfrac{b}{2a}$
+    * direttrice $y = - \dfrac{1 + \Delta}{4a}$
+
+## Il grafico
+Per traccia il grafico di una parabola quando è nota
+
+
+
+
+
+
+
+
+
+
+
+
+

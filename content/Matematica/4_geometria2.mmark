@@ -25,7 +25,7 @@ MathJax.Hub.Config({
 
 ## Equivalenza dei poligoni e il calcolo delle aree
 * Due figure $A$ e $B$ si dicono **equivalenti** se hanno la stessa estensione. La caratteristica comune a tutte le figure equivalenti si chiama **area**.
-* Date due figure $A$ e $B$ aventi in comune solo una parte del contorno, si definisce loro **somma** la figura $F$ ottenuta dalla loro uione; viceversa se $A + B \doteq$, la figura $A$ è la **differenza** tra le figure $F$ e $B$, la figura $B$ è la differenza tra $F$ e $A$.
+* Date due figure $A$ e $B$ aventi in comune solo una parte del contorno, si definisce loro **somma** la figura $F$ ottenuta dalla loro uione; viceversa se $A + B \doteq F$, la figura $A$ è la **differenza** tra le figure $F$ e $B$, la figura $B$ è la differenza tra $F$ e $A$.
 
 Si verifica che le somme o differenze di figure congruenti oppure equivalenti sono equivalenti.
 
