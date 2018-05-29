@@ -1,0 +1,54 @@
+---
+title: "Modelli di crescita"
+draft: false
+weight: 6
+---
+
+<!-- script MathJax -->
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','$']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+
+## La funzione esponenziale e la funzione logaritmica
+
+### La funzione esponenziale
+
+La funzione $y = a^x$ (con $a > 0 \space \wedge \space a \neq 1$) si chiama **funzione esponenziale** ed è definita $\forall x \in \mathbb{R}$; il suo grafico è una funzione crescente se $a > 1$, decrescente se $0 < a < 1$; in ogni caso tutte le funzioni esponenziali passano per il punto di coordinate $(0, \space 1)$.
+
+
+### La definizione di logaritmo
+
+
+
+### La funzione logaritmica
+
+
+
+### Le proprietà dei logaritmi
+
+
+
+## Equazioni e disequazioni esponenziali e logaritimiche
+
+
+
+
+
+
+
+
+
