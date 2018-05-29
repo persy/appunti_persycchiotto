@@ -51,7 +51,7 @@ e la concavità è rivolta:
 * verso destra se $a > 0$
 * verso sinistra se $a < 0$
 
-### Altri elementi caratteristici
+### Gli elementi caratteristici
 Se si conosce l'equazione di una parabola, posto $\Delta = b^2 - 4 ac$, si possono trovare il vertice, il fuoco, l'equazione dell'asse e della direttrice con queste formule:
 
 * per la parabola $y = a x^2 + bx + c$:
@@ -66,10 +66,51 @@ Se si conosce l'equazione di una parabola, posto $\Delta = b^2 - 4 ac$, si posso
     * asse $x = - \dfrac{b}{2a}$
     * direttrice $y = - \dfrac{1 + \Delta}{4a}$
 
-## Il grafico
-Per traccia il grafico di una parabola quando è nota
+§IMMAGINI§
 
+### Il grafico
+Per traccia il grafico di una parabola quando è nota la sua equazione è indispensabile trovare il vertice e le coordinate di qualche punto (non è necessario, anche se può essere utile, trovare le coordinate del fuoco e l'equazione dell'asse o della direttrice)
 
+### Le condizioni per determinare l'equazione di una parabola
+
+Per trovare l'equazione di una parabola sono necessarie e sufficienti tre informazioni indipendenti; in particolare:
+* se è noto il vertice $(x_0, \space y_0)$ è comodo usare la formula
+    * $y - y_0 = a(x - x_0) ^2$ se la parabola ha l'asse di simmetria parallelo all'asse $y$
+    * $x - x_0 = a(y - y_0) ^2$ se la parabola ha l'asse di simmetria parallelo all'asse $x$
+
+Serve poi un'altra informazione per determinare il parametro $a$.
+
+* se sono note  le coordinate di tre punti, basta sostituire tali coordinate nell'equazione generale della parabola e risolvere il sistema ottenuto
+
+### Rette e parabole
+Per determinare la **poizione di una retta rispetto a una parabola** si deve:
+* impostare il sistema retta-parabola
+* determinare l'equazione risolvente di secondo grado nella variabile $x$ (oppure $y$) a seconda del tipo di parabola
+* calcolare il discriminante $\Delta$ di questa equazione:
+    * se $\Delta > 0$ la retta è secante la parabola
+    * se $\Delta = 0$ la retta è tangente alla parabola
+    * se $\Delta < 0$ la retta non interseca la parabola
+
+§IMMAGINI§
+
+### Le rette tangenti
+Per trovare l'equazione della **retta tangente** a una parabola si deve calcolare il discriminante $\Delta$ dell'equazione risolvente il sistema retta-parabola e imporre che sia $\Delta = 0$
+In particolare, se la retta tangente deve passare per un punto $P(x_0, \space y_0)$ che appartiene alla parabola, oltre al metodo illustrato è possibile seguire anche queste procedure:
+* applicare le **formule di sdoppiamento** ponendo nell'equazione della parabola, a seconda della forma:
+    * $x_0 x$ al posto di $x^2$
+    * $y_0 y$ al posto di $y^2$
+    * $\dfrac{1}{2} (x_0 + x)$ al posto di $x$
+    * $\dfrac{1}{2} (y_0 + y)$ al posto di $y$
+* scrivere l'equazione della retta $y - y_0 = m(x - x_0)$ dove:
+    * $m = 2ax _0 + b$ se la parabole è del tipo $y = a x^2 + bx + c$
+    * $m = \dfrac{1}{2a y_0 + b}$ se la parabola è del tipo $x = a y^2 + 2y + c$
+
+### I fasci di parabole
+Se l'equazione di una parabola dipende da un parametro, si ha un **fascio di parabole**; ognuna di esse, salvo casi particolari, si ottiene attribuendo un particolare valore al parametro. Fra le parabole del fascio può essere compresa una retta che rappresenta la parabola degenere.
+Se due parabole del fascio si intersecano, anche tutte le altre si intersecano negli stessi punti che si dicono **punti base** del fascio; può quindi capitare che un fascio abbia:
+* due punti base
+* un solo punto base
+* nessun punto base 
 
 
 
