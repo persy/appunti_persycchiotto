@@ -21,7 +21,7 @@ MathJax.Hub.Config({
 });
 </script>
 <!-- script JSXGraph -->
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
 
 ## Le funzioni goniometriche
 
