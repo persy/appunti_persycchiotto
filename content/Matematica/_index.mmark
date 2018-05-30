@@ -6,17 +6,14 @@ draft: false
 ## Elenco sezioni
 
 ### [Algebra 1](1_algebra1)
-* **Insiemi e insiemi numerici**
-    * Insiemi e funzioni
-    * Insiemi *N* e *Z*
-    * Insiemi *Q* e *R*
-* **Il calcolo letterale**
-    * Monomi e polinomi
-    * La fattorizzazione dei polinomi
-    * Le frazioni algebriche
-* **Modelli lineari e problemi**
-    * Equazioni
-    * Disequazioni
+* Insiemi e funzioni
+* Insiemi *N* e *Z*
+* Insiemi *Q* e *R*
+* Monomi e polinomi
+* La fattorizzazione dei polinomi
+* Le frazioni algebriche
+* Equazioni
+* Disequazioni
 
 
 ### [Geometria 1](2_geometria1)
@@ -26,18 +23,14 @@ draft: false
 * Circonferenze e poligoni
 
 ### [Algebra 2](3_algebra2)
-* **Modelli lineari e radicali**
-    * I sistemi lineari
-    * I radicali
-* **Funzioni e grafici**
-    * Il piano cartesiano e la retta
-    * Luoghi di punti e funzioni
-* **Modelli di secondo grado**
-    * Le equazioni di secondo grado
-    * Le disequazioni di secondo grado
-* **Modelli non lineari**
-    * Equazioni di grado superiore al secondo e irrazionali
-    * Sistemi non lineari
+* I sistemi lineari
+* I radicali
+* Il piano cartesiano e la retta
+* Luoghi di punti e funzioni
+* Le equazioni di secondo grado
+* Le disequazioni di secondo grado
+* Equazioni di grado superiore al secondo e irrazionali
+* Sistemi non lineari
 
 ### [Geometria 2](4_geometria2)
 * L'equivalenza dei poligoni e il calcolo delle aree
