@@ -28,6 +28,7 @@ var txt = board.create('text', [-3, 10, function () {
 </script>
 <input type="button" onClick="alert('a = ' + (Math.log(A.Y()) / A.X()).toFixed(2))" value="Mostra il valore di a" />
 </div>
+
 <!--
 <script type="text/javascript">
 var addRandPoint = function(x) {
