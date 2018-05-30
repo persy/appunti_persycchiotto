@@ -5,10 +5,8 @@ weight: 7
 ---
 
 <!-- script MathJax -->
-
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   tex2jax: {
@@ -22,19 +20,74 @@ MathJax.Hub.Config({
   }
 });
 </script>
+<!-- script JSXGraph -->
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
 
+## Le funzioni goniometriche
 
-<!--
-Grafico interattivo funzioni goniometriche
--->
-<script type="text/javascript" charset="UTF-8"
- src="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js">
-</script>
-<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraph.css" />
+### Angoli e misure
+Gli nagoli si possono misurare in **gradi** oppure in **radianti**:
+* se $\alpha$ è un angolo al centro di una circonferenza di raggio $r$ che insiste su un arco $AB$:
 
 <div align="center">
-    <div id="box" class="jxgbox" style="width:500px; height:500px;">
-    </div>
+$\alpha \space \text{[in radianti]} \space = \dfrac{\text{lunghezza dell'arco} \space AB \space \text{rettificato}}{r}$
+</div>
+
+* se $x$ è la misura di $a$ in radianti e $y$ è quella in gradi, per passare da un sistema all'altro si usa la proporzione
+
+<div align="center">
+$\pi : x = 180 : y$
+</div>
+
+### Le funzioni goniomentriche
+Considerata la circonferenza goniometrica (avente centro nell'origine di un sistema di assi cartesiani ortogonali e raggio unitario) ed un angolo $\alpha$ avente vertice nell'origine e un lato coincidente con il semiasse positivo delle ascisse, si definisce:
+* $\sin \alpha$ l'ordinata del punto $P$
+* $\cos \alpha$ l'ascissa del punto $P$
+* $\tan \alpha$ l'ordinata del punto $Q$
+
+§IMMAGINE§
+
+La funzione $y = \sin x$ è periodica di periodo $2 \pi$ ed il suo grafico: 
+
+§IMMAGINE§
+
+La funzione $y = \cos x$ è periodica di periodo $2 \pi$ ed il suo grafico: 
+
+§IMMAGINE§
+
+La funzione $y = \tan x$ è periodica di periodo $\pi$ ed il suo grafico: 
+
+§IMMAGINE§
+
+### Le relazioni fondamentali
+Le relazioni fondamentali che legano le funzioni goniometriche sono:
+
+<div align="center">
+$\sin^2 \alpha + \cos^2 \alpha = 1$
+</div>
+<div align="center">
+$\tan \alpha = \dfrac{\sin \alpha}{\cos \alpha}$
+</div>
+
+Da esse si ricavano le formule di:
+* $\sin \alpha$ in funzione di $\cos \alpha$: $\sin \alpha = \pm \sqrt{1 - \cos^2 \alpha}$ 
+* $\sin \alpha$ in funzione di $\tan \alpha$: $\sin \alpha = \pm \dfrac{\tan \alpha}{\sqrt{1 + \tan^2 \alpha}}$
+* $\cos \alpha$ in funzione di $\sin \alpha$: $\sin \alpha = \pm \sqrt{1 - \sin^2 \alpha}$ 
+* $\cos \alpha$ in funzione di $\tan \alpha$: $\sin \alpha = \pm \dfrac{1}{\sqrt{1 + \tan^2 \alpha}}$
+
+La seconda relazione fondamentale consente poi di stabilire che il coefficiente angolare di una retta rappresenta la tangente dell'angolo $\alpha$ che essa forma con la direzione positiva dell'asse $x$: $m = \tan \alpha$.
+
+### Le cofunzioni
+Si definiscono poi le seguenti funzioni che prendono il nome di **cofunzioni goniometriche**:
+* $\sec \alpha = \dfrac{1}{\cos \alpha}$
+* $\csc \alpha = \dfrac{1}{\sin \alpha}$
+* $\cot \alpha = \dfrac{\cos \alpha}{\sin \alpha}$ ed è $\forall \alpha \neq k \dfrac{\pi}{2}$
+* $\cot \alpha = \dfrac{1}{\tan \alpha}$
+
+{{%expand "Mostra grafico interattivo delle funzioni e cofunzioni goniometriche" %}}
+<div align="center">
+<div id="box" class="jxgbox" style="width:500px; height:500px;">
+</div>
 <script type="text/javascript">
 var brd = JXG.JSXGraph.initBoard('box', {boundingbox: [-3, 3, 3, -3]});
 var ax = brd.create('line',[[0,0],[1,0]],{visible:false});
@@ -84,6 +137,61 @@ brd.create('text',[
         'sec'],{});
 </script>
 </div>
+{{% /expand%}}
+
+### Gli archi associati
+Gli angoli associati ad un angolo $\alpha$ sono quelli che hanno i valori delle funzioni goniometriche complessivamente uguali a quelli di $\alpha$. Per ricavare i valori del seno, del coseno e della tangente di tali angoli basta ricordare i seguenti disegni:
+
+§IMMAGINI§
+
+
+## Le formule
+### Formule di addizione
+* $\sin (\alpha \pm \beta) = \sin \alpha \cos \beta \pm \cos \alpha \sin \beta$
+* $\cos (\alpha \pm \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta$
+* $tan (\alpha \pm \beta) = \dfrac{\tan \alpha \pm \tan \beta}{1 \mp \tan \alpha \tan \beta}$
+
+### Formule di duplicazione
+* $\sin 2 \alpha = 2 \sin \alpha \cos \alpha$
+
+* $\cos 2 \alpha = \cos^2 \alpha - \sin^2 \alpha =  2 \cos^2 \alpha - 1 \leftrightarrow 1 - 2 \sin^2 \alpha$
+
+* $\tan 2 \alpha = \dfrac{2 \tan \alpha}{1 - \tan^2 \alpha}$
+
+### Formule di bisezione
+* $\sin{\dfrac{\alpha}{2}} = \pm \sqrt{\dfrac{1 - \cos \alpha}{2}}$
+* $\cos{\dfrac{\alpha}{2}} = \pm \sqrt{\dfrac{1 + \cos \alpha}{2}}$
+* $\tan{\dfrac{\alpha}{2}} = \dfrac{\sin \alpha}{1 + \cos \alpha} = \dfrac{1 - \cos \alpha}{\sin \alpha}$
+
+### Formule di parametriche
+$\forall \alpha \neq \pi + 2k \pi$:
+* $\sin \alpha = \dfrac{2 \tan{\dfrac{\alpha}{2}}}{1 + \tan^2{\dfrac{\alpha}{2}}}$
+* $\cos \alpha = \dfrac{1 - \tan^2{\dfrac{\alpha}{2}}}{1 + \tan^2{\dfrac{\alpha}{2}}}$
+* $\tan \alpha = \dfrac{2 \tan^2{\dfrac{\alpha}{2}}}{1 - \tan^2{\dfrac{\alpha}{2}}}$ 
+
+### Formule di prostaferesi
+* $\sin p + \sin q = 2 \sin \dfrac{p + q}{2} \cos \dfrac{p - q}{2}$
+* $\sin p - \sin q = 2 \cos \dfrac{p + q}{2} \sin \dfrac{p - q}{2}$
+* $\cos p + \cos q = 2 \cos \dfrac{p + q}{2} \cos \dfrac{p - q}{2}$
+* $\cos p - \cos q = 2 \sin \dfrac{p + q}{2} \sin \dfrac{p - q}{2}$
+
+### Formule di Werner
+* $\sin \alpha \sin \beta = \dfrac{1}{2} [\cos (\alpha - \beta) - \cos(\alpha + \beta)]$
+* $\cos \alpha \cos \beta = \dfrac{1}{2} [\cos (\alpha - \beta) + \cos(\alpha + \beta)]$
+* $\sin \alpha \cos \beta = \dfrac{1}{2} [\sin (\alpha - \beta) + \sin(\alpha + \beta)]$
+
+
+## La trigonometria
+
+
+## Le equazioni e le disequazioni goniometriche
+
+
+## I numeri complessi
+
+
+
+
 
 
 

@@ -20,17 +20,16 @@ MathJax.Hub.Config({
   }
 });
 </script>
-
-### Prova di grafici
-
-Grafico della funzione esponenziale $y = e^{ax}$
-
 <!-- script JSXGraph -->
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
-<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraph.css" />
 
+## Prova di grafici
+Grafico della funzione esponenziale $y = e^{ax}$
 
-{{%expand "Mostra" %}}
+### Primo grafico
+Testo prima del grafico
+
+{{%expand "Mostra grafico" %}}
 <div align="center">
 <div id="box1" class="jxgbox" style="width:500px; height:500px;"></div>
 <script type="text/javascript">
@@ -48,11 +47,12 @@ var txt = board.create('text', [-3, 10, function () {
 </div>
 {{% /expand%}}
 
-
----
+Testo dopo il grafico
 
 ### Altre cose
-Testo!
+Ancora altro testo $\vec v$
+
+http://jsxgraph.uni-bayreuth.de/wiki/index.php/Draggable_exponential_function
 
 <!--
 <script type="text/javascript">
