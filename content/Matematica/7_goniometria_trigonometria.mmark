@@ -23,3 +23,67 @@ MathJax.Hub.Config({
 });
 </script>
 
+
+<!--
+Grafico interattivo funzioni goniometriche
+-->
+<script type="text/javascript" charset="UTF-8"
+ src="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js">
+</script>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraph.css" />
+
+<div align="center">
+    <div id="box" class="jxgbox" style="width:500px; height:500px;">
+    </div>
+<script type="text/javascript">
+var brd = JXG.JSXGraph.initBoard('box', {boundingbox: [-3, 3, 3, -3]});
+var ax = brd.create('line',[[0,0],[1,0]],{visible:false});
+var ay = brd.create('line',[[0,0],[0,1]],{visible:false});
+var p0 = brd.create('point',[0,0],{fixed:true,visible:false});
+var p1 = brd.create('point',[1,0],{name:'',visible:false,fixed:true});
+var c = brd.create('circle',[p0,p1],{dash:2,strokeWidth:1,strokeOpacity:0.6});
+var p2 = brd.create('glider',[0.4,1.0,c],{name:'',withLabel:false});
+var p3 = brd.create('point',[function(){return p2.X();},0.0],{visible:false,name:'',withLabel:false});
+var p4 = brd.create('point',[0.0,function(){return p2.Y();}],{visible:false,name:'',withLabel:false});
+brd.create('line',[p0,p2],{straightFirst:false,straightLast:false,strokeColor:'black'});   // Hypotenuse
+brd.create('line',[p2,p3],{straightFirst:false,straightLast:false,strokeColor:'red'});     // sin
+brd.create('line',[p2,p4],{straightFirst:false,straightLast:false,strokeColor:'red'});     // cos
+var t = brd.create('tangent',[p2],{visible:false});
+var p5 = brd.create('intersection',[t,ax,0],{visible:false,name:'',withLabel:false});
+var p6 = brd.create('intersection',[t,ay,0],{visible:false,name:'',withLabel:false});
+brd.create('line',[p5,p6],{straightFirst:false,straightLast:false});    // tan + cot
+brd.create('line',[p0,p6],{straightFirst:false,straightLast:false,strokeColor:'green'});   // csc
+brd.create('line',[p0,p5],{straightFirst:false,straightLast:false,strokeColor:'green'});   // sec
+brd.create('text',[
+        function(){return (p0.X()+p2.X())*0.5;},
+        function(){return (p0.Y()+p2.Y())*0.5;},
+        '1'],{});
+brd.create('text',[
+        function(){return (p2.X()+p4.X())*0.3;},
+        function(){return (p2.Y()+p4.Y())*0.5;},
+        'cos'],{});
+brd.create('text',[
+        function(){return (p2.X()+p3.X())*0.5;},
+        function(){return (p2.Y()+p3.Y())*0.5;},
+        'sin'],{});
+brd.create('text',[
+        function(){return 0.1+(p2.X()+p5.X())*0.5;},
+        function(){return 0.1+(p2.Y()+p5.Y())*0.5;},
+        'tan'],{});
+brd.create('text',[
+        function(){return 0.1+(p2.X()+p6.X())*0.5;},
+        function(){return 0.1+(p2.Y()+p6.Y())*0.5;},
+        'cot'],{});
+brd.create('text',[
+        function(){return -0.2+(p0.X()+p6.X())*0.5;},
+        function(){return (p0.Y()+p6.Y())*0.5;},
+        'csc'],{});
+brd.create('text',[
+        function(){return (p0.X()+p5.X())*0.5;},
+        function(){return (p0.Y()+p5.Y())*0.5;},
+        'sec'],{});
+</script>
+</div>
+
+
+

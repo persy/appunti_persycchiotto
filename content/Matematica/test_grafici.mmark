@@ -4,16 +4,35 @@ draft: false
 weight: 99
 ---
 
-## Prova di grafici
+<!-- script MathJax -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','$']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
 
+### Prova di grafici
 
-<script type="text/javascript" charset="UTF-8"
- src="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
+Grafico della funzione esponenziale $y = e^{ax}$
+
+<!-- script JSXGraph -->
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
 <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraph.css" />
 
+
+{{%expand "Mostra" %}}
 <div align="center">
 <div id="box1" class="jxgbox" style="width:500px; height:500px;"></div>
-
 <script type="text/javascript">
 var board = JXG.JSXGraph.initBoard('box1', {boundingbox: [-5, 20, 5, -2], axis:true});
 var A = board.create('point', [1, Math.exp(1)]);
@@ -26,8 +45,14 @@ var txt = board.create('text', [-3, 10, function () {
            return "a = " + (Math.log(A.Y()) / A.X()).toFixed(2);
           }], {fontSize: 16});
 </script>
-<input type="button" onClick="alert('a = ' + (Math.log(A.Y()) / A.X()).toFixed(2))" value="Mostra il valore di a" />
 </div>
+{{% /expand%}}
+
+
+---
+
+### Altre cose
+Testo!
 
 <!--
 <script type="text/javascript">
