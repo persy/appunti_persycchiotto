@@ -23,11 +23,26 @@ MathJax.Hub.Config({
 });
 </script>
 
+
+
+
+
+
 ## La funzione esponenziale e la funzione logaritmica
+
+
 
 ### La funzione esponenziale
 
 La funzione $y = a^x$ (con $a > 0 \space \wedge \space a \neq 1$) si chiama **funzione esponenziale** ed è definita $\forall x \in \mathbb{R}$; il suo grafico è una funzione crescente se $a > 1$, decrescente se $0 < a < 1$; in ogni caso tutte le funzioni esponenziali passano per il punto di coordinate $(0, \space 1)$.
+Data la curva esponenziale di equazione $y = a^x$
+* la sua simmetrica rispetto all'asse delle ordinate ha equazione $y = a^{-x}$
+* la sua simmetrica rispetto all'asse delle ascisse ha equazione $y = - a^{x}$
+* la sua corrispondente nella translazione di vettore $\vec{v} (h, \space k)$ ha equazione $y - k = a^{x-h}$
+* la sua corrispondente nella dilatazione di fattori $h$ e $k$ ha equazione $y = k \cdot a^{\frac{x}{k}}$
+
+§IMMAGINE§
+
 
 
 ### La definizione di logaritmo
