@@ -1,5 +1,5 @@
 ---
-title: "Goniometria e trigonometria"
+title: "Goniometria"
 draft: false
 weight: 7
 ---
@@ -23,11 +23,12 @@ MathJax.Hub.Config({
 <!-- script JSXGraph -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
 
-## Le funzioni goniometriche
 
+## Le funzioni goniometriche
 ### Angoli e misure
-Gli nagoli si possono misurare in **gradi** oppure in **radianti**:
+Gli angoli si possono misurare in **gradi** oppure in **radianti**:
 * se $\alpha$ è un angolo al centro di una circonferenza di raggio $r$ che insiste su un arco $AB$:
+
 
 <div align="center">
 $\alpha \space \text{[in radianti]} \space = \dfrac{\text{lunghezza dell'arco} \space AB \space \text{rettificato}}{r}$
@@ -65,6 +66,7 @@ Le relazioni fondamentali che legano le funzioni goniometriche sono:
 <div align="center">
 $\sin^2 \alpha + \cos^2 \alpha = 1$
 </div>
+
 <div align="center">
 $\tan \alpha = \dfrac{\sin \alpha}{\cos \alpha}$
 </div>
@@ -83,6 +85,7 @@ Si definiscono poi le seguenti funzioni che prendono il nome di **cofunzioni gon
 * $\csc \alpha = \dfrac{1}{\sin \alpha}$
 * $\cot \alpha = \dfrac{\cos \alpha}{\sin \alpha}$ ed è $\forall \alpha \neq k \dfrac{\pi}{2}$
 * $\cot \alpha = \dfrac{1}{\tan \alpha}$
+        
 
 {{%expand "Mostra grafico interattivo delle funzioni e cofunzioni goniometriche" %}}
 <div align="center">
@@ -142,6 +145,9 @@ brd.create('text',[
 ### Gli archi associati
 Gli angoli associati ad un angolo $\alpha$ sono quelli che hanno i valori delle funzioni goniometriche complessivamente uguali a quelli di $\alpha$. Per ricavare i valori del seno, del coseno e della tangente di tali angoli basta ricordare i seguenti disegni:
 
+* Primo
+        * secondo
+
 §IMMAGINI§
 
 
@@ -183,15 +189,55 @@ $\forall \alpha \neq \pi + 2k \pi$:
 
 ## La trigonometria
 
+### I triangoli rettangoli
+I triangoli rettangoli godono delle proprietà enunciate dai seguenti teoremi:
+* **Primo Teorema**. In ogni triangolo rettangolo la misura di un cateto è uguale al prodotto della misura dell'ipotenusa per
+     * il seno dell'angolo opposto: $b = a \sin \beta$ e $c = a \sin \gamma$
+     * il coseno dell'angolo adiacente: $b = a \cos \gamma$ e $c = a \cos \beta$
+        
+* **Secondo teorema**. In ogni triangolo rettangolo la misura di un cateto è uguale al prodotto della misura dell'altro cateto per
+    * la tangente dell'angolo opposto: $b = c \tan \beta$ e $c = b \tan \gamma$
+    * la cotangente dell'angolo adiacente: $b = c \cot \gamma$ e $c = b \cot \beta$
+
+§IMMAGINE§
+
+### L'area di un triangolo e il teorema della corda
+Le conseguenze immediate dei due precedenti teoremi sono le seguenti:
+* l'area di un triangolo qualsiasi si può trovare calcolando il semiprodotto della misura di due lati per il seno dell'angolo fra essi compreso:
+
+<div align="center">
+$\text{area}  = \dfrac{1}{2} ab \sin \gamma$
+</div>
+
+* la misura di una corda $AB$ di una circonferenza di raggio $r$ è uguale al prodotto del diametro per il seno di uno qualsiasi degli angoli alla circonferenza $a$ che insistono sulla corda:
+
+<div align="center">
+$\overline{AB} = 2r \sin \alpha$
+</div>
+
+§IMMAGINE§
+
+### I triangoli qualunque
+Per i triangoli di qualsiasi tipo valgono i seguenti teoremi:
+* **Teorema dei seni**: 
+
+<div align="center">
+$\dfrac{a}{\sin \alpha} = \dfrac{b}{\sin \beta} = \dfrac{c}{\sin \gamma}$
+</div>
+
+* **Teorema di Carnot**:
+
+<div align="center">
+$a^2 = b^2 + c^2 - 2bc \cos \alpha$
+</div>
+
+<div align="center">
+$b^2 = b^2 + c^2 - 2bc \cos \beta$
+</div>
+
+<div align="center">
+$c^2 = a^2 + b^2 - 2ab \cos \gamma$
+</div>
 
 ## Le equazioni e le disequazioni goniometriche
-
-
-## I numeri complessi
-
-
-
-
-
-
 
