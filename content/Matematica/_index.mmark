@@ -53,14 +53,15 @@ draft: false
 * Le formule
 * La trigonometria
 * Le equazioni e le disequazioni goniometriche
-* I numeri complessi
 
-### [Funzioni, successioni e limite](8_funz_succ_lim)
+### [I numeri complessi](8_complessi)
+
+### [Funzioni, successioni e limite](9_funz_succ_lim)
 * Insiemi numerici e funzioni
 * Funzioni e limiti
 * Funzioni e continuità
 
-### [Analisi](9_analisi)
+### [Analisi](10_analisi)
 * Funzioni e derivate
 * I teoremi sulle funzioni derivabili
 * Punti estremanti e punti di inflessione
@@ -68,10 +69,10 @@ draft: false
 * Gli integrali
 * Problemi di approssimazione
 
-### [Le funzioni nello spazio](10_funzioni_spazio)
+### [Le funzioni nello spazio](11_funzioni_spazio)
 * Le funzioni di due variabili
 
-### [Geometria dello spazio, analisi e analisi numerica](11_geomspaz_analisi_num)
+### [Geometria dello spazio, analisi e analisi numerica](12_geomspaz_analisi_num)
 * La geometria euclidea nello spazio
 * Analisi: massimi e minimi, integrali
 * Integrazione numerica
