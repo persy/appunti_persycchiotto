@@ -145,8 +145,6 @@ brd.create('text',[
 ### Gli archi associati
 Gli angoli associati ad un angolo $\alpha$ sono quelli che hanno i valori delle funzioni goniometriche complessivamente uguali a quelli di $\alpha$. Per ricavare i valori del seno, del coseno e della tangente di tali angoli basta ricordare i seguenti disegni:
 
-* Primo
-        * secondo
 
 §IMMAGINI§
 
@@ -241,3 +239,75 @@ $c^2 = a^2 + b^2 - 2ab \cos \gamma$
 
 ## Le equazioni e le disequazioni goniometriche
 
+### Le funzioni goniometriche inverse
+Le funzioni inverse della goniometriche fondamentali sono:
+* $y = \arcsin x$ definita in $[ -1, \space 1]$ con codominio $\left [ - \dfrac{\pi}{2}, \space \dfrac{\pi}{2} \right ]$
+* $y = \arccos x$ definita in $[ -1, \space 1]$ con codominio $[0, \space \pi]$
+* $y = \arctan x$ definita in $[ - \infty, \space + \infty]$ con codominio $\left ( - \dfrac{\pi}{2}, \space \dfrac{\pi}{2} \right )$
+
+Accanto a queste ricordiamo anche l'inversa della funzione cotangente:
+* $y = \textrm{arccot} \space x$ definita in $[ - \infty, \space + \infty]$ con codominio $(0, \space \pi)$
+
+### Equazioni di tipo elementare
+In generale, un'equazione goniometrica si può sempre ricondurre alla risoluzione di una o più **equazioni elementari** della forma:
+* $\sin x = a$ con $-1 \leq a \leq 1$
+* $\cos x = b$ con $-1 \leq b \leq 1$
+* $\tan x = c$ con $c \in \mathbb{R}$
+
+Ciascuna di queste equazioni ha infinite soluzioni che differiscono fra loro per il periodo della funzione; tenendo presente l'intervallo di inversione delle funzioni goniometriche e indicando con $\alpha$ l'angolo appartenente a tale intervallo, le soluzioni si possono scrivere nei seguenti modi:
+* $\sin x = a$ se $\alpha = \arcsin a: \space x = \alpha + 2k \pi \space \vee \space x = (\pi - \alpha) + 2k \pi$
+* $\cos x = b$ se $\alpha = \arccos b: \space x = \alpha + 2k \pi \space \vee \space x = - \alpha + 2k \pi$
+* $\tan x = c$ se $\alpha = \arctan c: \space x = \alpha + k \pi$
+
+### Equazioni che prevedono il confronto di funzioni goniometriche
+* $\sin [f(x)] = \sin [g(x)]$ è equivalente a $f(x) = g(x) + 2k \pi \space \vee \space f(x) + g(x) = \pi + 2k \pi$
+* $\cos [f(x)] = \cos [g(x)]$ è equivalente a $f(x) = g(x) + 2k \pi \space \vee \space f(x) + g(x) = \pi + 2k \pi$
+* $\tan [f(x)] = \tan [g(x)]$ è equivalente a $f(x) = g(x) + k \pi$
+
+### Equazioni lineari
+Un'equazione lineare assume la forma: $a \sin x + b \cos x + c = 0$
+* Se $c = 0$, e solo in questo caso, si può dividere per $\cos x$ ottenendo l'equazione elementare equivalente: $a \tan x + b = 0$
+* Se $c \neq 0$ si possono seguire diversi metodi:
+    * usare le formule parametriche verificando preventivamente se $x = \pi + 2k \pi$ è soluzione dell'equazione
+    * utilizzare il metodo del sistema associato all'equazione l'identità $\sin x^2 x + \cos^2 x = 1$:
+
+    <div align="center">
+    $\begin{cases} a \sin x + b \cos x + c = 0 \\ \sin x^2 x + \cos^2 x = 1 \end{cases}$
+    </div>
+
+    * utilizzare il medodo grafico ponendo nel precedente sistema $sin x = Y$ e $\cos x = X$:
+
+    <div align="center">
+    $\begin{cases} a Y + b X + c = 0 \\ X^2 + Y  = 1 \end{cases}$
+    </div>
+
+    Le soluzioni sono rappresentate dalle intersezioni della circonferenza avente centro nell'origine e raggio $1$ con la retta di equazione $a Y + b X + c = 0$.
+
+### Equazioni omogenee
+Un'equazione omogenea di secondo grado ha la forma: $a \sin^2 x + b \sin x \cos x + c \cos^2 x = 0$
+
+Per risolverla si divide per $cos^2 x$ ottenendo l'equazione equivalente $a \tan^2 x + b tan x + c = 0$
+
+Questo metodo **non si può applicare** se $a = 0$ perché vengono eliminate delle soluzioni; in questo caso l'equazione diventa $b \sin x \cos x + c \cos^2 x = 0$ e si può: 
+* raccogliere $\cos x$; quindi $\cos x (b \sin x + c cos x) = 0$
+* dividere per $\sin^2 x$ se $c \neq 0$: $b \cot x + c \cot^2 x = 0$
+
+L'equazione $a \sin^2 x + b \sin x \cos x + c \cos^2 x = d$ si trasforma in un'omogenea moltiplicando $d$ per $1$ cioè per $\sin x^2 x + \cos^2 x$:
+
+$a \sin^2 x + b \sin x \cos x + c \cos^2 x = d(\sin x^2 x + \cos^2 x)$
+
+### Disequazioni elementari
+Per risolvere una **disequazione elementare** in una delle forme $\sin x \lessgtr k$, $\cos x \lessgtr k$ o $\tan x \lessgtr k$, si ricorre alla circonferenza goniometrica individuando gli archi per i quali la funzione al primo membro soddisfa la disequazione.
+
+§IMMAGINI§
+
+### Disequazioni frazionarie e sistemi
+Per risolvere una disequazione goniometrica frazionaria oppure un sistema di disequazionigoniometriche si usano gli stessi metodi applicati per le analoghe disequazioni algebriche. È però conveniente usare delle tabelle circolari al posto di quelle lineari
+
+### Disequazioni lineari
+Per risolvere una **disequazione lineare** si possono usare gli stessi metodi utilizzati per la risoluzione delle analoghe equazioni; in particolare il motodo grafico risulta spesso più conveniente.
+
+Occorre poi fare attenzione alle disequazioni in cui non c'è il termine noto, che assumono quindi la forma $a \sin x + b \cos x \lessgtr 0$ perché in questo caso **non si può dividere per $\cos x$** senza ulteriori analisi del suo segno.
+
+### Disequazioni omogenee
+Per risolvere una **disequazione omogenea** di secondo grado si divide per $\cos^2 x$ e si risolve la corrispondente disequazione di secondo grado in tangente. Occorre però verificare se $\dfrac{\pi}{2} + k \pi$ fa parte dell'insieme delle soluzioni.
