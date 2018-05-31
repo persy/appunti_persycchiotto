@@ -1,0 +1,99 @@
+---
+title: "Funzioni, successioni e limite"
+draft: false
+weight: 9
+---
+
+<!-- script MathJax -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','$']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+<!-- script JSXGraph -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
+
+## Insiemi numerici e funzioni
+### Gli insiemi di numeri reali
+Un insieme $\mathbb{E}$ di numeri reali si dice:
+* **limitato superiormente** se esiste un numero $k$, non necessariamente appartenente a $E$, che è maggiore di tutti gli elementi di $E$
+* **limitato inferiormente** se esiste un numero $h$, non necessariamente appartenente a $E$, che è minore di tutti gli elementi di $E$
+
+Un insieme che è limitato sia inferiormente che superiormente si dice semplicemente **limitato**.
+* L'**estremo inferiore** di un insieme $E$ è il più grande dei numeri $h$ e, se appartiene all'insieme, è il **minimo** di $E$
+* L'**estremo superiore** di un insieme $E$ è il più piccolo dei numeri $k$ e, se appartiene all'insieme, è il **massimo** di $E$
+
+### Intervalli, intorni e punti di accumulazione
+Si chiama **intervello** un qualunque insieme di numeri reali compresi fra altri due $a$ e $b$, dove $a$ o $b$ possono essere finiti o infiniti. In particolare:
+* $(a, \space b)$ è un intervallo aperto che corrisponde all'insieme degli $x$ tali che $a < x < b$
+* $[a, \space b]$ è un intervallo chiuso che corrisponde all'insieme degli $x$ tali che $a \leq x \leq b$
+
+In pratica, la parentesi tonda indica che l'estremo dell'intervallo non appartiene all'insieme, la parentesi quadra indica che gli appartiene; sui simboli di $\infty$ si usa solo la parentesi tonda.
+
+**Intorno** di un punto $x_0$ è ogni intervallo aperto che contiene $x_0$ al suo interno; intorno di $ + \infty$ è un qualunque intervallo del tipo $(a, \space + \infty)$, intorno di $ - \infty$ è un qualunque intervallo del tipo $( - \infty, \space b)$, intorno di infinito è l'unione di un intorno $ + \infty$ con un intorno $ - \infty$.
+
+Un punto $x_0$ si dice di **accumulazione** per un insieme $E$ se ogni intorno di $x_0$ contiene infiniti punti di $E$.
+
+### Funzioni
+
+
+### Monotonia e periodicità di una funzione
+
+
+
+
+
+## Funzioni e limiti
+### Le definizioni di limite
+
+
+### Gli asintoti
+
+
+### Teoremi sui limiti
+
+
+### Le forme di indeterminazione
+
+
+### I limiti notevoli
+
+
+### Infiniti e infinitesimi
+
+
+### Le successioni
+
+
+### Il comportamento di una successione
+
+
+
+
+
+## Funzioni e continuità
+### Le funzioni continue e i criteri per la continuità
+
+
+### I punti di discontinuità
+
+
+### Le proprietà delle funzioni continue
+
+
+### Gli asintoti di una funzione
+
+
+### Il grafico probabile
+
+
