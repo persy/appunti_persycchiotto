@@ -274,7 +274,8 @@ ctx.stroke();
 </script>
 -->
 
+* mediante il suo termine generale $a_0$ espresso in funzione di $n$
+* mediante una formula ricorsiva definita in questo modo:
+    * $a_0$ è valore del primo termine della successione;
 
-Primo testo
-* primo primo
-    * secondo secondo
+    * $a_n$ è regola che esprime $a_0$ in funzione di $a _{n-1}$;

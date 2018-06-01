@@ -45,40 +45,128 @@ In pratica, la parentesi tonda indica che l'estremo dell'intervallo non appartie
 Un punto $x_0$ si dice di **accumulazione** per un insieme $E$ se ogni intorno di $x_0$ contiene infiniti punti di $E$.
 
 ### Funzioni
+Una **funzione** è una corrispondenza univoca fra un insieme $D$ di elementi $x$ ed un insieme $E$ di elementi $y$, cioè una legge che ad ogni elementi di $D$ associa uno e un solo elemento di $E$.
 
+Se $D$ ed $E$ sono insieme numerici, la legge che $y$ ad $x$ su può esprimere mediante una relazione algebrica nella forma $y = f(x)$.
+
+L'elemento $y$ che corrisponde ad un particolare $x$ si dice **immagine** di $x$; l'insieme delle immagini è il **codominio** della funzione.
+
+Ogni elemento $x$ che resta associato ad un elemento $y$ si dice **controimmagine**; l'insieme delle controimmagini rappresenta l'**insieme di definizione** della funzione.
+
+Una funzione $f: \space D \to E$ si dice:
+* **surietiva** se $f(D) = E$
+* **iniettiva** se a elementi distinti in $D$ corrispondono elementi distinti in $E$
+* **biiettiva** se è iniettiva e suriettiva
+
+Le funzioni biiettive sono corrispondenze biunivoche e sono le sole funzioni invertibili
+
+Se una funzione $f(x)$ è definita in un punto $x_0$ e si verifica che:
+* $f(x_0) \geq f(x)$ per ogni $x$ del dominio, allora si dice che $x_0$ è un **punto di massimo assoluto** e che $f(x_0)$ è il massimo assoluto della funzione
+* $f(x_0) \leq f(x)$ per ogni $x$ del dominio, allora si dice che $x_0$ è un **punto di minimo assoluto** e che $f(x_0)$ è il minimo assoluto della funzione
 
 ### Monotonia e periodicità di una funzione
-
-
-
+Una funzione $f(x)$ di dominio $D$ è:
+* **monotòna crescente** in un intervallo $I \subseteq D$ se $\forall x_1, \space x_2 \in I$ con $x_1 < x_2$ si ha che $f(x_1) < f(x_2)$. Se in quest'ultima relazione vale anche il segno di uguaglianza, cioè se $f(x_1) \leq f(x_2)$, allora la funzione monotòna non descrescente, cioè in pratica cresce o tutt'al più si mantiene costante, ma non descresce mai
+* **monotòna decrescente** in un intervallo $I \subseteq D$ se $\forall x_1, \space x_2 \in I$ con $x_1 < x_2$ si ha che $f(x_1) > f(x_2)$. Se in quest'ultima relazione vale anche il segno di uguaglianza, cioè se $f(x_1) \geq f(x_2)$, allora la funzione monotòna non crescente, cioè in pratica decresce o tutt'al più si mantiene costante, ma non cresce mai
+* **pari** se $f( - x) = f(x)$ ed allora il suo grafico presenta una simmetria rispetto all'asse $y$
+* **dispari** se $f(x) = - f(x)$ ed allora il suo grafico presenta una simmetria rispetto all'origine
+* **periodica** di periodo $k$ se $f(x + k) = f(x)$, in particolare:
+  * $\sin kx$ e $\cos kx$ sono periodiche di periodo $\dfrac{2 \pi}{k}$
+  * $\tan kx$ e $\cot kx$ sono periodiche di periodo $\dfrac{\pi}{k}$
 
 
 ## Funzioni e limiti
 ### Le definizioni di limite
+Una funzione ha per limite un numero $l$ finito per $x \to c$ (con $c$ finito o infinito) se la disequazione $|f(x) - l | < \varepsilon$ ha fra le sue soluzioni un intorno di $c$.
+
+Una funzione ha per limite $\infty$ per $x \to c$ (con $c$ finito o infinito) se la disequazione $|f(x)| > M$ è verificata in un intorno di $c$.
 
 
 ### Gli asintoti
+Una funzione $f(x)$ possiede:
+* **asintoto orizzontale** di equazione $y = l$ se $\lim\limits_{x \to \infty} f(x) = l$
+* **asintoto verticale** di equazione $x = c$ se $\lim\limits_{x \to c} f(x) = \infty$
 
 
 ### Teoremi sui limiti
-
+Se $\lim\limits_{x \to c} f(x) = l$ e $\lim\limits_{x \to c} g(x) = l'$ e $l$ e $l'$ sono due valori finiti, allora:
+* $\lim\limits_{x \to c} [f(x) \pm g(x)] = l \pm l'$
+* $\lim\limits_{x \to c} [f(x) \cdot g(x)] = l \cdot l'$
+* $\lim\limits_{x \to c} k \cdot f(x) = k \cdot f(x)$ con $k \in \mathbb{R}$
+* $\lim\limits_{x \to c} [f(x)] ^n = l^n$
+* $\lim\limits_{x \to c} \dfrac{f(x)}{g(x)} = \dfrac{l}{l'}$ se $l' \neq 0$
 
 ### Le forme di indeterminazione
+Nel calcolo di un limite, generalmente quando $c$ è infinito oppure i limiti $l$ e $l'$ sono nulli, si può giungere a quelle si chiamano **forme di indeterminazione** che sono:
+* $( + \infty) - (+ \infty)$
+* $( + \infty) + (- \infty)$
+* $0 \cdot (\pm \infty)$
+* $\dfrac{\pm \infty}{\pm \infty}$
+* $\dfrac{0}{0}$
+* $1^{\pm \infty}$
+* $0^0$
+* $(\pm \infty) ^0$
 
+Per risolvere alcune di queste forme occorre tenere presenti queste regole:
+* il limite per $x \to \infty$ di un polinomio è uguale al limite del termine di grado massimo:
+
+<div align="center">
+$\lim\limits_{x \to \infty} (a_0 x^n + a_1 x^{n - 1} + ... + a_{n - 1} x + a_n) = \lim\limits_{x \to \infty} a_0 x^n$
+</div>
+
+* il limite per $x \to \infty$ del rapporto fra due polinomi è uguale al limite del rapporto fra i termini di grado massimo:
+
+<div align="center">
+$\lim\limits_{x \to \infty} \dfrac{a_0 x^k + ... + a_k}{b_0 x^h + ... + b_h} = \lim\limits_{x \to \infty} \dfrac{a_0 x^k}{b_0 x^h}$
+</div>
+
+  e si ha che:
+  * se $k > h$ il limite vale $\infty$
+  * se $k = h$ il limite vale $\dfrac{a_0}{b_0}$
+  * se $k < h$ il limite vale $0$
+
+* se $\lim\limits_{x \to c} \dfrac{A(x)}{B(x)}$ si presenta nella forma $\dfrac{0}{0}$, si semplifica la frazione scomponendo i polinomi $A(x)$ e $B(x)$ e si calcola il limite della funzione che si ottiene
+* se $\lim\limits_{x \to \infty} (\sqrt{A(x)} \pm \sqrt{B(x)})$ si presenta nella forma $\infty - \infty$, si moltiplica e si divide per $(\sqrt{A(x)} \mp \sqrt{B(x)})$ e si calcola il limite della funzione che si ottiene.
 
 ### I limiti notevoli
-
+Valgono i seguenti limiti notevoli:
+* $\lim\limits_{x \to 0} \dfrac{\sin x}{x} = 1$ e $\lim\limits_{x \to c} \dfrac{\sin f(x)}{f(x)} = 1$ quando $f(x) \to 0$ per $x \to c$
+* $\lim\limits_{x \to \infty} \left ( 1 + \dfrac{1}{x} \right) ^x = e$ e $\lim\limits_{x \to c} \left ( 1 + \dfrac{1}{f(x)} \right) ^f(x) = e$ quando $f(x) \to \infty$ per $x \to c$
 
 ### Infiniti e infinitesimi
+Si dice che:
+* la funzione $y = f(x)$ è un **infinitesimo** per $x \to c$ se $\lim\limits_{x \to c} f(x) = 0$
+* la funzione $y = f(x)$ è un **infinito** per $x \to c$ se $\lim\limits_{x \to c} f(x) = \infty$
 
+Di due funzioni $f(x)$ e $g(x)$ entrambe infinitesime per $x \to c$ diciamo che:
+* $f(x)$ è di ordine superiore a $g(x)$ se $\lim\limits_{x \to c} \dfrac{f(x)}{g(x)} = 0$
+* $f(x)$ è dello stesso ordine di $g(x)$ se $\lim\limits_{x \to c} \dfrac{f(x)}{g(x)} = l \neq 0$
+* $f(x)$ è di ordine inferiore a $g(x)$ se $\lim\limits_{x \to c} \dfrac{f(x)}{g(x)} = \infty$
+
+Di due funzioni $f(x)$ e $g(x)$ entrambe infinite per $x \to c$ diciamo che:
+* $f(x)$ è di ordine superiore a $g(x)$ se $\lim\limits_{x \to c} \dfrac{f(x)}{g(x)} = \infty$
+* $f(x)$ è dello stesso ordine di $g(x)$ se $\lim\limits_{x \to c} \dfrac{f(x)}{g(x)} = l \neq 0$
+* $f(x)$ è di ordine inferiore a $g(x)$ se $\lim\limits_{x \to c} \dfrac{f(x)}{g(x)} = 0$
 
 ### Le successioni
+Una **successione** è una funzione che ha come dominio l'insieme $\mathbb{N}$ dei numeri naturali. I suoi termini si possono rappresentare:
 
+* mediante il suo termine generale $a_0$ espresso in funzione di $n$
+* mediante una formula ricorsiva definita in questo modo:
+  * $a_0$ è valore del primo termine della successione
+
+  * $a_n$ è regola che esprime $a_0$ in funzione di $a _{n-1}$
 
 ### Il comportamento di una successione
+Una successione può essere:
 
+* **convergente** se $\lim\limits _{n \to + \infty} a_n = l$ cioè se $\forall \varepsilon > 0$ esiste un indice $\nu$ tale che $\forall n > \nu$ sia $|a_n - l| < \varepsilon$
 
+* **divergente** se $\lim\limits _{n \to + \infty} a_n = + \infty$  $\lim\limits _{n \to + \infty} a_n = - \infty$ cioè se, $\forall M > 0$, esiste un indice $\nu$ tale che $\forall n > \nu$ sia rispettivamente $a_n > M$ o $a_n < - M$
 
+* **irregolare** se né converge né diverge
+
+Per il calcolo del limite di una successione valgono teoremi analoghi a quelli per i limiti delle funzioni di numeri reali.
 
 
 ## Funzioni e continuità
