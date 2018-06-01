@@ -131,7 +131,7 @@ $\lim\limits_{x \to \infty} \dfrac{a_0 x^k + ... + a_k}{b_0 x^h + ... + b_h} = \
 ### I limiti notevoli
 Valgono i seguenti limiti notevoli:
 * $\lim\limits_{x \to 0} \dfrac{\sin x}{x} = 1$ e $\lim\limits_{x \to c} \dfrac{\sin f(x)}{f(x)} = 1$ quando $f(x) \to 0$ per $x \to c$
-* $\lim\limits_{x \to \infty} \left ( 1 + \dfrac{1}{x} \right) ^x = e$ e $\lim\limits_{x \to c} \left ( 1 + \dfrac{1}{f(x)} \right) ^f(x) = e$ quando $f(x) \to \infty$ per $x \to c$
+* $\lim\limits_{x \to \infty} \left ( 1 + \dfrac{1}{x} \right) ^x = e$ e $\lim\limits_{x \to c} \left ( 1 + \dfrac{1}{f(x)} \right) ^{f(x)} = e$ quando $f(x) \to \infty$ per $x \to c$
 
 ### Infiniti e infinitesimi
 Si dice che:
@@ -171,17 +171,67 @@ Per il calcolo del limite di una successione valgono teoremi analoghi a quelli p
 
 ## Funzioni e continuità
 ### Le funzioni continue e i criteri per la continuità
+Una funzione $f(x)$ definita in un insieme $D$ è **continua** in un punto $x_0 \in D$ e di accumulazione per $D$ se $\lim\limits _{x \to x_0} f(x) = f(x_0)$
 
+Quindi per vedere se una funzione è continua in $x_0$ si deve:
+* calcolare $f(x_0)$
+* calcolare $\lim\limits _{x \to x_0} f(x)$
+* verificare che i due valori trovati coincidano
+
+Se due funzioni $f(x)$ e $g(x)$ sono continue nel punto $x_0$ allora sono continue in $x_0$ anche le funzioni:
+* $- f(x)$ e $|f(x)|$
+* $f(x) \pm g(x)$
+* $f(x) \cdot g(x)$ e in particolare $k f(x)$ e $[f(x)] ^n$
+* $\dfrac{f(x)}{g(x)}$ e in particolare $\dfrac{1}{g(x)}$ se $g(x_0) \neq 0$
 
 ### I punti di discontinuità
+Se una funzione non è continua un un punto $x_0$ si dice $x_0$ è un **punto di discontinuità** o anche che è un **punto singolare**.
 
+I punti di discontinuità si possono classificare con il seguente criterio:
+* discontinuità di **prima specie** se il limite sinistro e il limite destro sono finiti ma diversi:
+
+<div align="center">
+$\lim\limits _{x \to x_0 ^-} f(x) = l_1 \space \wedge \space \lim\limits _{x \to x_0 ^+} f(x) = l_2$ con $l_1 \neq l_2$
+</div>
+
+* discontinuità di **seconda specie** se almeno uno dei due limiti dalla sinistra o dalla destra è infinito o non esiste:
+
+<div align="center">
+$\lim\limits _{x \to x_0 ^-} f(x) = \infty \space \vee \space \lim\limits _{x \to x_0 ^+} f(x) = \infty \space \vee \space \nexists \lim\limits _{x \to x_0 ^\pm} f(x)$
+</div>
+
+* discontinuità di **terza specie** o **eliminabile** se esiste finito il limite per $x \to x_0$ ma tale valore è diverso da quello assunto dalla funzione o se la funzione non esiste in $x_0$:
+
+<div align="center">
+$\lim\limits _{x \to x_0} f(x) \neq f(x_0)$ oppure $\lim\limits _{x \to x_0} f(x) = l \space \wedge \space \nexists f(x_0)$
+</div>
 
 ### Le proprietà delle funzioni continue
+Le proprietà delle funzioni continue sono elencate dai seguenti teoremi:
+* **permanenza del segno**: se una funzione è continua in un punto $x_0$ e $f(x_0) \neq 0$, esiste un intorno di tale punto in cui la funzione assume lo stesso segno di $f(x)$
+* **esistenza degli zeri**: se una funzione $f(x)$ è continua in un intervallo $[ a, \space b ]$ e se $f(a)$ e $f(b)$ hanno segno opposto, allora esiste almeno un punto interno ad $[ a, \space b ]$ in cui la funzione si annulla
+* **di Weierstrass**: se una funzione $f(x)$ è continua in un intervallo $[ a, \space b ]$, essa è limitata in tale intervallo ed esiste almeno un punto in cui assume il valore massimo ed almeno un punto in cui assume il valore minimo
+* **di Bolzano-Darboux**: se una funzione $f(x)$ è continua in un intervallo chiuso e limitato $[ a, \space b ]$ e se $x_1$ e $x_2$ sono due punti di tale intervallo tali che $f(x_1) \neq f(x_2)$, allora la funzione assume almeno una volta tutti i valori compresi fra $f(x_1)$ e $f(x_2)$ al variare di $x$ in $(x_1, \space x_2)$
+
+Dagli ultimi due teoremi si deduce poi che se $f(x)$ è continua in $[ a, \space b ]$, allora assume almeno una volta ciascun valore compreso tra il minimo e il massimo.
 
 
 ### Gli asintoti di una funzione
+Una funzione $f(x)$ di dominio $D$:
+* ha un **asintoto verticale** di equazione $x = x_0$ se $\lim\limits _{x \to x_0} f(x) = \infty$
+* ha un **asintoto orizzontale** di equazione $y = l$ se $\lim\limits _{x \to \infty} = l$
+* ha un **asintoto obliquo** di equazione $y = mx + q$ se esistono finiti i limiti
 
+<div align="center">
+$\lim\limits _{x \to \infty} \dfrac{f(x)}{x} = m$ e $\lim\limits _{x \to \infty} [f(x) - mx] = q$ e se $m \neq 0$
+</div>
 
 ### Il grafico probabile
-
+Il **grafico probabile** di una funzione $f(x)$ si determina calcolando
+* l'insieme di definizione $D$
+* il comportamento agli estremi $D$
+* gli eventuali asintoti
+* le intersezioni, se esistono, con gli assi cartesiani
+* il segno
+* le coordinate di alcuni punti significativi
 
