@@ -1,0 +1,50 @@
+---
+title: "Analisi"
+draft: false
+weight: 10
+---
+
+<!-- script MathJax -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','$']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+<!-- script JSXGraph -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
+
+## Funzioni e derivate
+
+
+## I teoremi sulle funzioni derivabili
+
+
+## Punti estremanti e punti di inflessione
+
+
+## Lo studio di funzione
+
+
+## Gli integrali
+
+
+## Problemi di approssimazione
+
+
+
+
+
+
+
+
+
