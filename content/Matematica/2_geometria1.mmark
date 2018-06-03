@@ -23,6 +23,36 @@ MathJax.Hub.Config({
 });
 </script>
 
+- [I primi elementi e i triangoli](#i-primi-elementi-e-i-triangoli)
+    - [Termini primitivi assiomi](#termini-primitivi-assiomi)
+    - [Segmenti e angoli](#segmenti-e-angoli)
+    - [La congruenza](#la-congruenza)
+    - [I poligoni](#i-poligoni)
+    - [La congruenza dei triangoli](#la-congruenza-dei-triangoli)
+    - [La classificazione dei triangoli](#la-classificazione-dei-triangoli)
+    - [Relazioni fra lati e angoli di un triangolo](#relazioni-fra-lati-e-angoli-di-un-triangolo)
+- [Parallelismo e perpendicolarità nel piano](#parallelismo-e-perpendicolarita-nel-piano)
+    - [Le rette parallele e le proprietà](#le-rette-parallele-e-le-proprieta)
+    - [Le conseguenze nei poligoni](#le-conseguenze-nei-poligoni)
+    - [La congruenza nei triangoli rettangoli](#la-congruenza-nei-triangoli-rettangoli)
+- [Trasformazioni geometriche](#trasformazioni-geometriche)
+    - [Le isometrie](#le-isometrie)
+    - [I parallelogrammi](#i-parallelogrammi)
+    - [Condizioni per individuare un parallelogramma](#condizioni-per-individuare-un-parallelogramma)
+    - [I parallelogrammi particolari](#i-parallelogrammi-particolari)
+    - [I parallelogrammi e le isometrie](#i-parallelogrammi-e-le-isometrie)
+    - [Il trapezio](#il-trapezio)
+    - [La corrispondenza di Talete](#la-corrispondenza-di-talete)
+- [La circonferenza e i poligoni](#la-circonferenza-e-i-poligoni)
+    - [I luoghi geometrici](#i-luoghi-geometrici)
+    - [La circonferenza e il cerchio](#la-circonferenza-e-il-cerchio)
+    - [Elementi di una circonferenza](#elementi-di-una-circonferenza)
+    - [Posizioni reciproche di rette e circonferenze](#posizioni-reciproche-di-rette-e-circonferenze)
+    - [Angoli alla circonferenza e angoli al centro](#angoli-alla-circonferenza-e-angoli-al-centro)
+    - [Poligoni inscritti e circoscritti](#poligoni-inscritti-e-circoscritti)
+    - [Poligoni regolari](#poligoni-regolari)
+    - [Punti notevoli dei triangoli](#punti-notevoli-dei-triangoli)
+
 ## I primi elementi e i triangoli
 
 ### Termini primitivi assiomi

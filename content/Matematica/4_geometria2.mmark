@@ -23,6 +23,22 @@ MathJax.Hub.Config({
 });
 </script>
 
+- [Equivalenza dei poligoni e il calcolo delle aree](#equivalenza-dei-poligoni-e-il-calcolo-delle-aree)
+  - [I criteri di equivalenza dei poligoni](#i-criteri-di-equivalenza-dei-poligoni)
+  - [I teoremi di Pitagora e di Euclide](#i-teoremi-di-pitagora-e-di-euclide)
+  - [Grandezze omogeneee](#grandezze-omogeneee)
+  - [Proporzionalità diretta e inversa](#proporzionalita-diretta-e-inversa)
+  - [Il teorema di Talete e le sue conseguenze](#il-teorema-di-talete-e-le-sue-conseguenze)
+  - [Le aree dei poligoni](#le-aree-dei-poligoni)
+  - [I teoremi di Pitagora e di Euclide](#i-teoremi-di-pitagora-e-di-euclide)
+  - [La lunghezza della circonferenza e l'area del cerchio](#la-lunghezza-della-circonferenza-e-larea-del-cerchio)
+- [Omotetie e similitudini](#omotetie-e-similitudini)
+  - [L'omotetia](#lomotetia)
+  - [Le proprietà dell'omotetia](#le-proprieta-dellomotetia)
+  - [La similitudine](#la-similitudine)
+  - [I criteri di similitudine dei triangoli](#i-criteri-di-similitudine-dei-triangoli)
+  - [Le applicazioni](#le-applicazioni)
+
 ## Equivalenza dei poligoni e il calcolo delle aree
 * Due figure $A$ e $B$ si dicono **equivalenti** se hanno la stessa estensione. La caratteristica comune a tutte le figure equivalenti si chiama **area**.
 * Date due figure $A$ e $B$ aventi in comune solo una parte del contorno, si definisce loro **somma** la figura $F$ ottenuta dalla loro uione; viceversa se $A + B \doteq F$, la figura $A$ è la **differenza** tra le figure $F$ e $B$, la figura $B$ è la differenza tra $F$ e $A$.
@@ -38,7 +54,7 @@ L'equiscomponibilità permette di enunciare i seguenti criteri di equivalenza fr
 3. un trapezio è equivalente a un triangolo che ha per base la somma delle basi del trapezio e l'altezza congruente a quella del trapezio
 4. un poligono circoscritto a una circonferenza è equivalente a un triangolo che ha per base il perimetro del poligono e per altezza il raggio della circonferenza
 
-IMMAGINI EQUIVALENZA
+§IMMAGINI§ 
 
 ### I teoremi di Pitagora e di Euclide
 In un triangolo rettangolo valgono i seguenti teoremi:
@@ -46,7 +62,7 @@ In un triangolo rettangolo valgono i seguenti teoremi:
 * **primo teorema di Euclide**: il quadrato costruito su un cateto è equivalente al rettangolo che ha come lato l'ipotenusa e la proiezione del cateto sull'ipotenusa: $q(AB) \doteq r(BC, \space BH)$ e $q(AC) \doteq r(BC \space HC)$
 * **secondo teorema di Euclide**: il quadrato costruito sull'altezza relativa all'ipotenusa è equivalente al rettangolo che ha per lati le proiezioni dei cateti sull'ipotenusa: $q(AH) \doteq r(BH, \space HC)$
 
-IMMAGINE
+§IMMAGINE§
 
 ### Grandezze omogeneee
 Un insieme $G$ di elementi costituisce una **classe di grandezze omogenee** se:
@@ -78,7 +94,7 @@ Le proprietà della proporzionalità diretta relativamente alle figure geometric
 * **teorema della bisettrice dell'angolo interno**: la bisettrice di un angolo di un triangolo divide il lato opposto in parti proporzionali agli altri due lati: $BD : DC = AB : AC$
 * **teorema della bisettrice dell'angolo esterno**: se la bisettrice di un angolo esterno di un triangolo incontra la retta del lato opposto in un punto $P$, il segmento $PC$ ed il segmento $PB$ stanno nello stesso rapporto degli altri due lati del triangolo: $PC : PB = AC : AB$
 
-IMMAGINI
+§IMMAGINI§
 
 ### Le aree dei poligoni
 Le principali formule per il calcolo delle aree sono:
@@ -114,7 +130,7 @@ Fissati in un piano un punto $O$ e un numero reale $k$ non nullo, si dice **omot
 
 In particolare, se $k =1$ l'omotetia coincide con la trasformazione identica, se $k = -1$ coincide con la simmetria di centro $O$.
 
-IMMAGINE
+§IMMAGINE§
 
 ### Le proprietà dell'omotetia
 L'omotetia gode delle seguenti proprietà:
@@ -162,67 +178,12 @@ $BC : AC = AC : HC$
 $BH : AH = AH : HC$
 </div>
 
-IMMAGINI
+§IMMAGINI§
 
-### le applicazioni
+### Le applicazioni
 Relativamente a duna circonferenza e alle sue corde, secanti e tangenti, valgono le seguenti proprietà:
 1. se due corde di una circonferenza si intersecano, i segmenti di una corda sono i medi, i segmenti dell'altra corda sono gli estremi di una proporzione
 2. se da un punto esterno si tracciano due secanti, una secante e la sua parte esterna sono i medi, l'altra secante e la sua parte esterna sono gli estremi di una proporzione
 3. se da un punto esterno a una circonferenza si tracciano una secante e una tangente, il segmento di tangente è medio proporzionale fra l'intera secante e la sua parte esterna.
 
-IMMAGINI
-
-## La geometria nello spazio
-
-### Rette e piani nello spazio
-* Due rette che non hanno punti di intersezione si dicono parallele se sono complanari, sghembe se appartengono a piani diversi due piani sono paralleli se non hanno punti di intersezione; esiste uno ed un solo piano passante per un punto $A$ non appartenente a dun piano $\alpha$ e parallelo ad $\alpha$
-* due piani o sono paralleli o si intersecano lungo una retta; un fascio di piani paralleli individua su due rette trasversali segmenti proporzionali
-* una retta che non ha punti in comune con un piano o che giace su di esso è parallela al piano 
-* una retta incidente ad un piano in un punto $P$ è perpendicolare al piano se è perpendicolare a due delle rette del piano che passano per $P$; in tal caso essa è perpendicolare anche a tutte le altre rette del piano che passano per $P$
-* se una retta $r$ è perpendicolare ad un piano $\alpha$ in un punto $P$ e da $P$ esce una retta $s$ perpendicolare ad una terza retta $t$ di $\alpha$, allora $t$ è perpendicolare al piano di $r$ e $s$ (**teorema delle tre perpendicolari**).
-
-## Diedri e angoloidi
-* Due semipiani che hanno l'origine in comune dividono lo spazio in due **angoli diedri** dei quali uno è concavo e l'altro è convesso
-* ogni piano che interseca un diedro definisce un angolo che rappresenta la sezione del diedro; se il piano è perpendicolare allo spigolo del diedro si parla di **sezione normale**; la misura di un diedro è la misura della sua sezione normale
-* due piani sono perpendicolari se sono incidenti e formano diedri retti
-* tutte le semirette che, uscendo da un punto $P$, intersecano i lati di un poligono appartenente ad un piano che non contiene $P$ definiscono una superficie piramidale, la parte di spazio delimitata da una superficie piramidale si chiama **angoloide**
-* un angoloide che ha tre facce si chiama triedro ed ha la caratteristica che ciascuna faccia è minore della somma delle altre due e maggiore della loro differenza.
-
-### Poliedri
-* Esistono solo cinque **poliedri regolari**: il tetraedro, l'ottaedro e l'icosaedro (le cui facce sono triangoli equilateri), l'esaedro o cubo (le cui facce sono quadrati), il dodecaedro (le cui facce sono pentagoni regolari)
-* tutte le rette fra loro parallele che intersecano i lati di un poligono definiscono una **superficie prismatica**; la parte di spazio delimitata da una superficie prismatica e da due piani paralleli che la intersecano si chiama prisma, i poligoni definiti dalla superficie prismatica sui piani paralleli sono le basi del prisma; un prisma si dice:
-    * **retto** se gli spigoli laterali sono perpendicolari ai piani delle basi
-    * regolare se, oltre a dessere retto, ha le basi che sono poligoni regolari
-* una **piramide** è la parte di spazio delimitata da un angoloide e da un piano non passante per il vertice dell'angoloide; il poligono sezione è la base della piramide; una piramide si dice:
-    * **retta** se il poligono di base si può circoscrivere ad una circonferenza e se la perpendicolare condotta dal vertice al piano di base cade nel centro della circonferenza; in questo caso le facce laterali hanno tutte la stessa altezza che costituisce l'**apotema** della piramide
-    * **regolare** se, oltre a dessere retta, il poligono  di base è regolare; nelle piramidi regolari le facce laterali sono tutte congruenti
-
-### Solidi di rotazione
-* **superficie cilindrica** è la superficie che si ottiene facendo ruotare una retta (la generatrice) di una rotazione completa attorno a dun'altra a dessa parallela (l'asse  di rotazione); cilindro èla parte di spazio delimitata da una superficie cilindrica e da due piani paralleli che la secano; se i piani sono perpendicolari alle generatrici il cilindro si dice retto; se sezionando un cilindro retto con un piano passante per l'asse di rotazione si ottiene un quadrato, il cilindro si dice equilatero
-* **superficie conica** è la superficie che si ottiene facendo ruotare un lato di un angolo attorno all'altro lato di una rotazione completa; si chiama cono la parte di spazio delimitata da una superficie conica e da un piano secante; se il piano è perpendicolare all'asse di rotazione il cono è retto; se sezionando un cono retto con un piano passante per l'asse di rotazione si ottiene un triangolo equilatero, il cono si dice equilatero
-* **superficie sferica**è la superficie che si ottiene facendo ruotare una semicirconferenza di una rotazione completa attorno al suo diametro; sfera è la parte di spazio delimitata da una superficie sferica
-
-### Il calcolo delle aree dei poliedri
-Per calcolare la misura della superficie di un poliedro basta sviluppare tale superficie in un piano e calcolare le aree
-dei poligoni così ottenuti; in questo modo, indicando con $S_b$ l'area della superficie di base, con $S$, l'area di quella laterale e con $S_t$ l'area di quella totale, si ottengono le seguenti formule:
-* prisma retto: $S_t = 2S_b + 2ph$
-* piramide retta: $S_t = S_b + pa$
-* cubo: $S_t = 6 l^2$
-
-### Il calcolo delle aree dei solidi di rotazione
-Gli sviluppi in un piano della superficie laterale di un cilindro e di un cono sono rispettivamente un rettangolo e un settore circolare. Indicando con $r$ il raggio di base, con $h$
-l'altezza del cilindro e con $a$ l'apotema del cono, si ottengono le seguenti formule:
-* cilindro: $S_l = 2 \pi r h$; $S_b = \pi r^2$; $S_t = 2 \pi r(h + r)$
-* cono: $S_l = \pi r a$; $S_b = \pi r^2$; $S_t = \pi r(a + r)$ 
-
-Relativamente alla sfera si ha che: $S_t = 4 \pi r^2$; 
-
-### Il calcolo dei volumi
-Due solidi si dicono equivalenti se hanno la stessa estensione. Il **principio di Cavalieri** enuncia un criterio per stabilire se due solidi sono equivalenti: se due solidi si possono disporre in modo che risultino equivalenti tutte le loro sezioni con piani paralleli al piano della base, allora essi sono equivalenti.
-
-In base a questo principio si ricavano le seguenti formule per il calcolo dei volumi:
-* prisma: $V = S_b h$
-* piramide: $V = \dfrac{1}{3} S_b h$
-* cilindro: $V = \pi r^2 h$
-* cono: $V = \dfrac{1}{3} \pi r^2 h$
-* sfera: $V = \dfrac{4}{3} \pi r^3$
+§IMMAGINI§

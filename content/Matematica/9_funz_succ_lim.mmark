@@ -23,6 +23,28 @@ MathJax.Hub.Config({
 <!-- script JSXGraph -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
 
+
+- [Insiemi numerici e funzioni](#insiemi-numerici-e-funzioni)
+  - [Gli insiemi di numeri reali](#gli-insiemi-di-numeri-reali)
+  - [Intervalli, intorni e punti di accumulazione](#intervalli--intorni-e-punti-di-accumulazione)
+  - [Funzioni](#funzioni)
+  - [Monotonia e periodicità di una funzione](#monotonia-e-periodicita-di-una-funzione)
+- [Funzioni e limiti](#funzioni-e-limiti)
+  - [Le definizioni di limite](#le-definizioni-di-limite)
+  - [Gli asintoti](#gli-asintoti)
+  - [Teoremi sui limiti](#teoremi-sui-limiti)
+  - [Le forme di indeterminazione](#le-forme-di-indeterminazione)
+  - [I limiti notevoli](#i-limiti-notevoli)
+  - [Infiniti e infinitesimi](#infiniti-e-infinitesimi)
+  - [Le successioni](#le-successioni)
+  - [Il comportamento di una successione](#il-comportamento-di-una-successione)
+- [Funzioni e continuità](#funzioni-e-continuita)
+  - [Le funzioni continue e i criteri per la continuità](#le-funzioni-continue-e-i-criteri-per-la-continuita)
+  - [I punti di discontinuità](#i-punti-di-discontinuita)
+  - [Le proprietà delle funzioni continue](#le-proprieta-delle-funzioni-continue)
+  - [Gli asintoti di una funzione](#gli-asintoti-di-una-funzione)
+  - [Il grafico probabile](#il-grafico-probabile)
+
 ## Insiemi numerici e funzioni
 ### Gli insiemi di numeri reali
 Un insieme $\mathbb{E}$ di numeri reali si dice:

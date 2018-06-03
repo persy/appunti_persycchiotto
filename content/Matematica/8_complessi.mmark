@@ -24,6 +24,13 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
 
 
+- [I numeri complessi](#i-numeri-complessi)
+- [La risoluzione delle equazioni in $\mathbb{C}$](#la-risoluzione-delle-equazioni-in-mathbbc)
+- [Il piano di Gauss](#il-piano-di-gauss)
+- [La forma trigonometrica e le operazioni](#la-forma-trigonometrica-e-le-operazioni)
+- [Le radici $n$-esime di un numero complesso](#le-radici-n-esime-di-un-numero-complesso)
+- [La forma esponenziale](#la-forma-esponenziale)
+
 ### I numeri complessi
 Si chiama **unità immaginaria** il numero che si indica con il simbolo $i$ e che è caratterizzato dalla relazione $i^2 = -1$.
 

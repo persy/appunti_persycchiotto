@@ -23,6 +23,33 @@ MathJax.Hub.Config({
 });
 </script>
 
+- [La parabola](#la-parabola)
+    - [La parabola e la sua equazione](#la-parabola-e-la-sua-equazione)
+    - [Gli elementi caratteristici](#gli-elementi-caratteristici)
+    - [Il grafico](#il-grafico)
+    - [Le condizioni per determinare l'equazione di una parabola](#le-condizioni-per-determinare-lequazione-di-una-parabola)
+    - [Rette e parabole](#rette-e-parabole)
+    - [Le rette tangenti](#le-rette-tangenti)
+    - [I fasci di parabole](#i-fasci-di-parabole)
+- [La circonferenza](#la-circonferenza)
+    - [Le condizioni per determinare l'equazione di una circonferenza](#le-condizioni-per-determinare-lequazione-di-una-circonferenza)
+    - [Le rette tangenti](#le-rette-tangenti)
+- [L'ellisse](#lellisse)
+    - [L'ellisse e la sua equazione](#lellisse-e-la-sua-equazione)
+    - [Le caratteristiche di un'ellisse](#le-caratteristiche-di-unellisse)
+    - [L'eccentricità](#leccentricita)
+    - [Le rette tangenti](#le-rette-tangenti)
+- [L'iperbole](#liperbole)
+    - [L'iperbole e la sua equazione](#liperbole-e-la-sua-equazione)
+    - [Le caratteristiche di un'iperbole](#le-caratteristiche-di-uniperbole)
+    - [L'eccentricità](#leccentricita)
+- [Le rette tangenti](#le-rette-tangenti)
+    - [L'iperbole equilatera](#liperbole-equilatera)
+- [Le coniche e la risoluzione grafica delle equazioni](#le-coniche-e-la-risoluzione-grafica-delle-equazioni)
+    - [I grafici delle funzioni irrazionali e con i moduli](#i-grafici-delle-funzioni-irrazionali-e-con-i-moduli)
+    - [La risoluzione grafica di equazioni e disequazioni](#la-risoluzione-grafica-di-equazioni-e-disequazioni)
+    - [Zeri di funzioni e risoluzione approssimata delle equazioni](#zeri-di-funzioni-e-risoluzione-approssimata-delle-equazioni)
+
 ## La parabola
 
 ### La parabola e la sua equazione

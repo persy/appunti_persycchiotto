@@ -23,6 +23,20 @@ MathJax.Hub.Config({
 });
 </script>
 
+- [La funzione esponenziale e la funzione logaritmica](#la-funzione-esponenziale-e-la-funzione-logaritmica)
+  - [La funzione esponenziale](#la-funzione-esponenziale)
+  - [La definizione di logaritmo](#la-definizione-di-logaritmo)
+  - [La funzione logaritmica](#la-funzione-logaritmica)
+  - [Le proprietà dei logaritmi](#le-proprieta-dei-logaritmi)
+- [Equazioni e disequazioni esponenziali e logaritimiche](#equazioni-e-disequazioni-esponenziali-e-logaritimiche)
+  - [Le equazioni esponenziali elementari](#le-equazioni-esponenziali-elementari)
+  - [Le equazioni esponenziali non elementari](#le-equazioni-esponenziali-non-elementari)
+  - [Le disequazioni esponenziali](#le-disequazioni-esponenziali)
+  - [Le equazioni logaritmiche elementari](#le-equazioni-logaritmiche-elementari)
+  - [Le equazioni logaritmiche non elementari](#le-equazioni-logaritmiche-non-elementari)
+  - [Le disequazioni logaritmiche](#le-disequazioni-logaritmiche)
+  - [La risoluzione grafica](#la-risoluzione-grafica)
+
 ## La funzione esponenziale e la funzione logaritmica
 
 ### La funzione esponenziale

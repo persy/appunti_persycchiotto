@@ -23,6 +23,34 @@ MathJax.Hub.Config({
 <!-- script JSXGraph -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
 
+
+- [Funzioni e derivate](#funzioni-e-derivate)
+  - [Il rapporto incrementale](#il-rapporto-incrementale)
+  - [La derivata](#la-derivata)
+  - [Le regole di derivazione](#le-regole-di-derivazione)
+  - [Il significato geometrico](#il-significato-geometrico)
+  - [Il differenziale e il suo significato geometrico](#il-differenziale-e-il-suo-significato-geometrico)
+- [I teoremi sulle funzioni derivabili](#i-teoremi-sulle-funzioni-derivabili)
+  - [I teoremi di de L'Hospital e il calcolo dei limiti](#i-teoremi-di-de-lhospital-e-il-calcolo-dei-limiti)
+- [Punti estremanti e punti di inflessione](#punti-estremanti-e-punti-di-inflessione)
+  - [Massimi e minimi relativi](#massimi-e-minimi-relativi)
+  - [Criteri di individuazione](#criteri-di-individuazione)
+  - [Massimi e minimi assoluti](#massimi-e-minimi-assoluti)
+  - [Concavità e flessi](#concavita-e-flessi)
+  - [Massimi, minimi e flessi con le derivate successive](#massimi--minimi-e-flessi-con-le-derivate-successive)
+- [Lo studio di funzione](#lo-studio-di-funzione)
+  - [I grafici deducibili](#i-grafici-deducibili)
+- [Gli integrali](#gli-integrali)
+  - [L'integrale indefinito](#lintegrale-indefinito)
+  - [Le proprietà](#le-proprieta)
+  - [Gli integrali immediati](#gli-integrali-immediati)
+  - [L'integrazione delle funzioni razionali fratte](#lintegrazione-delle-funzioni-razionali-fratte)
+  - [L'integrale definito](#lintegrale-definito)
+  - [Le proprietà](#le-proprieta)
+  - [La funzione integrale](#la-funzione-integrale)
+  - [Il calcolo di un integrale definito](#il-calcolo-di-un-integrale-definito)
+  - [Il calcolo delle aree](#il-calcolo-delle-aree)
+
 ## Funzioni e derivate
 ### Il rapporto incrementale
 Il **rapporto incrementale** della funzione $f(x)$ relativo al punto $x_0$ e all'incremento $h$ è dato dall'espressione:

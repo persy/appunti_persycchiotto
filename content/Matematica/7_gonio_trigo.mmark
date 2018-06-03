@@ -24,6 +24,34 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
 
 
+- [Le funzioni goniometriche](#le-funzioni-goniometriche)
+        - [Angoli e misure](#angoli-e-misure)
+        - [Le funzioni goniomentriche](#le-funzioni-goniomentriche)
+        - [Le relazioni fondamentali](#le-relazioni-fondamentali)
+        - [Le cofunzioni](#le-cofunzioni)
+        - [Gli archi associati](#gli-archi-associati)
+- [Le formule](#le-formule)
+        - [Formule di addizione](#formule-di-addizione)
+        - [Formule di duplicazione](#formule-di-duplicazione)
+        - [Formule di bisezione](#formule-di-bisezione)
+        - [Formule di parametriche](#formule-di-parametriche)
+        - [Formule di prostaferesi](#formule-di-prostaferesi)
+        - [Formule di Werner](#formule-di-werner)
+- [La trigonometria](#la-trigonometria)
+        - [I triangoli rettangoli](#i-triangoli-rettangoli)
+        - [L'area di un triangolo e il teorema della corda](#larea-di-un-triangolo-e-il-teorema-della-corda)
+        - [I triangoli qualunque](#i-triangoli-qualunque)
+- [Le equazioni e le disequazioni goniometriche](#le-equazioni-e-le-disequazioni-goniometriche)
+        - [Le funzioni goniometriche inverse](#le-funzioni-goniometriche-inverse)
+        - [Equazioni di tipo elementare](#equazioni-di-tipo-elementare)
+        - [Equazioni che prevedono il confronto di funzioni goniometriche](#equazioni-che-prevedono-il-confronto-di-funzioni-goniometriche)
+        - [Equazioni lineari](#equazioni-lineari)
+        - [Equazioni omogenee](#equazioni-omogenee)
+        - [Disequazioni elementari](#disequazioni-elementari)
+        - [Disequazioni frazionarie e sistemi](#disequazioni-frazionarie-e-sistemi)
+        - [Disequazioni lineari](#disequazioni-lineari)
+        - [Disequazioni omogenee](#disequazioni-omogenee)
+
 ## Le funzioni goniometriche
 ### Angoli e misure
 Gli angoli si possono misurare in **gradi** oppure in **radianti**:

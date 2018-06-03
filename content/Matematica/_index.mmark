@@ -35,9 +35,8 @@ draft: false
 ### [Geometria 2](4_geometria2)
 * L'equivalenza dei poligoni e il calcolo delle aree
 * Omotetie e similitudini
-* Geometria nello spazio
 
-### [Geometria analitica](5_geometria_analitica1)
+### [Geometria analitica](5_geometria_analitica)
 * La parabola
 * La circonferenza
 * L'ellisse
@@ -71,8 +70,6 @@ draft: false
 ### [Le funzioni nello spazio](11_funzioni_spazio)
 * Le funzioni di due variabili
 
-### [Geometria dello spazio, analisi e analisi numerica](12_geomspaz_analisi_num)
+### [Geometria dello spazio](12_geometria_spaziale)
 * La geometria euclidea nello spazio
-* Analisi: massimi e minimi, integrali
-* Integrazione numerica
 

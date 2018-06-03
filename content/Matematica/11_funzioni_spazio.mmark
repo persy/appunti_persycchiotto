@@ -23,6 +23,15 @@ MathJax.Hub.Config({
 <!-- script JSXGraph -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
 
+
+- [Le funzioni di due variabili](#le-funzioni-di-due-variabili)
+  - [Il sistema di riferimento nello spazio](#il-sistema-di-riferimento-nello-spazio)
+  - [Il piano e la sua equazione](#il-piano-e-la-sua-equazione)
+  - [I fasci di coniche](#i-fasci-di-coniche)
+  - [Le disequazioni in due variabili](#le-disequazioni-in-due-variabili)
+  - [Le funzioni di due variabili](#le-funzioni-di-due-variabili)
+  - [Massimi e minimi delle funzioni di due variabili](#massimi-e-minimi-delle-funzioni-di-due-variabili)
+
 ## Le funzioni di due variabili
 ### Il sistema di riferimento nello spazio
 Fissato un sistema di assi cartesiani ortogonali nello spazio, ciascun punto è individuato da una terna ordinata di numeri $(x, \space y, \space z)$ che rappresentano rispettivamente la sua ascissa, la sua ordinata e la sua quota. In tale sistema di riferimento, dati i punti $A(x_1, \space y_1, \space z_1)$ e $B(x_2, \space y_2, \space z_2)$, si ha che:
