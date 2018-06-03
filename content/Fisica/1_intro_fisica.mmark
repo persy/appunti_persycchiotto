@@ -23,23 +23,56 @@ MathJax.Hub.Config({
 });
 </script>
 
-<!----- Conversion time: 4.637 seconds.
 
-
-Using this Markdown file:
-
-1. Cut and paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* GD2md-html version 1.0β12
-* Sun Jun 03 2018 06:49:57 GMT-0700 (PDT)
-* Source doc: https://docs.google.com/open?id=1YhliKNDH4PcmUjb2IVRBqsEhyIDE_kptaxuhgMmnu_0
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server.
------>
+- [Introduzione alla fisica](#introduzione-alla-fisica)
+- [Metodo scientifico](#metodo-scientifico)
+    - [Definizione ostensiva](#definizione-ostensiva)
+    - [Sistema in esame](#sistema-in-esame)
+    - [Legge sperimentale](#legge-sperimentale)
+    - [Metodo sperimentale](#metodo-sperimentale)
+    - [Definizione operativa](#definizione-operativa)
+    - [Processo di misura](#processo-di-misura)
+    - [Processo di induzione](#processo-di-induzione)
+    - [La matematica e la fisica](#la-matematica-e-la-fisica)
+    - [Teoria scientifica](#teoria-scientifica)
+    - [Campo di applicabilità](#campo-di-applicabilita)
+    - [Assiomi](#assiomi)
+    - [Teorie provvisoriamente vere](#teorie-provvisoriamente-vere)
+    - [Modello](#modello)
+- [Grandezze fisiche](#grandezze-fisiche)
+    - [Durata](#durata)
+    - [Distanza](#distanza)
+    - [Fenomeni periodici](#fenomeni-periodici)
+    - [Orologio al cesio](#orologio-al-cesio)
+    - [Secondo ($s$)](#secondo-s)
+    - [Metro ($m$)](#metro-m)
+    - [Notazione esponenziale](#notazione-esponenziale)
+    - [Ordine di grandezza](#ordine-di-grandezza)
+    - [Sistema di riferimento cartesiano](#sistema-di-riferimento-cartesiano)
+    - [Terna di assi coordinati](#terna-di-assi-coordinati)
+    - [Massa inerziale](#massa-inerziale)
+    - [Kilogrammo ($kg$)](#kilogrammo-kg)
+    - [Grandezze primarie e grandezze derivate](#grandezze-primarie-e-grandezze-derivate)
+    - [Metro quadrato ($m^2$)](#metro-quadrato-m2)
+    - [Metro cubo ($m^3$)](#metro-cubo-m3)
+    - [Dimensioni fisiche](#dimensioni-fisiche)
+    - [Leggi di scala](#leggi-di-scala)
+    - [Sistema Internazionale di Unità (SI)](#sistema-internazionale-di-unita-si)
+- [Errori di misura](#errori-di-misura)
+    - [Errori sistematici](#errori-sistematici)
+    - [Errori accidentali](#errori-accidentali)
+    - [Valore medio di una grandezza](#valore-medio-di-una-grandezza)
+    - [Errore massimo](#errore-massimo)
+    - [Errore relativo](#errore-relativo)
+    - [Istogramma](#istogramma)
+    - [Curva di Gauss](#curva-di-gauss)
+    - [Scarto quadratico medio ($\sigma$)](#scarto-quadratico-medio-sigma)
+    - [Errori sulle grandezze derivate](#errori-sulle-grandezze-derivate)
+    - [Cifre significative](#cifre-significative)
+    - [Portata di uno strumento](#portata-di-uno-strumento)
+    - [Precisione di uno strumento](#precisione-di-uno-strumento)
+    - [Prontezza di uno strumento](#prontezza-di-uno-strumento)
+    - [Sensibilità di uno strumento](#sensibilita-di-uno-strumento)
 
 ## Introduzione alla fisica
 
@@ -172,14 +205,14 @@ Orologio molto preciso che funziona rilevando rapidissimi moti periodici che avv
 _Si tratta di un orologio estremamente complesso e costoso che non possiamo di certo tenere in casa. Però è utilizzato, per esempio, a livello nazionale per definire "l'ora esatta"._
 
 
-### Secondo (s)
+### Secondo ($s$)
 
 Unità di misura degli intervalli di tempo nel Sistema Internazionale. E' l'intervallo di tempo durante il quale avvengono 9 192 631 770 oscillazioni di un orologio al cesio.
 
 _Il secondo è circa uguale alla 86 400-esima parte del giorno solare medio._
 
 
-### Metro (m)
+### Metro ($m$)
 
 Unità di misura della lunghezza nel Sistema Internazionale. E' definito come la distanza percorsa dalla luce nel vuoto in un 299 792 459-esimo di secondo
 
@@ -219,7 +252,7 @@ _Se stiamo studiando un fenomeno che avviene su una retta o su un piano è suffi
 E' la grandezza fondamentale della fisica che esprime la "materialità" dei corpi. Viene definita mediante il carrello delle masse.
 
 
-### Kilogrammo (kg)
+### Kilogrammo ($kg$)
 
 Unità di misura delle masse nel Sistema Internazionale. E' definito come la massa di un cilindro campione di platino-iridio che ha altezza e diametro eguali a circa 39 mm.
 
@@ -231,14 +264,14 @@ _E' circa uguale alla massa di 1l (un litro) di acqua distillata a 4°C a livell
 Distanza, durata e massa inerziale sono le grandezze primarie o fondamentali della meccanica. E' possibile definire tutte le altre grandezze meccaniche in funzione di queste tre.
 
 
-### Metro quadrato (m<sup>2</sup>)
+### Metro quadrato ($m^2$)
 
 Unità di misura delle aree nel Sistema Internazionale. E' uguale all'area di un quadrato che ha i lati lunghi un metro.
 
 _2 km<sup>2</sup> è l'area di un quadrato di lato uguale a √2 = 1,41 km, oppure di un rettangolo di base 2 km e altezza 1 km._
 
 
-### Metro cubo (m<sup>3</sup>)
+### Metro cubo ($m^3$)
 
 Unità di misura dei volumi nel Sistema Internazionale. E' uguale al volume di un cubo che ha gli spigoli lunghi un metro.
 
