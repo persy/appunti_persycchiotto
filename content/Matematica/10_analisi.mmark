@@ -269,6 +269,8 @@ In pratica, si individuano gli intervalli dell'asse $x$ nei quali la funzione $f
 $\int_{a}^{b} f(x) dx - \int_{b}^{c} f(x) dx + \int_{c}^{d} f(x) dx$
 </div>
 
+§IMMAGINE§
+
 Se la superficie di cui calcolare l'area è delimitata da più funzioni come nella figura a lato, si affrontano i seguenti passi:
 * si individuano le ascisse dei punti di intersezione di ciascuna coppia di curve
 * si calcolano gli integrali definiti in ciascuno degli intervalli individuati da dati punti, prestando attenzione ai segni delle aree:
@@ -277,7 +279,7 @@ Se la superficie di cui calcolare l'area è delimitata da più funzioni come nel
 $\int_{a}^{b} f(x) dx - \int_{b}^{c} g(x) dx + \int_{c}^{a} h(x) dx$
 </div>
 
-
+§IMMAGINE§
 
 
 
