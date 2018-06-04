@@ -271,7 +271,7 @@ _Vedi Moto rettilineo uniforme._
 
 È data dalla differenza $s_2 - s_1$ tra la posizione finale $s_2$ di un corpo e la sua posizione iniziale $s_1$.
 
-<i>Una formica si muove su un righello da disegno. All'inizio si trova sulla tacca che indica 3 cm (posizione $s_1$) e poi si sposta fino a quella che corrisponde a 7 cm (posizione $s_2$). La distanza $\Delta s$ percorsa dalla formica è quindi 7 cm - 3 cm = 4 cm.</i>
+_Una formica si muove su un righello da disegno. All'inizio si trova sulla tacca che indica 3 cm (posizione $s _1$) e poi si sposta fino a quella che corrisponde a 7 cm (posizione $s _2$). La distanza $\Delta s$ percorsa dalla formica è quindi 7 cm - 3 cm = 4 cm._
 
 ### Intervallo di tempo ($\Delta t$)
 
@@ -820,7 +820,7 @@ Si ha quando un corpo rotola su una superficie. Se il raggio del corpo è $r$ e 
 $F_{at} = \dfrac{\mu_v}{r} F_{\perp}$
 </div>
 
-<i>L'attrito volvente è quello che si esercita tra le ruote della bicicletta e la strada. Per ragioni dimensionali, $\mu_v$, non è un numero puro, ma si misura in metri.</i>
+_L'attrito volvente è quello che si esercita tra le ruote della bicicletta e la strada. Per ragioni dimensionali, $\mu _v$, non è un numero puro, ma si misura in metri._
 
 ## I principi della dinamica 
 
@@ -1094,7 +1094,7 @@ Il lavoro compiuto su un corpo libero di muoversi (cioè non sottoposto ad altre
 $W = K_{finale} - K_{iniziale} = \Delta K$
 </div>
 
-<i>Pensiamo a una biglia che scivola (praticamente senza attrito) sul panno di un biliardo con una certa energia cinetica $K_i$. Se facciamo un lavoro W su di essa spingendola, alla fine la sua energia cinetica $K_f$ sarà uguale alla somma di $K_i$ e di $W$.</i>
+_Pensiamo a una biglia che scivola (praticamente senza attrito) sul panno di un biliardo con una certa energia cinetica $K _i$. Se facciamo un lavoro W su di essa spingendola, alla fine la sua energia cinetica $K _f$ sarà uguale alla somma di $K _i$ e di $W$_
 
 ### Energia potenziale ($U$) 
 
@@ -1220,7 +1220,7 @@ dove $\Delta t$ è l'intervallo di tempo nel corso del quale il momento torcente
 
 ### Momento d'inerzia ($I$) 
 
-Per un corpo rigido composto dalle masse $\Delta m_1, \space \Delta m_2, \space ..., \space \Delta m_n$ che si trovano rispettivamente a distanza $R_1, \space R_2, \space ..., \space, R_n$  da un asse, si definisce il momento d'inerzia $I$ del corpo rispetto a tale asse mediante la formula
+Per un corpo rigido composto dalle masse $\Delta m_1, \space \Delta m_2, \space ..., \space \Delta m_n$ che si trovano rispettivamente a distanza $R_1, \space R_2, \space ..., \space R_n$  da un asse, si definisce il momento d'inerzia $I$ del corpo rispetto a tale asse mediante la formula
 
 <div align="center">
 $I = \Delta m_1 R_1 ^2 + \Delta m_2 R_2 ^2 + \Delta m_3 R_3 ^2 + \Delta m_4 R_4 ^2 + ... = \sum _i \Delta m_i R_i ^2$
