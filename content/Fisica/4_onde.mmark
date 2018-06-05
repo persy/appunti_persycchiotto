@@ -43,31 +43,22 @@ L'espressione generale della legge oraria del moto armonico è
 $s = a \cos (\omega t + \varphi_0)$
 </div>
 
-dove 
+dove $\alpha$ è l'ampiezza, $\omega$ la pulsazione e $\varphi_0$ la fase iniziale. Velocità e accelerazione hanno la forma
 
- è l'ampiezza, 
+<div align="center">
+$u = - \omega a \sin (\omega t + \varphi_0) \qquad a_{arm} = - \omega^2 a \cos(\omega t + \varphi_0)$
+</div>
 
- la pulsazione e 
-
- la fase iniziale. Velocità e accelerazione hanno la forma
-
-_Attribuendo valori opportuni alle grandezze _
-
-_, _
-
-_ e _
-
-_, è possibile rappresentare qualunque moto armonico._
+_Attribuendo valori opportuni alle grandezze_ $\alpha$, $\omega$, $\varphi$, _è possibile rappresentare qualunque moto armonico._
 
 ### Fase iniziale 
 
-All'istante iniziale del moto, il raggio 
+All'istante iniziale del moto, il raggio $d$ che individua la posizione di un punto in moto circolare uniforme forma l'angolo $\varphi_0$, detto fase iniziale, con la direzione scelta come origine. Nel moto armonico, la fase iniziale è legata alla posizione iniziale $s_0$ del punto oscillante dalla relazione:
 
- che individua la posizione di un punto in moto circolare uniforme forma l'angolo 
+<div align="center">
+$s_0 = a \cos \varphi_0$
+</div>
 
-, detto fase iniziale, con la direzione scelta come origine. Nel moto armonico, la fase iniziale è legata alla posizione iniziale 
-
- del punto oscillante dalla relazione:
 
 _Due punti che oscillano con la medesima frequenza, ma che transitano dalla posizione di riposo in istanti diversi, hanno una diversa fase iniziale._
 
@@ -75,31 +66,27 @@ _Due punti che oscillano con la medesima frequenza, ma che transitano dalla posi
 
 L'energia totale, cinetica e potenziale, associata all'oscillatore armonico rimane costante durante il moto ed è proporzionale alla massa oscillante, al quadrato della pulsazione e al quadrato dell'ampiezza:
 
+<div align="center">
+$E = \dfrac{1}{2} m \omega^2 a^2$
+</div>
+
 _A parità d'ampiezza del moto e con uguale massa dell'oscillatore, l'energia cresce rapidamente se aumenta la frequenza di oscillazione._
 
 ### Oscillatore smorzato 
 
-È sottoposto, oltre che all'effetto delle forze elastiche di richiamo, all'azione frenante di una forza di resistenza. Se quest'ultima ha intensità proporzionale alla velocità del corpo in moto (
-
-) l'ampiezza di oscillazione decresce nel tempo con andamento esponenziale: il moto non è periodico, ma l'oscillatore ripassa comunque dalla posizione di riposo a intervalli di tempo uguali.
+È sottoposto, oltre che all'effetto delle forze elastiche di richiamo, all'azione frenante di una forza di resistenza. Se quest'ultima ha intensità proporzionale alla velocità del corpo in moto ($\vec F = - b \vec u$) l'ampiezza di oscillazione decresce nel tempo con andamento esponenziale: il moto non è periodico, ma l'oscillatore ripassa comunque dalla posizione di riposo a intervalli di tempo uguali.
 
 _Il moto di una corda di chitarra, dopo che è stata pizzicata dal concertista, è costituito da una successione di oscillazioni smorzate._
 
 ### Oscillatore forzato 
 
-È un oscillatore nel quale, oltre alle forze elastiche di richiamo e a un'eventuale forza di smorzamento, è presente una forza sollecitante esterna, detta _forzante_. Un caso di grande interesse è quello nel quale la forzante è armonica, cioè varia sinusoidalmente nel tempo, con pulsazione 
-
-.
+È un oscillatore nel quale, oltre alle forze elastiche di richiamo e a un'eventuale forza di smorzamento, è presente una forza sollecitante esterna, detta _forzante_. Un caso di grande interesse è quello nel quale la forzante è armonica, cioè varia sinusoidalmente nel tempo, con pulsazione $\omega$.
 
 _La struttura di supporto di un motore compie oscillazioni forzate alla stessa frequenza della rotazione del motore._
 
 ### Risonanza 
 
-È il fenomeno che si ha quando un oscillatore forzato è sollecitato da una forza esterna avente pulsazione 
-
- assai prossima a quella dell'oscillazione propria 
-
-. In tali condizioni, la forza esterna riesce a trasmettere grandi quantità di energia al sistema oscillante e l'ampiezza di oscillazione cresce fortemente con il tempo.
+È il fenomeno che si ha quando un oscillatore forzato è sollecitato da una forza esterna avente pulsazione $\omega$ assai prossima a quella dell'oscillazione propria $\omega_0$. In tali condizioni, la forza esterna riesce a trasmettere grandi quantità di energia al sistema oscillante e l'ampiezza di oscillazione cresce fortemente con il tempo.
 
 _L'acuto della cantante che spezza il bicchiere di cristallo è un esempio vistoso di risonanza._
 
@@ -139,6 +126,7 @@ Per un fronte d'onda piano o sferico, è una qualunque retta perpendicolare al f
 
 _I raggi sono tra loro paralleli per un'onda piana, mentre sono divergenti per un'onda sferica._
 
+
 ## Le onde armoniche 
 
 ### Onde armoniche 
@@ -151,9 +139,11 @@ _Le onde sonore prodotte da una persona che fischia sono, con buona approssimazi
 
 Rappresenta analiticamente la grandezza associata a un'onda armonica al variare sia della posizione che del tempo. Essa ha la seguente espressione:
 
-dove 
+<div align="center">
+$y = a \cos 2 \pi \left ( \dfrac{t}{T} - \dfrac{x}{\lambda} \right )$
+</div>
 
- indica la grandezza che oscilla.
+dove $y$ indica la grandezza che oscilla.
 
 ### Forma d'onda 
 
@@ -163,11 +153,7 @@ _A parità di nota emessa, i suoni prodotti da differenti strumenti musicali han
 
 ### Lunghezza d'onda 
 
-Per un'onda armonica, è la distanza 
-
- percorsa in un periodo. Se la sorgente è ferma rispetto al mezzo nel quale si propagano le onde, 
-
- è anche la distanza fra due creste successive dell'onda.
+Per un'onda armonica, è la distanza $\lambda = vT$ percorsa in un periodo. Se la sorgente è ferma rispetto al mezzo nel quale si propagano le onde, $\lambda$ è anche la distanza fra due creste successive dell'onda.
 
 _Per onde di una data frequenza, la lunghezza d'onda varia passando da un mezzo a un secondo mezzo nel quale la velocità di propagazione sia diversa._
 
@@ -175,61 +161,53 @@ _Per onde di una data frequenza, la lunghezza d'onda varia passando da un mezzo 
 
 È la massima variazione della grandezza oscillante associata all'onda, rispetto al valore di equilibrio.
 
-_Nell'equazione delle onde armoniche, l'ampiezza è rappresentata da _
-
-_._
+_Nell'equazione delle onde armoniche, l'ampiezza è rappresentata da_ $\alpha$.
 
 ### Fase 
 
 È l'angolo, dipendente dal tempo, che figura nell'equazione delle onde armoniche come argomento della funzione coseno. La fase si misura in radianti.
 
-_Due punti, situati lungo il percorso di un'onda armonica e distanti fra loro una lunghezza d'onda, vibrano con fasi che differiscono di 2π e quindi oscillano in fase._
+_Due punti, situati lungo il percorso di un'onda armonica e distanti fra loro una lunghezza d'onda, vibrano con fasi che differiscono di_ $2 \pi$ _e quindi oscillano in fase._
 
 ### Frequenza 
 
-La frequenza 
-
- dell'onda è quella con la quale oscillano tutti i punti interessati alla sua propagazione.
+La frequenza $f$ dell'onda è quella con la quale oscillano tutti i punti interessati alla sua propagazione.
 
 _La frequenza non varia quando l'onda passa da un mezzo a un altro._
 
 ### Pulsazione 
 
-La pulsazione, o _frequenza angolare_, è la quantità 
-
-, dove 
-
- è la frequenza dell'onda.
+La pulsazione, o _frequenza angolare_, è la quantità $\omega = 2 \pi f$, dove $f$ è la frequenza dell'onda.
 
 ### Velocità delle onde elastiche su una corda 
 
 È data dall'espressione:
 
-In essa 
+<div align="center">
+$v = \sqrt{\dfrac{F_0}{\rho}}$
+</div>
 
- è la forza che mantiene la corda tesa, mentre 
-
- è la densità lineare della corda. La prima grandezza è detta _fattore elastico_, la seconda grandezza è detta _fattore inerziale_.
+In essa $F_0$ è la forza che mantiene la corda tesa, mentre $\rho$ è la densità lineare della corda. La prima grandezza è detta _fattore elastico_, la seconda grandezza è detta _fattore inerziale_.
 
 _Per la velocità di tutti i tipi di onde elastiche (dovute cioè alle proprietà elastiche del mezzo in cui si propagano) vale un'espressione simile a quella della corda tesa._
 
 ### Energia di un'onda 
 
-L'energia totale (cinetica e potenziale) posseduta da un tratto di corda sul quale si propaga un'onda armonica è, per ogni tratto di lunghezza 
+L'energia totale (cinetica e potenziale) posseduta da un tratto di corda sul quale si propaga un'onda armonica è, per ogni tratto di lunghezza $\lambda$, data da
 
-, data da
+<div align="center">
+$E = \dfrac{1}{2} \omega^2 a^2 \rho \lambda$
+</div>
 
-pertanto è proporzionale al quadrato della pulsazione e dell'ampiezza (
-
- indica il rapporto tra la massa e la lunghezza della corda). 
+pertanto è proporzionale al quadrato della pulsazione e dell'ampiezza ($\rho$ indica il rapporto tra la massa e la lunghezza della corda). 
 
 ### Potenza media di un'onda 
 
-La potenza media trasportata da un'onda nella sua propagazione lungo una corda di densità lineare 
+La potenza media trasportata da un'onda nella sua propagazione lungo una corda di densità lineare $\rho$ (mantenuta tesa da una forza $F_0$) è data da:
 
- (mantenuta tesa da una forza 
-
-) è data da:
+<div align="center">
+$\overline{P} = \dfrac{1}{2}\sqrt{F_0 \rho} \omega^2 a^2$
+</div>
 
 Come l'energia, anche la potenza media è proporzionale al quadrato della pulsazione e dell'ampiezza.
 
@@ -247,6 +225,7 @@ _L'interferenza è un fenomeno tipico delle onde. L'interferenza tra raggi lumin
 
 Interpreta il fenomeno della propagazione delle onde in due o tre dimensioni, affermando che ogni punto del fronte d'onda di una perturbazione può essere equiparato a una sorgente puntiforme di onde sferiche, che si propagano verso l'esterno in tutte le direzioni; l'interferenza tra queste onde secondarie dà origine al nuovo fronte d'onda.
 
+
 ## Il suono 
 
 ### Acustica 
@@ -255,25 +234,21 @@ Interpreta il fenomeno della propagazione delle onde in due o tre dimensioni, af
 
 ### Suono 
 
-### La sensazione sonora che avvertiamo è generata da un'onda longitudinale di rarefazione e di compressione dell'aria. La velocità del suono nell'aria (secca, alla pressione atmosferica e a 0°C) è di 332 m/s 
+La sensazione sonora che avvertiamo è generata da un'onda longitudinale di rarefazione e di compressione dell'aria. La velocità del suono nell'aria (secca, alla pressione atmosferica e a 0°C) è di $332 m/s$. 
 
-### _Nei film di fantascienza capita di vedere l'esplosione di un'astronave nello spazio accompagnata ad un boato. Ma ciò è impossibile perché in assenza di un mezzo materiale il suono non si forma e non si propaga._ 
+_Nei film di fantascienza capita di vedere l'esplosione di un'astronave nello spazio accompagnata ad un boato. Ma ciò è impossibile perché in assenza di un mezzo materiale il suono non si forma e non si propaga._ 
 
 ### Velocità del suono 
 
-Nell'aria che ha densità 
+Nell'aria che ha densità $d$, alla pressione $p$, la velocità del suono è
 
-, alla pressione 
+<div align="center">
+$v = \sqrt{\gamma \dfrac{p}{d}}$
+</div>
 
-, la velocità del suono è
+dove $\gamma$ è il rapporto tra il calore specifico a pressione costante e quello a volume costante.
 
-dove 
-
- è il rapporto tra il calore specifico a pressione costante e quello a volume costante.
-
-_All'aumentare della temperatura dell'aria a parità di pressione, _
-
-_ diminuisce e, di conseguenza, la velocità del suono aumenta_.
+_All'aumentare della temperatura dell'aria a parità di pressione,_ $d$ _diminuisce e, di conseguenza, la velocità del suono aumenta_.
 
 ### Limiti di udibilità 
 
@@ -291,11 +266,11 @@ _Un piatto che cade sul pavimento e si rompe genera una serie di onde di rarefaz
 
 Sono _altezza_, _intensità_ e _timbro_. L'_altezza_ è ciò che distingue i suoni gravi da quelli acuti. Maggiore è la frequenza dell'onda e più acuto è il suono. L'_intensità_ è il carattere che distingue i suoni forti da quelli deboli: maggiore è l'ampiezza dell'oscillazione dell'onda e più il suono è intenso. Il _timbro_ è ciò che distingue i suoni emessi da due sorgenti diverse. È legato alla particolare forma dell'onda periodica.
 
-_Un RE suonato da un violino a basso volume e un LA della stessa ottava emesso da un forte squillo di tromba si distinguono per l'altezza (il LA è più acuto del RE), per l'intensità (la tromba suona più forte) e per il timbro (il violino è un arco, e tromba un ottone) _
+_Un RE suonato da un violino a basso volume e un LA della stessa ottava emesso da un forte squillo di tromba si distinguono per l'altezza (il LA è più acuto del RE), per l'intensità (la tromba suona più forte) e per il timbro (il violino è un arco, e tromba un ottone)_
 
 ### Analisi e sintesi armonica 
 
-Sono le procedure con le quali si può scomporre un suono periodico, rappresendolo come somma di molte onde armoniche semplici (_analisi_) oppure si può generare un suono ottenendolo dalla combinazione di armonici semplici (_sintesi_). Ciò è reso possibile da una tecnica matematica detta _sviluppo in serie di Fourier_.
+Sono le procedure con le quali si può scomporre un suono periodico, rappresentandolo come somma di molte onde armoniche semplici (_analisi_) oppure si può generare un suono ottenendolo dalla combinazione di armonici semplici (_sintesi_). Ciò è reso possibile da una tecnica matematica detta _sviluppo in serie di Fourier_.
 
 _Le tastiere elettroniche imitano il suono di molto strumenti tradizionali con i vari registri. I suoni generati risultano dalla sintesi armonica, realizzata sommando opportuni suoni sinusoidali semplici._
 
@@ -303,7 +278,7 @@ _Le tastiere elettroniche imitano il suono di molto strumenti tradizionali con i
 
 È l'effetto della riflessione di un'onda sonora.
 
-_È come se il suono "rimbalzasse contro una parete._
+_È come se il suono "rimbalzasse" contro una parete._
 
 ### Modo normale 
 
@@ -345,21 +320,17 @@ _La frequenza dei battimenti è pari alla differenza tra le frequenze delle due 
 
 ### Effetto Doppler 
 
-È il fenomeno per cui se una sorgente sonora e un osservatore sono in moto relativo, il suono udito da quest'ultimo ha frequenza 
+È il fenomeno per cui se una sorgente sonora e un osservatore sono in moto relativo, il suono udito da quest'ultimo ha frequenza $f'$ diversa dalla frequenza $f$ del suono emesso dalla sorgente. In particolare, se la sorgente è ferma e l'osservatore si muove con velocità $u_r$ si trova
 
- diversa dalla frequenza 
+<div align="center">
+$f' = \dfrac{v \pm u_r}{v } f$
+</div>
 
- del suono emesso dalla sorgente. In particolare, se la sorgente è ferma e l'osservatore si muove con velocità 
+(il segno più si applica se l'osservatore si avvicina, il segno meno se si allontana; $v$ è la velocità del suono).Se invece l'osservatore è fermo e la sorgente si muove con velocità $u_s$, si trova
 
- si trova
-
-(il segno più si applica se l'osservatore si avvicina, il segno meno se si allontana; 
-
- è la velocità del suono).
-
-Se invece l'osservatore è fermo e la sorgente si muove con velocità 
-
-, si trova
+<div align="center">
+$f' = \dfrac{v}{v \pm u_s} f$
+</div>
 
 (il segno meno si applica se la sorgente si avvicina, il segno più se si allontana).
 
@@ -395,7 +366,7 @@ _L'ombra creata dalla Terra (che ferma i raggi solari) sulla Luna piena nasconde
 
 ### Velocità della luce 
 
-La luce si propaga alla velocità di 2,99792458 × 10<sup>8</sup> m/s. Il primo esperimento che riuscì a misurare con una certa precisione la velocità della luce fu compiuto nel 1849 da Armand Fizeau.
+La luce si propaga alla velocità di $2,99792458 \times 10^8 m/s$. Il primo esperimento che riuscì a misurare con una certa precisione la velocità della luce fu compiuto nel 1849 da Armand Fizeau.
 
 _La luce percorre in 0,134 s una distanza eguale alla lunghezza dell'Equatore terrestre._
 
@@ -407,12 +378,12 @@ _È la rapidità con cui la sorgente emette energia. In ogni secondo il Sole eme
 
 ### Irradiamento 
 
-L'irradiamento di una superficie misura la quantità di energia che cade perpendicolare su 1 m<sup>2</sup> di quella superficie in 1 s. Nel Sistema Internazionale si misura in W/m<sup>2</sup>. A mano a mano che la superficie aumenta, l'irradiamento diminuisce in maniera inversamente proporzionale al quadrato della distanza.
+L'irradiamento di una superficie misura la quantità di energia che cade perpendicolare su $1 \space m^2$ di quella superficie in 1 s. Nel Sistema Internazionale si misura in $W/m^"$. A mano a mano che la superficie aumenta, l'irradiamento diminuisce in maniera inversamente proporzionale al quadrato della distanza.
 
 ### Leggi della riflessione 
 
 1.  Il raggio incidente, il raggio riflesso e la normale alla superficie riflettente nel punto di incidenza giacciono nello stesso piano
-1.  L'angolo di incidenza è uguale all'angolo di riflessione
+2.  L'angolo di incidenza è uguale all'angolo di riflessione
 
 _Un raggio di luce che incide su uno specchio si comporta come una palla da biliardo che colpisce una sponda e rimbalza._
 
@@ -430,78 +401,58 @@ Uno specchio parabolico concentra i raggi paralleli al suo asse di simmetria (_a
 
 ### Equazione dei punti coniugati per uno specchio sferico 
 
-Indicando con 
+Indicando con $p$ la distanza tra l'oggetto e uno specchio di raggio $r$, e con $q$ la distanza tra lo specchio stesso e l'immagine, si trova che queste grandezze sono legate dalla relazione
 
- la distanza tra l'oggetto e uno specchio di raggio 
-
-, e con 
-
- la distanza tra lo specchio stesso e l'immagine, si trova che queste grandezze sono legate dalla relazione
+<div align="center">
+$\dfrac{1}{p} + \dfrac{1}{q} = \pm \dfrac{2}{r}$
+</div>
 
 Il segno _più_ si applica nel caso in cui lo specchio sia concavo, quello _meno_ nel caso in cui lo specchio sia convesso.
 
-_Conoscendo, per esempio, _
+_Conoscendo, per esempio,_ $p$ _e_ $r$ _possiamo ricavare_ $q$. _Queste equazioni sono simili a quelle che valgono per le lenti: basta interpretare la quantità_ $\pm \dfrac{r}{2}$ _come distanza focale_ $f$.
 
-_ e _
-
-_ possiamo ricavare _
-
-_. Queste equazioni sono simili a quelle che valgono per le lenti: basta interpretare la quantità _
-
-_ come distanza focale _
-
-_._
-
-### Ingrandimento lineare (G) 
+### Ingrandimento lineare ($G$) 
 
 È definito come il rapporto tra la lunghezza dell'immagine e quelle dell'oggetto. Si dimostra che vale la relazione
 
-Se 
+<div align="center">
+$G = \dfrac{q}{p}$
+</div>
 
- è maggiore di 
-
- (cioè se l'immagine è più lontana dell'oggetto dallo specchio) 
-
- risulta maggiore di 1 e l'immagine è ingrandita; in caso contrario 
-
- è minore di 1 e l'immagine è rimpicciolita.
+Se $q$ è maggiore di $p$ (cioè se l'immagine è più lontana dell'oggetto dallo specchio)  $G$ risulta maggiore di $1$ e l'immagine è ingrandita; in caso contrario  è minore di $1$ e l'immagine è rimpicciolita.
 
 ### Leggi della rifrazione 
 
 1.  Il raggio incidente, il raggio rifratto e la normale alla superficie di separazione dei due mezzi giacciono nello stesso piano
-1.  Il rapporto tra i segmenti 
+2.  Il rapporto tra i segmenti $\overline{OP'}$ e $\overline{OQ'}$ rimane costante qualunque sia l'angolo di incidenza:
 
- e 
+<div align="center">
+$\dfrac{\overline{OP'}}{\overline{OQ'}} = n_{AB}$
+</div>
 
- rimane costante qualunque sia l'angolo di incidenza:
+Il rapporto tra il seno dell'angolo di incidenza $\hat{i}$ e il seno dell'angolo di rifrazione $\hat{r}$ è costante:
 
-Il rapporto tra il seno dell'angolo di incidenza 
-
- e il seno dell'angolo di rifrazione 
-
- è costante:
+<div align="center">
+$\dfrac{\sin \hat{i}}{\sin \hat{r}} = n_{AB}$
+</div>
 
 ### Indice di rifrazione relativo 
 
-È la costante che compare nella seconda legge della rifrazione. Dipende dai due mezzi trasparenti che si trovano a contatto o dalla direzione in cui si muove la luce: se questa non passa dal mezzo 
+È la costante che compare nella seconda legge della rifrazione. Dipende dai due mezzi trasparenti che si trovano a contatto o dalla direzione in cui si muove la luce: se questa non passa dal mezzo $A$ al mezzo $B$, ma da $B$ ad $A$, si trova
 
- al mezzo 
-
-, ma da 
-
- ad 
-
-, si trova
+<div align="center">
+$n_{BA} = \dfrac{1}{n_AB}$
+</div>
 
 _L'indice di rifrazione relativo per un raggio di luce che passa dall'acqua al plexiglas è 1,12. Se il raggio passa dal plexiglass all'acqua l'indice di rifrazione relativo è 1/1,12 = 0,89._
 
 ### Indice di rifrazione assoluto di un mezzo 
 
-Si calcola come l'indice di rifrazione relativo, con la condizione che la luce entri nel mezzo trasparente provenendo dal vuoto. Se 
+Si calcola come l'indice di rifrazione relativo, con la condizione che la luce entri nel mezzo trasparente provenendo dal vuoto. Se $n_A$ e $n_B$ sono gli indici di rifrazione assoluti di due materiali, si dimostra che vale la relazione
 
- e 
-
- sono gli indici di rifrazione assoluti di due materiali, si dimostra che vale la relazione
+<div align="center">
+$n_{AB} = \dfrac{n_B}{n_A}$
+</div>
 
 _Per esempio l'indice di rifrazione assoluto del plexiglas è di 1,49, mentre quello dell'acqua è 1,33. L'indice relativo è 1,49/1,33 = 1,12._
 
@@ -509,13 +460,13 @@ _Per esempio l'indice di rifrazione assoluto del plexiglas è di 1,49, mentre qu
 
 Quando un raggio di luce passa da un mezzo con indice di rifrazione maggiore a uno con indice di rifrazione minore, l'angolo di rifrazione è maggiore dell'angolo di incidenza. L'angolo limite, che dipende dai due mezzi trasparenti in cui la luce si propaga, è il valore dell'angolo di incidenza in corrispondenza del quale il raggio rifratto è radente alla superficie di separazione tra i due mezzi. Se, in queste condizioni, l'angolo di incidenza è maggiore dell'angolo limite, non può esistere un raggio rifratto e si assiste al fenomeno della _riflessione totale_.
 
-_Quando il mare è calmo un sub in immersione può vedere l'immagine del fondo Marino riflessa sulla superficie inferiore dell'acqua. _
+_Quando il mare è calmo un sub in immersione può vedere l'immagine del fondo Marino riflessa sulla superficie inferiore dell'acqua._
 
 ### Prisma 
 
 È un mezzo trasparente limitato da superfici piane non parallele.
 
-_Le "gocce" di certi lampadari di cristallo sono dei prismi di forma particolarmente complessa. In effetti presentano il fenomeno della dispersione della luce. _
+_Le "gocce" di certi lampadari di cristallo sono dei prismi di forma particolarmente complessa. In effetti presentano il fenomeno della dispersione della luce._
 
 ### Dispersione della luce 
 
@@ -531,7 +482,7 @@ _La normale lente d'ingrandimento è una lente convergente. Le lenti degli occhi
 
 ### Asse ottico 
 
-È la retta che unisce i centri delle superfici sferiche che limitano la lente
+È la retta che unisce i centri delle superfici sferiche che limitano la lente.
 
 ### Lenti sottili 
 
@@ -547,39 +498,27 @@ _Si può trovare il fuoco di una lente convergente concentrando i raggi che prov
 
 ### Formula delle lenti sottili 
 
-Se 
+Se $p$ è la distanza tra l'oggetto e il centro di una lente che ha lunghezza focale $f$ e $q$ è la distanza tra la lente stessa e l'immagine, vale la relazione
 
- è la distanza tra l'oggetto e il centro di una lente che ha lunghezza focale 
+<div align="center">
+$\dfrac{1}{p} + \dfrac{1}{q} = \dfrac{1}{f}$
+</div>
 
- e 
+$f$ è positivo per le lenti convergenti, negativo per quelle divergenti.
 
- è la distanza tra la lente stessa e l'immagine, vale la relazione
-
- è positivo per le lenti convergenti, negativo per quelle divergenti.
-
-_Conoscendo due delle tre quantità _
-
-_,_
-
-_ e _
-
-_ si può determinare la terza. Questa formula è identica a quella valida per lo specchio sferico di raggio _
-
-_; basta identificare _
-
-_ con la metà del raggio: _
-
-_._
+_Conoscendo due delle tre quantità_ $p$, $q$ e $f$ _si può determinare la terza. Questa formula è identica a quella valida per lo specchio sferico di raggio_ $r$; _basta identificare_ $f$ _con la metà del raggio:_ $f = \dfrac{r}{2}$.
 
 ### Ingrandimento 
 
-Per l'ingrandimento 
+Per l'ingrandimento $G$ vale la stessa formula che si applica agli specchi sferici:
 
- vale la stessa formula che si applica agli specchi sferici:
+<div align="center">
+$G = \dfrac{q}{p}$
+</div>
 
 ### Potere diottrico di una lente 
 
-È l'inverso della sua distanza focale. Nel Sistema Internazionale si misura in m<sup>-1</sup>; questa unità di misura viene chiamata anche _diottria_.
+È l'inverso della sua distanza focale. Nel Sistema Internazionale si misura in $m^{-1}$; questa unità di misura viene chiamata anche _diottria_.
 
 _Se una lente ha una distanza focale di 0,20 m il suo potere diottrico è uguale a 1/(0,20 m) = 5,0 m<sup>-1</sup> = 5,0 diottrie._
 
@@ -599,7 +538,7 @@ _L'uso di gruppi ottici, anziché di lenti singole, permette di correggere alcun
 
 È il fenomeno per il quale i raggi di luce che passano per zone diverse di una lente sono focalizzati in punti diversi. Esso è presente tanto nelle lenti sferiche come negli specchi sferici.
 
-È possibile limitare l'effetto negativo dell'aberrazione sferica usando lenti di piccolo diametro. Naturalmente, in questo modo, si limita anche la quantità di luce che può formare l'immagine.
+_È possibile limitare l'effetto negativo dell'aberrazione sferica usando lenti di piccolo diametro. Naturalmente, in questo modo, si limita anche la quantità di luce che può formare l'immagine._
 
 ### Aberrazione cromatica 
 
@@ -651,7 +590,8 @@ _Il cannocchiale non ingrandisce gli oggetti ma crea un ingrandimento angolare, 
 
 L'ingrandimento angolare di uno strumento ottico (microscopio, cannocchiale) è il rapporto tra gli angoli sotto cui l'occhio vede l'immagine con e senza l'uso dello strumento.
 
-_In un binocolo 10 ✕ 30, l'ingrandimento angolare è di 10 volte (30 indica il diametro delle lenti frontali, in millimetri)._
+_In un binocolo 10 × 30, l'ingrandimento angolare è di 10 volte (30 indica il diametro delle lenti frontali, in millimetri)._
+
 
 ## Le onde luminose 
 
@@ -669,15 +609,15 @@ _I fenomeni di interferenza e diffrazione che si studiano in questo capitolo si 
 
 ### Velocità della luce in un mezzo materiale trasparente 
 
-La luce si propaga in un mezzo trasparente con indice di rifrazione assoluto 
+La luce si propaga in un mezzo trasparente con indice di rifrazione assoluto $n$ alla velocità
 
- alla velocità
+<div align="center">
+$v = \dfrac{c}{n}$
+</div>
 
-dove 
+dove $c$ indica la velocità della luce nel vuoto.
 
- indica la velocità della luce nel vuoto.
-
-_Per esempio, nel diamente (n = 2,42) la luce si propaga alla velocità di 1,24 ✕ 10<sup>8</sup> m/s, cioè a una velocità che è meno della di quella che ha la stessa luce nel vuoto._
+_Per esempio, nel diamente (n = 2,42) la luce si propaga alla velocità di 1,24 × 10<sup>8</sup> m/s, cioè a una velocità che è meno della di quella che ha la stessa luce nel vuoto._
 
 ### Interferenza 
 
@@ -685,17 +625,17 @@ Quando le onde emesse da due sorgenti diverse si sovrappongono, i loro effetti s
 
 ### Esperimento di Young (della doppia fenditura) 
 
-Facendo passare la luce monocromatica di lunghezza d'onda 
+Facendo passare la luce monocromatica di lunghezza d'onda $\lambda$ attraverso due fenditure, che si trovano a distanza $d$, su uno schermo lontano posto di fronte ad esse si alternano zone di luce e zone scure. I massimi luminosi si trovano, rispetto all'asse delle fenditure, ad angoli $\alpha$  per i quali:
 
- attraverso due fenditure, che si trovano a distanza 
+<div align="center">
+$\sin \alpha = k \dfrac{\lambda}{d}, \qquad k=0, \space 1, \space 2, \space ...$
+</div>
 
-, su uno schermo lontano posto di fronte ad esse si alternano zone di luce e zone scure. I massimi luminosi si trovano, rispetto all'asse delle fenditure, ad angoli 
+Invece i minimi di intensità si trovano ad angoli $\alpha$ per i quali:
 
- per i quali:
-
-Invece i minimi di intensità si trovano ad angoli 
-
- per i quali:
+<div align="center">
+$\sin \alpha = \dfrac{2k+1}{2} \cdot \dfrac{\lambda}{d}, \qquad k=0, \space 1, \space 2, \space ...$
+</div>
 
 ### Diffrazione 
 
@@ -705,21 +645,21 @@ _La diffrazione è un particolare fenomeno di interferenza._
 
 ### Diffrazione da una fenditura 
 
-I minimi di intensità nel fenomeno della diffrazione della luce che attraversa una sottile fenditura si trovano nelle direzioni 
+I minimi di intensità nel fenomeno della diffrazione della luce che attraversa una sottile fenditura si trovano nelle direzioni $\alpha$ che rispettano la condizione:
 
- che rispettano la condizione:
+<div align="center">
+$\sin \alpha = k \dfrac{\lambda}{d}, \qquad k=0, \space 1, \space 2, \space ...$
+</div>
 
-dove 
-
- è la larghezza della fenditura
+dove $d$ è la larghezza della fenditura.
 
 ### Reticolo di diffrazione 
 
-È un dispositivo ottico che consiste in un insieme di numerose e strette fenditure o solchi affiancati. Il passo del reticolo è la distanza 
+È un dispositivo ottico che consiste in un insieme di numerose e strette fenditure o solchi affiancati. Il passo del reticolo è la distanza $d$ tra due solchi successivi. Quando il reticolo è attraversato da luce monocromatica, esso forma una figura di interferenza con righe luminose e righe oscure. La posizione dei massimi di intensità corrisponde ad angoli $\alpha$ per i quali sia:
 
- tra due solchi successivi. Quando il reticolo è attraversato da luce monocromatica, esso forma una figura di interferenza con righe luminose e righe oscure. La posizione dei massimi di intensità corrisponde ad angoli 
-
- per i quali sia:
+<div align="center">
+$\sin \alpha = k \dfrac{\lambda}{d}, \qquad k=0, \space 1, \space 2, \space ...$
+</div>
 
 _L'espressione che dà le posizioni dei massimi di intensità è la stessa dell'esperimento di Young._
 
@@ -746,3 +686,5 @@ I colori dell'arcobaleno non sono altro che lo spettro continuo emesso dal Sole,
 Ogni sostanza emette le stesse radiazioni che è in grado di assorbire. Studiando la luce emessa da un corpo è possibile sapere quali sono le sostanze che lo compongono.
 
 _Buona parte delle osservazioni astronomiche si basano sull'ipotesi che le sostanze emettono e assorbono lo stesso spettro luminoso in modo indipendente dal luogo dell'Universo in cui si trovano. È così che vengono determinate le composizioni chimiche anche delle galassie più lontane._
+
+
