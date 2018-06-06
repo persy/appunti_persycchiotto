@@ -104,9 +104,14 @@ Si dice che $B$  un **sottoinsieme** di un insieme $A$ se tutti gli elementi di 
 * **Unione**: $A \cup B$ è l'insieme i cui elementi appartengono ad $A$ oppure a $B$, quindi anche ad entrambi
 * **Differenza**: $A - B$ è l'insieme degli elementi di $A$ che non appartengono a $B$. Nel caso particolare in cui $B$ è un sottoinsieme di $A$, dell'insieme $A - B$ si dice che è il complementare di $B$ rispetto ad $A$ e si indica con uno dei seguenti simboli: $C_A B$ o $\bar{B}_A$
 
-'''
-INSERIRE IMMAGINI
-'''
+
+{{%expand "Immagini delle operazioni fra sistemi" %}}
+![immagine](/Matematica/images/intersezione.jpg)
+![immagine](/Matematica/images/unione.jpg)
+![immagine](/Matematica/images/differenza.jpg)
+![immagine](/Matematica/images/complementari.jpg)
+
+{{% /expand%}}
 
 #### Proprietà dell'intersezione
 * commutativa: $A \cap B = B \cap A$
@@ -128,9 +133,7 @@ Si dice che si esegue una **partizione** di un insieme $A$ se si possono riparti
 * l'intersezione fra due qualsiasi di essi sia l'insieme vuoto
 * l'unione di tutti i $B_i$ dia l'insieme $A$
 
-'''
-INSERIRE IMMAGINI
-'''
+![partizione](/Matematica/images/partizione.jpg)
 
 ### Il prodotto cartesiano
 Dati due insiemi $A$ e $B$ si definisce poi il **prodotto cartesiano** $A \times B$ come l'insieme i cui elementi sono tutte e sole le **coppie ordinate** $(a, \; b)$ dove $a$ è un qualunque elemento di $A$ e $b$ è un qualunque elemento di $B$.
