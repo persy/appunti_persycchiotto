@@ -41,12 +41,12 @@ MathJax.Hub.Config({
 - [L'ellisse](#lellisse)
     - [L'ellisse e la sua equazione](#lellisse-e-la-sua-equazione)
     - [Le caratteristiche di un'ellisse](#le-caratteristiche-di-unellisse)
-    - [L'eccentricità](#leccentricita)
+    - [L'eccentricità dell'ellisse](#leccentricita-dellellisse)
     - [Le rette tangenti](#le-rette-tangenti)
 - [L'iperbole](#liperbole)
     - [L'iperbole e la sua equazione](#liperbole-e-la-sua-equazione)
     - [Le caratteristiche di un'iperbole](#le-caratteristiche-di-uniperbole)
-    - [L'eccentricità](#leccentricita)
+    - [L'eccentricità dell'iperbole](#leccentricita-delliperbole)
 - [Le rette tangenti](#le-rette-tangenti)
     - [L'iperbole equilatera](#liperbole-equilatera)
 - [Le coniche e la risoluzione grafica delle equazioni](#le-coniche-e-la-risoluzione-grafica-delle-equazioni)
@@ -239,7 +239,7 @@ Le caratteristiche di un'ellisse si possono ricavare dalla sua equazione:
 * i fuochi appartengono all'asse $x$ se è $a > b$ quindi $F (\pm \sqrt{a^2 - b^2}, \space 0)$
 * i fuochi appartengono all'asse $y$ se $a < b$ quindi $F(0, \space \pm \sqrt{b^2 - a^2})$
 
-### L'eccentricità
+### L'eccentricità dell'ellisse
 L'eccentricità $e$ di un'ellisse è definita come il rapporto tra la semidistanza focale $c$ ed il semiasse maggiore:
 
 <div align="center">
@@ -314,7 +314,7 @@ Le caratteristiche di un'iperbole si possono ricavare dalla sua equazione:
     * i fuochi sono i punti di coordinate $(0, \space \pm c)$ dove $c = \sqrt{a^2 + b^2}$
     * gli asintoti hanno equazione $y = \pm \dfrac{b}{a} x$
 
-### L'eccentricità
+### L'eccentricità dell'iperbole
 L'eccentricità di un'iperbole è definita come il rapporto fra la semidistanza focale $c$ ed il semiasse trasverso:
 
 <div align="center">

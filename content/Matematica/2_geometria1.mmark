@@ -22,6 +22,10 @@ MathJax.Hub.Config({
   }
 });
 </script>
+</script>
+<!-- script JSXGraph -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js">
+</script>
 
 - [I primi elementi e i triangoli](#i-primi-elementi-e-i-triangoli)
     - [Termini primitivi assiomi](#termini-primitivi-assiomi)
@@ -300,6 +304,62 @@ Relativamente ai quadrilateri valgono poi le seguenti proprietà:
 * un quadrilatero è inscrittibile in una circonferenza se e solo se gli angoli opposti sono supplementari
 * un quadrilatero è circoscrittibile a una circonferenza se e solo se la somma di due lati opposti è congruente alla
 somma degli altri due.
+
+{{%expand "Mostra grafico dell'approssimazione fra aree dei poligoni e del cerchio" %}}
+<div align="center">
+<div id="inscr_circ" class="jxgbox" style="width:700px; height:700px;"></div>
+<script type="text/javascript">
+var brd = JXG.JSXGraph.initBoard('inscr_circ', {boundingbox: [-6, 6, 6, -6], grid: true});
+var n = brd.createElement('slider',[[-5,5],[4.5,5],[3,4,96]],{name:'n lati ',snapWidth:1});
+
+var p0 = brd.create('point',[0,0],{strokeColor:'black',fillColor:'white',name:''});
+var p1 = brd.create('point',[4,0],{strokeColor:'black',fillColor:'white',name:''});
+var rot = brd.create('transform', [function() {return Math.PI*2.0/n.Value();},p0], {type:'rotate'});  // angle, rotation center
+var ptmp = brd.create('point',[0,0],{visible:false,withLabel:false});  // dummy point for the rotation
+var cOut = brd.create('curve',[[0],[0]],{fillColor:'#5e9abf',highlightFillColor:'#5e9abf',fillOpacity:1,highlightFillOpacity:1,strokeColor:'black',highlightStrokeColor:'black'});
+var circ = brd.create('circle',[p0,p1],{fillColor:'#fefd4c',highlightFillColor:'#fefd4c',fillOpacity:0.5,highlightFillOpacity:0.5,strokeColor:'black',highlightStrokeColor:'black'});
+var cIn = brd.create('curve',[[0,1,2],[0,1,2]],{fillColor:'#d769a3',highlightFillColor:'#d769a3',fillOpacity:1,highlightFillOpacity:1,strokeColor:'black',highlightStrokeColor:'black'});
+
+var tCirc = brd.create('text',[-4.5,-3.0,function(){
+    return 'Area del cerchio = ' + (0.0625*circ.getRadius()*circ.getRadius()*Math.PI).toFixed(5);
+  }],{fontSize:15});
+var tIn = brd.create('text',[-4.5,-3.5,function(){
+    return 'Area del poligono inscritto di ' +n.Value().toFixed(0)+ ' lati = ' + (0.0625*n.Value()*circ.getRadius()*circ.getRadius()*Math.sin(Math.PI/n.Value())).toFixed(5);
+  }],{fontSize:15});
+var tOut = brd.create('text',[-4.5,-4.0,function(){
+    return 'Area del poligono circoscritto di  ' +n.Value().toFixed(0)+ ' lati = ' + (0.0625*n.Value()*circ.getRadius()*circ.getRadius()*Math.tan(Math.PI/n.Value())).toFixed(5);
+  }],{fontSize:15});
+
+cIn.updateDataArray = function() {
+  var i, len = n.Value();
+  this.dataX = [p0.X()+circ.getRadius()];
+  this.dataY = [p0.Y()];
+  ptmp.setPositionDirectly(JXG.COORDS_BY_USER, [p0.X()+circ.getRadius(), p0.Y()]);
+  for (i=0;i<len;i++) {
+    rot.applyOnce(ptmp);
+    this.dataX.push(ptmp.X());
+    this.dataY.push(ptmp.Y());
+  }
+}
+
+cOut.updateDataArray = function() {
+  var i, len = n.Value();
+  var s = circ.getRadius()/Math.cos(Math.PI/n.Value());
+  this.dataX = [p0.X()+s];
+  this.dataY = [p0.Y()];
+  ptmp.setPositionDirectly(JXG.COORDS_BY_USER, [p0.X()+s,p0.Y()]);
+  for (i=0;i<len;i++) {
+    rot.applyOnce(ptmp);
+    this.dataX.push(ptmp.X());
+    this.dataY.push(ptmp.Y());
+  }
+}
+
+brd.update();
+</script>
+</div>
+{{% /expand%}}
+
 
 ### Poligoni regolari
 Un poligono si dice **regolare** se ha tutti i lati e tutti gli angoli fra loro congruenti. Se un poligono è regolare, allora:
