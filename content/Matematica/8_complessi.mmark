@@ -46,6 +46,26 @@ L'operazione di divisione si esegue applicando la proprietà invariantiva, molti
 $\dfrac{a + ib}{c + id} = \dfrac{(a + ib)(c - id)}{(c + id)(c - id)} = \dfrac{(a + ib)(c - id)}{c^2 + d^2}$
 </div>
 
+{{%expand "Mostra grafico della somma" %}}
+<div align="center">
+<div id="box" class="jxgbox" style="width:500px; height:500px;"></div>
+<script type="text/javascript">
+board = JXG.JSXGraph.initBoard('box', {boundingbox: [-6, 6, 8, -4], axis: true});
+        
+var org = board.create('point', [0,0], {style:10,visible:true,fixed:true,name:' '});
+var x = board.create('point', [2,2], {style:5,color:'blue',name:'x'});
+var y = board.create('point', [-1,-3], {style:5,color:'blue',name:'y'});
+var xy = board.create('point', 
+    ["X(x)+X(y)","Y(x)+Y(y)"], {style:7,color:'green',name:'x+y'});
+var ax = board.create('arrow', [org,x], {strokeColor:'blue'});
+var ay = board.create('arrow', [org,y], {strokeColor:'blue'});
+var axy = board.create('arrow', [org,xy], {strokeColor:'red'});
+var ax2 = board.create('arrow', [x,xy], {strokeColor:'blue',strokeWidth:1,dash:1});
+var ay2 = board.create('arrow', [y,xy], {strokeColor:'blue',strokeWidth:1,dash:1});
+</script>
+</div>
+{{% /expand%}}
+
 ### La risoluzione delle equazioni in $\mathbb{C}$
 L'unità immaginaria consente di calcolare le radici quadrate dei numeri negativi: ad esempio $\sqrt{-4} = \pm 2i$
 
@@ -89,6 +109,22 @@ Le operazioni di moltiplicazione, divisione e potenza si possono eseguire in mod
 * **prodotto**: si moltiplicano i moduli e si sommano le anomalie: $z_1 \cdot z_2 = \rho_1 \cdot \rho_1[cos(\vartheta_1 + \vartheta_2) i \sin (\vartheta_1 + \vartheta_2)]$
 * **quoziente**: si dividono i moduli e si sottraggono le anomalie: $\dfrac{z_1}{z_2} = \dfrac{\rho_1}{\rho_2} [\cos (\vartheta_1 - \vartheta_2) + i \sin (\vartheta_1 - \vartheta_2)]$
 * **potenza** $n$-esima: si eleva a potenza $n$ il modulo $\rho$ e si moltiplica per $n$ l'anomalia $\vartheta$: $z^n = \rho^2 (\cos n \vartheta + i \sin n \vartheta)$ (formula di De Moivre)
+
+{{%expand "Mostra grafico del prodotto" %}}
+<div align="center">
+<div id="box2" class="jxgbox" style="width:500px; height:500px;"></div>
+<script type="text/javascript">
+brd2 = JXG.JSXGraph.initBoard('box2', {boundingbox: [-6, 6, 8, -4], axis: true});
+        
+var org2 = brd2.create('point', [0,0], {style:10,visible:true,fixed:true,name:' '});
+var x = brd2.create('point', [1,0], {style:4,color:'blue',name:'x'});
+var y = brd2.create('point', [0,2], {style:4,color:'red',strokeColor:'red',name:'y'});
+var xy = brd2.create('point', 
+    ["X(x)*X(y)-Y(x)*Y(y)","X(x)*Y(y)+X(y)*Y(x)"], {style:7,fillColor:'green',strokeColor:'green',name:'x*y'});
+var c = brd2.create('circle',[org2,1],{strokeWidth:1,dash:1});
+</script>
+</div>
+{{% /expand%}}
 
 ### Le radici $n$-esime di un numero complesso
 Ogni numero complesso $z = (\rho, \space \vartheta)$ ha $n$ radici $n$-esime che si esprimono con la formula:

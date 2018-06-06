@@ -1,6 +1,6 @@
 ---
 title: "Test Grafici"
-draft: true
+draft: false
 weight: 99
 ---
 
@@ -21,7 +21,8 @@ MathJax.Hub.Config({
 });
 </script>
 <!-- script JSXGraph -->
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js">
+</script>
 
 ## Prova di grafici
 Grafico della funzione esponenziale $y = e^{ax}$
@@ -279,3 +280,67 @@ ctx.stroke();
     * $a_0$ è valore del primo termine della successione;
 
     * $a_n$ è regola che esprime $a_0$ in funzione di $a _{n-1}$;
+
+
+
+
+{{%expand "Mostra grafico" %}}
+<div align="center">
+<div id="NOMEGRAFICO" class="jxgbox" style="width:500px; height:500px;"></div>
+<script type="text/javascript">
+
+</script>
+</div>
+{{% /expand%}}
+
+
+
+
+
+{{%expand "Grafico di un polinomio di quinto grado $a x^5 + b x^4 + c x^3 + d x^2 + e x + f$" %}}
+<div align="center">
+<table style="width:100%">
+  <tr>
+    <td><div id="coeff" class="jxgbox" style="width:200px; height:250px;"></div>
+<script type="text/javascript">
+var brd1 = JXG.JSXGraph.initBoard('coeff', {boundingbox: [2, 0, 20, -20], showNavigation:false, showCopyright: false, axis:false});
+var a5 = brd1.create('slider',[[3,-2],[11,-2],[-5,0,5]], {name:'a'});
+var a4 = brd1.create('slider',[[3,-4],[11,-4],[-5,0,5]], {name:'b'});
+var a3 = brd1.create('slider',[[3,-6],[11,-6],[-5,0,5]], {name:'c'});
+var a2 = brd1.create('slider',[[3,-8],[11,-8],[-5,0,5]], {name:'d'});
+var a1 = brd1.create('slider',[[3,-10],[11,-10],[-5,0,5]], {name:'e'});
+var a0 = brd1.create('slider',[[3,-12],[11,-12],[-5,0,5]], {name:'f'});
+</script></td>
+    <td>
+        <div id="poly" class="jxgbox" style="width:500px; height:500px;">
+        </div>
+        <script type="text/javascript">
+var brd = JXG.JSXGraph.initBoard('poly', {boundingbox: [-10, 20, 10, -20], axis:true});
+       brd1.addChild(brd);
+
+var f = brd.create('functiongraph',[function(x){ 
+	return a5.Value()*x*x*x*x*x + a4.Value()*x*x*x*x + a3.Value()*x*x*x + a2.Value()*x*x + a1.Value()*x + a0.Value(); 
+}]);
+
+var button1 = brd1.create('button', [3, -15, 'Reset', function() {
+	a5.moveTo([7,-2]); 
+	a4.moveTo([7,-4]);
+	a3.moveTo([7,-6]);
+	a2.moveTo([7,-8]);
+	a1.moveTo([7,-10]);
+	a0.moveTo([7,-12]);
+	brd.update();
+}], {});
+    
+a5.on('drag',function(){ brd.update();});
+a4.on('drag',function(){ brd.update();});
+a3.on('drag',function(){ brd.update();});
+a2.on('drag',function(){ brd.update();});
+a1.on('drag',function(){ brd.update();});
+a0.on('drag',function(){ brd.update();});
+        </script>
+    </td>
+  </tr> 
+</table>
+</div>
+{{% /expand%}}

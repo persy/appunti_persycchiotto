@@ -22,6 +22,10 @@ MathJax.Hub.Config({
   }
 });
 </script>
+<!-- script JSXGraph -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js">
+</script>
+
 
 - [La parabola](#la-parabola)
     - [La parabola e la sua equazione](#la-parabola-e-la-sua-equazione)
@@ -78,6 +82,8 @@ e la concavità è rivolta:
 * verso destra se $a > 0$
 * verso sinistra se $a < 0$
 
+§IMMAGINE§
+
 ### Gli elementi caratteristici
 Se si conosce l'equazione di una parabola, posto $\Delta = b^2 - 4 ac$, si possono trovare il vertice, il fuoco, l'equazione dell'asse e della direttrice con queste formule:
 
@@ -118,7 +124,20 @@ Per determinare la **posizione di una retta rispetto a una parabola** si deve:
     * se $\Delta = 0$ la retta è tangente alla parabola
     * se $\Delta < 0$ la retta non interseca la parabola
 
-§IMMAGINI§
+{{%expand "Mostra grafico della parabola" %}}
+<div align="center">
+<div id="parabola" class="jxgbox" style="width:500px; height:500px;"></div>
+<script type="text/javascript">
+var brd5=JXG.JSXGraph.initBoard('parabola',{boundingbox:[-3,3,3,-3], keepaspectratio:true});
+
+var A = brd5.create('point',[-1,1]);
+var B = brd5.create('point',[1,1]);
+var line = brd5.create('line',[A,B]);
+var C = brd5.create('point',[0,-1]);
+var par = brd5.create('parabola',[C,line]);
+</script>
+</div>
+{{% /expand%}}
 
 ### Le rette tangenti
 Per trovare l'equazione della **retta tangente** a una parabola si deve calcolare il discriminante $\Delta$ dell'equazione risolvente il sistema retta-parabola e imporre che sia $\Delta = 0$
@@ -131,6 +150,9 @@ In particolare, se la retta tangente deve passare per un punto $P(x_0, \space y_
 * scrivere l'equazione della retta $y - y_0 = m(x - x_0)$ dove:
     * $m = 2ax _0 + b$ se la parabole è del tipo $y = a x^2 + bx + c$
     * $m = \dfrac{1}{2a y_0 + b}$ se la parabola è del tipo $x = a y^2 + 2y + c$
+
+
+
 
 ### I fasci di parabole
 Se l'equazione di una parabola dipende da un parametro, si ha un **fascio di parabole**; ognuna di esse, salvo casi particolari, si ottiene attribuendo un particolare valore al parametro. Fra le parabole del fascio può essere compresa una retta che rappresenta la parabola degenere.
@@ -155,6 +177,18 @@ Per trovare l'equazione di una circonferenza sono necessarie e sufficienti tre i
 
 * se si conoscono le coordinate $(p, \space q)$ del centro e la misura $r$ del raggio, la sua equazione è $(x - p) ^2 + (y - p) ^2 = r^2$
 * se si conoscono le coordinate di tre punti, basta sostituire tali coordinate nell'equazione generale della circonferenza e risolvere il sistema ottenuto.
+
+{{%expand "Mostra grafico della circonferenza" %}}
+<div align="center">
+<div id="cerchio" class="jxgbox" style="width:750px; height:300px;"></div>
+<script type="text/javascript">
+var b = JXG.JSXGraph.initBoard('cerchio',  {boundingbox: [-5, 2, 5, -2]});
+var p1 = b.createElement('point',[0,0], {name:'A',size: 4, face: 'o'});
+var p2 = b.createElement('point',[2,-1], {name:'B',size: 4, face: 'o'});
+var ci = b.createElement('circle',["A","B"], {strokeColor:'#00ff00',strokeWidth:2});
+</script>
+</div>
+{{% /expand%}}
 
 ### Le rette tangenti
 Per trovare la retta tangente ad una circonferenza si può procedere in due modi:
@@ -184,7 +218,19 @@ $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$
 
 dove $a$ rappresenta il semiasse appartenente all'asse delle ascisse e $b$ rappresenta il semiasse appartenente all'asse delle ordinate.
 
-§IMMAGINI§
+{{%expand "Mostra grafico della ellisse" %}}
+<div align="center">
+<div id="ellisse" class="jxgbox" style="width:500px; height:500px;"></div>
+<script type="text/javascript">
+var brd1=JXG.JSXGraph.initBoard('ellisse',{boundingbox:[-3,3,3,-3], keepaspectratio:true});
+
+var D = brd1.create('point',[-1,1]);
+var E = brd1.create('point',[1,1]);
+var F = brd1.create('point',[0,-1]);
+var ell = brd1.create('ellipse',[D,E,F]);
+</script>
+</div>
+{{% /expand%}}
 
 ### Le caratteristiche di un'ellisse 
 Le caratteristiche di un'ellisse si possono ricavare dalla sua equazione:
@@ -202,6 +248,20 @@ $e = \dfrac{c}{semiasse \space maggiore}$
 
 Essa rappresenta lo "schiacciamento" dell'ellisse sulla retta del semiasse maggiore ed è un numero reale compreso fra $0$ e $1$; se $e = 0$ l'ellisse diventa una circonferenza, se $e = 1$ l'ellisse degenera nel segmento individuato dai fuochi
 
+{{%expand "Mostra grafico dell'eccentricità" %}}
+<div align="center">
+<div id="ecc_ell" class="jxgbox" style="width:500px; height:500px;"></div>
+<script type="text/javascript">
+var brd2=JXG.JSXGraph.initBoard('ecc_ell',{boundingbox:[-3,3,3,-3], keepaspectratio:true});
+
+var A = brd2.create('point',[-1,0]);
+var B = brd2.create('point',[1,0]);
+var t = brd2.create('slider',[[-1,-2],[1,-2],[0,4,10]]);
+var ell = brd2.create('ellipse',[A,B,function(){return t.Value();}]);
+</script>
+</div>
+{{% /expand%}}
+
 ### Le rette tangenti
 Per trovare l'equazione della retta tangente ad un'ellisse si deve:
 * scrivere l'equazione generale della retta
@@ -215,24 +275,38 @@ In particolare, se la retta tangente passa per un punto $P(x_0, \space y_0)$ che
 
 
 ## L'iperbole
+
 ### L'iperbole e la sua equazione
 L'iperbole è il luogo dei punti del piano per i quali è costante la differenza delle distanze da due punti fissi detti fuochi. L'equazione di un'iperbole che centro nell'origine e assi di simmetria coincidenti con gli assi cartesiani è
-* $\dfrac{x^2}{a^2} - \dfrac{y^2}{b^2} = 1$ se i fuochi appartengono all'asse delle ascisse
-* $\dfrac{x^2}{a^2} - \dfrac{y^2}{b^2} = -1$ se i fuochi appartengono all'asse delle ordinate
 
-§IMMAGINI§
+- $\dfrac{x ^2}{a ^2} - \dfrac{y ^2}{b ^2} = 1$ se i fuochi appartengono all'asse delle ascisse
+- $\dfrac{x ^2}{a ^2} - \dfrac{y ^2}{b ^2} = - 1$ se i fuochi appartengono all'asse delle ordinate
+
+{{%expand "Mostra grafico dell'iperbole" %}}
+<div align="center">
+<div id="iperbole" class="jxgbox" style="width:500px; height:500px;"></div>
+<script type="text/javascript">
+var brd3=JXG.JSXGraph.initBoard('iperbole',{boundingbox:[-3,3,3,-3], keepaspectratio:true});
+
+var A = brd3.create('point',[0,1]);
+var B = brd3.create('point',[1,1]);
+var C = brd3.create('point',[0,-1]);
+var hyp = brd3.create('hyperbola',[A,B,C]);
+</script>
+</div>
+{{% /expand%}}
 
 ### Le caratteristiche di un'iperbole
 Le caratteristiche di un'iperbole si possono ricavare dalla sua equazione:
 
-* nel caso dell'iperbole di equazione $\dfrac{x^2}{a^2} - \dfrac{y^2}{b^2} = 1$:
+- nel caso dell'iperbole di equazione $\dfrac{x ^2}{a ^2} - \dfrac{y ^2}{b ^2} = 1$:
     * $a$ rappresenta il semiasse trasverso
     * $b$ rappresenta il semiasse non trasverso
     * i vertici reali sono i punti di coordinate $(-a, \space 0) \space (a, \space 0)$
     * i vertici immaginari sono i punti di coordinate $(0, \space -b) \space (0, \space b)$
     * i fuochi sono i punti di coordinate $(\pm c, \space 0)$ dove $c = \sqrt{a^2 + b^2}$
     * gli asintoti hanno equazione $y = \pm \dfrac{b}{a} x$
-* nel caso dell'iperbole di equazione $\dfrac{x^2}{a^2} - \dfrac{y^2}{b^2} = -1$:
+- nel caso dell'iperbole di equazione $\dfrac{x ^2}{a ^2} - \dfrac{y ^2}{b ^2} = - 1$:
     * $a$ rappresenta il semiasse trasverso
     * $b$ rappresenta il semiasse non trasverso
     * i vertici reali sono i punti di coordinate $(0, \space -b) \space (0, \space b)$
@@ -248,6 +322,20 @@ $e = \dfrac{semiasse \space focale}{semiasse \space trasverso} = \begin{cases} \
 </div>
 
 Essa rappresenta l'ampiezza dell'iperbole ed è un numero reale maggiore di $1$.
+
+{{%expand "Mostra grafico dell'eccentricità" %}}
+<div align="center">
+<div id="eccentricita_ip" class="jxgbox" style="width:500px; height:500px;"></div>
+<script type="text/javascript">
+var brd4=JXG.JSXGraph.initBoard('eccentricita_ip',{boundingbox:[-3,3,3,-3], keepaspectratio:true});
+
+var C = brd4.create('point',[-1,0]);
+var D = brd4.create('point',[1,0]);
+var s = brd4.create('slider',[[-1,-2],[1,-2],[0,0.5,3]]);
+var hyp = brd4.create('hyperbola',[C,D,function(){return s.Value();}]);
+</script>
+</div>
+{{% /expand%}}
 
 ## Le rette tangenti
 Per trovare l'equazione della **retta tangente** ad un'iperbole si deve:
@@ -316,6 +404,22 @@ Una funzione continua $f(x)$ possiede almeno uno zero in un intervallo $(a, \spa
     * individuare un intervallo che contiene lo zero
     * trovare un suo valore approssimato applicando il metodo delle sostituzioni successive oppure il metodo di bisezione
 
+
+{{%expand "Mostra grafico della sezione conica attraverso 5 punti" %}}
+<div align="center">
+<div id="cinque_punti" class="jxgbox" style="width:500px; height:500px;"></div>
+<script type="text/javascript">
+var brd6=JXG.JSXGraph.initBoard('cinque_punti',{boundingbox:[-3,3,3,-3], keepaspectratio:true});
+
+var A = brd6.create('point',[0.55,0]);
+var B = brd6.create('point',[1,1]);
+var C = brd6.create('point',[2,-1]);
+var D = brd6.create('point',[2,2]);
+var E = brd6.create('point',[0.3,-2]);
+var con = brd6.create('conic',[A,B,C,D,E]);
+</script>
+</div>
+{{% /expand%}}
 
 
 
