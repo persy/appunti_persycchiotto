@@ -98,24 +98,36 @@ Un insieme si può rappresentare:
 
 Si dice che $B$  un **sottoinsieme** di un insieme $A$ se tutti gli elementi di $B$ sono anche elementi di $A$ e si scrive $B \subseteq A$. In particolare se in $A$ ci sono altri elementi oltre a quelli di $B$, allora $B$ è un **sottoinsieme proprio** di $A$ e vale la relazione $B \subset A$; se in $A$ non ci sono altri elementi oltre a quelli di $B$ allora $B = A$. L'insieme $A$ stesso e l'insieme vuoto sono i **sottoinsiemi impropri** di $A$.
 
+{{%expand "Diagramma di Eulero-Venn di un sottoinsieme" %}}
+
+![immagine](/Matematica/images/sottoinsieme.svg)
+
+{{% /expand%}}
+
 ### Le operazioni fra insiemi
 
 * **Intersezione**: $A \cap B$  è l'insieme i cui elementi appartengono contemporaneamente sia ad $A$ che a $B$. Se l'intersezione fra due insiemi è vuota, i due insiemi si dicono **disgiunti**
 * **Unione**: $A \cup B$ è l'insieme i cui elementi appartengono ad $A$ oppure a $B$, quindi anche ad entrambi
-* **Differenza**: $A - B$ è l'insieme degli elementi di $A$ che non appartengono a $B$. Nel caso particolare in cui $B$ è un sottoinsieme di $A$, dell'insieme $A - B$ si dice che è il complementare di $B$ rispetto ad $A$ e si indica con uno dei seguenti simboli: $C_A B$ o $\bar{B}_A$
+* **Differenza**: $A - B$ è l'insieme degli elementi di $A$ che non appartengono a $B$. 
 
-
-{{%expand "Immagini delle operazioni fra sistemi" %}}
-![immagine](/Matematica/images/intersezione.jpg)
-![immagine](/Matematica/images/unione.jpg)
-![immagine](/Matematica/images/differenza.jpg)
-![immagine](/Matematica/images/complementari.jpg)
+{{%expand "Le operazioni fra sistemi" %}}
+![immagine](/Matematica/images/intersezione.svg)
+![immagine](/Matematica/images/unione.svg)
+![immagine](/Matematica/images/differenza.svg)
 
 1. *Intersezione*
 2. *Unione*
 3. *Differenza*
-4. *Insiemi complemetari*
 {{% /expand%}}
+
+Nel caso particolare in cui $B$ è un sottoinsieme di $A$, dell'insieme $A - B$ si dice che è il complementare di $B$ rispetto ad $A$ e si indica con uno dei seguenti simboli: $C_A B$ o $\bar{B}_A$
+
+{{%expand "Insieme complementare" %}}
+
+![immagine](/Matematica/images/complementari.svg)
+
+{{% /expand%}}
+
 
 #### Proprietà dell'intersezione
 * commutativa: $A \cap B = B \cap A$
@@ -137,7 +149,12 @@ Si dice che si esegue una **partizione** di un insieme $A$ se si possono riparti
 * l'intersezione fra due qualsiasi di essi sia l'insieme vuoto
 * l'unione di tutti i $B_i$ dia l'insieme $A$
 
-![partizione](/Matematica/images/partizione.jpg)
+{{%expand "Partizionamento di un insieme" %}}
+
+![partizione](/Matematica/images/partizione.svg)
+
+{{% /expand%}}
+
 
 ### Il prodotto cartesiano
 Dati due insiemi $A$ e $B$ si definisce poi il **prodotto cartesiano** $A \times B$ come l'insieme i cui elementi sono tutte e sole le **coppie ordinate** $(a, \; b)$ dove $a$ è un qualunque elemento di $A$ e $b$ è un qualunque elemento di $B$.
@@ -149,11 +166,26 @@ Una funzione può quindi essere:
 * una **corrispondenza univoca**: ad ogni $x$ è associato un solo $y$
 * una **corrispondenza biunivoca**: ad ogni $x$ è associato un solo $y$ e, viceversa, ad ogni $y$ è associato un solo $x$
 
+{{%expand "Corrispondenza univoca e biunivoca" %}}
+
+![immagine](/Matematica/images/univoca.svg)
+![immagine](/Matematica/images/biunivoca.svg)
+
+1. *Univoca*
+2. *Biunivoca*
+
+{{% /expand%}}
+
 Le corrispondenze biunivoche sono le sole *funzioni invertibili*.
 
 Una funzione $k$ è il prodotto di altre due funzioni $f$ e $g$, e si scrive $k = g \circ f$,
-quando la funzione $g$ è applicata agli elementi generati dalla funzione $f$. La funzione $g$, anche se è scritta per prima nel prodotto, è quella che viene ap-
-plicata per seconda.
+quando la funzione $g$ è applicata agli elementi generati dalla funzione $f$. La funzione $g$, anche se è scritta per prima nel prodotto, è quella che viene applicata per seconda.
+
+{{%expand "Funzione prodotto" %}}
+
+![immagine](/Matematica/images/prodotto.svg)
+
+{{% /expand%}}
 
 ## Gli insiemi $\mathbb{N}$ e $\mathbb{Z}$
 ### I numeri naturali
