@@ -100,8 +100,8 @@ Si dice che $B$  un **sottoinsieme** di un insieme $A$ se tutti gli elementi di 
 
 ### Le operazioni fra insiemi
 
-* **Intersezione**: $A\cap B$  è l'insieme i cui elementi appartengono contemporaneamente sia ad $A$ che a $B$. Se l'intersezione fra due insiemi è vuota, i due insiemi si dicono **disgiunti**
-* **Unione**: $A\cup B$ è l'insieme i cui elementi appartengono ad $A$ oppure a $B$, quindi anche ad entrambi
+* **Intersezione**: $A \cap B$  è l'insieme i cui elementi appartengono contemporaneamente sia ad $A$ che a $B$. Se l'intersezione fra due insiemi è vuota, i due insiemi si dicono **disgiunti**
+* **Unione**: $A \cup B$ è l'insieme i cui elementi appartengono ad $A$ oppure a $B$, quindi anche ad entrambi
 * **Differenza**: $A - B$ è l'insieme degli elementi di $A$ che non appartengono a $B$. Nel caso particolare in cui $B$ è un sottoinsieme di $A$, dell'insieme $A - B$ si dice che è il complementare di $B$ rispetto ad $A$ e si indica con uno dei seguenti simboli: $C_A B$ o $\bar{B}_A$
 
 '''

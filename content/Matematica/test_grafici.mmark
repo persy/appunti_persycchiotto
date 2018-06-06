@@ -27,260 +27,6 @@ MathJax.Hub.Config({
 ## Prova di grafici
 Grafico della funzione esponenziale $y = e^{ax}$
 
-### Primo grafico
-Testo prima del grafico
-
-{{%expand "Mostra grafico" %}}
-<div align="center">
-<div id="box1" class="jxgbox" style="width:500px; height:500px;"></div>
-<script type="text/javascript">
-var board = JXG.JSXGraph.initBoard('box1', {boundingbox: [-5, 20, 5, -2], axis:true});
-var A = board.create('point', [1, Math.exp(1)]);
-var graph = board.create('functiongraph', [
-         function(x) {
-            var a = Math.log(A.Y()) / A.X();
-            return Math.exp(a * x);
-         }]);         
-var txt = board.create('text', [-3, 10, function () {
-           return "a = " + (Math.log(A.Y()) / A.X()).toFixed(2);
-          }], {fontSize: 16});
-</script>
-</div>
-{{% /expand%}}
-
-Testo dopo il grafico
-
-### Altre cose
-Ancora altro testo $\vec v$
-
-http://jsxgraph.uni-bayreuth.de/wiki/index.php/Draggable_exponential_function
-
-<!--
-<script type="text/javascript">
-var addRandPoint = function(x) {
-  p.push(brd.create('point',
-              [x,(Math.random()-0.5)*3],{style:6}));
-  brd.update();
-};
-
-// Init board
-var brd = JXG.JSXGraph.initBoard('box',
-            {axis:true, boundingbox:[-5, 10, 5, -10]});
-
-// Create points
-var p = [];
-p[0] = brd.create('point', [-4,2], {style:6});
-p[1] = brd.create('point', [3,-1], {style:6});
-addRandPoint(-2);
-addRandPoint(0.5);
-addRandPoint(1);
-
-// Draw function graph
-var pol = JXG.Math.Numerics.lagrangePolynomial(p);
-var g = brd.create('functiongraph', [pol, -10, 10], {strokeWidth:1});
-
-// Draw derivative
-var g2 = brd.create('functiongraph', [JXG.Math.Numerics.D(pol), -10, 10],
-           {dash:3, strokeWidth:1, strokeColor:'#ff0000'});
-
-</script>
--->
-
-<!--
-<canvas id="myCanvas" width="578" height="300"></canvas>
-<script>
-function Graph(config) {
-    // user defined properties
-    this.canvas = document.getElementById(config.canvasId);
-    this.minX = config.minX;
-    this.minY = config.minY;
-    this.maxX = config.maxX;
-    this.maxY = config.maxY;
-    this.unitsPerTick = config.unitsPerTick;
-
-    // constants
-    this.axisColor = '#aaa';
-    this.font = '8pt Calibri';
-    this.tickSize = 20;
-
-    // relationships
-    this.context = this.canvas.getContext('2d');
-    this.rangeX = this.maxX - this.minX;
-    this.rangeY = this.maxY - this.minY;
-    this.unitX = this.canvas.width / this.rangeX;
-    this.unitY = this.canvas.height / this.rangeY;
-    this.centerY = Math.round(Math.abs(this.minY / this.rangeY) * this.canvas.height);
-    this.centerX = Math.round(Math.abs(this.minX / this.rangeX) * this.canvas.width);
-    this.iteration = (this.maxX - this.minX) / 1000;
-    this.scaleX = this.canvas.width / this.rangeX;
-    this.scaleY = this.canvas.height / this.rangeY;
-
-    // draw x and y axis
-    this.drawXAxis();
-    this.drawYAxis();
-    }
-
-    Graph.prototype.drawXAxis = function() {
-    var context = this.context;
-    context.save();
-    context.beginPath();
-    context.moveTo(0, this.centerY);
-    context.lineTo(this.canvas.width, this.centerY);
-    context.strokeStyle = this.axisColor;
-    context.lineWidth = 2;
-    context.stroke();
-
-    // draw tick marks
-    var xPosIncrement = this.unitsPerTick * this.unitX;
-    var xPos, unit;
-    context.font = this.font;
-    context.textAlign = 'center';
-    context.textBaseline = 'top';
-
-    // draw left tick marks
-    xPos = this.centerX - xPosIncrement;
-    unit = -1 * this.unitsPerTick;
-    while(xPos > 0) {
-        context.moveTo(xPos, this.centerY - this.tickSize / 2);
-        context.lineTo(xPos, this.centerY + this.tickSize / 2);
-        context.stroke();
-        context.fillText(unit, xPos, this.centerY + this.tickSize / 2 + 3);
-        unit -= this.unitsPerTick;
-        xPos = Math.round(xPos - xPosIncrement);
-    }
-
-    // draw right tick marks
-    xPos = this.centerX + xPosIncrement;
-    unit = this.unitsPerTick;
-    while(xPos < this.canvas.width) {
-        context.moveTo(xPos, this.centerY - this.tickSize / 2);
-        context.lineTo(xPos, this.centerY + this.tickSize / 2);
-        context.stroke();
-        context.fillText(unit, xPos, this.centerY + this.tickSize / 2 + 3);
-        unit += this.unitsPerTick;
-        xPos = Math.round(xPos + xPosIncrement);
-    }
-    context.restore();
-    };
-
-    Graph.prototype.drawYAxis = function() {
-    var context = this.context;
-    context.save();
-    context.beginPath();
-    context.moveTo(this.centerX, 0);
-    context.lineTo(this.centerX, this.canvas.height);
-    context.strokeStyle = this.axisColor;
-    context.lineWidth = 2;
-    context.stroke();
-
-    // draw tick marks
-    var yPosIncrement = this.unitsPerTick * this.unitY;
-    var yPos, unit;
-    context.font = this.font;
-    context.textAlign = 'right';
-    context.textBaseline = 'middle';
-
-    // draw top tick marks
-    yPos = this.centerY - yPosIncrement;
-    unit = this.unitsPerTick;
-    while(yPos > 0) {
-        context.moveTo(this.centerX - this.tickSize / 2, yPos);
-        context.lineTo(this.centerX + this.tickSize / 2, yPos);
-        context.stroke();
-        context.fillText(unit, this.centerX - this.tickSize / 2 - 3, yPos);
-        unit += this.unitsPerTick;
-        yPos = Math.round(yPos - yPosIncrement);
-    }
-
-    // draw bottom tick marks
-    yPos = this.centerY + yPosIncrement;
-    unit = -1 * this.unitsPerTick;
-    while(yPos < this.canvas.height) {
-        context.moveTo(this.centerX - this.tickSize / 2, yPos);
-        context.lineTo(this.centerX + this.tickSize / 2, yPos);
-        context.stroke();
-        context.fillText(unit, this.centerX - this.tickSize / 2 - 3, yPos);
-        unit -= this.unitsPerTick;
-        yPos = Math.round(yPos + yPosIncrement);
-    }
-    context.restore();
-    };
-
-    Graph.prototype.drawEquation = function(equation, color, thickness) {
-    var context = this.context;
-    context.save();
-    context.save();
-    this.transformContext();
-
-    context.beginPath();
-    context.moveTo(this.minX, equation(this.minX));
-
-    for(var x = this.minX + this.iteration; x <= this.maxX; x += this.iteration) {
-        context.lineTo(x, equation(x));
-    }
-
-    context.restore();
-    context.lineJoin = 'round';
-    context.lineWidth = thickness;
-    context.strokeStyle = color;
-    context.stroke();
-    context.restore();
-    };
-
-    Graph.prototype.transformContext = function() {
-    var context = this.context;
-
-    // move context to center of canvas
-    this.context.translate(this.centerX, this.centerY);
-
-    /*
-        * stretch grid to fit the canvas window, and
-        * invert the y scale so that that increments
-        * as you move upwards
-        */
-    context.scale(this.scaleX, -this.scaleY);
-    };
-    var myGraph = new Graph({
-    canvasId: 'myCanvas',
-    minX: -10,
-    minY: -10,
-    maxX: 10,
-    maxY: 10,
-    unitsPerTick: 1
-    });
-
-    myGraph.drawEquation(function(x) {
-    return 5 * Math.sin(x);
-    }, 'green', 3);
-
-    myGraph.drawEquation(function(x) {
-    return x * x;
-    }, 'blue', 3);
-
-    myGraph.drawEquation(function(x) {
-    return 1 * x;
-    }, 'red', 3);
-
-</script>
-
-<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
- 
-</canvas>  
-<script>   
-var c = document.getElementById("myCanvas");
-var ctx = c.getContext("2d");
-ctx.moveTo(0, 0);
-ctx.lineTo(200, 100);
-ctx.stroke(); 
-</script>
--->
-
-* mediante il suo termine generale $a_0$ espresso in funzione di $n$
-* mediante una formula ricorsiva definita in questo modo:
-    * $a_0$ è valore del primo termine della successione;
-
-    * $a_n$ è regola che esprime $a_0$ in funzione di $a _{n-1}$;
-
 
 GRAFICO VUOTO SOTTO
 
@@ -293,54 +39,41 @@ GRAFICO VUOTO SOTTO
 </div>
 {{% /expand%}}
 
+### Test
 
 
 
-
-{{%expand "Grafico di un polinomio di quinto grado $a x^5 + b x^4 + c x^3 + d x^2 + e x + f$" %}}
 <div align="center">
-<table style="width:100%">
-  <tr>
-    <td><div id="coeff" class="jxgbox" style="width:200px; height:250px;"></div>
+<div id="insiemi" class="jxgbox" style="width:700px; height:300px;"></div>
 <script type="text/javascript">
-var brd1 = JXG.JSXGraph.initBoard('coeff', {boundingbox: [2, 0, 20, -20], showNavigation:false, showCopyright: false, axis:false});
-var a5 = brd1.create('slider',[[3,-2],[11,-2],[-5,0,5]], {name:'a'});
-var a4 = brd1.create('slider',[[3,-4],[11,-4],[-5,0,5]], {name:'b'});
-var a3 = brd1.create('slider',[[3,-6],[11,-6],[-5,0,5]], {name:'c'});
-var a2 = brd1.create('slider',[[3,-8],[11,-8],[-5,0,5]], {name:'d'});
-var a1 = brd1.create('slider',[[3,-10],[11,-10],[-5,0,5]], {name:'e'});
-var a0 = brd1.create('slider',[[3,-12],[11,-12],[-5,0,5]], {name:'f'});
-</script></td>
-    <td>
-        <div id="poly" class="jxgbox" style="width:500px; height:500px;">
-        </div>
-        <script type="text/javascript">
-var brd = JXG.JSXGraph.initBoard('poly', {boundingbox: [-10, 20, 10, -20], axis:true});
-       brd1.addChild(brd);
+var b = JXG.JSXGraph.initBoard('insiemi', {boundingbox: [-5, 2, 5, -2], axis:true});
+var p1 = b.createElement('point',[0,0], {name:'A',size: 4, face: 'o'});
+var p2 = b.createElement('point',[1.5,0], {name:'B',size: 4, face: 'o'});
+var p3 = b.createElement('point',[1,0], {name:'C',size: 4, face: 'o'});
+var p4 = b.createElement('point',[2.5,0], {name:'D',size: 4, face: 'o'});
+var ci1 = b.create('circle',[p1,p2], 
+    {strokeWidth:1, fillColor:'red', fillOpacity:0.5 });
+var ci2 = b.create('circle',[p3,p4], 
+    {strokeWidth:1, fillColor:'blue', fillOpacity:0.5 });
+var i1 = brd.create('intersection', [c1,c2,0], {visible:false});
+var i2 = brd.create('intersection', [c1,c2,1], {visible:false});
+var arc1 = brd.create('arc', [p1, i1, i2], {visible:false});
+var arc2 = brd.create('arc', [p3, i2, i1], {visible:false});
+var c3 = JXG.joinCurves(brd, [arc1,arc2], 
+        {   strokeColor:'black', 
+            strokeWidth:3, 
+            fillColor:'yellow', fillOpacity:0.2
+        });
 
-var f = brd.create('functiongraph',[function(x){ 
-	return a5.Value()*x*x*x*x*x + a4.Value()*x*x*x*x + a3.Value()*x*x*x + a2.Value()*x*x + a1.Value()*x + a0.Value(); 
-}]);
-
-var button1 = brd1.create('button', [3, -15, 'Reset', function() {
-	a5.moveTo([7,-2]); 
-	a4.moveTo([7,-4]);
-	a3.moveTo([7,-6]);
-	a2.moveTo([7,-8]);
-	a1.moveTo([7,-10]);
-	a0.moveTo([7,-12]);
-	brd.update();
-}], {});
-    
-a5.on('drag',function(){ brd.update();});
-a4.on('drag',function(){ brd.update();});
-a3.on('drag',function(){ brd.update();});
-a2.on('drag',function(){ brd.update();});
-a1.on('drag',function(){ brd.update();});
-a0.on('drag',function(){ brd.update();});
-        </script>
-    </td>
-  </tr> 
-</table>
+p1.setProperty({fixed:true});
+</script>
 </div>
-{{% /expand%}}
+
+
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile userAgent=\&quot;Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0\&quot; version=\&quot;8.7.6\&quot; editor=\&quot;www.draw.io\&quot;&gt;&lt;diagram id=\&quot;a85d93c3-41de-b1e3-3a9c-9b1449ab0cb2\&quot; name=\&quot;Page-1\&quot;&gt;5ZWxkpswEIafhh6QjUl5+M5Jk8pFahktoDmBGCEHnKfPCknGOuyZFJ67IhSM9K+0Wn3/DkRk307fFe2bn5KBiNKYTRF5jdJ0l+f4NsLFCtuYWKFWnFkpWYQj/wNOjJ165gyGYKGWUmjeh2Ipuw5KHWhUKTmGyyopwlN7WsNKOJZUrNVfnOnGqnm6W/QfwOvGn5xk32zkRMv3Wslz586LUlLNjw231OdyFx0ayuR4I5G3iOyVlNqO2mkPwqD12Oy+w4PotW4Fnf6XDc6W31ScwVc816UvngVuQOw4KcaGazj2tDSREY1HrdGtwFmCQzr01ouKT4D5i4oLsZdCqjkRifE5YCHFoJV8h5tIVuZwqjAiMTnXpmmyzCz0dGKcuEpBaZge3ja5MsTWBNmCVhdc4jd47K4tczcdF4+vS5pbf71IXV/V19QLWxw4vPdRp5+I+nAwsO+hPuXbzTZeo64VZRwxvnKFmbnsMAB00M8Bv/lC7tmK+8sKPN5Mh4RDcJ3s4ANlJ1HBa8OqRBKAemE4cfySvLhAyxkTjyydvxTGwLnDg3b/4M8TTMhDExKydmFzx4RneLBbeVD8nx4k2aeZgNPlPzLHbv7V5O0v&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
+<script type="text/javascript" src="https://www.draw.io/js/viewer.min.js"></script>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202px" version="1.1" viewBox="0 0 202 122" style="max-width:100%;max-height:122px;"><defs/><g transform="translate(0.5,0.5)"><ellipse cx="140" cy="60" rx="60" ry="60" fill-opacity="0.66" fill="#0000ff" stroke="#6c8ebf" stroke-opacity="0.66" pointer-events="none"/><ellipse cx="60" cy="60" rx="60" ry="60" fill-opacity="0.66" fill="#ff0000" stroke="#b85450" stroke-opacity="0.66" pointer-events="none"/><g transform="translate(55.5,53.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="8" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 9px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">A</div></div></foreignObject><text x="4" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">A</text></switch></g><g transform="translate(136.5,53.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="7" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 8px; white-space: nowrap; overflow-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">B</div></div></foreignObject><text x="4" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">B</text></switch></g></g></svg>
+
+
+![immagine](content/Matematica/images/intersezione.jpg)
