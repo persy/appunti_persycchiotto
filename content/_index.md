@@ -65,46 +65,8 @@ In questo sito potrai trovare i miei appunti, liberamente scaricabili e modifica
 + **[Fisica](fisica)**: meccanica, termologia, lo studio delle onde e primi elementi di relatività
 + **[Contenuti causali](random)**: un insieme eterogeneo di guide, raccolte e opinioni
 
-
-<div>
-<table style="border: none;">
-    <tr>
-        <td style="vertical-align:middle">
-            <a href="https://www.kernel.org/">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50"/>
-            </a>
-        <td style="vertical-align:middle">
-            <a href="https://www.netlify.com">
-                <img src="https://www.netlify.com/img/press/logos/logomark.svg" width="50"/>
-            </a>    
-        <td style="vertical-align:middle">
-            <a href="https://gohugo.io/">
-                <img src="https://raw.githubusercontent.com/gohugoio/hugo/master/docs/static/img/hugo-logo-med.png" width="50"/>
-            </a>
-        <td style="vertical-align:middle">
-            <a href="https://github.com/">
-                <img src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png" width="50"/>
-            </a>
-        <td style="vertical-align:middle">
-            <a href"https://code.visualstudio.com/">
-                <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" width="50" />
-            </a>
-        <td style="vertical-align:middle">    
-            <a href="https://daringfireball.net/projects/markdown/syntax">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="50"/>
-            </a>
-        <td style="vertical-align:middle">    
-            <a href="https://www.latex-project.org/">
-                <img src="https://raw.githubusercontent.com/github/explore/8301424c613f4cd048e8a7f3e3c81ea20321f3ed/topics/latex/latex.png" width="50"/>
-            </a>  
-        <td style="vertical-align:middle">
-            <a href="https://inkscape.org/en/">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Inkscape.logo.svg" width="50"/>
-            </a>
-        <td style="vertical-align:middle">
-            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-                <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" width="50"/>
-    </tr>
-</table>      
-  
+<footer>
+<div style="margin-left: auto; margin-right:auto; width: 50%; white-space: nowrap; display:inline;"><a href="https://www.kernel.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50"/></a><a href="https://www.netlify.com"><img src="https://www.netlify.com/img/press/logos/logomark.svg" width="50"/></a><a href="https://gohugo.io/"><img src="https://raw.githubusercontent.com/gohugoio/hugo/master/docs/static/img/hugo-logo-med.png" width="50"/></a><a href="https://github.com/"><img src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png" width="50"/>
+</a><a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" width="50" /></a><a href="https://daringfireball.net/projects/markdown/syntax"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="50"/></a><a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/github/explore/8301424c613f4cd048e8a7f3e3c81ea20321f3ed/topics/latex/latex.png" width="50"/></a>  <a href="https://inkscape.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Inkscape.logo.svg" width="50"/></a><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" width="50"/>
+</div> 
 </footer>
