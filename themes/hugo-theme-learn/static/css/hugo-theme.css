@@ -1,6 +1,5 @@
 /* Insert here special css for hugo theme, on top of any other imported css */
 
-
 /* Table of contents */
 
 .progress ul {
@@ -15,7 +14,6 @@
     overflow: auto;
     padding: 15px !important;
 }
-
 
 #TableOfContents > ul > li > ul > li > ul li {
   margin-right: 8px;
