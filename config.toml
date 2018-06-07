@@ -1,6 +1,6 @@
 baseURL = "http://www.persycchiotto.it/"
-languageCode = "en-US"
-defaultContentLanguage = "en"
+languageCode = "it-IT"
+defaultContentLanguage = "it"
 
 title = "Appunti di Persycchiotto"
 theme = "hugo-theme-learn"
