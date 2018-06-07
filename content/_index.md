@@ -65,6 +65,9 @@ In questo sito potrai trovare i miei appunti, liberamente scaricabili e modifica
 + **[Fisica](fisica)**: meccanica, termologia, lo studio delle onde e primi elementi di relatività
 + **[Contenuti causali](random)**: un insieme eterogeneo di guide, raccolte e opinioni
 
-<footer>
 
-</footer>
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50"/> | <img src="https://www.netlify.com/img/press/logos/logomark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/gohugoio/hugo/master/docs/static/img/hugo-logo-med.png" width="50"/> |
+--- | --- | --- |
+| <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" width="50" /> | <img src="https://raw.githubusercontent.com/github/explore/8301424c613f4cd048e8a7f3e3c81ea20321f3ed/topics/latex/latex.png" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Inkscape.logo.svg" width="50"/>
+
+
