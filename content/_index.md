@@ -7,7 +7,7 @@ draft: false
 <p align="center"><i>(<b>wo</b>-rk in <b>ff</b>-rogress!)</i></p>
 
 
-<div style="display: flex; margin: auto; width: 50%; text-align: center;">
+<div style="margin-left: auto; margin-right:auto; width: 50%; text-align: center;">
     <a href="/biologia">
         <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
      width="40" height="40"
@@ -38,7 +38,7 @@ draft: false
      viewBox="0 0 80 80"
      style="fill:#000000;">    <path style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" d="M 59.984375 10.986328 A 1.0001 1.0001 0 0 0 59 12 C 59 30.557359 39.599609 39.083984 39.599609 39.083984 C 39.599609 39.083984 38.499285 39.573909 36.847656 40.529297 A 1 1 0 0 0 37 40 A 1 1 0 0 0 36 39 A 1 1 0 0 0 35 40 A 1 1 0 0 0 36 41 A 1 1 0 0 0 36.0625 40.996094 C 30.178579 44.574296 19 53.297521 19 68 A 1.0001 1.0001 0 1 0 21 68 C 21 49.442641 40.400391 40.916016 40.400391 40.916016 C 40.400391 40.916016 41.500715 40.426091 43.152344 39.470703 A 1 1 0 0 0 43 40 A 1 1 0 0 0 44 41 A 1 1 0 0 0 45 40 A 1 1 0 0 0 44 39 A 1 1 0 0 0 43.9375 39.003906 C 49.821421 35.425704 61 26.702479 61 12 A 1.0001 1.0001 0 0 0 59.984375 10.986328 z M 16 11 A 1 1 0 0 0 15 12 A 1 1 0 0 0 16 13 A 1 1 0 0 0 17 12 A 1 1 0 0 0 16 11 z M 40 11 A 1 1 0 0 0 39 12 A 1 1 0 0 0 40 13 A 1 1 0 0 0 41 12 A 1 1 0 0 0 40 11 z M 64 11 A 1 1 0 0 0 63 12 A 1 1 0 0 0 64 13 A 1 1 0 0 0 65 12 A 1 1 0 0 0 64 11 z M 16 15 A 1 1 0 0 0 15 16 A 1 1 0 0 0 16 17 A 1 1 0 0 0 17 16 A 1 1 0 0 0 16 15 z M 40 15 A 1 1 0 0 0 39 16 A 1 1 0 0 0 40 17 A 1 1 0 0 0 41 16 A 1 1 0 0 0 40 15 z M 64 15 A 1 1 0 0 0 63 16 A 1 1 0 0 0 64 17 A 1 1 0 0 0 65 16 A 1 1 0 0 0 64 15 z M 16 19 A 1 1 0 0 0 15 20 A 1 1 0 0 0 16 21 A 1 1 0 0 0 17 20 A 1 1 0 0 0 16 19 z M 40 19 A 1 1 0 0 0 39 20 A 1 1 0 0 0 40 21 A 1 1 0 0 0 41 20 A 1 1 0 0 0 40 19 z M 64 19 A 1 1 0 0 0 63 20 A 1 1 0 0 0 64 21 A 1 1 0 0 0 65 20 A 1 1 0 0 0 64 19 z M 16 23 A 1 1 0 0 0 15 24 A 1 1 0 0 0 16 25 A 1 1 0 0 0 17 24 A 1 1 0 0 0 16 23 z M 40 23 A 1 1 0 0 0 39 24 A 1 1 0 0 0 40 25 A 1 1 0 0 0 41 24 A 1 1 0 0 0 40 23 z M 64 23 A 1 1 0 0 0 63 24 A 1 1 0 0 0 64 25 A 1 1 0 0 0 65 24 A 1 1 0 0 0 64 23 z M 16 27 A 1 1 0 0 0 15 28 A 1 1 0 0 0 16 29 A 1 1 0 0 0 17 28 A 1 1 0 0 0 16 27 z M 40 27 A 1 1 0 0 0 39 28 A 1 1 0 0 0 40 29 A 1 1 0 0 0 41 28 A 1 1 0 0 0 40 27 z M 64 27 A 1 1 0 0 0 63 28 A 1 1 0 0 0 64 29 A 1 1 0 0 0 65 28 A 1 1 0 0 0 64 27 z M 16 31 A 1 1 0 0 0 15 32 A 1 1 0 0 0 16 33 A 1 1 0 0 0 17 32 A 1 1 0 0 0 16 31 z M 40 31 A 1 1 0 0 0 39 32 A 1 1 0 0 0 40 33 A 1 1 0 0 0 41 32 A 1 1 0 0 0 40 31 z M 64 31 A 1 1 0 0 0 63 32 A 1 1 0 0 0 64 33 A 1 1 0 0 0 65 32 A 1 1 0 0 0 64 31 z M 16 35 A 1 1 0 0 0 15 36 A 1 1 0 0 0 16 37 A 1 1 0 0 0 17 36 A 1 1 0 0 0 16 35 z M 40 35 A 1 1 0 0 0 39 36 A 1 1 0 0 0 40 37 A 1 1 0 0 0 41 36 A 1 1 0 0 0 40 35 z M 64 35 A 1 1 0 0 0 63 36 A 1 1 0 0 0 64 37 A 1 1 0 0 0 65 36 A 1 1 0 0 0 64 35 z M 8 39 A 1 1 0 0 0 7 40 A 1 1 0 0 0 8 41 A 1 1 0 0 0 9 40 A 1 1 0 0 0 8 39 z M 12 39 A 1 1 0 0 0 11 40 A 1 1 0 0 0 12 41 A 1 1 0 0 0 13 40 A 1 1 0 0 0 12 39 z M 16 39 A 1 1 0 0 0 15 40 A 1 1 0 0 0 16 41 A 1 1 0 0 0 17 40 A 1 1 0 0 0 16 39 z M 20 39 A 1 1 0 0 0 19 40 A 1 1 0 0 0 20 41 A 1 1 0 0 0 21 40 A 1 1 0 0 0 20 39 z M 24 39 A 1 1 0 0 0 23 40 A 1 1 0 0 0 24 41 A 1 1 0 0 0 25 40 A 1 1 0 0 0 24 39 z M 28 39 A 1 1 0 0 0 27 40 A 1 1 0 0 0 28 41 A 1 1 0 0 0 29 40 A 1 1 0 0 0 28 39 z M 32 39 A 1 1 0 0 0 31 40 A 1 1 0 0 0 32 41 A 1 1 0 0 0 33 40 A 1 1 0 0 0 32 39 z M 48 39 A 1 1 0 0 0 47 40 A 1 1 0 0 0 48 41 A 1 1 0 0 0 49 40 A 1 1 0 0 0 48 39 z M 52 39 A 1 1 0 0 0 51 40 A 1 1 0 0 0 52 41 A 1 1 0 0 0 53 40 A 1 1 0 0 0 52 39 z M 56 39 A 1 1 0 0 0 55 40 A 1 1 0 0 0 56 41 A 1 1 0 0 0 57 40 A 1 1 0 0 0 56 39 z M 60 39 A 1 1 0 0 0 59 40 A 1 1 0 0 0 60 41 A 1 1 0 0 0 61 40 A 1 1 0 0 0 60 39 z M 64 39 A 1 1 0 0 0 63 40 A 1 1 0 0 0 64 41 A 1 1 0 0 0 65 40 A 1 1 0 0 0 64 39 z M 68 39 A 1 1 0 0 0 67 40 A 1 1 0 0 0 68 41 A 1 1 0 0 0 69 40 A 1 1 0 0 0 68 39 z M 72 39 A 1 1 0 0 0 71 40 A 1 1 0 0 0 72 41 A 1 1 0 0 0 73 40 A 1 1 0 0 0 72 39 z M 16 43 A 1 1 0 0 0 15 44 A 1 1 0 0 0 16 45 A 1 1 0 0 0 17 44 A 1 1 0 0 0 16 43 z M 40 43 A 1 1 0 0 0 39 44 A 1 1 0 0 0 40 45 A 1 1 0 0 0 41 44 A 1 1 0 0 0 40 43 z M 64 43 A 1 1 0 0 0 63 44 A 1 1 0 0 0 64 45 A 1 1 0 0 0 65 44 A 1 1 0 0 0 64 43 z M 16 47 A 1 1 0 0 0 15 48 A 1 1 0 0 0 16 49 A 1 1 0 0 0 17 48 A 1 1 0 0 0 16 47 z M 40 47 A 1 1 0 0 0 39 48 A 1 1 0 0 0 40 49 A 1 1 0 0 0 41 48 A 1 1 0 0 0 40 47 z M 64 47 A 1 1 0 0 0 63 48 A 1 1 0 0 0 64 49 A 1 1 0 0 0 65 48 A 1 1 0 0 0 64 47 z M 16 51 A 1 1 0 0 0 15 52 A 1 1 0 0 0 16 53 A 1 1 0 0 0 17 52 A 1 1 0 0 0 16 51 z M 40 51 A 1 1 0 0 0 39 52 A 1 1 0 0 0 40 53 A 1 1 0 0 0 41 52 A 1 1 0 0 0 40 51 z M 64 51 A 1 1 0 0 0 63 52 A 1 1 0 0 0 64 53 A 1 1 0 0 0 65 52 A 1 1 0 0 0 64 51 z M 16 55 A 1 1 0 0 0 15 56 A 1 1 0 0 0 16 57 A 1 1 0 0 0 17 56 A 1 1 0 0 0 16 55 z M 40 55 A 1 1 0 0 0 39 56 A 1 1 0 0 0 40 57 A 1 1 0 0 0 41 56 A 1 1 0 0 0 40 55 z M 64 55 A 1 1 0 0 0 63 56 A 1 1 0 0 0 64 57 A 1 1 0 0 0 65 56 A 1 1 0 0 0 64 55 z M 16 59 A 1 1 0 0 0 15 60 A 1 1 0 0 0 16 61 A 1 1 0 0 0 17 60 A 1 1 0 0 0 16 59 z M 40 59 A 1 1 0 0 0 39 60 A 1 1 0 0 0 40 61 A 1 1 0 0 0 41 60 A 1 1 0 0 0 40 59 z M 64 59 A 1 1 0 0 0 63 60 A 1 1 0 0 0 64 61 A 1 1 0 0 0 65 60 A 1 1 0 0 0 64 59 z M 16 63 A 1 1 0 0 0 15 64 A 1 1 0 0 0 16 65 A 1 1 0 0 0 17 64 A 1 1 0 0 0 16 63 z M 40 63 A 1 1 0 0 0 39 64 A 1 1 0 0 0 40 65 A 1 1 0 0 0 41 64 A 1 1 0 0 0 40 63 z M 64 63 A 1 1 0 0 0 63 64 A 1 1 0 0 0 64 65 A 1 1 0 0 0 65 64 A 1 1 0 0 0 64 63 z M 16 67 A 1 1 0 0 0 15 68 A 1 1 0 0 0 16 69 A 1 1 0 0 0 17 68 A 1 1 0 0 0 16 67 z M 40 67 A 1 1 0 0 0 39 68 A 1 1 0 0 0 40 69 A 1 1 0 0 0 41 68 A 1 1 0 0 0 40 67 z M 64 67 A 1 1 0 0 0 63 68 A 1 1 0 0 0 64 69 A 1 1 0 0 0 65 68 A 1 1 0 0 0 64 67 z"></path></svg>  
     </a>
-    <a href="/Fisica" style="margin-left:5px;">
+    <a href="/fisica" style="margin-left:5px;">
         <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
      width="40" height="40"
      viewBox="0 0 80 80"
@@ -66,44 +66,45 @@ In questo sito potrai trovare i miei appunti, liberamente scaricabili e modifica
 + **[Contenuti causali](random)**: un insieme eterogeneo di guide, raccolte e opinioni
 
 
-<p float="middle">
-    <a href="https://www.netlify.com">
-        <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" width="50"/>
-    </a>
-    <a href="https://gohugo.io/">
-        <img src="https://raw.githubusercontent.com/gohugoio/hugo/master/docs/static/img/hugo-logo-med.png" width="50"/>
-    </a>
-    <a href="https://github.com/">
-        <img src="https://camo.githubusercontent.com/fc74cf4a092fe0d9d193bdc46b0f9821883fa3cd/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f37323931392f3338313630382f30373464306230362d613565332d313165322d386237662d3966303965623264646661652e6a7067" width="50"/>
-    </a> 
-    <a href="https://miek.nl/tags/mmark/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="50"/>
-    </a>
-    <a href="https://inkscape.org/en/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" width="50"/>
-    </a>
-    <a href="">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="50"/>
-    </a>
-    <a href="https://www.latex-project.org/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="50"/>
-    </a> 
-</p>
-
-
-
-<!-- 
-![hugo](https://raw.githubusercontent.com/gohugoio/hugo/master/docs/static/img/hugo-logo-med.png?width=50px) ![github](https://camo.githubusercontent.com/fc74cf4a092fe0d9d193bdc46b0f9821883fa3cd/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f37323931392f3338313630382f30373464306230362d613565332d313165322d386237662d3966303965623264646661652e6a7067?width=50px) 
-![latex](https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg?width=50px) 
-![markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg?width=50px) 
-![inkscape](https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg?width=50px) 
-![code](https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg?width=50px)
--->
-
-<footer align="center" style="height:100%;">
-    <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-    
-
-
-
+<footer style="margin-left: auto; margin-right:auto; width: 50%; text-align: center;">
+<table style="border: none;">
+    <tr>
+        <td>
+            <a href="https://www.kernel.org/">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50"/>
+            </a>
+        <td>
+            <a href="https://www.netlify.com">
+                <img src="https://www.netlify.com/img/press/logos/logomark.svg" width="50"/>
+            </a>    
+        <td>
+            <a href="https://gohugo.io/">
+                <img src="https://raw.githubusercontent.com/gohugoio/hugo/master/docs/static/img/hugo-logo-med.png" width="50"/>
+            </a>
+        <td>
+            <a href="https://github.com/">
+                <img src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png" width="50"/>
+            </a>
+        <td>
+            <a href"https://code.visualstudio.com/">
+                <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" width="50" />
+            </a>
+        <td>    
+            <a href="https://daringfireball.net/projects/markdown/syntax">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="50"/>
+            </a>
+        <td>    
+            <a href="https://www.latex-project.org/">
+                <img src="https://raw.githubusercontent.com/github/explore/8301424c613f4cd048e8a7f3e3c81ea20321f3ed/topics/latex/latex.png" width="50"/>
+            </a>  
+        <td>
+            <a href="https://inkscape.org/en/">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Inkscape.logo.svg" width="50"/>
+            </a>
+        <td>
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" width="50"/>
+    </tr>
+</table>      
+  
 </footer>
