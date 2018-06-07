@@ -1,5 +1,6 @@
 /* Insert here special css for hugo theme, on top of any other imported css */
 
+
 /* Table of contents */
 
 .progress ul {
@@ -14,6 +15,7 @@
     overflow: auto;
     padding: 15px !important;
 }
+
 
 #TableOfContents > ul > li > ul > li > ul li {
   margin-right: 8px;
@@ -78,14 +80,6 @@ body {
   border-right: thin solid #DAD8D8 !important;
   padding-right: 0.5rem !important;
   margin-right: 1rem !important;
-}
-
-#top-bar {
-  z-index: 1000;
-}
-
-#top-bar.is_stuck {
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
 .btn {
@@ -247,4 +241,14 @@ figcaption h4 {
 
 .select-style :hover {
     cursor:  pointer;
+}
+
+@media only all and (max-width: 47.938em) {
+  #breadcrumbs .links, #top-github-link-text {
+      display: none;
+  }
+}
+
+.is-sticky #top-bar {
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.1); 
 }

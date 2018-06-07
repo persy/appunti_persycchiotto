@@ -638,14 +638,6 @@ code + .copy-to-clipboard {
     height: 21px;
     top: 0;
 }
-code.has-jax {
-    font: inherit;
-    font-size: 100%;
-    background: inherit;
-    border: inherit;
-    color: #515151;
-}
-
 pre {
     padding: 1rem;
     margin: 2rem 0;
@@ -993,7 +985,6 @@ td {
 #top-bar {
     background: #F6F6F6;
     border-radius: 2px;
-    margin: 0rem -1rem 2rem;
     padding: 0 1rem;
     height: 0;
     min-height: 3rem;
