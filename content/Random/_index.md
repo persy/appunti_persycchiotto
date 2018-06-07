@@ -1,5 +1,5 @@
 ---
-title: "Contenuti casuali"
+title: "Contenuti non cat."
 draft: false
 ---
 
