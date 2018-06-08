@@ -3,7 +3,7 @@ title: "Contenuti non cat."
 draft: false
 ---
 
-Elenco degli altri testi non categorizzabili
+Elenco degli altri testi _non categorizzabili_.
 
 * [Storia della rosa](1_storia_rosa) : dai Sumeri all'età contemporanea
 * [Proprietà officinali della rosa](2_proprieta_med_rosa): essenze e gastronomia
