@@ -26,7 +26,6 @@ In fisica con teoria della relatività si intendono in generale le trasformazion
 L'espressione è usata anche nel linguaggio comune per riferirsi alle teorie della relatività ristretta o della relatività generale, in quanto esempi più noti del principio di relatività.
 
 
-
 ## La relatività dello spazio e del tempo 
 
 ### L'esperimento di Michelson e Morley 

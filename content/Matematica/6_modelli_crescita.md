@@ -26,19 +26,6 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js">
 </script>
 
-- [La funzione esponenziale e la funzione logaritmica](#la-funzione-esponenziale-e-la-funzione-logaritmica)
-  - [La funzione esponenziale](#la-funzione-esponenziale)
-  - [La definizione di logaritmo](#la-definizione-di-logaritmo)
-  - [La funzione logaritmica](#la-funzione-logaritmica)
-  - [Le proprietà dei logaritmi](#le-proprieta-dei-logaritmi)
-- [Equazioni e disequazioni esponenziali e logaritimiche](#equazioni-e-disequazioni-esponenziali-e-logaritimiche)
-  - [Le equazioni esponenziali elementari](#le-equazioni-esponenziali-elementari)
-  - [Le equazioni esponenziali non elementari](#le-equazioni-esponenziali-non-elementari)
-  - [Le disequazioni esponenziali](#le-disequazioni-esponenziali)
-  - [Le equazioni logaritmiche elementari](#le-equazioni-logaritmiche-elementari)
-  - [Le equazioni logaritmiche non elementari](#le-equazioni-logaritmiche-non-elementari)
-  - [Le disequazioni logaritmiche](#le-disequazioni-logaritmiche)
-  - [La risoluzione grafica](#la-risoluzione-grafica)
 
 ## La funzione esponenziale e la funzione logaritmica
 
@@ -62,6 +49,7 @@ $\log_a b = c \leftrightarrow a^c = b$
 </div>
 
 In base alla definizione si ha anche che:
+
 * $\log_a a = 1$
 * $\log_a 1 = 0$
 * $a^{\log_a b} = b$
@@ -72,6 +60,7 @@ In base alla definizione si ha anche che:
 La funzione $y = \log_a x$ (con $a > 0 \space \wedge \space a \neq 1$) si chiama **funzione logaritmica** ed è definita $x > 0$; il suo grafico si può ottenere da quello della funzione esponenziale per simmetria rispetto alla bisettrice del primo e terzo quadrante ed è una funzione crescente se $a > 1$, secrescente se $0 < a < 1$; in ogni caso tutte le funzioni logaritmiche passano per il punto di coordinate $(1, \space 0)$.
 
 Data la curva logaritmica di equazione $y = \log_a x$:
+
 * la sua simmetrica rispetto all'asse delle ordinate ha equazione $y = \log_a (-x)$
 * la sua simmetrica rispetto all'asse delle ascisse ha equazione $y = - \log_a x$
 * la sua corrispondente nella translazione di vettore $\vec v (h, \space k)$ ha equazione $y - k = \log_a (x - h)$
@@ -82,25 +71,22 @@ Data la curva logaritmica di equazione $y = \log_a x$:
 <div id="expo" class="jxgbox" style="width:500px; height:500px;"></div>
 <script type="text/javascript">
 var board = JXG.JSXGraph.initBoard('expo', {boundingbox: [-5, 20, 5, -2], axis:true});
-
 var A = board.create('point', [1, Math.exp(1)]);
 var graph = board.create('functiongraph', [
          function(x) {
             var a = Math.log(A.Y()) / A.X();
             return Math.exp(a * x);
-         }]);
-           
+         }]);      
 var txt = board.create('text', [-3, 10, function () {
            return "a = " + (Math.log(A.Y()) / A.X()).toFixed(2);
           }], {fontSize: 16});
-
-
 </script>
 </div>
 {{% /expand%}}
 
 ### Le proprietà dei logaritmi
-Valgono le seguenti proprietà dei logaritmi, supposto che $a$, $b$, $c$ siano numeri reali positivi (con $a \neq 1$)
+Valgono le seguenti proprietà dei logaritmi, supposto che $a$, $b$, $c$ siano numeri reali positivi (con $a \neq 1$):
+
 * $\log_a (b \cdot c) = \log_a b + \log_a c$
 * $\log_a (\dfrac{b}{c}) = \log_a b - \log_a c$ 
   * in particolare $\log_a \dfrac{1}{b} = - \log_a b$
@@ -119,6 +105,7 @@ In sistemi di logaritmi di uso più comune sono quelli in base 10 indicati con i
 Un'equazione si dice **esponenziale** se l'incognita compare nell'esponente di qualche potenza.
 
 Il metodo di risoluzione di un'equazione esponenziale dipende dalla forma di quest'ultima:
+
 * $a^{f(x)} = a^{g(x)}$ è equivalente a $f(x) = g(x)$; in pratica se le due potenze hanno la stessa base basta uguagliare gli esponenti
 * $a^{f(x)} = b$ e $b$ non è una potenza di $a$; è equivalente a $\log a^{f(x)} = \log b \rightarrow f(x) \log a = \log b$; in pratica si considerano i logaritmi dei due membri dell'equazione e si applicano poi le proprietà dei logaritmi.
 
@@ -141,6 +128,7 @@ Risolta questa equazione, si opera poi la sostituzione inversa e si risolvono le
 
 ### Le disequazioni esponenziali
 Per risolvere una disequazione esponenziale nella forma $a^{f(x)} > a^{g(x)}$ si deve tener conto della seguente regola:
+
 * se $a > 1$ si scrive la disuguaglianza dello stesso verso fra gli esponenti:
 
 <div align="center">
@@ -157,6 +145,7 @@ $a^{f(x)} > a^{g(x)} \rightarrow f(x) < g(x)$
 Un'equazione si dice **logaritmica** se l'incognita compare nell'argomento di un logaritmo. In tal caso il dominio dell'equazione si determina imponendo che l'argomento di ciascuno dei logaritmi sia positivo.
 
 Il metodo di risoluzione di un'equazione logaritmica dipende dalla forma di quest'ultima:
+
 * $\log_a f(x) = b$ diventa $log_a f(x) = \log_a a^b$ ed è equivalente al sistema 
 
 <div align="center">
@@ -190,6 +179,7 @@ Risolta questa equazione, si opera la sostituzione inversa e si risolvono le equ
 
 ### Le disequazioni logaritmiche
 Per risolvere una disequazione logaritmica nella forma $\log_a f(x) > \log_a g(x)$, poste le condizioni di esistenza dei due logaritmi, si deve tener conto della seguente regola:
+
 * se $a > 1$ si scrive la disuguaglianza dello stesso verso fra gli argomenti: 
 
 <div align="center">

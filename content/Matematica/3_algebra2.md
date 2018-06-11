@@ -23,48 +23,6 @@ MathJax.Hub.Config({
 });
 </script>
 
-- [I sistemi lineari](#i-sistemi-lineari)
-    - [I sistemi](#i-sistemi)
-    - [I principi di equivalenza](#i-principi-di-equivalenza)
-    - [I sistemi lineari](#i-sistemi-lineari)
-    - [Le matrici e i determinanti](#le-matrici-e-i-determinanti)
-    - [Il metodo di Cramer](#il-metodo-di-cramer)
-- [I radicali](#i-radicali)
-    - [La funzione radice e i radicali](#la-funzione-radice-e-i-radicali)
-    - [La proprietà invariantiva](#la-proprieta-invariantiva)
-    - [Radicali e moduli](#radicali-e-moduli)
-    - [Operazioni con i radicali](#operazioni-con-i-radicali)
-    - [I radicali quadratici doppi](#i-radicali-quadratici-doppi)
-    - [La razionalizzazione](#la-razionalizzazione)
-    - [Le potenze ad esponente razionale](#le-potenze-ad-esponente-razionale)
-- [Il piano cartesiano e la retta](#il-piano-cartesiano-e-la-retta)
-    - [Il sistema di ascisse sulal retta](#il-sistema-di-ascisse-sulal-retta)
-    - [Il sistema di riferimento cartesiano nel piano](#il-sistema-di-riferimento-cartesiano-nel-piano)
-    - [Le isometrie nel piano cartesiano](#le-isometrie-nel-piano-cartesiano)
-    - [L'equazione della retta](#lequazione-della-retta)
-    - [Il coefficiente angolare di una retta](#il-coefficiente-angolare-di-una-retta)
-    - [Come scrivere l'equazione di una retta](#come-scrivere-lequazione-di-una-retta)
-    - [Altre considerazioni sulla retta](#altre-considerazioni-sulla-retta)
-    - [Gli zeri di una funzione e le soluzioni di una disequazione](#gli-zeri-di-una-funzione-e-le-soluzioni-di-una-disequazione)
-    - [I fasci di retta](#i-fasci-di-retta)
-- [Luoghi di punti e funzioni](#luoghi-di-punti-e-funzioni)
-    - [Luoghi di punti](#luoghi-di-punti)
-    - [Parabola](#parabola)
-    - [Proporzionalità](#proporzionalita)
-    - [Funzioni circolari](#funzioni-circolari)
-- [Le equazioni di secondo grado](#le-equazioni-di-secondo-grado)
-    - [Relazioni fra coefficienti e soluzioni](#relazioni-fra-coefficienti-e-soluzioni)
-    - [L'interpretazione grafica](#linterpretazione-grafica)
-- [Le disequazioni di secondo grado](#le-disequazioni-di-secondo-grado)
-    - [Come si risolve una disequazione di secondo grado](#come-si-risolve-una-disequazione-di-secondo-grado)
-    - [Le disequazioni frazionarie e di grado superiore al secondo](#le-disequazioni-frazionarie-e-di-grado-superiore-al-secondo)
-    - [Le equazioni e le disequazioni con i moduli](#le-equazioni-e-le-disequazioni-con-i-moduli)
-- [Equazioni di grado superiore al secondo e irrazionali](#equazioni-di-grado-superiore-al-secondo-e-irrazionali)
-    - [Equazioni particolari](#equazioni-particolari)
-    - [Le equazioni irrazionali](#le-equazioni-irrazionali)
-- [Sistemi non lineari](#sistemi-non-lineari)
-    - [Sistemi simmetrici](#sistemi-simmetrici)
-
 ## I sistemi lineari
 
 ### I sistemi
@@ -162,6 +120,7 @@ d & f
 </div>
 
 e si verifica che:
+
 * se $\Delta \neq 0$ il sistema è determinato con soluzione 
 
 <div align="center">
@@ -177,6 +136,7 @@ y = \dfrac{\Delta x}{\Delta}
 
 Alle stesse conclusioni si può giungere anche analizzando i rapporti tra i coefficienti delle due equazioni; si verifica
 infatti che:
+
 * il sistema è **determinato** se $\dfrac{a}{d} \neq \dfrac{b}{e}$
 * il sistema è **indeterminato** se  $\dfrac{a}{d} = \dfrac{b}{e} = \dfrac{c}{f}$
 * il sistema è impossibile se $\dfrac{a}{d} = \dfrac{b}{e} \neq \dfrac{c}{f}$
@@ -194,9 +154,11 @@ La radice $n$-esima di $a$ si indica con il simbolo $\sqrt[n]{a}$.
 
 ### La proprietà invariantiva
 I radicali in $\mathbb{R}^+ _0$ godono della fondamentale **proprietà invariantiva**:
+
 * se l'indice della radice e l'esponente del radicando vengono moltiplicati o divisi per uno stesso numero intero positivo, si ottiene un radicale che ha lo stesso valore di quello dato: $\sqrt[n]{a^m} = \sqrt[np]{a^{mp}}; \; \forall p \in Z^+$
 
 Grazie a questa proprietà si possono eseguire le seguenti operazioni:
+
 * semplificare un radicale dividendo indice della radice ed esponente del radicando per il loro M.C.D.
 * ridurre due o più radicali allo stesso indice che è il m.c.m fra gli indici delle radici
 * moltiplicare o dividere due radicali se questi hanno lo stesso indice:
@@ -217,12 +179,14 @@ Quando due radicali non hanno lo stesso indice, per trovare il loro prodotto o q
 
 ### Radicali e moduli
 Quando si eseguono delle operazioni sui radicali, si deve prestare attenzione a che:
+
 * il dominio dell'espressione che si ottiene come risultato sia lo stesso di quello dell'espressione data
 * il segno dell'espressione che si ottiene come risultato sia lo stesso di quello dell'espressione data.
 
 In caso contrario, si deve valutare di quali fattori è necessario considerare il modulo al fine di mantenere lo stesso dominio e lo stesso segno.
 
 ### Operazioni con i radicali
+
 * **Moltiplicazione e divisione**: si possono eseguire solo tra radicali dello stesso indice.
     * Radicali quadratici: $\sqrt{a} \cdot \sqrt{b} = \sqrt{ab}$; $\dfrac{\sqrt{a}}{\sqrt{b}}= \sqrt{\dfrac{a}{b}}$
 
@@ -250,6 +214,7 @@ $\sqrt{a \pm \sqrt{b}} = \sqrt{\dfrac{a + \sqrt{a^2 -b}}{2}} \pm \sqrt{\dfrac{a 
 
 ### La razionalizzazione
 Razionalizzare una frazione che ha un denominatore che contiene dei radicali significa scriverla in modo che il denominatore diventi un'espressione razionale. Per fare questo si devono moltiplicare il numeratore e il denominatore della frazione per un opportuno **fattore razionalizzante** che ha una forma diversa a seconda dei casi:
+
 * se la frazione è del tipo $\dfrac{1}{\sqrt{a}}$; il fattore razionalizzante è $\sqrt{a}$
 * se la frazione è del tipo $\dfrac{1}{\sqrt[3]{a^k}}$; il fattore razionalizzante è $\sqrt[3]{a^{3 - k}}$ con $k < 3$
 * se la frazione è del tipo $\dfrac{1}{\sqrt{a} \pm \sqrt{b}}$; il fattore razionalizzante è $\sqrt{a} \mp \sqrt{b}$
@@ -264,21 +229,24 @@ intero.
 
 ### Il sistema di ascisse sulal retta
 Fissato su una retta orientata un sistema di ascisse:
+
 * la misura del segmento di estremi $A(x)$ e $B(x_B)$ è uguale a: $|x_B - x_A|$
 * l'ascissa del punto medio del segmento $AB$ è: $\dfrac{x_A + x_B}{2}$
 
 ### Il sistema di riferimento cartesiano nel piano
 
 Fissato nel piano un sistema di riferimento cartesiano ortogonale e dati due punti $A(x_A, \space y_A)$ e $B(x_B, \space y_B)$:
+
 * la distanza fra $A$ e $B$ è uguale a: $\overline{AB} = \sqrt{(x_B - x_A) ^2 + (y_B - y_A) ^2}$
-    * in particolare, se $A$ e $B$ hanno la stessa ordinata: $\overline{AB} = |x_B - x_A|$
-    * se $A$ e $B$ hanno la stessa ascissa: $\overline{AB} = |y_B - y_A|$
+    + in particolare, se $A$ e $B$ hanno la stessa ordinata: $\overline{AB} = |x_B - x_A|$
+    + se $A$ e $B$ hanno la stessa ascissa: $\overline{AB} = |y_B - y_A|$
 * le coordinate del punto $M$ medio fra $A$ e $B$ sono: $x_M = \dfrac{x_A + x_B}{2}$ e $y_M = \dfrac{y_A + y_B}{2}$
 
 ### Le isometrie nel piano cartesiano
 Un'isometria è una funzione che ad ogni punto del piano fa corrispondere un altro punto in modo che a segmenti congruenti corrispondano segmenti congruenti. In un sistema di assi cartesiani ortogonali, le isometrie più semplici sono le simmetrie rispetto agli assi cartesiani e rispetto a un punto (l'origine o qualsiasi altro punto) e le traslazioni.
 
-Dato un punto $P(x, \space y)$
+Dato un punto $P(x, \space y)$:
+
 * il suo **simmetrico rispetto all'asse** $x$ è il punto ${P}'(x, \space -y)$
 * il suo **simmetrico rispetto all'asse** $y$ è il punto ${P}'(-x, \space y)$
 * il suo **simmetrico rispetto all'origine** $O$ è il punto ${P}'(-x, \space -y)$
@@ -286,7 +254,8 @@ Dato un punto $P(x, \space y)$
 * il suo corrispondente nella **translazione** di vettore $\vec v (v_x, \space v_y)$ è il punto ${P}'(x + v_x, \space y + v_y)$
 
 ### L'equazione della retta
-In un sistema di riferimento cartesiano ortogonale, una retta ha equazione
+In un sistema di riferimento cartesiano ortogonale, una retta ha equazione:
+
 * $x = h$ se è parallela all'asse $y$; in particolare l'asse $y$ ha equazione $x = 0$
 * $y = k$ se è parallela all'asse $x$; in particolare l'asse $x$ ha equazione $y = 0$
 * $y = mx$ se passa per l'origine
@@ -295,11 +264,13 @@ In un sistema di riferimento cartesiano ortogonale, una retta ha equazione
 La forma implicita dell'equazione di una retta è $ax + by + c = 0$
 
 In particolare poi:
+
 * $y = x$ è l'equazione della bisettrice del primo e terzo quadrante
 * $y = -x$ è l'equazione della bisettrice del secondo e quarto quadrante
 
 ### Il coefficiente angolare di una retta
 Il parametro $m$ rappresenta il coefficiente angolare e si ha che:
+
 * se $m > 0$ la retta forma un angolo acuto con la direzione poisitiva dell'asse $x$
 * se $m < 0$ la retta forma un angolo ottuso con la direzione poisitiva dell'asse $x$ 
 * se $m = 0$ la retta è parallela all'asse $x$
@@ -319,6 +290,7 @@ La condizione di perpendicolarità fra due rette è $m \cdot {m}' = -1$
 
 ### Altre considerazioni sulla retta
 Per trovare il **punto di intersezione di due rette** si deve risolvere il sistema formato dalle loro equazioni. Le situazioni che si possono presentare sono:
+
 * il sistema è determinato e allora le due rette si intersecano in un punto
 * il sistema è indeterminato e allora le due rette coincidono (sono in realtà la stessa retta)
 * il sistema è impossibile e allora le due rette sono parallele e non coincidenti
@@ -348,6 +320,7 @@ Luogo dei punti è l'insieme di tutti e soli i punti che godono di una medesima 
 Fissato nel piano un sistema di assi cartesiani ortogonali, un luogo di punti si può rappresentare mediante una relazione algebrica fra le coordinate $(x, \space y)$ dei suoi punti
 
 ### Parabola
+
 * la parabola è il luogo dei punti del piano equidistanti da un punto fisso detto **fuoco** e da una retta fissa detta **direttrice**. È una curva simmetrica rispetto alla retta che passa per il fuoco ed è perpendicolare alla direttrice. Il punto. Il punto di intersezione di tale asse di simmetria con la parabola si chiama **vertice**.
 * in un sistema di riferimento cartesiano ortogonale, una parabola che ha l'asse di simmetria parallelo all'asse $y$ ha equazione $y = ax^2 + bx + c$. 
 
@@ -359,10 +332,12 @@ IMMAGINI PARABOLE: vertice, delta positivo e negativo
 
 ### Proporzionalità
 Due insiemi di grandezze in corrispondenza biunivoca sono:
+
 * **direttamente proporzionali**  se il rapporto fra due qualsiasi elementi del primo insieme è uguale al rapporto fra i corrispondenti due elementi del secondo insieme; in tal caso si verifica che è costante il rapporto tra le misure di elementi che si corrispondono; tale costante prende il nome di costante di proporzionalità diretta
 * **inversamente proporzionali** se il rapporto fra due qualsiasi elementi del primo insieme è uguale al rapporto inverso fra i corrispondenti due elementi del secondo insieme; in tal caso si verifica che è costante il prodotto fra le misure di elementi che si corrispondono; tale costante prende il nome di costante di proporzionalità inversa
 
 In un sistema di riferimento cartesiano ortogonale:
+
 * una relazione di proporzionalità diretta di costante $m$ è rappresentata dalla retta di equazione $y = mx$
 * Una relazione di proporzionalità inversa di costante $k$ è rappresentata dall'iperbole di equazione $xy = k$
 
@@ -371,10 +346,12 @@ IMMAGINI PROPORZIONALITA'
 ### Funzioni circolari
 
 Considerata la circonferenza goniometrica, avente centro nell'origine di un sistema di assi cartesiani ortogonali e raggio unitario, ed un angolo $\alpha$ avente vertice nell'origine e un lato coincidente con il semiasse positivo delle ascisse che interseca la semicirconferenza in $P$, si definisce:
+
 * $\sin \alpha$ l'ordinata del punto $P$
 * $\cos \alpha$ l'ascissa del punto $P$
 
 Tracciata poi la retta tangente alla circonferenza nel suo punto di coordinate $(1, \space 0)$ e indicato con $Q$ il punto d'intersezione con la semiretta $OP$, si definisce:
+
 * $\tan \alpha$ l'ordinata del punto $Q$
 
 IMMAGINI FUNZIONI CIRCOLARI
@@ -382,6 +359,7 @@ IMMAGINI FUNZIONI CIRCOLARI
 ## Le equazioni di secondo grado
 
 Un'equazione di secondo grado si può sempre ricondurre alla sua forma normale $ax^2 + bx +c = 0$ nella quale deve essere $a \neq 0$. Se i coefficienti $b$ o $c$ sono nulli l'equazione si dice incompleta e le sue soluzioni si trovano applicando la legge di annullamento del prodotto oppure la definizione di radicale:
+
 * $ax^2 + bx = 0 \space \rightarrow \space x(ax + b) = 0 \space \rightarrow \space x = 0 \space \vee \space x = - \dfrac{b}{a}$
 * $ax^2 + c = 0 \space \rightarrow \space x = \pm \sqrt{- \dfrac{c}{a}}$  se  $- \dfrac{c}{a} > 0$
 * $ax^2 = 0 \space \rightarrow \space x = 0$
@@ -389,12 +367,14 @@ Un'equazione di secondo grado si può sempre ricondurre alla sua forma normale $
 Le soluzioni dell'equazione completa si trovano applicando la formula $\dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$, nella quale l'espressione $b^2 - 4ac$ si chiama **discriminante** e si indica con il simbolo $\Delta$, oppure con la formula ridotta se $b$ è pari $x = \dfrac{- \dfrac{b}{2} \pm \sqrt{\left ( \dfrac{b}{2} \right ) ^2 -ac}}{a}$
 
 In base al valore del discriminante l'equazione:
+
 * ammette due soluzioni reali e distinte se $\Delta > 0$
 * ammette due soluzioni reali coincidenti se $\Delta = 0$
 * non ha soluzioni reali se $\Delta < 0$
 
 ### Relazioni fra coefficienti e soluzioni
 Fra le soluzioni $x_1$ e $x_2$ di un'equazione di secondo grado ed i suoi coefficienti sussistono le seguenti relazioni:
+
 <div align="center">
 $x_1 + x_2 = - \dfrac{b}{a}; \space x_1 \cdot x_2 = \dfrac{c}{a}$
 </div>
@@ -416,13 +396,16 @@ da del segno del disciminante, sono i seguenti:
 IMMAGINI DELTA PARABOLE
 
 Di conseguenza:
+
 * se $\Delta > 0$ il trinomio è positivo per valori esterni all'intervallo delle radici, è negativo per valori compresi
 * se $\Delta = 0$ il trinomio è positivo per ogni $x \in \mathbb{R}$ escluso il punto in cui il trinomio si annulla e non è mai negativo
 * se $\Delta < 0$ il trinomio è sempre positivo.
+
 ### Le disequazioni frazionarie e di grado superiore al secondo
 
 * Per risolvere una disequazione frazionaria della forma $\dfrac{A(x)}{B(x)} \lessgtr 0$ si devono studiare i segni dei polinomi $A(x)$ e $B(x)$, riportare le variazioni di segno in una tabella e da essa dedurre il segno della frazione.
 * Qualunque disequazione di grado superiore al secondo nella forma $E(x) \lessgtr 0$ si risolve scomponendo in fattori al più di secondo grado l'equazione $E(x)$ e studiando poi il segno di ciascuno di tali fattori; se $E(x)$ non è scomponibile, la disequazione non può essere risolta per via algebrica.
+
 ### Le equazioni e le disequazioni con i moduli
 Per risolvere un'equazione o una disequazione con i moduli si deve studiare il segno di ciascuna espressione argomento di un modulo, costruire una tabella con la distribuzione dei segni, risolvere l'equazione o la disequazione che si ottiene in ciascuno degli intervalli individuati.
 
@@ -434,24 +417,22 @@ prodotto.
 
 ### Equazioni particolari
 Fra le equazioni di grado superiore al secondo ve ne sono alcune che si risolvono con metodi particolari.
-* Le equazioni **reciproche** hanno la caratteristica di avere i coefficienti dei termini equidistanti dagli estremi che sono
-uguali oppure opposti; di esse si può dire che, se ammettono la soluzione $k$, ammettono anche la soluzione $\dfrac{1}{k}$.
-Le equazioni di grado dispari e quelle di grado pari in cui manca il termine centrale ammettono sempre la soluzione
-$1$ oppure $-1$.
-Le equazioni di quarto grado complete della forma $ax^4 + bx^3 + cx^2 + bx + a = 0$ si risolvono in questo modo:
-    * si dividono entrambi i membri per $x^2$: $ax^2 + bx + c + \dfrac{b}{x} + \dfrac{a}{x^2} = 0$
-    * si raccoglie a fattor comune fra i termini di uguale coefficiente: $a \left ( x^2 + \dfrac{1}{x^2} \right ) + b \left ( x + \dfrac{1}{x} \right ) + c = 0$
-    * si operano le sostituzioni: $x^2 + \dfrac{1}{x^2} = t^2$ e $x + \dfrac{1}{x} = t$
-    * dopo aver risolto l'equazione in $t$ si torna alla variabile $x$ operando la sostituzione inversa.
+
+* Le equazioni **reciproche** hanno la caratteristica di avere i coefficienti dei termini equidistanti dagli estremi che sono uguali oppure opposti; di esse si può dire che, se ammettono la soluzione $k$, ammettono anche la soluzione $\dfrac{1}{k}$. Le equazioni di grado dispari e quelle di grado pari in cui manca il termine centrale ammettono sempre la soluzione $1$ oppure $-1$. Le equazioni di quarto grado complete della forma $ax^4 + bx^3 + cx^2 + bx + a = 0$ si risolvono in questo modo:
+    + si dividono entrambi i membri per $x^2$: $ax^2 + bx + c + \dfrac{b}{x} + \dfrac{a}{x^2} = 0$
+    + si raccoglie a fattor comune fra i termini di uguale coefficiente: $a \left ( x^2 + \dfrac{1}{x^2} \right ) + b \left ( x + \dfrac{1}{x} \right ) + c = 0$
+    + si operano le sostituzioni: $x^2 + \dfrac{1}{x^2} = t^2$ e $x + \dfrac{1}{x} = t$
+    + dopo aver risolto l'equazione in $t$ si torna alla variabile $x$ operando la sostituzione inversa.
 * Le equazioni **binomie** sono riconducibili alla forma $x^n = k$ e per risolverle si applica la definizione di radicale:
-    * se $n$ è pari e $k \geq 0$ allora $x = \pm \sqrt{k}$
-    * se $n$ è pari e $k < 0$ allora l'equazione è impossibile
-    * se $n$ è dispari allora $x = \sqrt{k}$
+    + se $n$ è pari e $k \geq 0$ allora $x = \pm \sqrt{k}$
+    + se $n$ è pari e $k < 0$ allora l'equazione è impossibile
+    + se $n$ è dispari allora $x = \sqrt{k}$
 * Le equazioni **trinomie** sono riconducibili alla forma $ax^{2n} + bx^n + c = 0$ e per risolverle si opera la sostituzione $x^n = t$
 * Nel caso in cui $n = 2$ l'equazione si dice **biquadratica**.
 
 ### Le equazioni irrazionali
 Un'equazione è **irrazionale** se l'incognita fa parte ell'argomento di un radicale.
+
 * Le equazioni della forma $\sqrt{A(x)} = B(x)$ si possono risolvere in due modi:
     * risolvendo l'equazione $A(x) = [B(x)]^2$ e procedendo alla verifica delle soluzioni
     * risolvendo l'equazione $A(x) = [B(x)]^2$ con la condizione $B(x) \geq 0$
@@ -461,6 +442,7 @@ Un'equazione è **irrazionale** se l'incognita fa parte ell'argomento di un radi
 ## Sistemi non lineari
 
 Un sistema è non lineare se almeno una delle sue equazioni è di grado superiore al primo. In particolare:
+
 * in un **sistema di secondo grado** tutte le equazioni sono di primo grado tranne una che è di secondo;
 * in un **sistema di terzo grado** tutte le equazioni sono di primo grado tranne una che è di terzo.
 

@@ -42,6 +42,8 @@ GRAFICO VUOTO SOTTO
 ### Test
 
 
+![](https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg)
+
 
 <div align="center">
 <div id="insiemi" class="jxgbox" style="width:700px; height:300px;"></div>

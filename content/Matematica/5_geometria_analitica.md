@@ -27,39 +27,13 @@ MathJax.Hub.Config({
 </script>
 
 
-- [La parabola](#la-parabola)
-    - [La parabola e la sua equazione](#la-parabola-e-la-sua-equazione)
-    - [Gli elementi caratteristici](#gli-elementi-caratteristici)
-    - [Il grafico](#il-grafico)
-    - [Le condizioni per determinare l'equazione di una parabola](#le-condizioni-per-determinare-lequazione-di-una-parabola)
-    - [Rette e parabole](#rette-e-parabole)
-    - [Le rette tangenti](#le-rette-tangenti)
-    - [I fasci di parabole](#i-fasci-di-parabole)
-- [La circonferenza](#la-circonferenza)
-    - [Le condizioni per determinare l'equazione di una circonferenza](#le-condizioni-per-determinare-lequazione-di-una-circonferenza)
-    - [Le rette tangenti](#le-rette-tangenti)
-- [L'ellisse](#lellisse)
-    - [L'ellisse e la sua equazione](#lellisse-e-la-sua-equazione)
-    - [Le caratteristiche di un'ellisse](#le-caratteristiche-di-unellisse)
-    - [L'eccentricità dell'ellisse](#leccentricita-dellellisse)
-    - [Le rette tangenti](#le-rette-tangenti)
-- [L'iperbole](#liperbole)
-    - [L'iperbole e la sua equazione](#liperbole-e-la-sua-equazione)
-    - [Le caratteristiche di un'iperbole](#le-caratteristiche-di-uniperbole)
-    - [L'eccentricità dell'iperbole](#leccentricita-delliperbole)
-- [Le rette tangenti](#le-rette-tangenti)
-    - [L'iperbole equilatera](#liperbole-equilatera)
-- [Le coniche e la risoluzione grafica delle equazioni](#le-coniche-e-la-risoluzione-grafica-delle-equazioni)
-    - [I grafici delle funzioni irrazionali e con i moduli](#i-grafici-delle-funzioni-irrazionali-e-con-i-moduli)
-    - [La risoluzione grafica di equazioni e disequazioni](#la-risoluzione-grafica-di-equazioni-e-disequazioni)
-    - [Zeri di funzioni e risoluzione approssimata delle equazioni](#zeri-di-funzioni-e-risoluzione-approssimata-delle-equazioni)
-
 ## La parabola
 
 ### La parabola e la sua equazione
 La parabola è il luogo dei punti che hanno uguale distanza da un punto fisso $F$, detto fuoco, e da una retta fissa $d$, detta direttrice.
 
 In un sistema di riferimento cartesiano ortogonale, l'equazione di una parabola ha forma diversa a secondo che l'asse di simmetria sia parallelo all'asse $x$ o all'asse $y$.
+
 * Se l'asse di simmetria è parallelo all'asse $y$ la parabola ha equazione
 
 <div align="center">
@@ -107,6 +81,7 @@ Per traccia il grafico di una parabola quando è nota la sua equazione è indisp
 ### Le condizioni per determinare l'equazione di una parabola
 
 Per trovare l'equazione di una parabola sono necessarie e sufficienti tre informazioni indipendenti; in particolare:
+
 * se è noto il vertice $(x_0, \space y_0)$ è comodo usare la formula
     * $y - y_0 = a(x - x_0) ^2$ se la parabola ha l'asse di simmetria parallelo all'asse $y$
     * $x - x_0 = a(y - y_0) ^2$ se la parabola ha l'asse di simmetria parallelo all'asse $x$
@@ -117,6 +92,7 @@ Serve poi un'altra informazione per determinare il parametro $a$.
 
 ### Rette e parabole
 Per determinare la **posizione di una retta rispetto a una parabola** si deve:
+
 * impostare il sistema retta-parabola
 * determinare l'equazione risolvente di secondo grado nella variabile $x$ (oppure $y$) a seconda del tipo di parabola
 * calcolare il discriminante $\Delta$ di questa equazione:
@@ -142,6 +118,7 @@ var par = brd5.create('parabola',[C,line]);
 ### Le rette tangenti
 Per trovare l'equazione della **retta tangente** a una parabola si deve calcolare il discriminante $\Delta$ dell'equazione risolvente il sistema retta-parabola e imporre che sia $\Delta = 0$
 In particolare, se la retta tangente deve passare per un punto $P(x_0, \space y_0)$ che appartiene alla parabola, oltre al metodo illustrato è possibile seguire anche queste procedure:
+
 * applicare le **formule di sdoppiamento** ponendo nell'equazione della parabola, a seconda della forma:
     * $x_0 x$ al posto di $x^2$
     * $y_0 y$ al posto di $y^2$
@@ -157,6 +134,7 @@ In particolare, se la retta tangente deve passare per un punto $P(x_0, \space y_
 ### I fasci di parabole
 Se l'equazione di una parabola dipende da un parametro, si ha un **fascio di parabole**; ognuna di esse, salvo casi particolari, si ottiene attribuendo un particolare valore al parametro. Fra le parabole del fascio può essere compresa una retta che rappresenta la parabola degenere.
 Se due parabole del fascio si intersecano, anche tutte le altre si intersecano negli stessi punti che si dicono **punti base** del fascio; può quindi capitare che un fascio abbia:
+
 * due punti base
 * un solo punto base
 * nessun punto base 
@@ -192,19 +170,21 @@ var ci = b.createElement('circle',["A","B"], {strokeColor:'#00ff00',strokeWidth:
 
 ### Le rette tangenti
 Per trovare la retta tangente ad una circonferenza si può procedere in due modi:
+
 * **primo modo**:
-    * si scrive il sistema fra l'equazione della circonferenza e l'equazione della retta e si trova l'equazione risolvente 
-    * si impone che il discriminante di tale equazione sia uguale a zero
+    + si scrive il sistema fra l'equazione della circonferenza e l'equazione della retta e si trova l'equazione risolvente 
+    + si impone che il discriminante di tale equazione sia uguale a zero
 * **secondo modo**:
-    * si calcola la distanza del centro della circonferenza dalla retta
-    * si impone che tale distanza sia uguale al raggio
+    + si calcola la distanza del centro della circonferenza dalla retta
+    + si impone che tale distanza sia uguale al raggio
 
 In particolare, se la retta tangente passa per un punto $P(x_0, \space y_0)$ che appartiene alla circonferenza si può anche:
+
 * usare le formule di sdoppiamento ponendo:
-    * $x_0 x$ al posto di $x^2$
-    * $y_0 y$ al posto di $y^2$
-    * $\dfrac{1}{2} (x_0 + x)$ al posto di $x$
-    * $\dfrac{1}{2} (y_0 + y)$ al posto di $y$
+    + $x_0 x$ al posto di $x^2$
+    + $y_0 y$ al posto di $y^2$
+    + $\dfrac{1}{2} (x_0 + x)$ al posto di $x$
+    + $\dfrac{1}{2} (y_0 + y)$ al posto di $y$
 * detto $C$ il centro della circonferenza, scrivere l'equazione della retta che passa per $P$ ed è perpendicolare a $CP$.
 
 ## L'ellisse
@@ -264,6 +244,7 @@ var ell = brd2.create('ellipse',[A,B,function(){return t.Value();}]);
 
 ### Le rette tangenti
 Per trovare l'equazione della retta tangente ad un'ellisse si deve:
+
 * scrivere l'equazione generale della retta
 * impostare il sistema fra l'equazione dell'ellisse e l'equazione della retta
 * trovare l'equazione risolvente del sistema
@@ -339,18 +320,21 @@ var hyp = brd4.create('hyperbola',[C,D,function(){return s.Value();}]);
 
 ## Le rette tangenti
 Per trovare l'equazione della **retta tangente** ad un'iperbole si deve:
+
 * scrivere l'equazione generale della retta
 * impostare il sistema fra l'equazione dell'iperbole e l'equazione della retta
 * trovare l'equazione risolvente del sistema
 * calcolare il discriminante di questa equazione e imporre che sia uguale a zero
 
 In particolare, se la retta tangente passa per un punto $P(x_0, \space y_0)$ che appartiene all'iperbole, oltre al metodo illustrato si possono usare le formule di sdoppiamento ponendo nell'equazione dell'iperbole:
+
 * $x_0 x$ al posto di $x^2$
 * $y_0 y$ al posto di $y^2$
 * $\dfrac{1}{2}(x_0 \cdot y + y_0 \cdot x)$ al posto di $xy$
 
 ### L'iperbole equilatera
 Se in un'iperbole $a = b$, essa si dice **equilatera** e la sua equazione diventa:
+
 * equazione riferita al centro e agli assi:
     * $x^2 - y^2 = a^2$ se i fuochi sono sull'asse $x$ $\rightarrow$ $F(\pm a \sqrt{2}, \space 0)$ con asintoti $y = \pm x$ 
     * $x^2 - y^2 = - a^2$ se i fuochi sono sull'asse $y$ $\rightarrow$ $F(0, \space \pm a \sqrt{2})$ con asintoti $y = \pm x$ 
@@ -387,21 +371,23 @@ Analogamente, per tracciare il grafico della funzione $y = - \sqrt{f(x)}$, posta
 ### La risoluzione grafica di equazioni e disequazioni
 
 * Per risolvere graficamente un'equazione della forma $f(x) = g(x)$, oppure l'analoga disequazione $f(x) \lessgtr g(x)$ si disegnano i grafici delle due funzioni e si individua se esistono punti di intersezione:
-    * le ascisse di tali punti sono le soluzioni dell'equazione
-    * gli intervalli sull'asse $x$ per i quali il grafico di $f(x)$ assume valori maggiori (oppure minori) del grafico di $g(x)$ sono le soluzioni della disequazione
+    + le ascisse di tali punti sono le soluzioni dell'equazione
+    + gli intervalli sull'asse $x$ per i quali il grafico di $f(x)$ assume valori maggiori (oppure minori) del grafico di $g(x)$ sono le soluzioni della disequazione
 * Per risolvere la disequazione in due variabili $f(x, \space y) \lessgtr 0 $:
-    * si traccia il grafico della curva di equazione $f(x, \space y) = 0$ e si individuano le regioni di piano da esso delimitate
-    * si considera un punto qualunque $P(x_0, \space y_0)$ in una regione e si valuta $f(x_0, \space y_0)$
-    * se le coordinate di $P$ soddisfano la disequazione, la regione che lo contiene appartiene all'insieme delle soluzioni
+    + si traccia il grafico della curva di equazione $f(x, \space y) = 0$ e si individuano le regioni di piano da esso delimitate
+    + si considera un punto qualunque $P(x_0, \space y_0)$ in una regione e si valuta $f(x_0, \space y_0)$
+    + se le coordinate di $P$ soddisfano la disequazione, la regione che lo contiene appartiene all'insieme delle soluzioni
 
 ### Zeri di funzioni e risoluzione approssimata delle equazioni
+
 * **Zero** di una funzione $f(x)$ è l'ascissa $x_0$ del punto in cui la funzione $f$ inserseca l'asse $x$. L'esistenza degli zeri in una funzione è garantita dal seguente teorema:
 
 Una funzione continua $f(x)$ possiede almeno uno zero in un intervallo $(a, \space b)$ se $f(a) \cdot f(b) < 0$
 
 * Per trovare in modo approssimato le soluzioni di un'equazione polinomiale $a x^2 + b x^{n - 1} + ... + cx + d = 0$ si deve:
-    * rappresentare graficamente la funzione $a x^2 + b x^{n - 1} + ... + cx + d = 0$ e stabilire se esistono degli zeri
-    * individuare un intervallo che contiene lo zero
+
+    + rappresentare graficamente la funzione $a x^2 + b x^{n - 1} + ... + cx + d = 0$ e stabilire se esistono degli zeri
+    + individuare un intervallo che contiene lo zero
     * trovare un suo valore approssimato applicando il metodo delle sostituzioni successive oppure il metodo di bisezione
 
 

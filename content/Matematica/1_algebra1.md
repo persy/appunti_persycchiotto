@@ -26,60 +26,7 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.99.7/jsxgraphcore.js">
 </script>
 
-- [Insiemi e funzioni](#insiemi-e-funzioni)
-  - [Gli insiemi e la loro rappresentazione](#gli-insiemi-e-la-loro-rappresentazione)
-  - [I sottoinsiemi](#i-sottoinsiemi)
-  - [Le operazioni fra insiemi](#le-operazioni-fra-insiemi)
-    - [Proprietà dell'intersezione](#proprieta-dellintersezione)
-    - [Proprietà dell'unione](#proprieta-dellunione)
-  - [La partizione di un insieme](#la-partizione-di-un-insieme)
-  - [Il prodotto cartesiano](#il-prodotto-cartesiano)
-  - [Le funzioni](#le-funzioni)
-- [Gli insiemi $\mathbb{N}$ e $\mathbb{Z}$](#gli-insiemi-mathbbn-e-mathbbz)
-  - [I numeri naturali](#i-numeri-naturali)
-  - [Le potenze e le proprietà delle potenze](#le-potenze-e-le-proprieta-delle-potenze)
-  - [La divisibilità in $\mathbb{N}$](#la-divisibilita-in-mathbbn)
-  - [I numeri interi](#i-numeri-interi)
-  - [Le operazioni in $\mathbb{Z}$](#le-operazioni-in-mathbbz)
-- [Gli insiemi $\mathbb{Q}$ e $\mathbb{R}$](#gli-insiemi-mathbbq-e-mathbbr)
-  - [I numeri razionali](#i-numeri-razionali)
-  - [Le potenze e le proprietà delle potenze](#le-potenze-e-le-proprieta-delle-potenze)
-  - [Percentuali, rapporti e proporzioni](#percentuali--rapporti-e-proporzioni)
-  - [I numeri reali](#i-numeri-reali)
-  - [Le caratteristiche principali degli insiemi numerici](#le-caratteristiche-principali-degli-insiemi-numerici)
-  - [Le proprietà delle operazioni](#le-proprieta-delle-operazioni)
-  - [Il grafico delle funzioni](#il-grafico-delle-funzioni)
-- [I monomi e polinomi](#i-monomi-e-polinomi)
-  - [Le espressioni algebriche](#le-espressioni-algebriche)
-  - [I monomi](#i-monomi)
-  - [Le operazioni fra monomi](#le-operazioni-fra-monomi)
-  - [I polinomi](#i-polinomi)
-  - [Le operazioni fra polinomi](#le-operazioni-fra-polinomi)
-  - [I prodotti notevoli](#i-prodotti-notevoli)
-  - [Il teorema del resto e la divisibilità dei polinomi](#il-teorema-del-resto-e-la-divisibilita-dei-polinomi)
-- [Fattorizzazione dei polinomi](#fattorizzazione-dei-polinomi)
-  - [La fattorizzazione](#la-fattorizzazione)
-  - [Come eseguire una fattorizzazione](#come-eseguire-una-fattorizzazione)
-    - [Binomio](#binomio)
-    - [Trinomio](#trinomio)
-    - [Quadrinomio](#quadrinomio)
-    - [Polinomio di sei termini](#polinomio-di-sei-termini)
-  - [M.C.D. e m.c.m. fra polinomi](#mcd-e-mcm-fra-polinomi)
-- [Le frazioni algebriche](#le-frazioni-algebriche)
-  - [Frazioni equivalenti](#frazioni-equivalenti)
-  - [Le operazioni](#le-operazioni)
-- [Le equazioni](#le-equazioni)
-  - [Identità ed equazioni](#identita-ed-equazioni)
-  - [Equazioni equivalenti](#equazioni-equivalenti)
-  - [Equazioni lineari](#equazioni-lineari)
-  - [Equazioni non lineari](#equazioni-non-lineari)
-- [Le disequazioni](#le-disequazioni)
-  - [Le proprietà delle disuguaglianze numeriche](#le-proprieta-delle-disuguaglianze-numeriche)
-  - [Disequazioni e disequazioni lineari](#disequazioni-e-disequazioni-lineari)
-  - [Disequazioni frazionarie](#disequazioni-frazionarie)
-  - [Disequazioni non lineari](#disequazioni-non-lineari)
-  - [Sistemi di disequazioni](#sistemi-di-disequazioni)
-  - [Equazioni e disequazioni con i moduli](#equazioni-e-disequazioni-con-i-moduli)
+
 
 ## Insiemi e funzioni
 
@@ -290,21 +237,25 @@ L'unione fra l'insieme dei numeri razionali e l'insieme dei numeri irrazionali d
 ### Le caratteristiche principali degli insiemi numerici
 
 $\mathbb{N}$: 
+
 * insieme infinito che ha come primo elemento $0$, non esiste ultimo elemento: $0, 1, 2, 3, ...$
 * è un insieme discreto
 * le operazioni interne sono: l'addizione, la moltiplicazione
 
 $\mathbb{Z}$:
+
 * insieme infinito che non ha né primo né ultimo elemento: $-3, -2, -1, 0, 1, 2, 3, ...$
 * è un insieme discreto
 * le operazioni interne sono: l'addizione e la sua inversa sottrazione, la moltiplicazione
 
 $\mathbb{Q}$:
+
 * insieme infinito che non ha né primo né ultimo elemento; i suoi elementi si possono esprimere come frazioni oppure come numeri decimali finiti o periodici
 * è un insieme denso
 * le operazioni interne sono: l'addizione e la sua inversa sottrazione, la moltiplicazione e la sua inversa divisione 
 
 $\mathbb{R}$:
+
 * insieme infinito che non ha né primo né ultimo elemento; i suoi elementi sono i numeri razionali e irrazionali
 * è un insieme continuo
 * si possono eseguire tutte le operazioni ad eccezione dell'estrazione di radice di indice pari di un numero negativo
@@ -591,6 +542,7 @@ Due o più disequazioni si scrivono in un **sistema** se si vuole che esse siano
 
 ### Equazioni e disequazioni con i moduli
 Se un'equazione o una disequazione contengono un modulo, si deve studiare il segno dell'espressione che è argomento del modulo e risolvere poi l'equazione o la disequazione nell'ambito del segno studiato:
+
 * l'equazione $|A(x)| = B(x)$ è equivalente ai due sistemi:
 
 <div align="center">
