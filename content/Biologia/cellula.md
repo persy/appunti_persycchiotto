@@ -5,7 +5,6 @@ weight: 2
 ---
 
 
-
 ## La struttura della cellula
 
 Tutti gli esseri viventi sono costituiti da cellule, corpuscoli delimitati da un involucro e dotati di tutte le caratteristiche della vita: ogni cellula si riproduce, si nutre, respira, elimina i propri rifiuti. Per riprodursi e formare un'altra cellula identica a se stessa, la cellula contiene l'informazione genetica necessaria sotto forma di **acido desossiribonucleico** (**DNA**), organizzato in una struttura chiamata cromosoma. Per produrre le sostanze necessarie alla propria crescita e per produrre energia, la cellula funziona come un vero e proprio laboratorio chimico, presieduto da enzimi. Nonostante siano molto diverse tra loro per forma, funzione e dimensione, le cellule presentano un'organizzazione di base comune. Per questo motivo la cellula è considerata l'**unità strutturale e funzionale di tutti i viventi**.
