@@ -77,6 +77,7 @@ Nel caso particolare in cui $B$ è un sottoinsieme di $A$, dell'insieme $A - B$ 
 
 
 #### Proprietà dell'intersezione
+
 * commutativa: $A \cap B = B \cap A$
 * associativa: $(A \cap B) \cap C = A \cap (B \cap C)$
 * distributiva rispetto all'unione: $A \cap (B \cup C) = (A \cap B) \cup (A \cap C)$
@@ -87,11 +88,13 @@ Nel caso particolare in cui $B$ è un sottoinsieme di $A$, dell'insieme $A - B$ 
 * distributiva rispetto all'unione: $A \cup (B \cap C) = (A \cup B) \cap (A \cup C)$
 
 Valgono poi le seguenti **leggi di De Morgan** che semplificano a volte l'esecuzione di alcune operazioni:
+
 * prima legge: $\overline{A \cap B} = \overline{A} \cup \overline{B}$
 * seconda legge: $\overline{A \cup B} = \overline{A} \cap \overline{B}$
 
 ### La partizione di un insieme
 Si dice che si esegue una **partizione** di un insieme $A$ se si possono ripartire gli elementi di $A$ in $n$ sottoinsiemi $B_i$  tali che:
+
 * nessuno dei $B_i$ sia vuoto
 * l'intersezione fra due qualsiasi di essi sia l'insieme vuoto
 * l'unione di tutti i $B_i$ dia l'insieme $A$
@@ -104,12 +107,13 @@ Si dice che si esegue una **partizione** di un insieme $A$ se si possono riparti
 
 
 ### Il prodotto cartesiano
-Dati due insiemi $A$ e $B$ si definisce poi il **prodotto cartesiano** $A \times B$ come l'insieme i cui elementi sono tutte e sole le **coppie ordinate** $(a, \; b)$ dove $a$ è un qualunque elemento di $A$ e $b$ è un qualunque elemento di $B$.
+Dati due insiemi $A$ e $B$ si definisce poi il **prodotto cartesiano** $A \times B$ come l'insieme i cui elementi sono tutte e sole le **coppie ordinate** $(a, \qquadb)$ dove $a$ è un qualunque elemento di $A$ e $b$ è un qualunque elemento di $B$.
 Il prodotto cartesiano fra insiemi si può rappresentare elencando tutte le coppie che si vengono a formare oppure mediante un diagramma a frecce, mediante una tabella a doppia entrata, mediante un diagramma cartesiano oppure mediante un diagramma ad albero.
 
 ### Le funzioni
 Si dice **funzione** una corrispondenza tra gli elementi di un insieme $A$ e quelli di un insieme $B$ in modo che ad ogni elemento di $A$ sia associato uno e un solo elemento di $B$.
 Una funzione può quindi essere:
+
 * una **corrispondenza univoca**: ad ogni $x$ è associato un solo $y$
 * una **corrispondenza biunivoca**: ad ogni $x$ è associato un solo $y$ e, viceversa, ad ogni $y$ è associato un solo $x$
 
@@ -141,6 +145,7 @@ I numeri naturali sono quelli della successione 0, 1, 2, 3, 4, 5, ... e si indic
 Le operazioni interne a $\mathbb{N}$ sono solo l'addizione e la moltiplicazione, mentre la sottrazione è possibile solo se il primo numero è maggiore del secondo, la divisione è possibile solo se il primo numero è multiplo del secondo.
 
 L'addizione e la moltiplicazione sono:
+
 * commutative: $a + b = b + a$; $a \cdot b= b \cdot a$  
 * associative: $(a + b) + c = a + (b+ c)$; $(a \cdot b) \cdot c = a \cdot (b \cdot c)$  
 * inoltre vale la proprietà distributiva della moltiplicazione rispetto all'addizione: $(a+b) \cdot c = a \cdot c + b \cdot c$
@@ -151,6 +156,7 @@ La potenza $a^n$, con $n$ numero naturale maggiore di 1, equivale al prodotto $\
 Si definisce poi $a^1=a$ e  $a^0=1$, mentre non ha significato la scrittura $0^0$.
 
 Valgono le seguenti proprietà:
+
 * $a^m \cdot a^n = a^{m+n}$
 * $a^m : a^n = a^{m-n}$
 * $(a^m) ^n = a^{m \cdot n}$
@@ -178,6 +184,7 @@ Si chiama **valore assoluto** di un numero intero il numero stesso privato del s
 
 ### Le operazioni in $\mathbb{Z}$
 La **somma** di due numeri interi si calcola con la seguente regola:
+
 * se i due numeri sono concordi si sommano i valori assoluti dei due numeri e al risultato si attribuisce il segno comune
 * se i due numeri sono discordi si calcola la differenza fra i valori assoluti e al risultato si attribuisce il segno del numero che ha valore assoluto maggiore.
 
@@ -203,12 +210,14 @@ Se, con le stesse convenzioni adottate per i numeri interi, associamo ad ogni nu
 
 ### Le potenze e le proprietà delle potenze
 Dato un numero razionale $a$ qualsiasi ed un intero $n \neq 0$ chiamiamo **potenza n-esima** di $a$, e si scrive $a^n$:
+
 * $\underset{n \space volte}{\underbrace{a \cdot a \cdot ... \cdot a}}$, se $n \geq 2$
 * $\dfrac{1}{a^{n}}=\dfrac{1}{{\underset{n \space volte}{\underbrace{a \cdot a \cdot ... \cdot a}}}}$ se $n < 0$ 
 
 Si pone poi: $a^1 = a$ per ogni $a$; $a^0 = 1$ se $a \neq 0$;  non si attribuisce significato alla scrittura $0^0$.
 
 Se $n$ e $m$ sono due numeri interi, tenendo presenti le considerazioni fatte sulla base della potenza, valgono le seguenti proprietà:
+
 * $a^n \cdot a^m = a^{n+m}$
 * $a^n : a^m = a^{n-m}$
 * $(a^n) ^m = a^{n \cdot m}$
@@ -220,11 +229,12 @@ Una percentuale equivale a una frazione con denominatore $100$: $30 \%$ è la st
 
 **Rapporto** fra due numeri $a$ e $b$, con $b \neq 0$, è il quoziente $a : b$.
 
-Una proporzione è l'uguaglianza fra due rapporti $\dfrac{a}{b}$ e $\dfrac{c}{d}$ (con $b, \, d \neq 0$) e si scrive $a : b = c : d$ 
+Una proporzione è l'uguaglianza fra due rapporti $\dfrac{a}{b}$ e $\dfrac{c}{d}$ (con $b, \qquad  d \neq 0$) e si scrive $a : b = c : d$ 
 
 Per essa vale la proprietà fondamentale $a \cdot d = b \cdot c$.
 
 A partire dalla proporzione $a : b = c : d$ (dove supponiamo che i quattro numeri siano diversi da zero) se ne possono ottenere altre applicando le seguenti proprietà:
+
 * permutare: $a : c = b : d$; $d : b = c : a$  
 * invertire: $b : a = d : c$
 * comporre: $(a + b) : a = (c + d ) : c$; $(a + b) : b = (c + d) : d$   
@@ -261,32 +271,34 @@ $\mathbb{R}$:
 * si possono eseguire tutte le operazioni ad eccezione dell'estrazione di radice di indice pari di un numero negativo
 
 ### Le proprietà delle operazioni
+
 * Addizione:
-  * è un'operazione interna a qualsiasi insieme numerico
-  * è commutativa e associativa
-  * ha elemento neutro: $0$
-  * è invertibile in $\mathbb{Z}$ e $\mathbb{Q}$ e l'operazione inversa è la sottrazione
+  + è un'operazione interna a qualsiasi insieme numerico
+  + è commutativa e associativa
+  + ha elemento neutro: $0$
+  + è invertibile in $\mathbb{Z}$ e $\mathbb{Q}$ e l'operazione inversa è la sottrazione
 * Sottrazione:
-  * è un'operazione interna a $\mathbb{Z}$  e $\mathbb{Q}$, non sempre è possibile in $\mathbb{N}$ e $\mathbb{Q_a}$
-  * possiede la proprietà invariantiva
+  + è un'operazione interna a $\mathbb{Z}$  e $\mathbb{Q}$, non sempre è possibile in $\mathbb{N}$ e $\mathbb{Q_a}$
+  + possiede la proprietà invariantiva
 * Moltiplicazione
-  * è un'operazione interna a qualsiasi insieme numerico
-  * è commutativa e associativa
-  * è distributiva rispetto all'addizione e alla sottrazione
-  * ha elemento neutro: $1$ 
-  * è invertibile in $\mathbb{Q_0}$ e l'operazione inversa è la divisione
+  + è un'operazione interna a qualsiasi insieme numerico
+  + è commutativa e associativa
+  + è distributiva rispetto all'addizione e alla sottrazione
+  + ha elemento neutro: $1$ 
+  + è invertibile in $\mathbb{Q_0}$ e l'operazione inversa è la divisione
 * Divisione
-  * è un'operazione interna a $\mathbb{Q}$, non sempre è possibile in $\mathbb{N}$ e $\mathbb{Z}$
-  * possiede la proprietà invariantiva
-  * è distributiva solo a sinistra rispetto all'addizione e alla sottrazione
+  + è un'operazione interna a $\mathbb{Q}$, non sempre è possibile in $\mathbb{N}$ e $\mathbb{Z}$
+  + possiede la proprietà invariantiva
+  + è distributiva solo a sinistra rispetto all'addizione e alla sottrazione
 
 ### Il grafico delle funzioni
-Ogni funzione $y = f(x)$ può essere rappresentata graficamente in un piano cartesiano mediante l'insieme dei punti di coordinate $(x, \, y)$ che si ottengono attribuendo a $x$ un valore del dominio e calcolando il corrispondente valore di $y$.
+Ogni funzione $y = f(x)$ può essere rappresentata graficamente in un piano cartesiano mediante l'insieme dei punti di coordinate $(x, \qquad  y)$ che si ottengono attribuendo a $x$ un valore del dominio e calcolando il corrispondente valore di $y$.
 
 ## I monomi e polinomi
 
 ### Le espressioni algebriche
 Un'**espressione algebrica letterale** è un'espressione nella quale alcuni numeri sono rappresentati da lettere. In particolare si parla di:
+
 * **monomi** se nell'espressione ci sono solo operazioni di moltiplicazione fra le lettere che hanno esponente intero positivo
 * **polinomi** se nell'espressione, oltre alle moltiplicazioni, ci sono anche operazioni di addizione e sottrazione.
 
@@ -295,22 +307,23 @@ In ogni caso, sia i monomi che i polinomi non contengono operazioni di divisione
 ### I monomi
 Il **grado di un monomio** è la somma dei gradi delle sue lettere; se è in forma normale, il grado rispetto ad ogni sua lettera è il grado di quella lettera; tutte le lettere che non compaiono in un monomio hanno grado zero.
 Diciamo poi che due monomi sono:
+
 * **uguali** se hanno lo stesso coefficiente numerico e la stessa parte letterale: $3ab$ è uguale a $3ab$
 * **opposti** se hanno la stessa parte letterale e coefficienti numerici opposti:  $5x^2$ e $-5x^2$ sono opposti
 * **simili** se hanno la stessa parte letterale: $2ax$ e $-6ax^2$.
 
 ### Le operazioni fra monomi
+
 * La **somma** o la **differenza** fra monomi dà luogo ad un monomio solo se i monomi sono simili; la somma di monomi non simili è un polinomio: $2ax - 3ax = -ax$ è un monomio; $2a + 3b$ è un polinomio;
 * il **prodotto** fra monomi si può sempre eseguire applicando le proprietà delle potenze: $4ab^2 \cdot (-3abx) = -12a^2 b^3 x$;
-* il **quoziente** fra monomi dà luogo a un monomio solo se le lettere del divisore hanno una potenza minore o uguale di quelle corrispondenti del dividendo: 
-$\dfrac{5}{2}b^3 y^2 z : \left ( - \dfrac{10}{9} b y \right ) = - \dfrac{9}{4}b^2 y z$;  
-$4a^3 b : 2ax = \dfrac{2a^2 b}{x}$ (non è un monomio)
+* il **quoziente** fra monomi dà luogo a un monomio solo se le lettere del divisore hanno una potenza minore o uguale di quelle corrispondenti del dividendo: $\dfrac{5}{2}b^3 y^2 z : \left ( - \dfrac{10}{9} b y \right ) = - \dfrac{9}{4}b^2 y z \qquad 4a^3 b : 2ax = \dfrac{2a^2 b}{x}$ (non è un monomio)
 
 ### I polinomi
 Un polinomio è la somma algebrica di più monomi.
 
 Il **grado di un polinomio** è il massimo dei gradi dei monomi che lo compongono; il grado rispetto a una sua lettera è il massimo dei gradi con cui quella lettera compare.
 Diciamo poi che un polinomio è:
+
 * **omogeneo** se i suoi monomi sono tutti dello stesso grado: $2x^2y - 3xy^2 + x^3 - y^3$
 * **ordinato** rispetto a una sua lettera se le potenze di quella lettera sono scritte in ordine crescente o decrescente: $a^3 - 2a^2 +1$
 * **completo** rispetto ad una lettera se il polinomio contiene tutte le potenze di quella lettera, da quella più è grande fino a zero: $y^3 + 5y^2 -4y -2$
@@ -366,6 +379,7 @@ a0.on('drag',function(){ brd.update();});
 
 ### Le operazioni fra polinomi
 Poiché in un'espressione letterale le lettere rappresentano numeri, le **operazioni fra polinomi** si eseguono tenendo presenti le proprietà delle operazioni fra numeri.
+
 * **la somma o la differenza** fra polinomi si esegue sommando o sottraendo i monomi simili dei due polinomi; la sottrazione si può sempre trasformare in una addizione cambiando i segni dei termini del secondo polinomio: $(6a - 3x + 1) - (4a + 5 - x) = 6a - 3x + 1 - 4a - 5 + x = 2a - 2x - 4$
 * il **prodotto fra polinomi** si esegue applicando la proprietà distributiva della moltiplicazione rispetto all'addizione: $(3x - b)(1 + 2x) = 3x + 6x^2 - b - 2bx$
 * il **quoziente fra un polinomio e un monomio** si esegue, quando possibile, dividendo ciascun termine del polinomio per il monomio divisore e sommando i quozienti ottenuti;
@@ -373,6 +387,7 @@ Poiché in un'espressione letterale le lettere rappresentano numeri, le **operaz
 
 ### I prodotti notevoli
 Il calcolo di alcuni prodotti fra polinomi si può abbreviare tenendo conto di particolari regole:
+
 * quadrato di un binomio: $(a + b)^2 = a^2 + 2ab + b^2$
 * quadrato di un trinomio: $(a + b + c)^2 = a^2 + b^2 + c^2 + 2ab + 2ac + 2bc$
 * cubo di un binomio: $(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$ 
@@ -380,6 +395,7 @@ Il calcolo di alcuni prodotti fra polinomi si può abbreviare tenendo conto di p
 
 ### Il teorema del resto e la divisibilità dei polinomi
 Le divisioni di un polinomio  per un binomio di primo grado della forma  hanno un particolare rilievo; per esse valgono i seguenti teoremi:
+
 * teorema del resto: il resto della divisione di $P(x)$ per $(x - a)$ è uguale a $P(a)$. 
   $P(x) = x^3 - 2x^2 + 4$, divisore: $x - 1$ → resto: $P(1) = 3$
 * teorema di Ruffini: un polinomio $P(x)$ divisibile per il binomio $(x - a)$ se e solo se $P(a) = 0$. In questo caso $a$ rappresenta uno **zero** del polinomio.
@@ -391,6 +407,7 @@ Il teorema di Ruffini rappresenta quindi un criterio di divisibilità di $P(x)$ 
 ### La fattorizzazione
 Scomporre un polinomio significa scriverlo come prodotto di due o più polinomi, possibilmente non ulteriormente scomponibili.
 I metodi per eseguire la scomposizione si basano sui seguenti criteri:
+
 * i raccoglimenti a fattor comune parziale o totale
 * il riconoscimento di prodotti notevoli
 * la regola del trinomio caratteristico
@@ -398,26 +415,30 @@ I metodi per eseguire la scomposizione si basano sui seguenti criteri:
 
 ### Come eseguire una fattorizzazione
 Nella pratica, per scomporre un polinomio conviene tenere presenti, in successione, le seguenti considerazioni:
+
 * controllare se è possibile eseguire un raccoglimento totale o parziale
-* cercare i divisori della forma 
-riferirsi a regole particolari guardando il numero dei termini del polinomio;
+* cercare i divisori della forma riferirsi a regole particolari guardando il numero dei termini del polinomio;
 
 #### Binomio
+
 * differenza di quadrati: $x^2 - a^2 = (x - a)(x + a)$
 * somma di quadrati: $x^2 + a^2$ (irriducibile)
 * somma di cubi: $x^3 + a^3 = (x + a)(x^2 - ax + a^2)$
 * differenze di cubi: $x^3 - a^3 = (x - a)(x^2 + ax + a^2)$
 
 #### Trinomio
+
 * quadrato di un binomio: $a^2 \pm 2ab + b^2 = (a \pm b)^2$
 * trinomio caratteristico: $x^2 + (a + b)x + ab = (x + a)(x + b)$
 
 #### Quadrinomio
+
 * cubo di un binomio: $a^3 \pm 3a^2b + 3ab^2 \pm b^3 = (a \pm b)^3$
 * differenza di due quadrati: 
 $a^2 + 2ab + b^2 - x^2 = (a + b)^2  - x^2 = (a + b + x)(a + b - x) $
 
 #### Polinomio di sei termini
+
 * quadrato di un trinomio: $a^2 + 4b^2 + 9 + 4ab - 6a - 12b = (a + 2b -3)^2$
 * differenza dei quadrati di due binomi:  
 $a^2 + 2a + 1 - x^2 + 2xy - y^2 = (a^2 + 2a + 1) - (x^2 - 2xy + y^2)$ 
@@ -427,6 +448,7 @@ $= (a + 1) ^2 - (x - y) ^2 = (a + 1 + x - y)(a + 1 - x + y)$
 
 
 ### M.C.D. e m.c.m. fra polinomi
+
 * Il M.C.D. fra due o più polinomi già fattorizzati è il prodotto dei soli fattori comuni con il minimo esponente.
 * il m.c.m. fra due o più polinomi già fattorizzati è il prodotto dei fattori comuni e non comuni con il massimo esponente.
 
@@ -446,18 +468,24 @@ Per passare da una frazione a un'altra ad essa equivalente si applica la proprie
 
 ### Le operazioni
 Con le frazioni algebriche si possono eseguire tutte le operazioni che si possono eseguire con le frazioni numeriche; quindi:
+
 * si può semplificare una frazione scomponendo i suoi termini e dividendo numeratore e denominatore per i fattori comuni
 * si possono sommare, sottrarre, moltiplicare o dividere due frazioni algebriche con regole analoghe a quelle applicate alle stesse operazioni con le frazioni numeriche:
 
+<div align="center">
 $
-\dfrac{A}{B} + \dfrac{C}{D} = \dfrac{AD + BC}{BD}; \; \dfrac{A}{B}\cdot \dfrac{C}{D} = \dfrac{AC}{BD}; \; \dfrac{A}{B} : \dfrac{C}{D} = \dfrac{A}{B} \cdot \dfrac{D}{C} = \dfrac{AD}{BC}
+\dfrac{A}{B} + \dfrac{C}{D} = \dfrac{AD + BC}{BD}; \qquad\dfrac{A}{B}\cdot \dfrac{C}{D} = \dfrac{AC}{BD}; \qquad\dfrac{A}{B} : \dfrac{C}{D} = \dfrac{A}{B} \cdot \dfrac{D}{C} = \dfrac{AD}{BC}
 $
+</div>
 
 * si può elevare a potenza una frazione elevando a quella potenza il numeratore e il denominatore: 
 
+<div align="center">
 $
 \left ( \dfrac{A} {B} \right) ^n = \dfrac{A^n} {B^n}
 $
+</div>
+
 
 ## Le equazioni
 
@@ -473,16 +501,19 @@ In base al numero di soluzioni, un'equazione può essere:
 * **impossibile** se non ha soluzioni
 
 Un'equazione si dice poi:
+
 * **intera** se i denominatori non contengono l'incognita, **frazionaria** in caso contrario
 * **numerica** se l'unica lettera è l'incognita, **letterale** se contiene anche altre lettere
 
 ### Equazioni equivalenti
 Due equazioni sono **equivalenti** se hanno le stesse soluzioni.
 Per passare da un'equazione di dominio $D$ ad un'altra ad essa equivalente si applicano due principi di equivalenza:
+
 * *primo principio*: sommando ai due membri di un'equazione una stessa espressione di dominio $D$ si ottiene un'equazione equivalente a quella data
 * *secondo principio*: moltiplicando i due membri di un'equazione per una stessa espressione di dominio  e non nulla si ottiene un'equazione equivalente a quella data.
 
 Conseguenze di questi due principi sono le seguenti:
+
 * si può spostare un termine da un membro all'altro cambiandogli segno
 * due termini uguali in due membri diversi si possono elidere
 * si può scrivere un'equazione intera in forma normale trasportando tutti i termini al primo membro
@@ -495,28 +526,25 @@ Il **grado** di un'equazione intera $E(x) = 0$ è il grado del polinomio $E(x)$.
 Un'equazione di primo grado, o equazione lineare, assume quindi la forma $ax + b = 0$.
 
 Per risolvere un'equazione lineare si applicano i due principi di equivalenza e:
+
 * se $a \neq 0$, la soluzione è $- \dfrac{b}{a}$ 
 * se $a = 0$ e anche $b = 0$ l'equazione è indeterminata, ovvero ha infinite soluzioni
 * $a = 0$ e $b \neq 0$ l'equazione è impossibile
 
 ### Equazioni non lineari
 Per risolvere un'equazione $E(x) = 0$ dove $E(x)$ è un polinomio di grado superiore al primo, si deve:
-* scomporre  in fattori tutti di primo grado: 
 
-$(x - a)(x - b)(x - c) = 0$
+* scomporre  in fattori tutti di primo grado: $(x - a)(x - b)(x - c) = 0$
 
-* applicare la legge di annullamento del prodotto:
+* applicare la legge di annullamento del prodotto: $x - a = 0 \space \vee \space x - b = 0 \space \vee \space x - c = 0$
 
-$x - a = 0 \; \vee \; x - b = 0 \; \vee \; x - c = 0$
-
-* da cui si ricavano le soluzioni:
-
-$x = a  \; \vee \; x = b  \; \vee \; x = c $
+* da cui si ricavano le soluzioni: $x = a  \space \vee \space x = b  \space \vee \space x = c $
 
 ## Le disequazioni
 
 ### Le proprietà delle disuguaglianze numeriche
 Dalla relazione $a > b$ (o dalla sua analoga $a < b$) si possono dedurre anche le seguenti:
+
 * si può sommare (o sottrarre) ai due membri di una disuguaglianza uno stesso numero: $a + c > b + c$ 
 * se si moltiplicano (o si dividono) entrambi i membri di una disuguaglianza per uno stesso numero positivo si ottiene una disuguaglianza dello stesso verso: $a \cdot c > b \cdot c$  se $c > 0$
 * se si moltiplicano (o si dividono) entrambi i membri di una disuguaglianza per uno stesso numero negativo si ottiene una disuguaglianza di verso opposto: $a \cdot c < b \cdot c$  se $c < 0$  
@@ -524,6 +552,7 @@ Dalla relazione $a > b$ (o dalla sua analoga $a < b$) si possono dedurre anche l
 ### Disequazioni e disequazioni lineari
 Una disequazione è una relazione della forma $A(x) > B(x)$ (oppure $A(x) < B(x)$); risolverla significa determinare i valori di $x$ per i quali l'espressione $A(x)$ assume valori maggiori (oppure minori) dell'espressione $B(x)$.
 Una **disequazione intera lineare** si può sempre ricondurre alla forma $ax + b > 0$ che ha soluzione:
+
 * $x > -\dfrac{b}{a}$ se $a > 0$ 
 * $x < -\dfrac{b}{a}$ se $a < 0$
 
@@ -549,7 +578,7 @@ Se un'equazione o una disequazione contengono un modulo, si deve studiare il seg
 $$\begin{cases}
 A(x) \geq 0 \\ 
 A(x) = B(x) 
-\end{cases} \, \vee \,  
+\end{cases} \qquad  \vee \qquad   
 \begin{cases}
 A(x) < 0 \\ 
 -A(x) = B(x) 
@@ -562,7 +591,7 @@ A(x) < 0 \\
 $$\begin{cases}
 A(x) \geq 0 \\ 
 A(x) > B(x) 
-\end{cases} \, \vee \,  
+\end{cases} \qquad  \vee \qquad   
 \begin{cases}
 A(x) < 0 \\ 
 -A(x) > B(x) 
