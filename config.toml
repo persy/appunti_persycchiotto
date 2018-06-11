@@ -9,3 +9,4 @@ theme = "hugo-theme-learn"
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "red"
   math = true
+  disableSearch = true

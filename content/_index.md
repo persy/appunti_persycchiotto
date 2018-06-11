@@ -5,7 +5,7 @@ draft: false
 
 # **WOFF!**
 
-<p align="center" style="margin-top: -30px;"><i>(<b>wo</b>-rk in <b>ff</b>-rogress!)</i></p>
+<p align="center" style="margin-top: -30px;"><i>(<b>wo</b>-rk in <b>ff</b>-rogress!)</i> <i class="fas fa-frog"></i> </p>
 
 
 <!-- 
@@ -65,12 +65,13 @@ draft: false
 In questo sito potrai trovare i miei appunti, liberamente scaricabili e modificabili sulle seguenti tematiche:
 
 
-+ **[Biologia](biologia)**: dalla cellula, passando per i tessuti vegetali e animali e all'etologia
++ **[<i class="fas fa-dna"></i> Biologia](biologia)**: dalla cellula, passando per i tessuti vegetali e animali e all'etologia
 
-+ **[Scienze della Terra](scienze-della-terra)**: dal centro della Terra fino ai quasar
-+ **[Storia](storia)**: tutto il Novecento, anno per anno, seguendo i fatti storici, i cambiamenti di costume, la società nei vari decenni, le scoperte scientifiche, le arti, il cinema del grande e del piccolo schermo, il pensiero filosofico
-+ **[Riassunti di letteratura](riassunti)**: raccolta di riassunti dei principali capolavori di letteratura italiana e straniera (_in corso_)
-+ **[Matematica](matematica)**: sintesi di tutte le formule principali, dall'insiemistica alle derivate
-+ **[Fisica](fisica)**: meccanica, termologia, lo studio delle onde e primi elementi di relatività
-+ **[Contenuti non categorizzabili](random)**: un insieme eterogeneo di guide, raccolte e contenuti non categorizzabili.
++ **[<i class="fas fa-globe"></i> Scienze della Terra](scienze-della-terra)**: dal centro della Terra fino ai quasar
++ **[<i class="fas fa-fighter-jet"></i> Storia](storia)**: tutto il Novecento, anno per anno, seguendo i fatti storici, i cambiamenti di costume, la società nei vari decenni, le scoperte scientifiche, le arti, il cinema del grande e del piccolo schermo, il pensiero filosofico
++ **[<i class="fas fa-book"></i> Riassunti di letteratura](riassunti)**: raccolta di riassunti dei principali capolavori di letteratura italiana e straniera (_in corso_)
++ **[<i class="fas fa-subscript"></i> Matematica](matematica)**: sintesi di tutte le formule principali, dall'insiemistica alle derivate
++ **[<i class="fas fa-glasses"></i> Fisica](fisica)**: meccanica, termologia, lo studio delle onde e primi elementi di relatività
++ **[<i class="far fa-lightbulb"></i> Filosofia](filosofia)**: riassunti concettuali del pensiero occidentale; dai filosofia presocratici ai problemi etici dell'AI
++ **[<i class="fas fa-leaf"></i> Contenuti non categorizzabili](random)**: un insieme eterogeneo di guide, raccolte e contenuti non categorizzabili.
 
