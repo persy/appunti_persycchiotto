@@ -17,5 +17,6 @@ La sezione di Storia contiene una sezione per ogni decennio dello scorso secolo,
 * [1990-1999](1990-1999)
 
 Inoltre, ci sono due sezioni extra che si concentrano principalmente sui motivi, i personaggi, lo svolgimento e gli effetti sulla storia, le popolazioni e le idee dei due conflitti mondiali:
-* [La Prima Guerra Mondiale](prima_guerra_mondiale)
-* [La Seconda Guerra Mondiale](seconda_guerra_mondiale)
+
+* **[La Prima Guerra Mondiale](prima_guerra_mondiale)**
+* **[La Seconda Guerra Mondiale](seconda_guerra_mondiale)**
