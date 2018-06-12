@@ -5,7 +5,7 @@ draft: false
 <div style="margin-top: -50px;">
 # **WOFF!**
 
-<p align="center" style="margin-top: -30px; margin-bottom: 30px;"><i>(<b>wo</b>-rk in <b>ff</b>-rogress!)</i> <i class="fas fa-frog"></i> </p>
+<p align="center" style="margin-top: -30px; margin-bottom: 30px;"><i class="fas fa-crow"></i> <i>(<b>wo</b>-rk in <b>ff</b>-rogress!)</i> <i class="fas fa-frog"></i> </p>
 </div>
 <!-- 
 <div style="margin-left: auto; margin-right:auto; height: 70px; text-align: center; white-space: nowrap;">
@@ -63,7 +63,7 @@ In questo sito potrai trovare i miei appunti, liberamente consultabili sulle seg
 + **[<i class="fas fa-dna"></i> Biologia](biologia)**: dalla cellula, passando per i tessuti vegetali e animali e all'etologia
 
 + **[<i class="fas fa-globe"></i> Scienze della Terra](scienze-della-terra)**: dal centro della Terra fino ai quasar
-+ **[<i class="fas fa-fighter-jet"></i> Storia](storia)**: tutto il Novecento, anno per anno, seguendo i fatti storici, i cambiamenti di costume, la società nei vari decenni, le scoperte scientifiche, le arti, il cinema del grande e del piccolo schermo, il pensiero filosofico
++ **[<i class="fas fa-chess-knight"></i> Storia](storia)**: tutto il Novecento, anno per anno, seguendo i fatti storici, i cambiamenti di costume, la società nei vari decenni, le scoperte scientifiche, le arti, il cinema del grande e del piccolo schermo, il pensiero filosofico
 + **[<i class="fas fa-book"></i> Riassunti di letteratura](riassunti)**: raccolta di riassunti dei principali capolavori di letteratura italiana e straniera (_in corso_)
 + **[<i class="fas fa-subscript"></i> Matematica](matematica)**: sintesi di tutte le formule principali, dall'insiemistica alle derivate
 + **[<i class="fas fa-glasses"></i> Fisica](fisica)**: meccanica, termologia, lo studio delle onde e primi elementi di relatività
