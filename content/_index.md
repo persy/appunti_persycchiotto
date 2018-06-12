@@ -2,12 +2,11 @@
 title: "Appunti di Persycchiotto"
 draft: false
 ---
-
+<div style="margin-top: -50px;">
 # **WOFF!**
 
-<p align="center" style="margin-top: -30px;"><i>(<b>wo</b>-rk in <b>ff</b>-rogress!)</i> <i class="fas fa-frog"></i> </p>
-
-
+<p align="center" style="margin-top: -30px; margin-bottom: 30px;"><i>(<b>wo</b>-rk in <b>ff</b>-rogress!)</i> <i class="fas fa-frog"></i> </p>
+</div>
 <!-- 
 <div style="margin-left: auto; margin-right:auto; height: 70px; text-align: center; white-space: nowrap;">
     <a href="/biologia">
@@ -59,11 +58,7 @@ draft: false
     </div>
 -->
 
-
-
-
-In questo sito potrai trovare i miei appunti, liberamente scaricabili e modificabili sulle seguenti tematiche:
-
+In questo sito potrai trovare i miei appunti, liberamente consultabili sulle seguenti tematiche:
 
 + **[<i class="fas fa-dna"></i> Biologia](biologia)**: dalla cellula, passando per i tessuti vegetali e animali e all'etologia
 
@@ -75,3 +70,11 @@ In questo sito potrai trovare i miei appunti, liberamente scaricabili e modifica
 + **[<i class="far fa-lightbulb"></i> Filosofia](filosofia)**: riassunti concettuali del pensiero occidentale; dai filosofia presocratici ai problemi etici dell'AI
 + **[<i class="fas fa-leaf"></i> Contenuti non categorizzabili](random)**: un insieme eterogeneo di guide, raccolte e contenuti non categorizzabili.
 
+Se sei su smartphone, premi <i class="fas fa-bars"></i> per far apparire la barra laterale degli argomenti.
+Nelle voci molto lunghe e complesse, passa il cursore sull'icona <i class="fas fa-list-alt"></i> per mostrare l'indice.
+
+Il sito non utilizza alcun cookie ma necessita di plugin Javascript solo nelle sezioni [Matematica](matematica) e [Fisica](fisica), per il rendering di formule e grafici interattivi (**[MathJAX](https://www.mathjax.org/)** e **[JSXGraph](http://jsxgraph.uni-bayreuth.de/wp/index.html)**).
+
+Tutte le pagine, i fogli di stile e i file di configurazione sono stati scritti utilizzando **esclusivamente software libero <i class="fab fa-osi"></i>**, come **[openSUSE](https://www.opensuse.org/)**, **[VS Code](https://code.visualstudio.com/)**, **[Hugo](https://gohugo.io/)**, **[Firefox](https://www.mozilla.org/en-US/firefox/)** o utilizzando, per i contenuti, fonti libere come **Wikipedia <i class="fab fa-wikipedia-w"></i>.** Hosting reso possibile grazie a **[Netlify](https://www.netlify.com/)**.
+
+Il codice sorgente di ogni pagina è disponibile **[qui](https://github.com/persy/appunti_persycchiotto)**, sotto licenza <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i><i class="fab fa-creative-commons-nc-eu"></i><i class="fab fa-creative-commons-nc-eu"></i>. Per altre informazioni potete contattarmi con una mail <a href="mailto:marco.persy@gmail.com"><i class="fas fa-envelope-open"></i></a>.

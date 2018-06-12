@@ -16,6 +16,7 @@ draft: false
 ## Storia del pensiero filosofico
 
 ### [I presocratici](2_presocratici)
+
 * La nascita della filosofia in Grecia
 * I filosofi ionici: Talete, Anassimandro, Anassimene, Eraclito
 * Pitagora e i pitagorici
@@ -25,20 +26,24 @@ draft: false
 * I sofisti
 
 ### [La filosofia classica](3_classici)
+
 * Socrate e le scuole socratiche
 * Platone
 * Aristotele
 
 ### [L'ellenismo](4_ellenismo)
+
 *  Epicureismo
 *  Stoicismo
 *  Scetticismo
 
 ### [Filosofia a Roma e neoplatonismo](5_roma_neoplatonismo)
+
 * I filosofi romani
 * Plotino e il neoplatonismo
 
 ### [Da filosofia cristiana](6_filosofia_cristiana)
+
 * Il cristianesimo e la filosofia
 * Agostino
 * Gli esordi della scolastica
@@ -46,10 +51,12 @@ draft: false
 * L’esaurirsi della scolastica: Duns Scoto e Guglielmo di Ockham
 
 ### [Le altre filosofie medioevali](7_altre_filosofie)
+
 * La filosofia araba 
 * La filosofia ebraica
 
 ### [Filosofia moderna](8_filosofia_moderna)
+
 * Umanesimo e Rinascimento
 * Il platonismo e l’aristotelismo rinascimentali
 * La riflessione politica nel ‘500-’600
@@ -66,6 +73,7 @@ draft: false
 
 
 ### [Filosofia del XIX secolo](9_filosofia_XIX)
+
 * Immanuel Kant
 * Il romanticismo
 * L’idealismo di Fichte e Schelling
@@ -79,6 +87,7 @@ draft: false
 * Storicismo e neokantismo
 
 ### [Filosofia del XX secolo](10_filosofia_contemporanea)
+
 * Husserl e la fenomenologia
 * Heidegger e l’esistenzialismo
 * Wittgenstein e il neopositivismo
@@ -94,5 +103,3 @@ draft: false
 * Il postmoderno
 * Il pensiero postmetafisico d Lévinas, Derridas e Deleuze
 * L’intelligenza artificiale
-
-
