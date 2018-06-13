@@ -4,8 +4,6 @@ draft: false
 weight: 19
 ---
 
-
-
 *La distribuzione degli esseri viventi sulla Terra*, particolarmente delle specie vegetali, le caratteristiche dei suoli *e la stessa attività umana* sono *fortemente condizionati dal clima*, cioè l’insieme delle condizioni meteorologiche che mediamente caratterizzano una determinata regione.  Per descrivere il clima di una regione si ricorre a diverse grandezze, dette *elementi del clima*, quali la temperatura, la pressione atmosferica e i venti, l’umidità e le precipitazioni, che a loro volta dipendono da alcuni *fattori del clima*, quali la latitudine, l’altitudine, la distanza dal mare, la presenza di catene montuose, l’esposizione al Sole e ai venti.  Data la grande variabilità di elementi e fattori del clima, sulla Terra esiste una notevole varietà di climi, che tuttavia possono essere riuniti in alcuni gruppi principali: si è proceduto alla *classificazione dei climi* in base a diversi criteri, ma la classificazione più nota è quella proposta dal meteorologo russo *W. Köppen*, che si basa sulla distribuzione geografica delle associazioni vegetali.  La gran varietà di climi presenti sulla Terra è stata così ridotta a un numero limitato di *gruppi climatici*, che interessano vaste aree della Terra e ciascuno dei quali comprende diversi *tipi climatici*, che riguardano aree più ristrette.
 
 ## Il tempo e il clima
@@ -22,9 +20,6 @@ L’estrema variabilità dei fattori climatici e la loro interazione determinano
 
 *climi megatermici*: in cui la temperatura media del mese più freddo è superiore a 15 °C, a loro volta distinti in climi megatermici umidi e climi megatermici aridi, a seconda della quantità delle precipitazioni *climi mesotermici*: in cui la temperatura media del mese più freddo è compresa tra 2 e 15 °C *climi microtermici*: in cui la temperatura media del mese più freddo è uguale o inferiore a – 2 °C e la temperatura media del mese più caldo è uguale o superiore a 10 °C *climi nivali*: in cui la temperatura del mese più caldo è inferiore a 10 °C. Non esiste un confine netto fra zone adiacenti appartenenti a gruppi o a tipi climatici diversi: il passaggio da un gruppo o tipo climatico a un altro avviene in modo graduale, per cui esistono zone caratterizzate da climi di transizione.
 
-* * * * *
-
-*Tipi di clima*
 Tipi climatici | Caratteristiche | Varietà’ | Caratteristiche
 ---|---|---|---
 climi umidi |temperatura del mese più freddo superiore ai 15 °C; almeno sei mesi di precipitazioni, compensanti la forte evaporazione |clima equatoriale o della foresta pluviale |almeno nove mesi di precipitazioni con un totale pluviometrico medio di 2000 mm annui, temperature elevate con deboli escursioni giornaliere e annue
@@ -39,66 +34,40 @@ climi microtermici |temperatura media del mese più freddo uguale o inferiore a 
 climi nivali |temperatura del mese più caldo sempre inferiore ai 10 °C, forti escursioni stagionali e deboli escursioni giornaliere; precipitazioni molto scarse |clima seminivale o delle tundre |la temperatura media del mese più caldo supera gli 0 °C
 | | |clima del gelo perenne |temperatura media del mese più caldo sempre sottozero
 
----
-![climi](https://upload.wikimedia.org/wikipedia/it/thumb/d/dd/Classificazione\_climatica\_mondiale\_secondo\_il\_sistema\_K%C3%B6ppen%E2%80%93Geiger.png/1024px-Classificazione\_climatica\_mondiale\_secondo\_il\_sistema\_K%C3%B6ppen%E2%80%93Geiger.png)
-
----
-
 ### I climi megatermici umidi
 
 *All’interno di questo gruppo climatico*, che interessa la fascia intertropicale, *si distinguono tre tipi climatici*, clima *equatoriale*, clima della *savana* e clima *monsonico*, tutti caratterizzati da abbondanti precipitazioni (oltre 2000 mm all’anno), ma distribuite in modo diverso nell’arco dell’anno.  Il *clima equatoriale*, tipico della zona compresa tra 10° N e 10° S di latitudine, è caratterizzato da una temperatura media elevata, intorno ai 27 °C, che si mantiene uniforme nel corso dell’anno, essendo ridotte le variazioni stagionali. Data l’intensa evapotraspirazione, l’umidità atmosferica è elevata e dà luogo ad abbondanti precipitazioni giornaliere, che consentono lo sviluppo di una rigogliosa e lussureggiante vegetazione. L’associazione vegetale tipica di questo clima è la *foresta pluviale*, detta anche foresta equatoriale, costituita da un fitto intreccio di alberi molto alti di specie eliofile (letteralmente, amanti della luce), al di sotto dei quali crescono piante più basse di specie ombrofile.  Il *clima della savana*, detto anche subequatoriale, è caratterizzato da temperature medie mensili sempre superiori ai 20 °C e da piovosità elevata; tuttavia, le precipitazioni non sono distribuite in modo uniforme, ma concentrate nel periodo in cui il Sole passa sullo zenit del luogo: si alternano dunque sei mesi di pioggia e sei di siccità. L’associazione vegetale che caratterizza questo clima è la *savana*, costituita soprattutto da piante erbacee perenni e da pochi e isolati alberi di acacie, baobab ed euforbie, specie xerofite (dal greco *xerós*, secco e *phytón*, pianta), cioè adattate a lunghi periodi di siccità.  Il *clima monsonico* interessa soprattutto le coste lungo l’oceano Indiano ed è caratterizzato da una stagione estiva con forti precipitazioni, dovute ai monsoni che spirano dall’oceano, e da una stagione invernale piuttosto secca. L’associazione tipica del clima monsonico è la *giungla*, che si distingue dalla foresta equatoriale per il fatto che, durante la stagione secca, gli alberi perdono le foglie.  Un clima simile a quello monsonico caratterizza anche le coste del Venezuela e quelle del Golfo di Guinea: in questo caso responsabili delle piogge estive sono i venti alisei, mentre l’inverno è breve, fresco e asciutto.
 
-
-|![savana](https://c1.staticflickr.com/3/2374/2204792630\_f557c99b77\_b.jpg) |![giungla](https://upload.wikimedia.org/wikipedia/commons/1/1b/%C3%8Dndios\_isolados\_no\_Acre\_5.jpg)
----|---
-
-*Esempi di clima: Savana del Serengeti e jungla equatoriale*
-
----
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Acacia-tree.jpg/640px-Acacia-tree.jpg" title="Savana del Serengeti" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/South_American_jungle_photograph.jpg/640px-South_American_jungle_photograph.jpg" title="Jungla equatoriale" >}}
 
 ### I climi aridi
 
 All’interno di questo gruppo climatico si distinguono *due tipi climatici*, clima *arido caldo* e clima *arido freddo*; entrambi sono caratterizzati dalla scarsità delle precipitazioni (inferiori a 250 mm all’anno. Le associazioni vegetali tipiche di entrambi sono possono essere il *deserto* (con poche specie vegetali tranne in corrispondenza delle oasi, zone in cui la vegetazione è rigogliosa grazie all’affioramento in superficie delle acque sotterranee) o la *steppa* (associazione di piante erbacee di specie alofite, cioè capaci di vivere in suoli ricchi di sali minerali).  Il *clima arido caldo* è caratterizzato da temperature medie annue superiori a 18 °C e da forti escursioni termiche diurne (fino a 50 °C). I deserti caldi occupano una fascia che corrisponde alla zona delle alte pressioni tropicali: Sahara e Kalahari in Africa, deserti della Penisola Arabica, dell’Iran e del Pakistan in Asia, deserti dell’Australia occidentale e di Atacama in Cile.  Il clima arido freddo è caratterizzato da temperature medie annue inferiori a 18 °C, con forti escursioni termiche sia annuali, sia diurne e frequenti episodi di gelo notturno, poiché la temperatura scende sotto 0 °C. La scarsità delle precipitazioni è dovuta sia alla notevole distanza dal mare, sia alla presenza di catene montuose che spesso ostacolano masse d’aria umida provenienti dagli oceani. Tra le regioni caratterizzate da questo tipo di clima ricordiamo la *zona che si estende dal Mar Caspio fino al deserto dei Gobi in Mongolia, il Gran Bacino e il Gran Deserto Sabbioso in Nordamerica e la Patagonia* in Sudamerica.
 
-
-
-![deserto](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Miscanti\_Lagoon\_near\_San\_Pedro\_de\_Atacama\_Chile\_Luca\_Galuzzi\_2006.jpg/1024px-Miscanti\_Lagoon\_near\_San\_Pedro\_de\_Atacama\_Chile\_Luca\_Galuzzi\_2006.jpg) |![steppa](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Step.JPG/1024px-Step.JPG)
----|---
-
-*Esempi di clima: deserto di Atacama e steppa kazaka*
-
----
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/OmnogoviLandscape.jpg/640px-OmnogoviLandscape.jpg" title="Deserto mongolo" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Step.JPG/1024px-Step.JPG" title="Steppa kazaka" >}}
 
 ### I climi mesotermici
 
 In base alla distribuzione delle piogge, all’interno di questo gruppo climatico si distinguono *tre tipi climatici*: il clima *sinico*, il clima *mediterraneo* e il clima *temperato fresco*.  Il *clima sinico* caratterizza la parte orientale dei continenti, compresa tra circa 20 e 35° di latitudine Nord e 20 e 35° di latitudine Sud; presenta qualche somiglianza col clima monsonico, poiché gli inverni sono freschi e secchi e le precipitazioni (tra 1000 e 2000 mm annui) sono concentrate in estate, ma mostra escursioni termiche annuali maggiori del clima monsonico. L’associazione vegetale presente in zone con questo clima è la *foresta di piante sempreverdi* (con prevalenza di magnolie, glicine e camelie), associate a piante più tipiche di zone monsoniche, tra le quali bambù e palme. Il clima sinico è tipico oltre che delle regioni orientali della *Cina* (da cui deriva il nome), degli *Stati Uniti orientali*, delle regioni *meridionali del Brasile*, del *sud-est dell’Australia*, di parte della *Nuova Zelanda* e di *piccole zone del Sudafrica*.  Il *clima mediterraneo* ha inverni piovosi e miti per la vicinanza del mare ed estati asciutte. Le temperature sono mediamente elevate, l’escursione termica annua è limitata (generalmente inferiore a 20 °C). Le precipitazioni, soprattutto invernali, sono spesso molto intense, ma di breve durata.  L’associazione vegetale tipica è la *macchia mediterranea*, costituita da arbusti e alberi sempreverdi (per esempio, leccio, quercia da sughero, pino marittimo, alloro), capaci di sopravvivere ai lunghi periodi secchi; questa vegetazione spontanea è oggi notevolmente ridotta. Oltre alle *coste del Mediterraneo*, questo clima caratterizza anche le *regioni più meridionali dell’Africa e dell’Australia*, le coste della *California* e il *tratto centrale della costa cilena*.  Il *clima temperato fresco* caratterizza la fascia compresa tra i 35° e i 60° di latitudine N e i 35° e i 60° di latitudine S, interessata dai venti occidentali; comprende *due sottotipi*, quello *oceanico*, con precipitazioni (tra 700 e 1500 mm annui) uniformemente distribuite nell’arco dell’anno e minori escursioni termiche annuali, e quello *continentale*, con precipitazioni concentrate in una stagione ed escursioni termiche annuali più accentuate. La temperatura media del mese più freddo supera di poco 0 °C e quella del mese più caldo è di circa 15 °C: dunque, gli inverni sono miti e le estati fresche, soprattutto per il sottotipo oceanico. La vegetazione, rigogliosa, è rappresentata da *foreste di latifoglie* (per esempio, querce, castagni, ontani, tigli, aceri, olmi e betulle), con un ricco sottobosco. *Il sottotipo oceanico interessa le coste atlantiche dell’Europa, l’Inghilterra, l’Irlanda, la costa pacifica del Nordamerica, quella meridionale del Cile e della Nuova Zelanda*, mentre *il sottotipo continentale interessa il nord della Cina, della Corea e del Giappone e gli stati nordorientali degli Stati Uniti*.
 
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/I_colori_di_Pantalica.jpg/640px-I_colori_di_Pantalica.jpg" title="Macchia mediterranea sui Monti Iblei, Sicilia" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gutturu_mannu_g5.jpg/640px-Gutturu_mannu_g5.jpg" title="Foresta sempreverde sarda" >}}
 
-
-![jiangjiajie](http://static.panoramio.com/photos/large/66466178.jpg) |![macchia](https://upload.wikimedia.org/wikipedia/commons/2/2e/Capo\_Caccia\_Nature.jpg)
----|---
-
-*Esempi di clima: Foresta dello Jiangjiajie e macchia mediterranea*
-
----
 ### I climi microtermici
 
 All’interno di questo gruppo climatico, caratterizzato da estati brevi e fresche e da inverni lunghi e freddi, si distinguono *due tipi climatici*: il *clima temperato-freddo umido* e il *clima temperato-freddo secco*.  Il *clima temperato-freddo umido* è detto anche *clima freddo a estate calda*, perché in questa stagione la temperatura media è di circa 22 °C; si estende tra 45 e 60° di latitudine Nord, mentre mancano zone con questo clima nell’emisfero australe. Le precipitazioni sono distribuite in tutto l’arco dell’anno, ma con maggior intensità in estate. L’associazione vegetale tipica è la *foresta di latifoglie decidue* (che perdono tutte le foglie nella stagione fredda), in cui le specie arboree più rappresentate sono faggi e querce, insieme ad aceri, carpini, castagni, ontani, pioppi, tigli ecc. Dove le precipitazioni sono meno abbondanti (aree continentali) alla foresta si sostituisce invece la *steppa-prateria*, un’associazione vegetale di erbe perenni e pochi arbusti, che occupano spesso vaste estensioni. Tuttavia, sia la foresta di latifoglie, sia la steppa-prateria, diffuse soprattutto nelle *aree continentali del Nordamerica*, *dell’Europa e dell’Asia*, sono oggi notevolmente ridotte, perché spesso sostituite dall’uomo con campi coltivati.  l *clima temperato-freddo secco*, detto anche *clima freddo a inverno prolungato* (oltre gli otto mesi), si estende al di sopra della fascia precedente fino al circolo polare. Le precipitazioni sono scarse e concentrate soprattutto in estate; quelle invernali, nevose, rimangono a lungo sul suolo ghiacciato. L’associazione vegetale caratteristica è la *foresta di aghifoglie* (detta anche *taiga* in Siberia), in cui le specie più rappresentate sono pini, abeti e larici, talora associati a qualche specie di latifoglie, quali betulle, pioppi e salici. Questo clima si trova in *Finlandia e Scandinavia* (Europa), in *Siberia* (Asia) e in *Canada e Alaska* (America).
 
-
-
-
- ![pampas](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Las\_Pampas.jpg/1024px-Las\_Pampas.jpg)| ![prateria](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dairy\_cows\_on\_pasture\_in\_Ireland.jpg/1024px-Dairy\_cows\_on\_pasture\_in\_Ireland.jpg)
----|---
-![taiga](https://upload.wikimedia.org/wikipedia/commons/2/2d/Picea\_glauca\_taiga.jpg) |![foresta](https://cdn.pixabay.com/photo/2013/04/13/18/37/nature-103416\_960\_720.jpg)
-
-*Esempi di climi: pampas, prateria irlandese, taiga del Minnesota, foresta decidua mitteleuropea*
-
----
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Pampas.jpg" title="Pampas argentina" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Grasslands-menggu.JPG/640px-Grasslands-menggu.JPG" title="Prateria nella Mongolia interna" >}}
 
 ### I climi nivali
 
 I *climi nivali* si estendono *a nord del Circolo Polare Artico* e sono caratterizzati, oltre che da una temperatura media inferiore ai 10 °C nel mese più caldo, da scarse precipitazioni (soprattutto a carattere nevoso), a causa del persistere dell’alta pressione sul polo e di una scarsa umidità atmosferica; comprendono due tipi climatici: il clima della tundra e il clima polare.  Il *clima subpolare* è detto anche *clima seminivale*, o della *tundra*; durante l’estate, breve e fresca, lo strato più superficiale del suolo, che per il resto dell’anno è gelato, sgela, permettendo la crescita di poche specie vegetali, soprattutto erbacee; lo strato più profondo del suolo rimane, invece, ghiacciato e costituisce il cosiddetto *permafrost* (permanentemente gelato). L’associazione vegetale tipica di questo clima è la *tundra*, in cui sono presenti prevalentemente erbe, muschi e licheni e solo sporadicamente qualche betulla o salice di pochi decimetri di altezza. Nell’emisfero boreale, il clima subpolare interessa il *nord della Siberia, le isole del mar Glaciale Artico, il Nordamerica, dall’Alaska al Labrador; nell’emisfero australe solo alcune isole più vicine all’Antartide, quali le Falkland e le Orcadi*.  Il *clima polare* è detto anche clima nivale ed è tipico delle calotte glaciali della Groenlandia e dell’Antartide; in tutto l’anno non si superano mai gli 0 °C e il suolo rimane perciò permanentemente coperto di neve e ghiaccio. Le precipitazioni sono scarse, ma si accumulano completamente. La vegetazione è assente.
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tundra_in_Siberia.jpg/640px-Tundra_in_Siberia.jpg" title="Tundra siberiana" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/2/23/Booth_and_Mount_Scott.jpg" title="Booth e mount Scott" >}}
 
 ## Il clima in Italia
 
@@ -112,25 +81,13 @@ Interessano la *catena alpina e le parti più interne degli Appennini*. Sono car
 
 Il *clima continentale*, *tipico della pianura Padana*, è caratterizzato da *forte escursione termica annuale*, pari a circa 20 °C. Esso presenta *due massimi di precipitazione* (primavera e autunno) e *due minimi* (estate e inverno). L’umidità relativa è elevata a causa dell’intensa evapotraspirazione, dovuta sia all’abbondanza delle acque circolanti in superficie (laghi, fiumi e canali), sia ai tipi di coltura praticati (risaie). Il carattere continentale del clima della pianura Padana varia in funzione della distanza dal mare: pertanto, esso è più accentuato a ovest e meno verso est, avvicinandosi al mare Adriatico.
 
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Val_Padana-Mantova.JPG/638px-Val_Padana-Mantova.JPG" title="Pianura Padana (pressi di Mantova)" >}}
 
-
-![pennine](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Monte\_Dragone\_Alpi\_Pennine.jpg/1024px-Monte\_Dragone\_Alpi\_Pennine.jpg) |![padana](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Val\_Padana-Mantova.JPG/1021px-Val\_Padana-Mantova.JPG)
----|---
-
-*Esempi di clima in Italia: Monte Dragone (Alpi Pennine) e Pianura Padana (pressi di Mantova)*
-
----
 ### I climi mediterranei
 
 Fortemente caratterizzati dall’influenza del mare, esistono 4 sottotipi di climi mediterranei:
 
 *clima della Liguria e della Toscana settentrionale*: È un clima caldo in estate e mite in inverno, con escursioni termiche annue molto modeste. Le precipitazioni annue variano da valori minimi nella parte occidentale della costa ligure a valori più elevati su quella orientale e lungo la costa tirrenica *clima del versante tirrenico e ionico*: Le precipitazioni sono relativamente abbondanti, in particolare dove sono presenti dei rilievi alle spalle del litorale. Le piogge si verificano essenzialmente in inverno: in questa stagione non sono rare precipitazioni di breve durata, mai di grande intensità, che influenzano profondamente il regime dei fiumi, cioè le variazioni della loro portata d’acqua nel corso dell’anno *clima del basso Adriatico*: È particolarmente caldo e secco in estate, poiché le masse d’aria umida provenienti dall’oceano Atlantico, hanno scaricato la loro umidità sul versante tirrenico e sono ormai secche *clima delle isole*: È caratterizzato da estati lunghe, calde e aride, e da inverni brevi e umidi, con precipitazioni che possono interessare parzialmente anche la primavera; le scarse precipitazioni creano problemi di approvvigionamento idrico. Nelle zone interne e più elevate delle isole, il carattere mediterraneo del clima si riduce e acquista, invece, caratteristiche di continentalità. Infine, sui rilievi più elevati (per esempio, sull’Etna), il clima presenta aspetti tipici del clima di montagna.
 
-
- ![ligure](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cinque\_Terre-Via\_dell%27amore-2380.JPG/1024px-Cinque\_Terre-Via\_dell%27amore-2380.JPG) |![panarea](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Panarea\_-vista\_dal\_villaggio\_preistorico.jpg/1024px-Panarea\_-vista\_dal\_villaggio\_preistorico.jpg)
- ---|---
- ![gravina](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gravina\_Grande1.jpg/1024px-Gravina\_Grande1.jpg) |![dolina](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dolina\_Pozzatina.jpg/1024px-Dolina\_Pozzatina.jpg)
-
-*Esempi di clima in Italia: Cinque Terre (costa ligure), Panarea, Gravina pugliese e Dolina Pozzatina (Parco del Gargano)*
-
----
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Riviera5terre.JPG/640px-Riviera5terre.JPG" title="Le Cinque Terre" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dolina_Pozzatina.jpg/640px-Dolina_Pozzatina.jpg" title="Dolina" >}}
