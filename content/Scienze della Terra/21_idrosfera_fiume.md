@@ -61,11 +61,9 @@ Per **bacino idrografico** di un fiume, detto anche bacino fluviale o bacino imb
 
 La **foce** di un fiume, cioè **la zona in cui esso confluisce in mare**, può assumere forme diverse a seconda della deposizione dei materiali che davanti a essa il fiume stesso ha eroso e trasportato e anche in funzione del moto ondoso, delle correnti marine e dell’entità delle maree, che invece contribuiscono ad allontanare i sedimenti, ridistribuendoli sulla piattaforma continentale (il primo tratto del fondale marino più vicino alla costa).  Dove le correnti e l’escursione di marea (differenza di livello tra l’alta marea e la bassa marea) sono forti, i materiali trasportati dal fiume vengono trascinati al largo e la foce assume una forma a imbuto, detta **estuario**: ciò si verifica soprattutto per i fiumi che sfociano in mari aperti o in oceani.  Dove l’escursione di marea o le correnti marine sono deboli, i materiali trasportati si depositano davanti alla foce, ostacolando il deflusso delle acque in mare: col tempo, i materiali sedimentati possono affiorare e formare sottili lembi di terra, che costringono il fiume a dividersi in più bracci prima di defluire in mare: questo tipo di foce prende il nome di **delta** ed è tipico dei fiumi che sfociano in mari chiusi.
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dead_Sea_by_David_Shankbone.jpg/1024px-Dead_Sea_by_David_Shankbone.jpg" width="250"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Desert-close-to-red-sea.jpg/1024px-Desert-close-to-red-sea.jpg" width="250"> |
-| :--------------------------------------: | :--------------------------------------: |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/CA-Estuario_y_desembocadura_r%C3%ADo_Pas_09.jpg/1024px-CA-Estuario_y_desembocadura_r%C3%ADo_Pas_09.jpg" width="250"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/A_view_down_into_the_Okavango_Delta.jpg/1024px-A_view_down_into_the_Okavango_Delta.jpg" width="250"> |
-
-Mar Morto (zona endoreica) e deserto del Sahara orientale (zona areica); estuario (Rio Pas) e delta (Okavango)
+| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dead_Sea_by_David_Shankbone.jpg/1024px-Dead_Sea_by_David_Shankbone.jpg" width="250" title="Mar Morto (zona endoreica)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Desert-close-to-red-sea.jpg/1024px-Desert-close-to-red-sea.jpg" width="250" title="Deserto del Sahara orientale (zona areica)" >}} |
+| --- | --- |
+| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/CA-Estuario_y_desembocadura_r%C3%ADo_Pas_09.jpg/1024px-CA-Estuario_y_desembocadura_r%C3%ADo_Pas_09.jpg" width="250" title="Estuario (Rio Pas)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/A_view_down_into_the_Okavango_Delta.jpg/1024px-A_view_down_into_the_Okavango_Delta.jpg" width="250" title="Delta (Okavango" >}} |
 
 ## Le acque superficiali: i laghi
 
@@ -81,13 +79,13 @@ In base all’origine della conca che li accoglie, i laghi possono essere distin
 
 ---
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ForniAvoltriLagoBordaglia.jpg/1024px-ForniAvoltriLagoBordaglia.jpg" width="250"> | <img src="https://upload.wikimedia.org/wikipedia/it/thumb/f/f5/Valle_del_Chiese.JPG/1024px-Valle_del_Chiese.JPG" width="250"> |
-| :--------------------------------------: | :--------------------------------------: |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/1lago_da_san_vittore.JPG/1024px-1lago_da_san_vittore.JPG" width="250"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Karst_italy_doberdo_lake.jpg/1024px-Karst_italy_doberdo_lake.jpg" width="250"> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lac_de_neuchatel.jpg/1024px-Lac_de_neuchatel.jpg" width="250"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Lago_di_Varese_al_tramonto.jpg" width="250"> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MisenoLago1030343TAW.JPG/1024px-MisenoLago1030343TAW.JPG" width="250"> | <img src="https://is.gd/2yaDDw" width="250"> |
+| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ForniAvoltriLagoBordaglia.jpg/1024px-ForniAvoltriLagoBordaglia.jpg" width="250" title="Lago Bordaglia (glaciale a circo)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/it/thumb/f/f5/Valle_del_Chiese.JPG/1024px-Valle_del_Chiese.JPG" width="250" title="Lago d'Idro (vallivo)" >}} |
+| --- | --- |
+| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/1lago_da_san_vittore.JPG/1024px-1lago_da_san_vittore.JPG" width="250" title="Lago di Bolsena (vulcanico)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Karst_italy_doberdo_lake.jpg/1024px-Karst_italy_doberdo_lake.jpg" width="250" title="Lago di Doberdò" >}} |
+| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lac_de_neuchatel.jpg/1024px-Lac_de_neuchatel.jpg" width="250" title="Lago Neuchâtel (tettonico)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Lago_di_Varese_al_tramonto.jpg" width="250" title="Lago di Varese (morenico)" >}} |
+| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MisenoLago1030343TAW.JPG/1024px-MisenoLago1030343TAW.JPG" width="250" title="Lago Miseno (costiero)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lago_di_Alleghe%2C_Belluno%2C_Italy.jpg/1024px-Lago_di_Alleghe%2C_Belluno%2C_Italy.jpg" width="250" title="Lago di Alleghe (sbarramento)" >}} |
 
-Tipi di lago: lago Bordaglia (glaciale a circo), lago d'Idro (vallivo), lago di Bolsena (vulcanico), lago di Doberdò, lago Neuchâtel (tettonico), lago di Varese (morenico), lago Miseno (costiero), lago di Alleghe (sbarramento)
+Tipi di lago.
 
 ### Evoluzione di un lago
 
@@ -99,11 +97,11 @@ I laghi sono una formazione idrologica temporanea della superficie terrestre e s
 * L’acqua si fa più torbida, il lago diventa sempre meno profondo e tende a divenire prima uno **stagno** (con bassa profondità e buona parte della superficie ricoperta da vegetazione), poi una **palude** (che può prosciugarsi completamente nella stagione secca), quindi una **torbiera** (con l’intera conca occupata da vegetazione inzuppata d’acqua) e infine si verifica l’interramento completo
 * La scomparsa di un lago può avvenire anche per altre cause rispetto al riempimento per sedimentazione: per eccesso di evaporazione, per insufficiente apporto idrico o per erosione dello sbarramento che ne aveva causato l’origine.
 
-| <img src="https://upload.wikimedia.org/wikipedia/it/thumb/e/eb/Contovello-Stagno_005.jpg/1024px-Contovello-Stagno_005.jpg" width="250"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Padule_di_Bolgheri_%22marchese_Mario_Incisa_della_Rocchetta%22.jpg" width="250"> |
+| {{< figure src="https://upload.wikimedia.org/wikipedia/it/thumb/e/eb/Contovello-Stagno_005.jpg/1024px-Contovello-Stagno_005.jpg" width="250" title="Stagno di Contovello" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Padule_di_Bolgheri_%22marchese_Mario_Incisa_della_Rocchetta%22.jpg" width="250" title="Padule di Bolgeri" >}} |
 | :--------------------------------------: | :--------------------------------------: |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palafitte_Biotopo_di_Fiav%C3%A8_6.JPG/1024px-Palafitte_Biotopo_di_Fiav%C3%A8_6.JPG" width="250"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aralship2.jpg/1024px-Aralship2.jpg" width="250"> |
+| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palafitte_Biotopo_di_Fiav%C3%A8_6.JPG/1024px-Palafitte_Biotopo_di_Fiav%C3%A8_6.JPG" width="250" title="Torbiera di Fiavé" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aralship2.jpg/1024px-Aralship2.jpg" width="250" title="Lago Aral" >}} |
 
-Evoluzione di un lago: stagno di Contovello, padule di Bolgeri, torbiera di Fiavé e lago Aral
+Evoluzione di un lago.
 
 ## I ghiacciai
 
@@ -123,12 +121,12 @@ Il **limite delle nevi persistenti** è la quota oltre la quale è maggiore la q
 
 Il modello di ghiacciaio prima descritto corrisponde al ghiacciaio di tipo alpino; tuttavia, dal punto di vista morfogenetico, si possono distinguere diversi tipi di ghiacciaio, riuniti in **ghiacciai continentali,** o **inlandsis**, che costituiscono la quasi totalità delle aree occupate dai ghiacciai, e **ghiacciai montani**, che comprendono ghiacciai di tipo alpino, himalayano, alaskano, scandinavo e pirenaico.
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Inlandsis_rivi%C3%A8re_Groenland_2009_Exp%C3%A9dition_ACarr%C3%A9.JPG/1024px-Inlandsis_rivi%C3%A8re_Groenland_2009_Exp%C3%A9dition_ACarr%C3%A9.JPG" width="250"> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Marmolada-Ghiacciaio.jpg" width="250"> |
-| :--------------------------------------: | :--------------------------------------: |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Drang-Drung-Glacier.jpg" width="250"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alaskan_glacier_and_ice_field.jpeg/1024px-Alaskan_glacier_and_ice_field.jpeg" width="250"> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Buerbreen.JPG/1024px-Buerbreen.JPG" width="250"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flora_y_Maladeta.jpg/1024px-Flora_y_Maladeta.jpg" width="250"> |
+| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Inlandsis_rivi%C3%A8re_Groenland_2009_Exp%C3%A9dition_ACarr%C3%A9.JPG/1024px-Inlandsis_rivi%C3%A8re_Groenland_2009_Exp%C3%A9dition_ACarr%C3%A9.JPG" width="250" title="Inlandsis (Groenlandia)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Marmolada-Ghiacciaio.jpg" width="250" title="Alpino (Marmolada)" >}} |
+| --- | --- |
+| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Drang-Drung-Glacier.jpg" width="250" title="Himalayano (Tibet)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alaskan_glacier_and_ice_field.jpeg/1024px-Alaskan_glacier_and_ice_field.jpeg" width="250" title="Alascano (Alaska)" >}} |
+| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Buerbreen.JPG/1024px-Buerbreen.JPG" width="250" title="Scandinavo (Norvegia)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flora_y_Maladeta.jpg/1024px-Flora_y_Maladeta.jpg" width="250" title="Pirenaico (Spagna)" >}} |
 
-Tipi di ghiacciai: inlandsis (Groenlandia), alpino (Marmolada), himalayano (Tibet), alascano (Alaska), scandinavo (Norvegia) e pirenaico (Spagna)
+Tipi di ghiacciai.
 
 ### Bilancio glaciale
 

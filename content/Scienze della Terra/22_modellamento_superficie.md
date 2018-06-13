@@ -153,9 +153,9 @@ Il ghiacciaio in movimento esercita un’intensa azione erosiva, chiamata **esar
 
 Tra le forme d’erosione dei ghiacciai si ricordano le valli glaciali, i circhi glaciali e le rocce montonate.  La **valle glaciale**: presenta un tipico profilo trasversale a “U”, con fondo largo e piatto e fianchi ripidi, dovuto al meccanismo erosivo del ghiacciaio, che, contrariamente a quanto avviene per un fiume, si esercita lungo tutta la sezione di contatto tra il ghiaccio e la roccia incassante.  Il **circo glaciale**: ha la forma di una conca, circondata su tre lati da una corona di creste e con soglia talora in contropendenza che la raccorda con il resto della valle glaciale. È scavato dal bacino collettore, che esercita una sorta di erosione regressiva sui versanti incassanti.  Le **rocce montonate**: sono dossi rocciosi arrotondati e allungati nella direzione di scorrimento del ghiaccio, costituiti da affioramenti di rocce più difficilmente erodibili e modellate dall’esarazione. L’abrasione vi scava solchi paralleli: dalla direzione del loro allungamento è possibile risalire alla direzione e al verso in cui è avvenuto il movimento del ghiacciaio.
 
-* ** ** ** **
-
-.Valle glaciale di Nunavut (Canada), lago superiore di Thornton (Stato del Washington), roccia montonata (Irlanda) e "Pietra Pendula" (Italia, Prealpi lombarde) |### |{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Quttinirtaaq_6_1997-08-05.jpg/1024px-Quttinirtaaq_6_1997-08-05.jpg" title="" >}} |###
+|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Quttinirtaaq_6_1997-08-05.jpg/1024px-Quttinirtaaq_6_1997-08-05.jpg" width="250" title="Valle glaciale di Nunavut (Canada)" >}}|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Thornton_Lakes_25982.JPG/640px-Thornton_Lakes_25982.JPG" width="250" title="Lago superiore di Thornton (Stato del Washington)" >}}
+---|---
+|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Roche_Moutonn%C3%A9e_Cadair_Idris.jpg/640px-Roche_Moutonn%C3%A9e_Cadair_Idris.jpg" width="250" title="Roccia montonata (Galles)" >}}|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pietra_Pendula.jpg/632px-Pietra_Pendula.jpg" width="250" title=" \"Pietra Pendula\" (Italia, Prealpi lombarde)" >}}
 
 ### Le forme di deposito dei ghiacciai
 
@@ -173,10 +173,8 @@ Mentre gli agenti geomorfologici prima considerati esercitano la loro azione su 
 
 L’attività erosiva del mare prende il nome di **abrasione marina** ed è dovuta non solo all’azione diretta delle onde, ma anche ai detriti che esse trasportano e che scagliano contro la costa.  Essa si manifesta soprattutto lungo le coste alte e rocciose, dove, per interferenza tra onda e fondale, l’azione dell’onda crea, in corrispondenza al livello medio del mare, un solco, detto **solco di battigia**, che va progressivamente approfondendosi; mancandole il sostegno, la parete rocciosa sovrastante crolla: il fenomeno è tipico delle **falesie**, coste alte e rocciose, a volte a strapiombo sul mare, che nel tempo arretrano verso il continente, lasciando il posto a una piattaforma d’erosione.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Staffa_ahead_14608.JPG/1024px-Staffa_ahead_14608.JPG" width="250">  |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Casoni-laguna-grado-agosto-2008.jpg/1024px-Casoni-laguna-grado-agosto-2008.jpg" width="250">
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Staffa_ahead_14608.JPG/1024px-Staffa_ahead_14608.JPG" width="250" title="Falesie \"Staffa\", (Scozia)" >}}  |  {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Casoni-laguna-grado-agosto-2008.jpg/1024px-Casoni-laguna-grado-agosto-2008.jpg" width="250" title="Laguna di Grado" >}}
 --|--
-
-Falesie "Staffa" (Scozia) e laguna di Grado
 
 ### Le forme di deposito del mare
 
@@ -188,11 +186,9 @@ La classificazione delle coste può basarsi sulla loro morfologia o sulla loro o
 
 **coste alte e profonde**: ripide, strapiombanti in mare a falesia, con scarpate verticali che continuano anche al di sotto del livello marino **coste alte con spiaggia**: dove a un tratto emerso molto alto segue un arenile che si sommerge gradualmente. Sovente derivano dalle prime, per crollo di parte del versante, accumulo alla base dei materiali provenienti dal crollo e loro ridistribuzione a opera dei movimenti marini **coste a ripe arretrate con spiaggia**: dove una spianata litoranea più o meno spaziosa è conclusa verso la terraferma da un gradino morfologico, che può avere origini diverse (una faglia, una scarpata di un antico terrazzo marino ecc.) **coste basse**: caratteristiche delle zone dove una pianura alluvionale costiera si sommerge gradualmente nello specchio marino antistante.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cabo_Girao.jpg/1024px-Cabo_Girao.jpg" width="250">  |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%C3%89tretat%2C_Falaises_01.jpg/1024px-%C3%89tretat%2C_Falaises_01.jpg" width="250">
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cabo_Girao.jpg/1024px-Cabo_Girao.jpg" width="250" title="Cabo Girão, Portogallo (costa alta e profonda)" >}}  |  {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%C3%89tretat%2C_Falaises_01.jpg/1024px-%C3%89tretat%2C_Falaises_01.jpg" width="250" title="Falesie di Etretat (costa alta con spiaggia)" >}}
 --|--
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Tor_caldara.jpg" width="250">  |  <img src="https://upload.wikimedia.org/wikipedia/it/thumb/6/68/Spiaggia_di_Punta_Prosciutto.JPG/1024px-Spiaggia_di_Punta_Prosciutto.JPG" width="250">
-
-Cabo Girão, Portogallo (costa alta e profonda), Falesie di Etretat (costa alta con spiaggia), Costa Lavinio Lido di Enea, Roma (costa a ripa arretrata con spiaggia), spiaggia salentina (costa bassa)
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Tor_caldara.jpg" width="250" title="Costa Lavinio Lido di Enea, Roma (costa a ripa arretrata con spiaggia)" >}}  |  {{< figure src="https://upload.wikimedia.org/wikipedia/it/thumb/6/68/Spiaggia_di_Punta_Prosciutto.JPG/1024px-Spiaggia_di_Punta_Prosciutto.JPG" width="250" title="Spiaggia salentina (costa bassa)" >}}
 
 La **classificazione in base all’origine** tiene conto della genesi della costa; si distinguono:
 
@@ -200,8 +196,6 @@ La **classificazione in base all’origine** tiene conto della genesi della cost
 * **coste di origine morfologica**: dette **rias** se derivano da antiche valli fluviali, o fiordi, se derivano da valli glaciali, modellate durante le fasi di oscillazione del livello medio del mare collegate con le grandi glaciazioni (oscillazioni eustatiche), poi invase dall’ingressione marina durante periodi interglaciali
 * **coste di origine biologica**: che derivano dall’azione costruttiva degli organismi marini (barriere coralline). Le più importanti sono quelle tropicali di origine madreporica. Le barriere sono formazioni più estese, sviluppate parallelamente alle coste e separate da queste da una fascia di laguna. Le isole madreporiche hanno per lo più forma ad atollo, una corona circolare emersa, che racchiude una laguna centrale, collegata con il mare aperto attraverso una o più interruzioni.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Calaficarra.jpg/1024px-Calaficarra.jpg" width="250">  |  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Lipari_Bimstein_Steinbruch.jpg" width="250">
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Calaficarra.jpg/1024px-Calaficarra.jpg" width="250" title="Spiaggia \"nera\" Marina di Maratea" >}}  |  {{< figure src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Lipari_Bimstein_Steinbruch.jpg" width="250" title="Spiaggia di pomice (Lipari)" >}}
 --|--
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ria_San-Vicente-de-la-Barquera.jpg/1024px-Ria_San-Vicente-de-la-Barquera.jpg" width="250">  |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lagoons_and_Reefs_of_New_Caledonia_May_10%2C_2001.jpg/1024px-Lagoons_and_Reefs_of_New_Caledonia_May_10%2C_2001.jpg" width="250">
-
-Spiaggia "nera" Marina di Maratea, spiaggia di pomice (Lipari), "Ria" in Cantabria (Spagna) e Barriera Corallina della Nuova Caledonia (Oceania)
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ria_San-Vicente-de-la-Barquera.jpg/1024px-Ria_San-Vicente-de-la-Barquera.jpg" width="250" title=" \"Ria\" in Cantabria (Spagna)" >}}  |  {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lagoons_and_Reefs_of_New_Caledonia_May_10%2C_2001.jpg/1024px-Lagoons_and_Reefs_of_New_Caledonia_May_10%2C_2001.jpg" width="250" title="Barriera Corallina della Nuova Caledonia (Oceania)" >}}

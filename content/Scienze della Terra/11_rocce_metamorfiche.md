@@ -32,13 +32,13 @@ Quando i sedimenti calcarei sono seppelliti, vengono in contatto con le acque ci
 
 Principali tipi di rocce metamorfiche.
 
-|<img src="https://c1.staticflickr.com/1/767/23399440262_a28113663f_b.jpg" width="250">|<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Chlorite_schist.jpg" width="250">
+|{{< figure  src="https://c1.staticflickr.com/1/767/23399440262_a28113663f_b.jpg" width="250" title="ardesia" >}}|{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/8/86/Chlorite_schist.jpg" width="250" title="fillade" >}}
 ---|---
-|<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Rocks_-_Micaschist.JPG" width="250"> |<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/PlagioclaseFeldsparUSGOV.jpg" width="250">
-|<img src="https://c1.staticflickr.com/8/7371/26196405084_d643ed201b_b.jpg" width="250">|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Migmatite_2005.jpg/647px-Migmatite_2005.jpg" width="250">
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Calcite_sample.JPG/800px-Calcite_sample.JPG" width="250"> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Marmo_di_Cottanello.jpg/800px-Marmo_di_Cottanello.jpg" width="250">
+|{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Rocks_-_Micaschist.JPG" width="250" title="micascisto" >}} |{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/3/34/PlagioclaseFeldsparUSGOV.jpg" width="250" title="feldspato" >}}
+|{{< figure  src="https://c1.staticflickr.com/8/7371/26196405084_d643ed201b_b.jpg" width="250" title="gneiss" >}}|{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Migmatite_2005.jpg/647px-Migmatite_2005.jpg" width="250" title="migmatite" >}}
+|{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Calcite_sample.JPG/800px-Calcite_sample.JPG" width="250" title="calcite" >}} |{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Marmo_di_Cottanello.jpg/800px-Marmo_di_Cottanello.jpg" width="250" title="marmo" >}}
 
-Principali rocce metamorfiche: ardesia, fillade, micascisto, feldspato, gneiss, migmatite, calcite e marmo.
+Principali rocce metamorfiche.
 
 ## L’anatessi
 
@@ -50,8 +50,8 @@ Principali rocce metamorfiche: ardesia, fillade, micascisto, feldspato, gneiss, 
 
 La struttura delle rocce metamorfiche è diretta conseguenza del tipo di metamorfismo che le ha originate: a seconda che abbia prevalso l’azione della pressione, della temperatura o entrambe, si possono avere diversi tipi di struttura, scistosa, granulare od occhiadina.  La maggior parte delle rocce metamorfiche ha **struttura scistosa**, cioè presenta cristalli disposti su piani paralleli, allungati e orientati in una sola direzione, perpendicolare a quella lungo la quale ha agito la pressione. Grazie alla loro scistosità, alcune rocce metamorfiche possono essere facilmente divise in strati sottili, lungo piani paralleli, detti piani di scistosità. Esempi di rocce a tipica struttura scistosa sono le filladi e i micascisti, utilizzati per la copertura dei tetti, e gli gneiss, usati come materiale per rivestimenti.  Esistono anche rocce metamorfiche con **struttura granulare**, detta anche saccaroide, in cui i cristalli sono equidimensionali e non sono orientati; esempi di rocce a struttura granulare sono il marmo, che si origina per metamorfismo di contatto dai calcari, e la quarzite, derivata da arenarie quarzose.  Infine, vi sono rocce metamorfiche che presentano una **struttura occhiadina**, con caratteristiche intermedie fra le due precedenti: si osservano, infatti, cristalli equidimensionali e di dimensioni maggiori frammisti a cristalli orientati e disposti in strati paralleli; una roccia con questa struttura è lo gneiss occhiadino.
 
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Pyrop-Quarzit.JPG/640px-Pyrop-Quarzit.JPG" width="250"> |<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/CS_gneiss.jpg" width="250">
+|{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Pyrop-Quarzit.JPG/640px-Pyrop-Quarzit.JPG" width="250" title="quarzite massiccia" >}} |{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/8/86/CS_gneiss.jpg" width="250" title="gneiss occhiadino" >}}
 ---|---
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Marmo_z16.JPG/640px-Marmo_z16.JPG" width="250"> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fillade%2C_da_elba%2C_cavo.JPG/676px-Fillade%2C_da_elba%2C_cavo.JPG" width="250">
+|{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Marmo_z16.JPG/640px-Marmo_z16.JPG" width="250" title="marmo saccaroide" >}} |{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fillade%2C_da_elba%2C_cavo.JPG/676px-Fillade%2C_da_elba%2C_cavo.JPG" width="250" title="fillade scistosa" >}}
 
-Esempi peculiari di rocce metamorfiche in base alla loro diversa struttura: quarzite massiccia, gneiss occhiadino, marmo saccaroide e fillade scistosa
+Esempi peculiari di rocce metamorfiche in base alla loro diversa struttura.

@@ -110,4 +110,4 @@ Sono gli ambienti pi√π estesi e anche quelli che presentano una maggiore variet√
 ---|---
 |{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Paramuricea_clavata.JPG" width="250" title="Fndale marino" >}} |{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hexanchus_griseus_santa_rosa.jpg/1280px-Hexanchus_griseus_santa_rosa.jpg" width="250" title="Abisso" >}}
 
-Ambienti marini: litorale di Ugento (Puglia), melma attorno a Mont Saint Michele durante la bassa marea, fondale marino e abisso.
+Ambienti marini.

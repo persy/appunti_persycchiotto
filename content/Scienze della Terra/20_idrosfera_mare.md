@@ -34,8 +34,7 @@ Molte sono le caratteristiche chimico-fisiche dell’acqua di mare che influenza
 
 Principali sali disciolti nell'acqua di mare
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/THERMOCLINE.png/853px-THERMOCLINE.png" width="500">
-Termoclino.
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/THERMOCLINE.png/853px-THERMOCLINE.png" width="500" title="Termoclino" >}}
 
 ## Le variazioni di livello dei mari
 
