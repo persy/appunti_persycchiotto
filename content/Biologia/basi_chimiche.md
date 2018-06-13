@@ -4,18 +4,15 @@ draft: false
 weight: 1
 ---
 
-
-
 # Che cos'è la biologia
 
 _La biologia è la scienza che studia tutti gli **organismi viventi**, descrivendo e classificando la loro forma, indagando sui fenomeni che si verificano al loro interno e mettendoli in relazione tra loro. Si occupa inoltre di capire il perché dei diversi modelli di vita dei vari organismi, confrontandoli e cercando di evidenziare le caratteristiche comuni a tutti i viventi, per poter dare una definizione di "**vita**"_.
 
-La biologia segue criteri e principi ben definiti, propri di ogni **disciplina scientifica**, basati sul metodo sperimentale. In quanto scienza sperimentale, **la biologia si prefigge di riprodurre i fenomeni osservati per poter comprendere i meccanismi** che ne sono alla base e per verificarne il carattere di universalità. In particolare, un presupposto della biologia moderna è che **gli esseri viventi sono soggetti alle stesse leggi fisiche e chimiche che permettono di spiegare il comportamento della materia inanimata**. 
+La biologia segue criteri e principi ben definiti, propri di ogni **disciplina scientifica**, basati sul metodo sperimentale. In quanto scienza sperimentale, **la biologia si prefigge di riprodurre i fenomeni osservati per poter comprendere i meccanismi** che ne sono alla base e per verificarne il carattere di universalità. In particolare, un presupposto della biologia moderna è che **gli esseri viventi sono soggetti alle stesse leggi fisiche e chimiche che permettono di spiegare il comportamento della materia inanimata**.
 
 Si può parlare di biologia nel senso moderno, come scienza autonoma rispetto alla medicina, solo a partire dalla fine del XVII secolo, quando vengono messi a punto lenti e microscopi capaci di osservare l'estremamente piccolo. Nel XIX secolo sono formulate nuove importanti teorie, come la costituzione cellulare degli organismi, la teoria evolutiva e le leggi della genetica, che danno grande impulso alle discipline biologiche. Nel XX secolo gli interessi dei biologi si rivolgono prevalentemente allo studio dei componenti chimici della materia vivente e il campo di osservazione è ulteriormente ampliato dall'uso dei microscopi elettronici.
 
 Oggi la biologia è una scienza in grande espansione, che comprende settori sempre più specifici, come la biologia molecolare o l'esobiologia, e allo stesso tempo in stretta relazione interdisciplinare con la medicina, l'agraria, la veterinaria e anche con scienze umane, come l'antropologia e la psicologia.
-
 
 <table>
   <tr>
@@ -25,7 +22,7 @@ Oggi la biologia è una scienza in grande espansione, che comprende settori semp
    </td>
   </tr>
   <tr>
-   <td>botanica 
+   <td>botanica
    </td>
    <td>regno vegetale
    </td>
@@ -81,7 +78,7 @@ Oggi la biologia è una scienza in grande espansione, che comprende settori semp
   <tr>
    <td>embriologia
    </td>
-   <td>sviluppo degli organismi 
+   <td>sviluppo degli organismi
    </td>
   </tr>
   <tr>
@@ -140,33 +137,24 @@ Oggi la biologia è una scienza in grande espansione, che comprende settori semp
   </tr>
 </table>
 
-
-_Principali settori disciplinari della biologia_
-
+Principali settori disciplinari della biologia.
 
 ### Caratteristiche della vita
 
 Nonostante i grandi risultati ottenuti dalle indagini biologiche, è praticamente impossibile dare una definizione scientifica complessiva del concetto di "vita", che si manifesta in fenomeni unici e irripetibili; si possono tuttavia indicare come "viventi" gli esseri che hanno in comune alcune caratteristiche:
 
+* elevato grado di **organizzazione interna**
+* utilizzo delle stesse **molecole organiche fondamentali** (proteine, carboidrati, lipidi, acidi nucleici) con compiti specifici
+* capacità di **omeostasi**, cioè di mantenersi a condizioni costanti di temperatura, pH, pressione, concentrazione di acqua e altri elementi
+* capacità di **assumere e trasformare l'energia**, allo scopo di mantenere una struttura complessa e ordinata
+* capacità di **rispondere agli stimoli**
+* **riproduzione** e mantenimento della propria identità, mediante un patrimonio di acidi nucleici e proteine
+* capacità di **adattarsi all'ambiente** circostante
+* capacità di **evolversi nel tempo**
 
-
-*   elevato grado di **organizzazione interna**
-*   utilizzo delle stesse **molecole organiche fondamentali** (proteine, carboidrati, lipidi, acidi nucleici) con compiti specifici
-*   capacità di **omeostasi**, cioè di mantenersi a condizioni costanti di temperatura, pH, pressione, concentrazione di acqua e altri elementi
-*   capacità di **assumere e trasformare l'energia**, allo scopo di mantenere una struttura complessa e ordinata
-*   capacità di **rispondere agli stimoli**
-*   **riproduzione** e mantenimento della propria identità, mediante un patrimonio di acidi nucleici e proteine
-*   capacità di **adattarsi all'ambiente** circostante
-*   capacità di **evolversi nel tempo**
-
-
-# Le basi chimiche della vita
-
-
-## Dagli atomi alle biomolecole
+## Le basi chimiche della vita: dagli atomi alle biomolecole
 
 Anche se gli esseri viventi sono assai diversi nel loro aspetto, hanno tutti una costituzione di base simile, essendo formata dagli stessi componenti elementari diffusi anche nel regno minerale; si tratta di poco più di una ventina di elementi chimici, che vengono indicati genericamente come elementi biogeni o bioelementi. I bioelementi più comuni sono idrogeno, ossigeno, carbonio e azoto: come per la materia non vivente, gli atomi di questi elementi sono uniti in molecole, ma nei viventi queste sono organizzate in genere in strutture molto più complesse (biomolecole).
-
 
 ### Atomi e molecole
 
@@ -178,7 +166,6 @@ Un **composto è una sostanza formata da atomi di due o più elementi** differen
 
 Una **molecola** (elementare o composta) **è la più piccola parte di un elemento o di un composto** che ne conserva tutte le caratteristiche chimiche e fisiche.
 
-
 #### Struttura dell'atomo
 
 L'atomo è formato da tre tipi fondamentali di particelle: **protoni** (che portano una carica elettrica positiva), **neutroni** (elettricamente neutri) ed **elettroni** (che portano una carica elettrica negativa). Protoni e neutroni sono riuniti nel nucleo, intorno al quale si muovono gli elettroni; in un atomo elettricamente neutro il numero degli elettroni è uguale a quello dei protoni. **La quasi totalità della massa dell'atomo si concentra nel nucleo**: infatti, la massa dell'elettrone è poco meno di 2000 volte inferiore a quelle del protone o del neutrone.
@@ -189,28 +176,19 @@ Quasi tutti gli elementi possiedono **atomi che**, pur avendo uguale numero atom
 
 neutroni: tali atomi sono detti **isotopi** e alcuni sono instabili (isotopi radioattivi). È per la presenza degli isotopi che il numero di massa di un elemento non è un numero intero, in quanto risulta dalla media pesata dei numeri di massa dei vari isotopi.
 
-
 #### La distribuzione degli elettroni nell'atomo
 
 Gli elettroni si muovono intorno al nucleo in regioni dello spazio dette orbitali raggruppati in strati a distanze crescenti dal nucleo. Gli elettroni negli orbitali più vicini al nucleo hanno energia minoree quelli negli orbitali più lontani dal nucleo hanno energia via via maggiore. Passando da uno strato a quello successivo l'energia non varia in modo continuo, ma secondo quantità ben definite, cioè in modo discreto (l'energia risulta cioè quantizzata). Per tale motivo i gruppi di orbitali appartenenti a ciascuno strato sono anche chiamati livelli di energia (e ciascun orbitale è detto sottolivello di energia). Nel primo livello di energia, quello più vicino al nucleo, è presente un solo orbitale, che può accogliere 2 elettroni. Al secondo livello di energia corrispondono quattro orbitali in cui possono sistemarsi fino a 8 elettroni. Al terzo livello di energia corrispondono nove orbitali che possono ospitare fino a 18 elettroni e così via.
 
-
-
-
-
-![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Atom.svg/267px-Atom.svg.png)
-
-
-_Rappresentazione schematica di un atomo di elio. Attorno al nucleo, composto da due neutroni (in verde) e due protoni (in rosso), ruotano gli elettroni (in giallo)._
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Atom.svg/267px-Atom.svg.png" title="Rappresentazione schematica di un atomo di elio. Attorno al nucleo, composto da due neutroni (in verde) e due protoni (in rosso), ruotano gli elettroni (in giallo)." >}}
 
 Il numero degli elettroni del livello più esterno (detti elettroni di valenza) determina il comportamento chimico di un elemento. Gli elettroni possono essere in parte perduti o acquistati da un atomo nel corso di una reazione chimica: se sono ceduti si forma uno ione positivo, o catione; se sono acquistati si forma uno ione negativo, o anione. L'individualità chimica dell'atomo rimane comunque inalterata.
 
-
 ### I legami chimici
 
-Si è osservato che gli atomi con otto elettroni nel livello più esterno, o **ottetto elettronico**, sono estremamente stabili e manifestano quindi una scarsa tendenza a partecipare a reazioni chimiche. Questa configurazione corrisponde a quella dei gas nobili della tavola periodica, che infatti hanno scarsissima tendenza a combinarsi con altri elementi. **Gli atomi** degli altri elementi **che non hanno questa configurazione tendono** a "stabilizzarsi", cioè **a conseguire la configurazione elettronica più stabile dell'ottetto**, uguale a quella del gas nobile più vicino nella tavola periodica; tendono quindi ad acquistare, perdere o mettere in comune gli elettroni del livello esterno interagendo con altri atomi e formando con questi legami chimici. 
+Si è osservato che gli atomi con otto elettroni nel livello più esterno, o **ottetto elettronico**, sono estremamente stabili e manifestano quindi una scarsa tendenza a partecipare a reazioni chimiche. Questa configurazione corrisponde a quella dei gas nobili della tavola periodica, che infatti hanno scarsissima tendenza a combinarsi con altri elementi. **Gli atomi** degli altri elementi **che non hanno questa configurazione tendono** a "stabilizzarsi", cioè **a conseguire la configurazione elettronica più stabile dell'ottetto**, uguale a quella del gas nobile più vicino nella tavola periodica; tendono quindi ad acquistare, perdere o mettere in comune gli elettroni del livello esterno interagendo con altri atomi e formando con questi legami chimici.
 
-Il **legame chimico è la forza attrattiva che si stabilisce tra due o più atomi**, uguali o diversi, che consente loro di unirsi formando molecole o aggregati cristallini. La **valenza** di un elemento **è il numero di legami che può formare** scambiando o compartecipando gli elettroni dello strato più esterno (elettroni di valenza). Il tipo di legame che si viene a stabilire tra atomi dipende sostanzialmente dalla **elettronegatività** degli atomi, cioè dalla **misura della loro capacità di attrarre gli elettroni di legame**. 
+Il **legame chimico è la forza attrattiva che si stabilisce tra due o più atomi**, uguali o diversi, che consente loro di unirsi formando molecole o aggregati cristallini. La **valenza** di un elemento **è il numero di legami che può formare** scambiando o compartecipando gli elettroni dello strato più esterno (elettroni di valenza). Il tipo di legame che si viene a stabilire tra atomi dipende sostanzialmente dalla **elettronegatività** degli atomi, cioè dalla **misura della loro capacità di attrarre gli elettroni di legame**.
 
 I due tipi fondamentali di legame chimico sono il legame ionico e il legame covalente. Il **legame ionico si forma tra gli atomi di due elementi differenti tra i quali è avvenuto uno scambio di elettroni**: un atomo cede uno o più elettroni e diventa uno ione positivo, l'altro acquista elettroni e diventa uno ione negativo. Il legame ionico è un'attrazione di natura elettrostatica che si stabilisce tra i due ioni di carica opposta.
 
@@ -218,10 +196,9 @@ Il legame ionico si forma tra elementi che presentano valori molto diversi di el
 
 Il **legame covalente si forma tra atomi di uno stesso elemento o di elementi differenti che mettono in comune uno o più coppie di elettroni**: queste entrano così a far parte delle nubi elettroniche di entrambi gli atomi. A seconda del numero di coppie di elettroni condivise, si formano legami covalenti singoli (come nella molecola di idrogeno H-H), doppi (come nella molecola di ossigeno O=O) o tripli (come nella molecola di azoto N≡N).
 
-Il legame covalente che si stabilisce tra atomi dello stesso elemento è detto **legame covalente puro od omopolare**. 
+Il legame covalente che si stabilisce tra atomi dello stesso elemento è detto **legame covalente puro od omopolare**.
 
 Il **legame covalente** che si stabilisce **tra atomi di elementi differenti è detto legame covalente polare**. Infatti, a causa della differenza di elettronegatività, gli elettroni di legame sono più attratti dall'atomo più elettronegativo, che acquista una frazione di carica elettrica negativa, mentre l'atomo meno elettronegativo acquista una frazione di carica elettrica positiva. Le molecole risultanti, pur essendo elettricamente neutre nel loro insieme, sono sede di una **polarità elettrica**. Le **molecole polari si comportano come un dipolo elettrico**, cioè un corpo che possiede una frazione di cariche elettriche di segno opposto concentrate alle estremità, per cui si riconoscono un "polo positivo" e un "polo negativo". Una tipica molecola polare è la molecola dell'acqua.
-
 
 #### Legami deboli
 
@@ -233,16 +210,7 @@ Esse comprendono i **legami dipolo-dipolo**, che si stabiliscono tra molecole po
 
 Un particolare tipo di interazione dipolo-dipolo è il **legame a idrogeno**, che riveste molta importanza perché si manifesta **tra le molecole d'acqua**. Queste ultime, infatti, hanno una frazione di carica negativa localizzata sull'atomo di ossigeno e una frazione di carica positiva localizzata sui due atomi di idrogeno. Le forze attrattive che si manifestano tra le polarità di segno opposto delle varie molecole sono all'origine del legame a idrogeno, come quello del fluoruro di idrogeno HF, dell'acqua H<sub>2</sub>O, dell'ammoniaca NH<sub>3</sub>.
 
-
-
-
-
-
-![alt_text](https://upload.wikimedia.org/wikipedia/it/b/b6/Legami_a_idrogeno_3D.png)
-
-
-_Formazione dei legami a idrogeno tra le molecole di acqua a struttura dipolare_
-
+{{< figure src="https://upload.wikimedia.org/wikipedia/it/b/b6/Legami_a_idrogeno_3D.png" title="Formazione dei legami a idrogeno tra le molecole di acqua a struttura dipolare." >}}
 
 ### Composti organici e composti inorganici
 
@@ -252,22 +220,19 @@ I **composti organici includono la quasi totalità dei composti del carbonio**, 
 
 I **composti inorganici includono tutti i composti che non contengono carbonio nelle loro molecole** (tranne il diossido di carbonio, o anidride carbonica, e pochi altri composti del carbonio). Molti composti inorganici sono necessari alla vita: tra questi occupa un posto particolare l'acqua (la maggior parte delle reazioni fondamentali per gli organismi viventi si svolge in soluzione acquosa).
 
-
 #### L'acqua
 
 L'acqua è un composto chimicamente semplice, formato da due atomi di idrogeno e uno di ossigeno (H<sub>2</sub>O), che riveste fondamentale importanza in biologia: costituisce il principale componente in peso (40-98%) degli organismi, ed è il mezzo in cui si svolge la maggior parte dei processi biochimici. **L'acqua presente in un organismo può essere libera** (quando non fa parte della struttura di un composto chimico e può muoversi da un punto all'altro dell'organismo, svolgendo fondamentalmente la funzione di mezzo nel quale si bagnano le cellule) **o legata**, quando fa parte della struttura di un composto chimico.
 
 Le particolari caratteristiche chimico-fisiche dell'acqua sono una conseguenza dei legami a idrogeno che si instaurano tra ogni molecola d'acqua e le altre molecole vicine a causa dei legami a idrogeno descritti a pagina 15. I legami a idrogeno tendono a far "aderire" più tenacemente le molecole d'acqua tra loro e questo influenza altre proprietà, come la **tensione superficiale** e la **capacità termica**; inoltre, la natura dipolare della molecola d'acqua ne spiega l'elevato **potere solvente**.
 
-
 #### Soluzioni
 
-Si definisce **soluzione** una **miscela omogenea di due o più sostanze**: quella o quelle presenti in quantità minore sono dette **soluti** e quella presente in quantità maggiore è detta **solvente**. La **concentrazione **di una soluzione è la quantità di soluto (o di soluti) espressa in grammi, contenuta in una determinata quantità in peso o in volume di solvente o soluzione. La **solubilità **di un soluto in un solvente è la massima quantità di soluto che, a una determinata temperatura, può sciogliersi in una certa quantità di solvente. In tali condizioni di concentrazione, la soluzione si dice satura, cioè un'ulteriore aggiunta di soluto precipiterebbe sul fondo come solido. 
+Si definisce **soluzione** una **miscela omogenea di due o più sostanze**: quella o quelle presenti in quantità minore sono dette **soluti** e quella presente in quantità maggiore è detta **solvente**. La **concentrazione** di una soluzione è la quantità di soluto (o di soluti) espressa in grammi, contenuta in una determinata quantità in peso o in volume di solvente o soluzione. La **solubilità** di un soluto in un solvente è la massima quantità di soluto che, a una determinata temperatura, può sciogliersi in una certa quantità di solvente. In tali condizioni di concentrazione, la soluzione si dice satura, cioè un'ulteriore aggiunta di soluto precipiterebbe sul fondo come solido.
 
 Le soluzioni più comuni sono le soluzioni acquose, in cui il solvente è l'acqua. Nelle soluzioni le particelle costituenti sono atomi, ioni o molecole di piccole dimensioni.
 
 I **colloidi sono invece pseudo-soluzioni**, in cui le particelle di soluto sono macromolecole visibili all'ultramicroscopio. Una sostanza colloidale è, per esempio, il citoplasma che costituisce le cellule.
-
 
 <table>
   <tr>
@@ -290,15 +255,13 @@ I **colloidi sono invece pseudo-soluzioni**, in cui le particelle di soluto sono
   </tr>
 </table>
 
-
-_Le proprietà dell'acqua_
-
+Le proprietà dell'acqua.
 
 #### Il pH
 
 Nell'acqua, vi è sempre una piccolissima parte di molecole dissociate in uno **ione idrogeno** **o protone H<sup>+</sup>** e uno **ione idrossido OH<sup>-</sup>**. Nell'acqua pura, il numero di ioni idrogeno è uguale al numero di ioni ossidrile, e l'acqua pura è dunque neutra. Pertanto, **si definisce neutra qualunque soluzione acquosa che contenga un'uguale concentrazione di ioni negativi** (**OH<sup>-</sup>**) **e di ioni positivi** (**H<sup>+</sup>**); **si definisce acida la soluzione in cui prevalgono ioni H<sup>+ </sup>** (e acidi sono i composti che in acqua liberano ioni H<sup>+</sup>); **si definisce basica la soluzione in cui prevalgono ioni OH<sup>- </sup>** (e basi o idrossidi sono i composti che in acqua liberano ioni OH<sup>-</sup>).
 
-L'acidità (o la basicità) di una soluzione dipende dalla quantità di ioni H<sup>+</sup> (o di ioni OH<sup>-</sup>) presenti. Per poterla misurare, i chimici fanno riferimento alla **scala del pH**, divisa in 14 gradi: a metà della scala, il valore 7 (pH=7) significa che nella soluzione vi è un ugual numero di ioni H<sup>+ </sup>e OH<sup>-</sup>, cioè la soluzione è **neutra**; i valori inferiori indicano che la soluzione è acida, i valori superiori che la soluzione è basica. 
+L'acidità (o la basicità) di una soluzione dipende dalla quantità di ioni H<sup>+</sup> (o di ioni OH<sup>-</sup>) presenti. Per poterla misurare, i chimici fanno riferimento alla **scala del pH**, divisa in 14 gradi: a metà della scala, il valore 7 (pH=7) significa che nella soluzione vi è un ugual numero di ioni H<sup>+ </sup>e OH<sup>-</sup>, cioè la soluzione è **neutra**; i valori inferiori indicano che la soluzione è acida, i valori superiori che la soluzione è basica.
 
 **Se si mescola una soluzione acida con una basica** avviene una **reazione di neutralizzazione**: in acqua gli acidi e le basi si scindono in ioni, gli ioni H<sup>+ </sup>e OH<sup>- </sup>si uniscono per formare acqua, mentre gli ioni negativi e positivi dei composti si uniscono per formare un **sale**
 
@@ -306,25 +269,20 @@ _NaH + HCl ⟶ Na<sup>+</sup> + OH<sup>-</sup> + Cl<sup>-</sup> + H<sup>+</sup> 
 
 _In questa reazione l'idrossido di sodio (NaH) si combina con l'acido cloridrico (HCl): gli ioni si dissociano in ione sodio (Na<sup>+</sup>), ione idrossido (OH<sup>-</sup>), ione cloruro (Cl<sup>-</sup>) e protone (H<sup>+</sup>), riassociandosi in cloruro di sodio (NaCl) e acqua (H<sub>2</sub>O)_
 
-
 ### La chimica del carbonio
 
 La chimica del carbonio fu definita **chimica organica** quando si pensava che i composti del carbonio (**composti organici**) potessero essere prodotti solo da organismi viventi: essa studia tutti quei composti naturali, od ottenuti esclusivamente per sintesi, aventi una struttura di base di atomi di carbonio legati sempre ad atomi di idrogeno e spesso ad atomi di altri elementi, soprattutto ossigeno, azoto e, in misura minore, zolfo e fosforo.
-
 
 #### Il carbonio
 
 Il carbonio (simbolo C) è un non metallo del gruppo VI A del sistema periodico; è presente in natura, allo stato elementare, in due differenti forme cristalline: la grafite e il diamante. Nella crosta terrestre è presente in una piccola percentuale nei carbonati, nel petrolio, nel carbone e nel gas naturale; nell'atmosfera si trova soprattutto come monossido (CO) e diossido (CO<sub>2</sub>) di carbonio (o anidride carbonica), ma la percentuale maggiore di carbonio si trova come costituente delle strutture di base degli organismi. Il numero dei composti organici supera di gran lunga quello di tutti i composti formati dagli altri elementi (composti inorganici) messi insieme: il carbonio può essere considerato il più versatile tra gli elementi chimici grazie a una singolare combinazione di proprietà. Infatti l'atomo di carbonio:
 
-
-
-*   forma fino a 4 legami covalenti a geometria spaziale tetraedrica;
-*   ha piccole dimensioni;
-*   non ha elevata elettronegatività, che permette la formazione di legami stabili con elementi come l'idrogeno e l'ossigeno;
-*   forma, con altri atomi di carbonio, catene, corte o assai lunghe, lineari o ramificate, oppure chiuse ad anello, con una varietà di combinazioni quasi infinita;
-*   forma un elevatissimo numero di isomeri (molecole costituite dagli stessi atomi,
-*   che però sono disposti in modo differente nello spazio).
-
+* forma fino a 4 legami covalenti a geometria spaziale tetraedrica;
+* ha piccole dimensioni;
+* non ha elevata elettronegatività, che permette la formazione di legami stabili con elementi come l'idrogeno e l'ossigeno;
+* forma, con altri atomi di carbonio, catene, corte o assai lunghe, lineari o ramificate, oppure chiuse ad anello, con una varietà di combinazioni quasi infinita;
+* forma un elevatissimo numero di isomeri (molecole costituite dagli stessi atomi,
+* che però sono disposti in modo differente nello spazio).
 
 ### I composti organici
 
@@ -334,10 +292,9 @@ frequentemente fosforo e zolfo. I **liquidi cellulari** sono soluzioni acquose c
 
 Lo studio delle **molecole costituenti degli organismi viventi**, dette anche molecole biologiche o **biomolecole**, e delle loro trasformazioni è oggetto della **biochimica**. Le biomolecole possono essere suddivise in grandi gruppi: glucidi o zuccheri, lipidi, proteine, acidi nucleici e vitamine.
 
-
 ### Glucidi o zuccheri
 
-I **glucidi **o **zuccheri**, o **carboidrati**, sono composti formati da carbonio, idrogeno e ossigeno. Tutti gli atomi di carbonio portano gruppi alcolici (-OH), tranne uno che fa parte di un gruppo aldeidico (-CHO) e lo zucchero è detto **aldoso**, oppure chetonico (-CO-) e lo zucchero è detto **chetoso**. Le molecole dei glucidi possono essere semplici o complesse; in base alla loro complessità crescente si dividono in monosaccaridi, disaccaridi, polisaccaridi.
+I **glucidi** o **zuccheri**, o **carboidrati**, sono composti formati da carbonio, idrogeno e ossigeno. Tutti gli atomi di carbonio portano gruppi alcolici (-OH), tranne uno che fa parte di un gruppo aldeidico (-CHO) e lo zucchero è detto **aldoso**, oppure chetonico (-CO-) e lo zucchero è detto **chetoso**. Le molecole dei glucidi possono essere semplici o complesse; in base alla loro complessità crescente si dividono in monosaccaridi, disaccaridi, polisaccaridi.
 
 I **monosaccaridi**, detti anche zuccheri semplici (perché non si scindono in molecole più piccole), sono costituiti da catene di 3, 4, 5 o 6 atomi di carbonio e sono denominati rispettivamente triosi, tetraosi, pentosi, esosi.
 
@@ -346,7 +303,6 @@ I **disaccardi derivano dalla condensazion**e (cioè unione con eliminazione di 
 molecole di monosaccaridi è detto legame glicosidico ed è formato da un ponte di ossigeno.
 
 I **polisaccaridi sono macromolecole** formate dall'unione per condensazione di molte molecole dello stesso zucchero, in genere glucosio.
-
 
 <table>
   <tr>
@@ -471,18 +427,15 @@ I **polisaccaridi sono macromolecole** formate dall'unione per condensazione di 
   </tr>
 </table>
 
-
-_Principali zuccheri_
-
+Principali zuccheri.
 
 ### Lipidi
 
-I **lipidi sono composti con proprietà chimiche e caratteristiche strutturali eterogenee**, ma tutti insolubili in acqua e solubili in solventi apolari (come etere, cloroformio, benzina). I lipidi comprendono i **trigliceridi**, le **cere**, i **fosfolipidi** e gli **steroidi**. 
+I **lipidi sono composti con proprietà chimiche e caratteristiche strutturali eterogenee**, ma tutti insolubili in acqua e solubili in solventi apolari (come etere, cloroformio, benzina). I lipidi comprendono i **trigliceridi**, le **cere**, i **fosfolipidi** e gli **steroidi**.
 
 Il numero degli atomi di carbonio negli acidi grassi costituenti varia da 4 a 24 ed è sempre pari; gli **acidi grassi possono esseri saturi**, cioè privi di doppi legami tra gli atomi di carbonio, **o insaturi**, cioè con uno o più doppi legami. I trigliceridi formati in prevalenza da acidi saturi sono solidi a temperatura ambiente (per esempio, burro, sego, lardo) e sono comunemente detti **grassi**. Quelli in cui sono presenti in maggioranza acidi insaturi sono liquidi e sono detti comunemente **oli**.
 
 In presenza di soluzioni alcaline i trigliceridi subiscono idrolisi o saponificazione, cioè reagiscono con l'acqua scindendosi, e formano glicerolo e sali alcalini di acidi grassi detti **saponi**.
-
 
 <table>
   <tr>
@@ -527,12 +480,9 @@ In presenza di soluzioni alcaline i trigliceridi subiscono idrolisi o saponifica
   </tr>
 </table>
 
-
-_Principali lipidi_
-
+Principali lipidi.
 
 ### Proteine
-
 
 <table>
   <tr>
@@ -737,44 +687,26 @@ _Principali lipidi_
   </tr>
 </table>
 
-
-_Gli aminoacidi fondamentali_
+Gli aminoacidi fondamentali.
 
 Le **proteine sono composti a elevata massa molecolare** (macromolecole) **che derivano dall'unione di un numero molto elevato di molecole di amminoacidi**. Quando le molecole hanno massa molecolare inferiore a 10 000 si dicono più propriamente **polipeptidi**.
 
 **Gli amminoacidi sono composti caratterizzati dalla presenza** nella molecola **di un gruppo amminico -NH<sub>2</sub>** (basico) **e carbossilico -COOH** (acido). Gli amminoacidi si legano in catene mediante legami peptidici tra l'azoto del gruppo amminico di una molecola e il carbonio del gruppo carbossilico dell'altra, con eliminazione di una molecola di acqua (condensazione). Gli amminoacidi naturali sono circa una ventina , ma, legandosi in un elevato numero di possibili combinazioni, riescono a formare l'enorme varietà di proteine esistenti.
 
-
-
-
-
-
-![alt_text](https://upload.wikimedia.org/wikipedia/it/c/c5/Nuovo-33.png)
-
-
-_Formazione di un dipeptide da due amminoacidi_
+{{< figure src="https://upload.wikimedia.org/wikipedia/it/c/c5/Nuovo-33.png" title="Formazione di un dipeptide da due amminoacidi." >}}
 
 In una molecola proteica si possono individuare quattro livelli di organizzazione spaziale:
 
+* **struttura primaria**: rappresenta la sequenza degli amminoacidi che costituiscono la catena polipeptidica;
+* **struttura secondaria**: può essere a elica o a foglietto pieghettato;
+* **struttura terziaria**, determinata dal ripiegamento su se stessa della catena polipeptidica, per l'instaurarsi di legami intramolecolari;
+* **struttura quaternaria**, caratteristica di proteine formate da più subunità e relativa al modo in cui tali subunità sono disposte nello spazio (per esempio, l'emoglobina è formata da quattro subunità).
 
-
-*   **struttura primaria**: rappresenta la sequenza degli amminoacidi che costituiscono la catena polipeptidica;
-*   **struttura secondaria**: può essere a elica o a foglietto pieghettato;
-*   **struttura terziaria**, determinata dal ripiegamento su se stessa della catena polipeptidica, per l'instaurarsi di legami intramolecolari;
-*   **struttura quaternaria**, caratteristica di proteine formate da più subunità e relativa al modo in cui tali subunità sono disposte nello spazio (per esempio, l'emoglobina è formata da quattro subunità).
-
-
-
-
-![alt_text](https://upload.wikimedia.org/wikipedia/commons/a/a6/Protein-structure.png)
-
-
-_Dall'alto verso il basso: rappresentazione della struttura primaria, secondaria, terziaria e quaternaria di una proteina._
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Protein-structure.png" title="Dall'alto verso il basso: rappresentazione della struttura primaria, secondaria, terziaria e quaternaria di una proteina." >}}
 
 Nella maggior parte delle proteine, a temperature superiori a 7 °C circa e in ambiente fortemente acido o basico, i legami deboli della struttura secondaria, terziaria e quaternaria si rompono e le proteine perdono la loro funzionalità biologica: tale processo è detto **denaturazione**.
 
 Negli organismi, le proteine svolgono una grande varietà di funzioni: fra le più importanti vi sono quella di sostegno meccanico e quella di catalizzatori (cioè di regolazione della velocità delle reazioni chimiche) da parte degli enzimi.
-
 
 <table>
   <tr>
@@ -839,24 +771,19 @@ Negli organismi, le proteine svolgono una grande varietà di funzioni: fra le pi
   </tr>
 </table>
 
-
-_Principali funzioni delle proteine_
-
+Principali funzioni delle proteine.
 
 ### Acidi nucleici
 
 Gli **acidi nucleici sono macromolecole di grande complessità**, e sono **così chiamati perché sono presenti nel nucleo delle cellule**. Hanno grande importanza in biologia perché sono responsabili di funzioni fondamentali degli organismi viventi, come la trasmissione dell'informazione genetica di generazione in generazione e la sintesi delle proteine. **Gli acidi nucleici sono** polimeri di elevata massa molecolare, **formati dalla combinazione di unità** (monomeri) **dette nucleotidi**. I nucleotidi sono a loro volta formati da:
 
-
-
-*   **un radicale fosforico** (derivato dall'acido fosforico o gruppo fosfato)
-*   **uno zucchero monosaccaride pentoso**
-*   **una base azotata**
+* **un radicale fosforico** (derivato dall'acido fosforico o gruppo fosfato)
+* **uno zucchero monosaccaride pentoso**
+* **una base azotata**
 
 Le basi azotate sono cinque molecole costituite, oltre che da carbonio, ossigeno e idrogeno, da azoto in una struttura a un anello (basi puriniche: **timina** e **citosina**) o a due anelli (basi pirimidiniche: **adenina**, **guanina** e **uracile**).
 
 Il radicale fosforico unisce tra di loro i vari nucleotidi, formando l'impalcatura delle catene macromolecolari degli acidi nucleici.
-
 
 <table>
   <tr>
@@ -896,11 +823,7 @@ Il radicale fosforico unisce tra di loro i vari nucleotidi, formando l'impalcatu
    </td>
    <td>adenosina (ribosio e adenina), 3 gruppi fosfato, nicotinammide
    </td>
-   <td>trasporto di ioni 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
+   <td>trasporto di ioni H<sup>+</sup>
    </td>
   </tr>
   <tr>
@@ -908,17 +831,12 @@ Il radicale fosforico unisce tra di loro i vari nucleotidi, formando l'impalcatu
    </td>
    <td>adenosina (ribosio e adenina), 2 gruppi fosfato, flavina
    </td>
-   <td>trasporto di ioni 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
+   <td>trasporto di ioni H<sup>+</sup>
    </td>
   </tr>
 </table>
 
-
-_Principali nucleotidi_
+Principali nucleotidi.
 
 Caratteristiche dell'acido **desossiribonucleico**, o **DNA**, sono lo zucchero desossiribosio e le quattro basi adenina (A), guanina (G), citosina (C) e timina (T). La molecola di DNA è formata da due filamenti nucleotidici paralleli, uniti da legami a idrogeno e avvolti in una doppia spirale (**modello a doppia elica**). Il collegamento avviene tra le basi azotate dei due filamenti, che si abbinano a coppie esclusive "adenina-timina" e "citosina-guanina". Questa struttura permette alla molecola di DNA di replicarsi, cioè duplicarsi: la doppia elica si separa gradualmente e su ciascun filamento si riforma un filamento complementare, in modo da ottenere alla fine due doppie eliche uguali.
 
@@ -926,12 +844,9 @@ Le informazioni genetiche sono memorizzate nella molecola mediante un linguaggio
 
 La molecola di **acido ribonucleico**, o **RNA**, è costituita dallo zucchero ribosio e dalle coppie di basi "adenina-uracile" e "citosina-guanina". Forma un unico filamento avvolto a elica. Esistono tuttavia vari tipi di RNA con funzioni specifiche:
 
-
-
-*   **RNA messaggero** o **m-RNA**: è un filamento complementare a un filamento di DNA, su cui vengono trascritte le informazioni genetiche del DNA; si sposta dal nucleo, dove si trova il DNA, al citoplasma.
-*   **RNA di trasporto** o **t-RNA**: è una molecola più piccola, in cui alcune basi si appaiano per certi tratti, conferendole così una forma particolare a "trifoglio"; si trova nel citoplasma, dove trasporta le specifiche molecole di amminoacido nella corretta sequenza per formare la catena polipeptidica.
-*   **RNA ribosomiale** o **r-RNA**: forma, insieme a proteine, i ribosomi, i corpuscoli cellulari dove avviene la sintesi delle proteine.
-
+* **RNA messaggero** o **m-RNA**: è un filamento complementare a un filamento di DNA, su cui vengono trascritte le informazioni genetiche del DNA; si sposta dal nucleo, dove si trova il DNA, al citoplasma.
+* **RNA di trasporto** o **t-RNA**: è una molecola più piccola, in cui alcune basi si appaiano per certi tratti, conferendole così una forma particolare a "trifoglio"; si trova nel citoplasma, dove trasporta le specifiche molecole di amminoacido nella corretta sequenza per formare la catena polipeptidica.
+* **RNA ribosomiale** o **r-RNA**: forma, insieme a proteine, i ribosomi, i corpuscoli cellulari dove avviene la sintesi delle proteine.
 
 ### Vitamine
 
@@ -940,7 +855,6 @@ Le **vitamine sono composti organici a struttura eterogenea, necessari in piccol
 non sono in grado di produrle nel proprio organismo e pertanto le devono introdurre attraverso gli alimenti.
 
 Molte vitamine sono coenzimi, cioè favoriscono l'azione degli enzimi; la carenza o l'assenza di una determinata vitamina provoca malattie specifiche dette ipovitaminosi o avitaminosi. Le vitamine sono divise in idrosolubili, cioè solubili in acqua, e liposolubili, solubili nei grassi.
-
 
 <table>
   <tr>
@@ -985,9 +899,7 @@ Molte vitamine sono coenzimi, cioè favoriscono l'azione degli enzimi; la carenz
   </tr>
 </table>
 
-
-_Le principali vitamine liposolubili_
-
+Le principali vitamine liposolubili.
 
 <table>
   <tr>
@@ -1072,9 +984,7 @@ _Le principali vitamine liposolubili_
   </tr>
 </table>
 
-
-_Le principali vitamine idrosolubili_
-
+Le principali vitamine idrosolubili.
 
 ## Reazioni chimiche e scambi di energia
 
@@ -1082,29 +992,24 @@ La **bioenergetica** è il campo di indagine biologica che si occupa delle **tra
 
 Tradizionalmente **gli ambiti di ricerca** della bioenergetica interessano la **termodinamica dei sistemi biologici**, i composti ad alta energia come l'**ATP** (acido adenosintrifosforico, che funziona da accumulatore di energia per il lavoro chimico e il trasporto delle sostanze nelle cellule e per il lavoro muscolare), le **biosintes**i (la sintesi dei composti chimici all'interno degli organismi viventi per la formazione e il ricambio dei componenti cellulari), il **trasporto attivo** (trasporto di sostanze da un lato all'altro della membrana cellulare) e l'**energetica dei sistemi contrattili** (muscoli).
 
-
 ### Le trasformazioni chimiche
 
 **Le funzioni vitali** degli organismi **sono basate su** una serie complessa di **reazioni chimiche** che si svolgono **nelle loro cellule**. Nel corso di queste reazioni, vengono di volta in volta sintetizzate o decomposte molecole, a seconda delle necessità, e si verificano contemporaneamente scambi di energia, che le cellule utilizzano per sopperire alle proprie esigenze biologiche (sostentamento, crescita, sviluppo, riproduzione e così via).
 
 Le reazioni chimiche sono un tipo di trasformazione che, attraverso la riorganizzazione degli atomi e delle molecole delle sostanze che vi prendono parte, dette **reagenti**, danno origine a nuove sostanze di composizione differente, dette **prodotti**. **Le reazioni chimiche sono rappresentate mediante equazioni chimiche**, in cui sono indicate, a sinistra del segno di uguaglianza (spesso sostituito da una freccia), le sostanze reagenti, a destra i prodotti. Le reazioni sono dette **di sintesi**, quando da due o più elementi o composti reagenti si ottiene un solo prodotto; **di decomposizione** quando un composto viene scisso negli elementi costituenti o in composti più semplici. Ogni reazione chimica avviene con una certa **velocità**, che dipende, tra l'altro, dalla **concentrazione dei reagenti** e dalla **temperatura** e può essere regolata dalla presenza di particolari sostanze chiamate **catalizzatori**.
 
-
 ### L'energia e i principi della termodinamica
 
 Qualsiasi tipo di reazione chimica comporta una variazione di energia. L'**energia** può essere definita come **la capacità di un corpo o di un sistema di compiere lavoro** e si manifesta in diverse forme (trasformabili le une nelle altre), riconducibili a due tipi principali:
 
-
-
-1.  **energia cinetica**, associata al movimento dei corpi (oggetti macroscopici, particelle; l'energia termica, dovuta all'agitazione delle molecole, è un particolare tipo di energia cinetica)
-1.  **energia potenziale**, cioè "accumulata" nei corpi in virtù della loro posizione in un campo di forze (gravitazionali, elettriche ecc.); (l'**energia chimica**, che deriva dall'attrazione elettrostatica tra cariche elettriche di segno opposto, è un particolare tipo di energia potenziale associata ai legami chimici).
+1. **energia cinetica**, associata al movimento dei corpi (oggetti macroscopici, particelle; l'energia termica, dovuta all'agitazione delle molecole, è un particolare tipo di energia cinetica)
+2. **energia potenziale**, cioè "accumulata" nei corpi in virtù della loro posizione in un campo di forze (gravitazionali, elettriche ecc.); (l'**energia chimica**, che deriva dall'attrazione elettrostatica tra cariche elettriche di segno opposto, è un particolare tipo di energia potenziale associata ai legami chimici).
 
 Nelle adatte condizioni, l'energia cinetica si trasforma in energia potenziale e viceversa. Le conversioni dell'energia da una forma a un'altra sono governate dai principi della termodinamica.
 
-
 #### La termodinamica
 
-La **termodinamica**è la scienza che stabilisce i concetti fondamentali per **lo studio dei trasferimenti energetici tra sistemi chimici o fisici, sotto forma di scambi di calore o lavoro**. Un **sistema è un insieme di corpi, distinti dall'ambiente** (che è tutto ciò che si trova al di fuori del sistema). Sono detti sistemi isolati quelli che non scambiano né energia né materia con l'ambiente esterno; **sistemi chiusi** quelli che scambiano energia, ma non materia, con l'ambiente esterno; **sistemi aperti** quelli che scambiano sia energia sia materia con l'ambiente esterno. In un sistema isolato, come l'Universo, le trasformazioni termodinamiche sono governate dal primo e dal secondo principio della termodinamica.
+La **termodinamica** è la scienza che stabilisce i concetti fondamentali per **lo studio dei trasferimenti energetici tra sistemi chimici o fisici, sotto forma di scambi di calore o lavoro**. Un **sistema è un insieme di corpi, distinti dall'ambiente** (che è tutto ciò che si trova al di fuori del sistema). Sono detti sistemi isolati quelli che non scambiano né energia né materia con l'ambiente esterno; **sistemi chiusi** quelli che scambiano energia, ma non materia, con l'ambiente esterno; **sistemi aperti** quelli che scambiano sia energia sia materia con l'ambiente esterno. In un sistema isolato, come l'Universo, le trasformazioni termodinamiche sono governate dal primo e dal secondo principio della termodinamica.
 
 Il primo principio della termodinamica afferma che **in un sistema isolato rimane costante il contenuto totale di energia**, anche se tutte le diverse forme di energia si possono trasformare una nell'altra ("l'energia non si crea e non si distrugge").
 
@@ -1114,14 +1019,7 @@ Il secondo principio può anche essere formulato nel modo seguente: **in un sist
 
 In ogni organismo e ogni cellula di un organismo, tuttavia, il risultato delle reazioni chimiche è invece **la tendenza a creare un ordine localizzato** del sistema. Infatti **ogni cellula si comporta come un sistema aperto**: riceve dall'esterno materia ed energia, che utilizza per attivare le trasformazioni non spontanee, eludendo in questo modo il secondo principio della termodinamica.
 
-
-
-
-![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Increasing_disorder.svg/800px-Increasing_disorder.svg.png)
-
-
-_Rappresentazione di un sistema (costituito da due gas differenti) in cui si ha aumento di entropia._
-
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Increasing_disorder.svg/800px-Increasing_disorder.svg.png" title="Rappresentazione di un sistema (costituito da due gas differenti) in cui si ha aumento di entropia." >}}
 
 #### L'energia nelle reazioni chimiche
 
@@ -1133,14 +1031,7 @@ Le **reazioni esoergoniche**, invece, non hanno bisogno di un apporto di energia
 
 Non è detto, tuttavia, che le reazioni spontanee possano procedere con una velocità apprezzabile: in genere, infatti, **per trasformarsi in prodotti i reagenti devono superare un dislivello energetico iniziale**, detto energia di attivazione. In altri termini, alle molecole dei reagenti deve essere fornita dall'esterno una quantità di energia sufficiente perché i loro urti reciproci siano efficaci, cioè tali da vincere inizialmente le repulsioni fra i loro elettroni esterni, condizione perché si possano stabilire legami chimici. Tra i fattori che possono abbassare l'energia di attivazione, e fare quindi procedere velocemente una reazione chimica, figurano aumenti di temperatura e la presenza di catalizzatori (catalizzatori di fondamentale importanza in campo biologico sono gli enzimi).
 
-
-
-
-![alt_text](https://upload.wikimedia.org/wikipedia/commons/f/fb/Activeringsenergie.png)
-
-
-_Energia posseduta da un sistema prima dello svolgimento di una reazione (a sinistra), durante l'innesco della reazione (in corrispondenza del picco) e dopo lo svolgimento della reazione (a destra)._
-
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Activeringsenergie.png" title="Energia posseduta da un sistema prima dello svolgimento di una reazione (a sinistra), durante l'innesco della reazione (in corrispondenza del picco) e dopo lo svolgimento della reazione (a destra)." >}}
 
 ### Il metabolismo
 
@@ -1148,16 +1039,13 @@ _Energia posseduta da un sistema prima dello svolgimento di una reazione (a sini
 
 Queste fasi si sovrappongono continuamente in un complesso interscambio, formando anche lunghe sequenze di reazioni, dette vie metaboliche. In ogni passaggio delle vie metaboliche vi è la produzione di composti intermedi e di energia, necessari per le sequenze successive. Alcune note vie metaboliche sono, per esempio, la fotosintesi, la respirazione, la fermentazione.
 
-
 #### Regolazione del metabolismo
 
 Le cellule viventi dispongono di sistemi di regolazione per controllare le reazioni chimiche metaboliche (soggette alle stesse leggi della termodinamica che governano i processi chimici): possono così sfruttare questi processi in modo ottimale da un punto di vista energetico. Questi sistemi di regolazione sono basati sull'attività da un lato degli enzimi, che modulano le reazioni chimiche, e dall'altro delle molecole trasportatrici di energia, o trasportatori di energia. Questi composti trasportatori immagazzinano energia e la trasferiscono dove occorre: ciò avviene per mezzo di reazioni accoppiate, in cui è sfruttata l'energia liberata dalle reazioni esoergoniche per sopperire alle richieste energetiche delle reazioni endoergoniche. Poiché parte dell'energia liberata dalla reazione esoergonica viene dispersa nell'ambiente sotto forma di calore o movimenti casuali delle molecole, l'energia della reazione esoergonica deve essere sempre in quantità maggiore di quella necessaria per la reazione endoergonica.
 
-
 ### Gli enzimi
 
 Alla temperatura corporea, anche le reazioni esoergoniche spontanee hanno una velocità di reazione molto bassa, per cui si compiono solo se attivate dall'intervento di **enzimi**, **sostanze di natura proteica che svolgono la funzione di catalizzatori biologici** altamente specifici.
-
 
 <table>
   <tr>
@@ -1218,8 +1106,7 @@ Alla temperatura corporea, anche le reazioni esoergoniche spontanee hanno una ve
   </tr>
 </table>
 
-
-_Le sei principali classi di enzimi_
+Le sei principali classi di enzimi.
 
 **Ciascun enzima promuove una sola reazione o un gruppo di reazioni simili**; per questo ogni cellula contiene da qualche migliaio a decine di migliaia di enzimi differenti. Per comodità, sono abitualmente divisi in sei classi fondamentali, secondo il tipo di reazione chimica catalizzata.
 
@@ -1231,62 +1118,34 @@ Nella catalisi enzimatica i reagenti sono chiamati **substrati** dell'enzima. Il
 
 Data la grande specificità del sito attivo, il modello del meccanismo enzima-substrato è noto come **modello chiave-serratura**. Quando è avvenuta la reazione dei substrati, i prodotti non si adattano più alla forma del sito attivo e se ne allontanano. L'enzima ritorna alla sua configurazione originale ed è pronto ad accettare altri substrati.
 
-
-
-
-
-![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/CatalysisScheme.png/640px-CatalysisScheme.png)
-
-
-_La catalisi è un fenomeno chimico-fisico per cui particolari sostanze, dette catalizzatori, provocano, anche se presenti in quantità minime, un aumento della velocità di una reazione, senza apparentemente prendervi parte. L'azione di un catalizzatore si esplica in quanto diminuisce l'energia di attivazione, cioè la barriera energetica che i reagenti devono superare per trasformarsi in prodotti. Esistono anche catalizzatori detti negativi (o inibitori), che diminuiscono la velocità di una reazione. La natura chimica del catalizzatore è altamente specifica per una determinata reazione (o per reazioni dello stesso tipo). La catalisi è detta enzimatica quando è operata da particolari catalizzatori biologici, gli enzimi (costituiti da complesse molecole proteiche), che presiedono in modo assai selettivo allo svolgimento dei processi biochimici che avvengono negli or-ganismi viventi._
-
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/CatalysisScheme.png/640px-CatalysisScheme.png" title="La catalisi è un fenomeno chimico-fisico per cui particolari sostanze, dette catalizzatori, provocano, anche se presenti in quantità minime, un aumento della velocità di una reazione, senza apparentemente prendervi parte. L'azione di un catalizzatore si esplica in quanto diminuisce l'energia di attivazione, cioè la barriera energetica che i reagenti devono superare per trasformarsi in prodotti. Esistono anche catalizzatori detti negativi (o inibitori), che diminuiscono la velocità di una reazione. La natura chimica del catalizzatore è altamente specifica per una determinata reazione (o per reazioni dello stesso tipo). La catalisi è detta enzimatica quando è operata da particolari catalizzatori biologici, gli enzimi (costituiti da complesse molecole proteiche), che presiedono in modo assai selettivo allo svolgimento dei processi biochimici che avvengono negli or-ganismi viventi." >}}
 
 #### La regolazione dell'attività enzimatica
 
 Fondamentali per l'efficienza del metabolismo cellulare sono i complessi processi di regolazione degli enzimi, che controllano quasi tutte le reazioni chimiche interne alla cellula.
 
-L'attività degli enzimi è influenzata dalle **condizioni ambientali**, come il pH (quello ottimale è compreso tra 6 e 8), la concentrazione di sali, la temperatura, la presenza di coenzimi. 
+L'attività degli enzimi è influenzata dalle **condizioni ambientali**, come il pH (quello ottimale è compreso tra 6 e 8), la concentrazione di sali, la temperatura, la presenza di coenzimi.
 
 **La cellula regola la quantità e l'attività degli enzimi** con diversi meccanismi: può adeguare il ritmo della sintesi delle proteine enzimatiche; può attivare o disattivare un enzima solo quando serve. Per esempio, molti enzimi che catalizzano le prime tappe di una via metabolica (come la sintesi delle proteine) sono spesso inibiti dal prodotto finale della serie di reazioni (**regolazione mediante retroazione o feedback**), mentre altri enzimi sono sottoposti all'attività di proteine regolatrici che possono avere effetti sia inibitori, sia stimolatori. In alcuni enzimi la regolazione avviene attraverso la modificazione dei legami conseguente, per
 
 esempio, all'attacco di alcuni gruppi fosforici o di altri gruppi (reazioni a loro volta regolate da enzimi) o all'attacco di un substrato a un sito di legame diverso dal sito attivo (**regolazione allosterica**).
 
-
-
-
-![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Diagramma_adattamento_indotto.svg/640px-Diagramma_adattamento_indotto.svg.png)
-
-
-_Meccanismo di azione di un enzima: il sito attivo si lega alla molecola di substrato, formando un complesso enzima-substrato che favorisce la scissione del substrato nei prodotti finali._
-
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Diagramma_adattamento_indotto.svg/640px-Diagramma_adattamento_indotto.svg.png" title="Meccanismo di azione di un enzima: il sito attivo si lega alla molecola di substrato, formando un complesso enzima-substrato che favorisce la scissione del substrato nei prodotti finali." >}}
 
 ### L'ATP e la fosforilazione
 
 Le reazioni endoergoniche non sono spontanee e possono avvenire solo mediante apporto di energia: per questo devono essere accoppiate a reazioni esoergoniche che forniscano l'energia necessaria. Le due parti di una reazione accoppiata possono tuttavia avvenire in siti diversi: pertanto, occorre un modo per trasferire l'energia prodotta da una reazione esoergonica a una endoergonica. All'interno delle cellule, questo compito è affidato a molecole specializzate dette **trasportatrici di energia**.
 
-
-
-
-![alt_text](https://upload.wikimedia.org/wikipedia/commons/b/bd/AdenosineTriphosphate.qutemol.gif)
-
-
-_Modello 3D dell'ATP_
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/b/bd/AdenosineTriphosphate.qutemol.gif" title="Modello 3D dell'ATP." >}}
 
 La molecola trasportatrice di energia più diffusa nelle cellule è l'**adenosintrifosfato** o **ATP**. L'ATP è un nucleotide formato da adenosina legata a tre gruppi fosfato, indicati con la lettera P. Ai legami tra i gruppi fosfato è associata un'elevata quantità di energia chimica,
 
 che viene liberata quando questi vengono scissi. Quando l'ATP perde un gruppo fosfato, si trasforma in ADP, o **adenosindifosfato** (se perde due gruppi fosfati si trasforma in **adenosinmonofosfato**, o **AMP**) e cede energia.
 
-Le molecole di ADP (e di AMP) possono essere trasformate in ATP ricevendo l'energia necessaria tramite due fonti principali: la **respirazione cellulare **(cioè la combustione degli alimenti) e la fotosintesi (cioè la conversione di energia solare in energia chimica).
+Le molecole di ADP (e di AMP) possono essere trasformate in ATP ricevendo l'energia necessaria tramite due fonti principali: la **respirazione cellulare** (cioè la combustione degli alimenti) e la fotosintesi (cioè la conversione di energia solare in energia chimica).
 
 L'ATP funge così da accumulatore di energia destinata a essere spesa a breve termine dalla cellula, seguendo un ciclo.
 
-
-
-
-
-![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ADP_ATP_cycle.png/800px-ADP_ATP_cycle.png)
-
-
-_Ciclo dell'ATP nelle cellule_
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ADP_ATP_cycle.png/800px-ADP_ATP_cycle.png" title="Ciclo dell'ATP nelle cellule" >}}
 
 **Il trasporto dell'energia da parte dell'ATP alle molecole** che devono reagire avviene mediante il trasferimento di un residuo fosforico dell'ATP e **si dice fosforilazione**. Il legame che si forma tra il gruppo fosforico e la molecola ha un alto contenuto di energia, necessaria per attivare gran parte delle reazioni non spontanee: fra queste vi sono le reazioni di costruzione, che provvedono, per esempio, alla sintesi di molecole biologiche, e il cosiddetto lavoro cellulare (come il trasporto di sostanze attraverso la membrana). Altre molecole catturano e trasportano l'energia insieme a elettroni energetici prodotti da reazioni esoergoniche. Queste molecole – come il coenzima NAD (nicotinammide-adenin-dinucleotide) e il flavin-adenin-dinucleotide FAD – cedono poi gli elettroni e l'energia ad altre molecole nei processi di respirazione cellulare e di fotosintesi.
