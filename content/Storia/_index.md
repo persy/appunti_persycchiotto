@@ -20,3 +20,5 @@ Inoltre, ci sono due sezioni extra che si concentrano principalmente sui motivi,
 
 * **[La Prima Guerra Mondiale](prima_guerra_mondiale)**
 * **[La Seconda Guerra Mondiale](seconda_guerra_mondiale)**
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Omaha_Beach_Landing_Craft_Approaches.jpg/604px-Omaha_Beach_Landing_Craft_Approaches.jpg" title="Soldati statunitensi si apprestano a sbarcare ad Omaha Beach, 6 giugno 1944." >}}

@@ -3,49 +3,10 @@ title: "Fisica"
 draft: false
 ---
 
-## Elenco sezioni
+1. **[Introduzione alla fisica](1_intro_fisica)**: il metodo scientifico, grandezze fisiche e gli errori di misura
+2. **[Meccanica](2_meccanica)**: il moto uniforme, il moto uniformemente accelerato, i vettori, i moti nel piano  nello spazio, le forze e l'equilibrio, i principi della dinamica, le forze e il movimento, la conservazione ell'energia meccanica, la conservazione della quantità di moto e del momento angolare, la gravitazione, i gas e liquidi in equilibrio e in movimento
+3. **[Termologia](3_termologia)**: il modello atomico, la temperatura, il gas perfetto, la teoria cinetica dei as, il calore, i cambiamenti di stato, il primo principio della termodinamica, il secondo principio della termodinamica e l'entropia
+4. **[Le onde](4_onde)**: oscillazioni e onde, le onde armoniche, il suono, i raggi luminosi, le lenti, l'occhio  gli strumenti ottici e le onde luminose
+5. **[La relatività](5_relatività)**: la relatività dello spazio e del tempo, la relatività ristretta e la relatività generale
 
-### [Introduzione alla fisica](1_intro_fisica)
-* Metodo scientifico
-* Grandezze fisiche
-* Errori di misura
-
-### [Meccanica](2_meccanica)
-* Il moto uniforme
-* Il moto uniformemente accelerato
-* I vettori
-* I moti nel piano e nello spazio
-* Le forze e l'equilibrio
-* I principi della dinamica
-* Le forze e il movimento
-* La conservazione dell'energia meccanica
-* La conservazione della quantità di moto e del momento angolare
-* La gravitazione
-* Gas e liquidi in equilibrio
-* Gas e liquidi in movimento
-
-### [Termologia](3_termologia)
-* Il modello atomico
-* La temperatura
-* Il gas perfetto
-* La teoria cinetica dei gas
-* Il calore
-* I cambiamenti di stato
-* Il primo principio della termodinamica
-* Il secondo principio della termodinamica
-* L'entropia
-
-### [Le onde](4_onde)
-* Oscillazioni e onde
-* Le onde armoniche
-* Il suono
-* I raggi luminosi
-* Le lenti, l'occhio e gli strumenti ottici
-* Le onde luminose
-
-### [La relatività](5_relatività)
-* La relatività dello spazio e del tempo
-* La relatività ristretta
-* La relatività generale
-
-
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg/633px-Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg" title="Sir Isaac Newton, ritratto di Sir Godfrey Kneller, 1702, olio su tela" >}}

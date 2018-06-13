@@ -43,11 +43,13 @@ La **concentrazione di ossigeno e di anidride carbonica**: è legata ai processi
 ### Tipi di trasporto fluviale
 
 Lungo il suo percorso, un fiume svolge **un’azione erosiva delle rocce** e il **materiale eroso può essere trasportato dalla corrente** in vari modi, di seguito descritti.
-**Galleggiamento**: trasporto in superficie delle sostanze con peso specifico inferiore a quello dell’acqua (legno, pomici), o di quelle che restano a galla per tensione superficiale (minerali lamellari come alcune miche" title="Sospensione**: riguarda i materiali solidi di grana fine (argille, limi e sabbie fini), che nel loro insieme formano la torbida e che sedimentano solo a velocità molto basse.
-**Soluzione**: è il trasporto che interessa tutti i sali minerali solubili disciolti nelle acque di un fiume
-**Saltazione**: coinvolge le sabbie grossolane e ciottoli di piccole dimensioni. È più frequente sul fondo di letti ad alta rugosità, dove è favorita dalle irregolarità dell’alveo e dai moti turbolenti della corrente che ne derivano.
-**Rotolamento**: riguarda ciottoli di medie dimensioni, che si spostano ruotando su se stessi a contatto con i materiali dell’alveo. Per attrito assumono la tipica forma del ciottolo fluviale, sferico e arrotondato
-**Trasporto di fondo**: coinvolge i sedimenti, che nei periodi di piena sono trascinati verso valle per distanze anche ragguardevoli. Sono frequenti forme di trasporto di tipo misto: per esempio, per saltazione alternata a sospensione, per rotolio e saltazione, per rotolio e trasporto di fondo.
+
+* **Galleggiamento**: trasporto in superficie delle sostanze con peso specifico inferiore a quello dell’acqua (legno, pomici), o di quelle che restano a galla per tensione superficiale (minerali lamellari come alcune miche)
+* **Sospensione**: riguarda i materiali solidi di grana fine (argille, limi e sabbie fini), che nel loro insieme formano la torbida e che sedimentano solo a velocità molto basse.
+* **Soluzione**: è il trasporto che interessa tutti i sali minerali solubili disciolti nelle acque di un fiume
+* **Saltazione**: coinvolge le sabbie grossolane e ciottoli di piccole dimensioni. È più frequente sul fondo di letti ad alta rugosità, dove è favorita dalle irregolarità dell’alveo e dai moti turbolenti della corrente che ne derivano.
+* **Rotolamento**: riguarda ciottoli di medie dimensioni, che si spostano ruotando su se stessi a contatto con i materiali dell’alveo. Per attrito assumono la tipica forma del ciottolo fluviale, sferico e arrotondato
+* **Trasporto di fondo**: coinvolge i sedimenti, che nei periodi di piena sono trascinati verso valle per distanze anche ragguardevoli. Sono frequenti forme di trasporto di tipo misto: per esempio, per saltazione alternata a sospensione, per rotolio e saltazione, per rotolio e trasporto di fondo.
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fiume_Olona_in_piena.JPG/1024px-Fiume_Olona_in_piena.JPG" title="La forza della piena del fiume Olona erode il letto e manda in sospensione detriti e fanghi che rendono l'acqua torbida" >}}
 

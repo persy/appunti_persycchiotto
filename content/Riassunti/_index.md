@@ -4,12 +4,11 @@ draft: false
 ---
 ## Elenco dei riassunti delle opere letterarie più famose (in aggiornamento)
 
-
 * [Don Chisciotte della Mancia – Cervantes (1605)](3_don_chisciotte)
 * [Robinson Crusoe - Daniel Defoe (1719)](14_robinson_crusoe)
 * [I Dolori del Giovane Werther – J. W. Goethe (1774)](12_giovane_werther)
 * [Le Affinità Elettive – Goethe (1809)](17_affinita_elettive)
-* [Orgoglio e Pregiudizio – Jane Austen (1813) ](1_orgoglio_e_pregiudizio)
+* [Orgoglio e Pregiudizio – Jane Austen (1813)](1_orgoglio_e_pregiudizio)
 * [Emma – Jane Austen (1815)](18_emma)
 * [Frankenstein, o il moderno Prometeo - Mary Shelley (1818)](2_frankenstein)
 * [I Promessi Sposi – Alessandro Manzoni (1827)](19_promessi_sposi)
@@ -78,7 +77,7 @@ draft: false
 * Lessico Familiare – Natalia Ginzburg (1963)
 * La fabbrica di cioccolato – Roald Dahl (1964)
 * Cent'nni di Solitudine – Gabriel Garcia Marquez (1967)
-* Guida Galattica per Autostoppisti – Douglas Adams (1979) 
+* Guida Galattica per Autostoppisti – Douglas Adams (1979)
 * Un Uomo – Oriana Fallaci (1979)
 * Il Nome della Rosa – Umberto Eco (1980)
 * I figli della mezzanotte – Salman Rushdie (1981)
@@ -99,6 +98,4 @@ draft: false
 * Lo strano caso del cane ucciso a mezzanotte – Mark Haddon (2003)
 * Il Cacciatore di Aquiloni – Khaled Hosseini (2003)
 
-
-
-
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Frontispiece_to_Frankenstein_1831.jpg/465px-Frontispiece_to_Frankenstein_1831.jpg" title="Illustrazione dalla copertina interna dell'edizione di Frankenstein del 1831" >}}
