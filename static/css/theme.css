@@ -1129,8 +1129,7 @@ td:nth-child(1) {
 }
 
 td figure {
-    width: 250px;
-    margin-left: 5em;
-    margin-right:5em; /* max width images in tables */
+    max-width: 300px; /* max width images in tables; no horizontal scrollbars */
+    height: auto;
 }
 /*# sourceMappingURL=theme.css.map */
