@@ -62,17 +62,91 @@ Le stelle mostrano colori diversi l’una dall’altra; nella costellazione di O
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Morgan-Keenan_spectral_classification.png" title="Schema della classificazione spettrale Morgan-Keenan-Kellman" >}}
 
-|Classe |Temperatura (K) | Colore |Massa (M☉) |Raggio (R☉) |Luminosità (L☉) |Linee di assorbimento |Esempio
----|---|---|---|---|---|---|---
-|O |28 000 - 50 000 |Blu-azzurro |16 - 150 |15 |fino a 1.400.000 |N, C, He e O |10 Lacertae
-|B |9 600 - 28 000 |Bianco-azzurro |3,1 - 16 |7 |20.000 |He, H |Regolo
-|A |7 100 - 9 600 |Bianco |1,7 - 3,1 |2,1 |80 |H |Altair
-|F |5 700 - 7 100 |Bianco-giallastro |1,2 - 1,7 |1,3 |6 |Metalli: Fe, Ti, Ca, Sr e Mg |Procione
-|G |4 600 - 5 700 |Giallo |0,9 - 1,2 |1,1 |1,2 |Ca, He, H e altri |Sole
-|K |3 200 - 4 600 |Arancione |0,4 - 0,8 |0,9 |0,4 |Metalli  TiO2 |α Centauri B
-|M |1 700 - 3 200 |Rosso |0,08 - 0,4 |0,4 |0,04 |Come sopra |Stella di Barnard
-
-Tabella sulle classi spettrali stellari.
+<div style="overflow-x:auto;">
+<table>
+ <caption>Tabella sulle classi spettrali stellari.</caption>
+  <tr>
+    <th>Classe</th>
+    <th>Temperatura (K)</th>
+    <th>Colore</th>
+    <th>Massa (M☉)</th>
+    <th>Raggio (R☉)</th>
+    <th>Luminosità (L☉)</th>
+    <th>Linee di assorbimento</th>
+    <th>Esempio</th>
+  </tr>
+  <tr>
+    <td>O</td>
+    <td>28 000 - 50 000</td>
+    <td>Blu-azzurro</td>
+    <td>16 - 150</td>
+    <td>15</td>
+    <td>fino a 1.400.000</td>
+    <td>N, C, He e O</td>
+    <td>10 Lacertae</td>
+  </tr>
+  <tr>
+    <td>B</td>
+    <td>9 600 - 28 000</td>
+    <td>Bianco-azzurro</td>
+    <td>3,1 - 16</td>
+    <td>7</td>
+    <td>20.000</td>
+    <td>He, H</td>
+    <td>Regolo</td>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>7 100 - 9 600</td>
+    <td>Bianco</td>
+    <td>1,7 - 3,1</td>
+    <td>2,1</td>
+    <td>80</td>
+    <td>H</td>
+    <td>Altair</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>5 700 - 7 100</td>
+    <td>Bianco-giallastro</td>
+    <td>1,2 - 1,7</td>
+    <td>1,3</td>
+    <td>6</td>
+    <td>Metalli: Fe, Ti, Ca, Sr e Mg</td>
+    <td>Procione</td>
+  </tr>
+  <tr>
+    <td>G</td>
+    <td>4 600 - 5 700</td>
+    <td>Giallo</td>
+    <td>0,9 - 1,2</td>
+    <td>1,1</td>
+    <td>1,2</td>
+    <td>Ca, He, H e altri</td>
+    <td>Sole</td>
+  </tr>
+  <tr>
+    <td>K</td>
+    <td>3 200 - 4 600</td>
+    <td>Arancione</td>
+    <td>0,4 - 0,8</td>
+    <td>0,9</td>
+    <td>0,4</td>
+    <td>Metalli  TiO<sub>2</sub></td>
+    <td>α Centauri B</td>
+  </tr>
+  <tr>
+    <td>M</td>
+    <td>1 700 - 3 200</td>
+    <td>Rosso</td>
+    <td>0,08 - 0,4</td>
+    <td>0,4</td>
+    <td>0,04</td>
+    <td>Come sopra</td>
+    <td>Stella di Barnard</td>
+  </tr>
+</table>
+</div>
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Hubble_heic0206j.jpg" title="Parte della Cintura di Gould e delle stelle di una vicina regione di formazione stellare formano il gruppo di astri conosciuti in tutto il mondo col nome di costellazione di Orione" >}}
 
@@ -96,27 +170,95 @@ Attraverso le loro radiazioni, le stelle ci inviano messaggi. La **spettroscopia
 
 Le principali unità di misura per le distanze in astronomia sono l’unità astronomica, l’anno luce e il parsec.  L’**unità astronomica** (**UA**) corrisponde alla distanza media fra la Terra e il Sole ed equivale a 149 600 000 km circa (è usata per fornire le distanze di oggetti all’interno del sistema solare).  L’**anno luce** (**al**) equivale alla distanza percorsa nell’arco di un anno dalla luce, che nel vuoto si muove a una velocità pari a 299 792 458 m/sec.  Il **parsec** (**parallasse**-secondo, simbolo **pc**) è la distanza di un punto dal quale si vedrebbe sotto l’angolo di 1" (secondo) d’arco il semiasse maggiore dell’orbita terrestre (cioè la distanza massima Terra-Sole). Il parsec corrisponde a 3,26 anni luce.
 
-|Unità di misura |km |UA |al |pc
----|---|---|---|---
-|unità astronomica |49 600 600 |1 |15,8 x 10<sup>6</sup> |4,8 x 10<sup>6</sup>
-|anno luce (al) |9.463 x 10<sup>9</sup> |63 x 103 |1 |0,31
-|parsec (pc) |30 900 x 10<sup>9</sup> |206 265 |3,26 |1
+<div style="overflow-x:auto;" class="TableData">
+<table>
+ <caption>Principali unità di misura in astronomia.</caption>
+  <tr>
+    <th>Unità di misura</th>
+    <th>km</th>
+    <th>UA</th>
+    <th>al</th>
+    <th>pc</th>
+  </tr>
+  <tr>
+    <td>unità astronomica</td>
+    <td>49 600 600</td>
+    <td>1</td>
+    <td>15,8 x 10<sup>6</sup></td>
+    <td>4,8 x 10<sup>6</sup></td>
+  </tr>
+  <tr>
+    <td>anno luce (al)</td>
+    <td>9.463 x 10<sup>9</sup></td>
+    <td>63 x 10<sup>3</sup></td>
+    <td>1</td>
+    <td>0,31</td>
+  </tr>
+  <tr>
+    <td>parsec (pc)</td>
+    <td>30 900 x 10<sup>9</sup></td>
+    <td>206 265</td>
+    <td>3,26</td>
+    <td>1</td>
+  </tr>
+</table>
+</div>
 
-Principali unità di misura in astronomia.
-
-|Stella |Costellazione |Distanza (anni luce)
----|---|---
-|α Centauri o Proxima Centauri |Centauro |4,3
-|Stella di Barnard |Ofiuco |6
-|Wolf 359 |Leone |7,7
-|BD  36° 2 147 |Orsa Maggiore |8,2
-|Luyten 726-8 |Balena |8,4
-|Sirio |Cane Maggiore |8,6
-|Ross 154 |Sagittario |9,4
-|Ross 248 |Andromeda |10,4
-|ε Eridani |Eridano |10,8
-
-Stelle più vicine al Sistema solare.
+<div style="overflow-x:auto;" class="TableData">
+<table>
+ <caption>Stelle più vicine al Sistema solare</caption>
+  <tr>
+    <th>Stella</th>
+    <th>Costellazione</th>
+    <th>Distanza (anni luce)</th>
+  </tr>
+  <tr>
+    <td>α Centauri o Proxima Centauri</td>
+    <td>Centauro</td>
+    <td>4,3</td>
+  </tr>
+  <tr>
+    <td>Stella di Barnard</td>
+    <td>Ofiuco</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Wolf 359</td>
+    <td>Leone</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>BD  36° 2 147</td>
+    <td>Orsa Maggiore</td>
+    <td>8,2</td>
+  </tr>
+  <tr>
+    <td>Luyten 726-8</td>
+    <td>Balena</td>
+    <td>8,4</td>
+  </tr>
+  <tr>
+    <td>Sirio</td>
+    <td>Cane Maggiore</td>
+    <td>8,6</td>
+  </tr>
+  <tr>
+    <td>Ross 154</td>
+    <td>Sagittario</td>
+    <td>9,4</td>
+  </tr>
+  <tr>
+    <td>Ross 248</td>
+    <td>Andromeda</td>
+    <td>10,4</td>
+  </tr>
+  <tr>
+    <td>ε Eridani</td>
+    <td>Eridano</td>
+    <td>10,8</td>
+  </tr>
+</table>
+</div>
 
 ## Il moto delle stelle
 

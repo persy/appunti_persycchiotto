@@ -14,23 +14,84 @@ Già alcuni secoli prima di Cristo i pensatori greci erano giunti alla conclusio
 
 Fin dall’antichità si cercarono di determinare le dimensioni del nostro pianeta ricorrendo a metodi semplici, che condussero comunque a risultati molto vicini a quelli ottenuti più recentemente con l’uso di strumenti assai sofisticati.  **La misura della circonferenza della Terra è stata rilevata** abbastanza esattamente nel 240 a.C. **dal grande geografo greco Eratostene di Cirene**, utilizzando alcune informazioni e qualche formula di geometria.  Eratostene venne a conoscenza del fatto che nella città di Siene (in Egitto, oggi Assuan) esisteva un pozzo, nel fondo del quale una volta all’anno, il 21 giugno, a mezzogiorno si specchiava il Sole (ciò significava che in quel particolare momento il Sole era sulla verticale del luogo).  Invece, ad Alessandria, che si trovava a nord di Siene, nello stesso giorno e nella stessa ora il Sole risultava inclinato rispetto alla verticale del luogo. Eratostene misurò ad Alessandria la distanza angolare del Sole dallo zenit (cioè l’angolo α fra la direzione del sole e la verticale) e trovò che era un cinquantesimo di angolo giro (360°), cioè poco più di 7°, valore che corrisponde anche alla distanza angolare, α', tra Alessandria e Siene. Conoscendo la distanza lineare tra le due città, circa 5000 stadi, con una semplice proporzione (360° : α # circonferenza terrestre : distanza Alessandria-Siene), stabilì quindi che la Terra dovesse essere una sfera con una circonferenza di circa 257 mila stadi, corrispondenti a 39.375 km.  Se consideriamo che **il valore reale della circonferenza terrestre lungo un meridiano**, misurato oggi con tecniche estremamente sofisticate e precise, **è pari a 40.009** km, possiamo ritenere più che accettabile il risultato ottenuto da Eratostene.  Grazie a strumenti assai perfezionati, montati a bordo di satelliti artificiali in orbita intorno alla Terra, si sono ottenute misure molto precise delle caratteristiche del nostro pianeta.
 
-Caratteristica |Valore
----|---
-raggio equatoriale (Re) |6378 km
-raggio polare (Rp) |6357 km
-massa |5,98 × 10<sup>27</sup> g
-volume |1,083 × 10<sup>27</sup> cm<sup>3</sup>
-densità |5,52 g/cm<sup>3</sup>
-gravità superficiale |9,98 m/s<sup>2</sup>
-velocità di fuga |11,2 km/s
-schiacciamento (Re-Rp)/Re |0,0034
-superficie totale |5,1 × 108 km<sup>2</sup>
-superficie delle terre emerse |1,49 × 10<sup>8</sup> km<sup>2</sup>
-superficie degli oceani |3,61 × 10<sup>8</sup> km<sup>2</sup>
-altitudine media delle terre emerse |840 m
-profondità media degli oceani |3900 m
+<div style="overflow-x:auto;" class="TableData">
+<table>
+<caption>Caratteristiche principali della Terra.</caption>
+<thead>
+<tr>
+<th>Caratteristica</th>
+<th>Valore</th>
+</tr>
+</thead>
 
-Caratteristiche principali della Terra.
+<tbody>
+<tr>
+<td>raggio equatoriale (Re)</td>
+<td>6378 km</td>
+</tr>
+
+<tr>
+<td>raggio polare (Rp)</td>
+<td>6357 km</td>
+</tr>
+
+<tr>
+<td>massa</td>
+<td>5,98 × 10<sup>27</sup> g</td>
+</tr>
+
+<tr>
+<td>volume</td>
+<td>1,083 × 10<sup>27</sup> cm<sup>3</sup></td>
+</tr>
+
+<tr>
+<td>densità</td>
+<td>5,52 g/cm<sup>3</sup></td>
+</tr>
+
+<tr>
+<td>gravità superficiale</td>
+<td>9,98 m/s<sup>2</sup></td>
+</tr>
+
+<tr>
+<td>velocità di fuga</td>
+<td>11,2 km/s</td>
+</tr>
+
+<tr>
+<td>schiacciamento (Re-Rp)/Re</td>
+<td>0,0034</td>
+</tr>
+
+<tr>
+<td>superficie totale</td>
+<td>5,1 × 108 km<sup>2</sup></td>
+</tr>
+
+<tr>
+<td>superficie delle terre emerse</td>
+<td>1,49 × 10<sup>8</sup> km<sup>2</sup></td>
+</tr>
+
+<tr>
+<td>superficie degli oceani</td>
+<td>3,61 × 10<sup>8</sup> km<sup>2</sup></td>
+</tr>
+
+<tr>
+<td>altitudine media delle terre emerse</td>
+<td>840 m</td>
+</tr>
+
+<tr>
+<td>profondità media degli oceani</td>
+<td>3900 m</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Mappa_di_Eratostene.jpg" title="Mappa di Eratostene" >}}
 
@@ -137,14 +198,44 @@ A causa dell’inclinazione dell’asse terrestre, nel corso dell’anno non **v
 
 **Le stagioni astronomiche non coincidono del tutto con le stagioni meteorologiche**, cioè con il reale andamento del tempo meteorologico. Ciò è dovuto al fatto che l’atmosfera, l’idrosfera e la litosfera assorbono la radiazione solare e cedono calore con un certo ritardo, impedendo di percepire subito gli effetti sul clima dovuti alle variazioni dell’inclinazione dei raggi solari. Inoltre, a causa della variazione dell’angolo che i raggi solari formano con la superficie terrestre, con il succedersi delle stagioni varia l’altezza degli archi che il Sole sembra descrivere nel cielo durante il suo moto apparente, dall’alba al tramonto. Sulla base dell’inclinazione dei raggi solari nelle diverse stagioni astronomiche, si possono individuare sulla superficie terrestre differenti zone astronomiche, caratterizzate da specifiche condizioni climatiche.
 
-Emisfero boreale |Emisfero australe |Durata
----|---|---
-primavera |autunno |21 marzo - 21 giugno
-estate |inverno |21 giugno - 23 settembre
-autunno |primavera |23 settembre - 21 dicembre
-inverno |estate |21 dicembre - 21 marzo |
+<div style="overflow-x:auto;" class="TableData">
+<table>
+<caption>Equinozi e solsisti.</caption>
+<thead>
+<tr>
+<th>Emisfero boreale</th>
+<th>Emisfero australe</th>
+<th>Durata</th>
+</tr>
+</thead>
 
-Equinozi e solsisti.
+<tbody>
+<tr>
+<td>primavera</td>
+<td>autunno</td>
+<td>21 marzo - 21 giugno</td>
+</tr>
+
+<tr>
+<td>estate</td>
+<td>inverno</td>
+<td>21 giugno - 23 settembre</td>
+</tr>
+
+<tr>
+<td>autunno</td>
+<td>primavera</td>
+<td>23 settembre - 21 dicembre</td>
+</tr>
+
+<tr>
+<td>inverno</td>
+<td>estate</td>
+<td>21 dicembre - 21 marzo</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Le_4_stagioni%2C_Villa_Ghirlanda.jpg/1024px-Le_4_stagioni%2C_Villa_Ghirlanda.jpg" title="Il moto di rivoluzione causa la successione delle stagioni" >}}
 

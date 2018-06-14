@@ -695,16 +695,14 @@ hr {
     background: inherit;
 }
 table {
-    border: 1px solid #eaeaea;
     table-layout: auto;
 }
 th {
-    background: #f7f7f7;
     padding: 0.5rem;
 }
 td {
     padding: 0.5rem;
-    border: 1px solid #eaeaea;
+    
 }
 .button {
     background: #9c6fb6;
@@ -1124,6 +1122,10 @@ pre .copy-to-clipboard:hover {
 
 #searchResults {
     text-align: left;
+}
+
+td:nth-child(1) { 
+    font-weight: bold /* first table col is bold */
 }
 
 /*# sourceMappingURL=theme.css.map */

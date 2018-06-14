@@ -1,5 +1,5 @@
 ---
-title: "8. I Materiali della crosta terrestre"
+title: "8. I materiali della crosta terrestre"
 draft: false
 weight: 8
 ---
@@ -53,20 +53,70 @@ Il **colore** è una caratteristica molto evidente, ma non altrettanto indicativ
 La **scala di Mohs**, ideata dal mineralogista viennese F. Mohs (1773-1830), indica la durezza di un minerale con un numero compreso tra 1 (minerale più tenero) e 10 (minerale più duro).  In essa, un minerale di una certa durezza viene scalfito da quello di durezza superiore e a sua volta scalfisce tutti quelli di durezza inferiore. Si dicono teneri i minerali con durezza 1 (come il talco) e 2 (come il gesso), che sono scalfibili con un’unghia; semiduri quelli con durezza compresa tra 3 e 5, che sono scalfibili con una punta d’acciaio; duri quelli con durezze comprese tra 6 e 10, non scalfibili da una punta d’acciaio. La durezza dei minerali non è la stessa su tutte le facce del cristallo; di solito, però, la variazione risulta molto bassa e quindi trascurabile.
 Il **peso specifico** esprime il rapporto fra il peso di un dato volume del minerale e il peso di un uguale volume di acqua distillata a 4 °C. Il peso specifico dei minerali varia da 1 a 23, ma per la gran parte di essi il valore oscilla tra 2,6-2,7; alcuni minerali metallici possiedono peso specifico 2 o 3 volte maggiore.
 
-Durezza | Minerale
-:---:| ---
-1 | talco
-2 | gesso
-3 | calcite
-4 | fluorite
-5 | apatite
-6 | ortoclasio
-7 | quarzo
-8 | topazio
-9 | corindone
-10 | diamante
+<div style="overflow-x:auto;"  class="TableData">
+<table>
+<caption>Scala di Mohs.</caption>
+<thead>
+<tr>
+<th style="text-align: center;">Durezza</th>
+<th style="text-align: center;">Minerale</th>
+</tr>
+</thead>
 
-Scala di Mohs.
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">talco</td>
+</tr>
+
+<tr>
+<td align="center">2</td>
+<td align="center">gesso</td>
+</tr>
+
+<tr>
+<td align="center">3</td>
+<td align="center">calcite</td>
+</tr>
+
+<tr>
+<td align="center">4</td>
+<td align="center">fluorite</td>
+</tr>
+
+<tr>
+<td align="center">5</td>
+<td align="center">apatite</td>
+</tr>
+
+<tr>
+<td align="center">6</td>
+<td align="center">ortoclasio</td>
+</tr>
+
+<tr>
+<td align="center">7</td>
+<td align="center">quarzo</td>
+</tr>
+
+<tr>
+<td align="center">8</td>
+<td align="center">topazio</td>
+</tr>
+
+<tr>
+<td align="center">9</td>
+<td align="center">corindone</td>
+</tr>
+
+<tr>
+<td align="center">10</td>
+<td align="center">diamante</td>
+</tr>
+</tbody>
+
+</table>
+</div>
 
 ## Classificazione dei minerali
 
@@ -80,24 +130,82 @@ Non tutti i minerali sono ugualmente frequenti in natura: le specie dei minerali
 * **Solfati**:: Contengono lo ione (SO<sub>4</sub>)<sup>2-</sup>, solfato, combinato con diversi ioni positivi. Tra essi ricordiamo il gesso (solfato di calcio idrato, CaSO<sub>4</sub> · 2H<sub>2</sub>O), che si forma per precipitazione chimica a seguito dell’evaporazione dell’acqua in zone di mare chiuso o in laghi salati.
 * **Fosfati**:: Gruppo di minerali che contiene lo ione (PO<sub>4</sub>)<sup>3-</sup>, fosfato, combinato con diversi ioni positivi. Costituiscono un gruppo di minerali usati per la produzione di fertilizzanti; il più importante è l’apatite, Ca<sub>5</sub>(PO<sub>4</sub>)<sub>3</sub>(F,Cl,OH)
 
-| {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Native_Copper_Macro_Digon3-crop.jpg/1133px-Native_Copper_Macro_Digon3-crop.jpg" width="250" title="Rame nativo" >}}  | {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/9/93/Fluorite-Galena-flu35c.jpg" width="250" title="Galena (solfuro)" >}}    |
-| --- | --- |
-| {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Halite-282334.jpg" width="250" title="Halite (alogenuro)" >}} | {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ematite%2C_da_rio_marina%2C_elba.JPG/615px-Ematite%2C_da_rio_marina%2C_elba.JPG" width="250" title="Ematite (ossido)" >}}
-|  {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Kutnohorite-Calcite-122393.jpg" width="250" title="Calcite (carbonite)" >}}  | {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rose_des_sables.jpg/640px-Rose_des_sables.jpg" width="250" title="Rosa del deserto di gesso (solfato)" >}}
-|  {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Apatite.JPG/640px-Apatite.JPG" width="250" title="Apatite (fostafo)" >}}   | {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kyanite_crystals.jpg/640px-Kyanite_crystals.jpg" width="250" title="Cianite" >}}
+<div style="overflow-x:auto;">
+<table>
+    <caption>Esempi di minerali</caption>
+    <tr>
+    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Native_Copper_Macro_Digon3-crop.jpg/1133px-Native_Copper_Macro_Digon3-crop.jpg" width="250" title="Rame nativo" >}}</td>
+    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/9/93/Fluorite-Galena-flu35c.jpg" width="250" title="Galena (solfuro)" >}}</td>
+  </tr>
+  <tr>
+    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Halite-282334.jpg" width="250" title="Halite (alogenuro)" >}}</td>
+    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ematite%2C_da_rio_marina%2C_elba.JPG/615px-Ematite%2C_da_rio_marina%2C_elba.JPG" width="250" title="Ematite (ossido)" >}}</td>
+  </tr>
+  <tr>
+    <td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Kutnohorite-Calcite-122393.jpg" width="250" title="Calcite (carbonite)" >}}<br><br><br></td>
+    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rose_des_sables.jpg/640px-Rose_des_sables.jpg" width="250" title="Rosa del deserto di gesso (solfato)" >}}</td>
+  </tr>
+  <tr>
+    <td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Apatite.JPG/640px-Apatite.JPG" width="250" title="Apatite (fostafo)" >}}</td>
+    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kyanite_crystals.jpg/640px-Kyanite_crystals.jpg" width="250" title="Cianite" >}}</td>
+  </tr>
+</table>
+</div>
 
-Elemento | Percentuale approssimativa<br/> in peso
-:---:|:---:
-ossigeno (O) |46.6
-silicio (Si) |27.7
-alluminio (Al) |8.1
-ferro (Fe) |5.0
-calcio (Ca) |3.6
-sodio (Na) |2.8
-potassio (K) |2.6
-magnesio (Mg) |2.1
+<div>
+<table>
+<caption>Gli elementi della crosta terrestre.</caption>
+<thead>
+<tr>
+<th style="text-align: center;">Elemento</th>
+<th style="text-align: center;">Percentuale approssimativa<br> in peso</th>
+</tr>
+</thead>
 
-Gli elementi della crosta terrestre.
+<tbody>
+<tr>
+<td align="center">ossigeno (O)</td>
+<td align="center">46.6</td>
+</tr>
+
+<tr>
+<td align="center">silicio (Si)</td>
+<td align="center">27.7</td>
+</tr>
+
+<tr>
+<td align="center">alluminio (Al)</td>
+<td align="center">8.1</td>
+</tr>
+
+<tr>
+<td align="center">ferro (Fe)</td>
+<td align="center">5.0</td>
+</tr>
+
+<tr>
+<td align="center">calcio (Ca)</td>
+<td align="center">3.6</td>
+</tr>
+
+<tr>
+<td align="center">sodio (Na)</td>
+<td align="center">2.8</td>
+</tr>
+
+<tr>
+<td align="center">potassio (K)</td>
+<td align="center">2.6</td>
+</tr>
+
+<tr>
+<td align="center">magnesio (Mg)</td>
+<td align="center">2.1</td>
+</tr>
+</tbody>
+
+</table>
+</div>
 
 ### Silicati
 
@@ -121,11 +229,31 @@ A seconda di come i tetraedri sono disposti nel reticolo cristallino, si disting
 
 Il processo di formazione dei minerali è detto **minerogenesi** e può avvenire secondo quattro modalità diverse.  Nella **minerogenesi magmatica** i minerali si formano per solidificazione dei componenti liquidi del magma (massa fluida e incandescente presente all’interno della Terra), conseguente al suo raffreddamento mentre risale in superficie; il passaggio da liquido a solido cristallino avviene in tempi e a temperature diverse. In questo modo si forma, per esempio, il quarzo.  Nella **minerogenesi per sublimazione** alcune sostanze aeriformi (gas e vapori) emesse nelle zone vulcaniche passano direttamente dallo stato aeriforme a quello solido cristallino per sublimazione; in questo modo si forma, per esempio, lo zolfo.  Nella **minerogenesi da soluzione** l’acqua marina è una soluzione in cui sono disciolti numerosi sali, che si depositano se la loro concentrazione aumenta quando, in seguito all’evaporazione dell’acqua, si raggiunge il loro limite di solubilità (quantità massima di soluto che può sciogliersi in 100 g di solvente a una determinata temperatura); si originano in questo modo il gesso e il salgemma.  La **minerogenesi per trasformazione** di altri minerali può avvenire per cambiamento della struttura cristallina di un minerale, conseguente a elevate pressioni o temperature (così il diamante può trasformarsi in grafite), o per cambiamento della composizione chimica in seguito a reazioni chimiche che portano alla perdita o all’acquisto di alcuni elementi: per esempio, dal gesso (CaSO<sub>4</sub> · 2H<sub>2</sub>O) può originarsi lo zolfo (S).
 
-| {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Etna_2006.jpg/640px-Etna_2006.jpg" width="250" title="M. magmatica" >}}    | {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Solfatara_volcano_Fumarole_6791.JPG/640px-Solfatara_volcano_Fumarole_6791.JPG" width="250" title="M. per sublimazione" >}}    |
-| --- | --- |
-| {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Saline_di_Trapani_-_raccolta_del_sale.jpg" width="250" title="M. da soluzione" >}}    | {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/The_Mir_mine_in_Yakutia.JPG/640px-The_Mir_mine_in_Yakutia.JPG" width="250" title="M. per trasformazione" >}}    |
+<div style="overflow-x:auto;">
+<table>
+<caption>Diversi tipi di minerogenesi.</caption>
+<tbody>
 
-Diversi tipi di minerogenesi.
+<tr>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Etna_2006.jpg/640px-Etna_2006.jpg" width="250" title="M. magmatica" >}}
+</td>
+
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Solfatara_volcano_Fumarole_6791.JPG/640px-Solfatara_volcano_Fumarole_6791.JPG" width="250" title="M. per sublimazione" >}}
+</td>
+</tr>
+
+<tr>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Saline_di_Trapani_-_raccolta_del_sale.jpg" width="250" title="M. da soluzione" >}}
+</td>
+
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/The_Mir_mine_in_Yakutia.JPG/640px-The_Mir_mine_in_Yakutia.JPG" width="250" title="M. per trasformazione" >}}
+</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+
 
 ### Le rocce
 
@@ -133,11 +261,29 @@ Raramente i minerali si trovano isolati sulla crosta terrestre; più **spesso i 
 
 **Rocce ignee**, o **magmatiche**:: derivano dal raffreddamento e dalla solidificazione del magma, massa fluida ad altissima temperatura proveniente dall’interno della Terra e spinta verso l’esterno.  **Rocce sedimentarie**:: si originano per sedimentazione di materiali di varia provenienza, quali frammenti derivanti dalla degradazione di tutte le rocce della crosta terrestre, resti di organismi viventi o sali disciolti nelle acque e poi precipitati in seguito a evaporazione dell’acqua.  **Rocce metamorfiche**:: derivano dal metamorfismo, cioè una profonda trasformazione di rocce preesistenti, provocato da un aumento di temperatura e di pressione a cui le rocce vengono sottoposte in seguito ai movimenti ai quali è soggetta la crosta terrestre (movimenti tettonici).  Nel corso delle ere geologiche, le rocce non si mantengono inalterate, ma subiscono continuamente l’azione di fenomeni che provocano la trasformazione di un gruppo di rocce in un altro: si compie cioè, in tempi lunghissimi, un **ciclo di trasformazione delle rocce** detto **ciclo litogenetico**.
 
-| {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Granito.jpg/596px-Granito.jpg" width="250" title="Granito (roccia ignea)" >}}    | {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/DachsteinkalkBivalvia.jpg/640px-DachsteinkalkBivalvia.jpg" width="250" title="Calcare (roccia sedimentaria)" >}}    |
-| --- | --- |
-| {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Stadtroda_Sandstein.jpg/640px-Stadtroda_Sandstein.jpg" width="250" title="Arenaria (roccia sedimentaria)" >}}    | {{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sample_of_Quartzite.JPG/688px-Sample_of_Quartzite.JPG" width="250" title="Quarzite (roccia metamorfica)" >}}    |
+<div style="overflow-x:auto;">
+<table>
+<caption>Tipi di rocce.</caption>
+<tbody>
 
-Tipi di rocce.
+<tr>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Granito.jpg/596px-Granito.jpg" width="250" title="Granito (roccia ignea)" >}}
+</td>
+
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/DachsteinkalkBivalvia.jpg/640px-DachsteinkalkBivalvia.jpg" width="250" title="Calcare (roccia sedimentaria)" >}}
+</td>
+</tr>
+
+<tr>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Stadtroda_Sandstein.jpg/640px-Stadtroda_Sandstein.jpg" width="250" title="Arenaria (roccia sedimentaria)" >}}
+</td>
+
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sample_of_Quartzite.JPG/688px-Sample_of_Quartzite.JPG" width="250" title="Quarzite (roccia metamorfica)" >}}
+</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Ciclo litogenetico
 

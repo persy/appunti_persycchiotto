@@ -22,23 +22,63 @@ Le **argille** sono formate da quarzo e da silicati lamellari, che hanno la prop
 
 Quando i sedimenti calcarei sono seppelliti, vengono in contatto con le acque circolanti del sottosuolo, che li sciolgono parzialmente, arricchendosi in carbonato di calcio, o li compattano e li cementano, facendo precipitare carbonato di calcio cristallino (**calcite**), che riempie gli interstizi e le eventuali cavità presenti.  Il processo metamorfico, già a basse temperature e pressioni, provoca una ricristallizzazione progressiva della calcite, con la totale distruzione della struttura sedimentaria. Si forma così il **marmo**, composto da un mosaico di granuli cristallini di calcite.  La calcite è stabile anche ai più alti gradi metamorfici e non subisce trasformazioni chimiche; gli altri minerali, eventualmente presenti nel calcare come impurità, subiscono invece trasformazioni che permettono di riconoscere il grado metamorfico raggiunto e, se abbondanti, possono conferire alla roccia particolari venature.
 
-|Tipo di roccia |Caratteristiche
----|---
-|fillade |roccia a grana molto fine, composta principalmente da microscopiche lamelle di mica (è il prodotto di un basso grado di metamorfismo su un’argillite)
-|micascisto |roccia composta in massima parte da lamelle visibili di minerali appiattiti; come la fillade, si forma spesso dalle argilliti, ma in questo caso il metamorfismo è stato più intenso; spesso sono presenti nuovi minerali, esclusivi delle rocce metamorfiche
-|gneiss |roccia a composizione molto simile al granito; la caratteristica più rilevante è l’aspetto striato, dovuto ai caratteristici strati alternati di minerali chiari e scuri
-|marmo |roccia risultante dal metamorfismo di un calcare; è costituita da cristalli di calcite, in granuli di dimensioni fino a 5 mm, che le conferiscono il particolare aspetto saccaroide (simile a quello dello zucchero)
-|quarzite |comune roccia metamorfica derivata da un’arenaria quarzosa, all’apparenza simile al marmo, ma molto più dura
+<div style="overflow-x:auto;"  class="TableData">
+<table>
+<caption>Principali tipi di rocce metamorfiche.</caption>
+<thead>
+<tr>
+<th>Tipo di roccia</th>
+<th>Caratteristiche</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>fillade</td>
+<td>roccia a grana molto fine, composta principalmente da microscopiche lamelle di mica (è il prodotto di un basso grado di metamorfismo su un’argillite)</td>
+</tr>
+<tr>
+<td>micascisto</td>
+<td>roccia composta in massima parte da lamelle visibili di minerali appiattiti; come la fillade, si forma spesso dalle argilliti, ma in questo caso il metamorfismo è stato più intenso; spesso sono presenti nuovi minerali, esclusivi delle rocce metamorfiche</td>
+</tr>
+<tr>
+<td>gneiss</td>
+<td>roccia a composizione molto simile al granito; la caratteristica più rilevante è l’aspetto striato, dovuto ai caratteristici strati alternati di minerali chiari e scuri</td>
+</tr>
+<tr>
+<td>marmo</td>
+<td>roccia risultante dal metamorfismo di un calcare; è costituita da cristalli di calcite, in granuli di dimensioni fino a 5 mm, che le conferiscono il particolare aspetto saccaroide (simile a quello dello zucchero)</td>
+</tr>
+<tr>
+<td>quarzite</td>
+<td>comune roccia metamorfica derivata da un’arenaria quarzosa, all’apparenza simile al marmo, ma molto più dura</td>
+</tr>
+</tbody>
+</table>
+</div>
 
-Principali tipi di rocce metamorfiche.
-
-|{{< figure  src="https://c1.staticflickr.com/1/767/23399440262_a28113663f_b.jpg" width="250" title="ardesia" >}}|{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/8/86/Chlorite_schist.jpg" width="250" title="fillade" >}}
----|---
-|{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Rocks_-_Micaschist.JPG" width="250" title="micascisto" >}} |{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/3/34/PlagioclaseFeldsparUSGOV.jpg" width="250" title="feldspato" >}}
-|{{< figure  src="https://c1.staticflickr.com/8/7371/26196405084_d643ed201b_b.jpg" width="250" title="gneiss" >}}|{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Migmatite_2005.jpg/647px-Migmatite_2005.jpg" width="250" title="migmatite" >}}
-|{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Calcite_sample.JPG/800px-Calcite_sample.JPG" width="250" title="calcite" >}} |{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Marmo_di_Cottanello.jpg/800px-Marmo_di_Cottanello.jpg" width="250" title="marmo" >}}
-
-Principali rocce metamorfiche.
+<div style="overflow-x:auto;">
+<table>
+<caption>Principali rocce metamorfiche.</caption>
+<tbody>
+<tr>
+<td>{{< figure  src="https://c1.staticflickr.com/1/767/23399440262_a28113663f_b.jpg" width="250" title="ardesia" >}}</td>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/8/86/Chlorite_schist.jpg" width="250" title="fillade" >}}</td>
+</tr>
+<tr>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Rocks_-_Micaschist.JPG" width="250" title="micascisto" >}}</td>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/3/34/PlagioclaseFeldsparUSGOV.jpg" width="250" title="feldspato" >}}</td>
+</tr>
+<tr>
+<td>{{< figure  src="https://c1.staticflickr.com/8/7371/26196405084_d643ed201b_b.jpg" width="250" title="gneiss" >}}</td>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Migmatite_2005.jpg/647px-Migmatite_2005.jpg" width="250" title="migmatite" >}}</td>
+</tr>
+<tr>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Calcite_sample.JPG/800px-Calcite_sample.JPG" width="250" title="calcite" >}}</td>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Marmo_di_Cottanello.jpg/800px-Marmo_di_Cottanello.jpg" width="250" title="marmo" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## L’anatessi
 

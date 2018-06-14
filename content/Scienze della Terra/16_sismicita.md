@@ -75,204 +75,269 @@ Le vibrazioni del suolo dovute alle onde sismiche, la loro ampiezza e la loro du
 
 Un primo tentativo per indicare l’intensità di un terremoto si deve al sismologo e vulcanologo italiano G. Mercalli (1850-1914), che nel 1902 ideò una scala basata sull’osservazione degli effetti di un sisma su costruzioni, persone e ambiente, divisa in 10 gradi progressivi di gravità; gli effetti di un sisma vengono oggi riferiti alla **scala Mercalli modificata**, che comprende 12 gradi: il grado I corrisponde a scosse avvertite solo dai sismografi, senza danni a edifici o persone; il grado XII equivale, invece, a una grande catastrofe e alla distruzione totale delle costruzioni. A ogni località in cui è stato avvertito il sisma viene assegnato un grado di intensità, che risulterà massimo nella zona in corrispondenza all’epicentro e decrescente verso località più lontane. Sono state elaborate diverse scale Mercalli modificate, che tengono conto delle caratteristiche costruttive degli edifici in diverse aree: quella più utilizzata in Europa occidentale è la cosiddetta scala MCS (Mercalli- Cancani-Silberg).
 
-|Grado |Scossa |Descrizione
----|---|---
-|I |strumentale |avvertita solo dai sismografi
-|II |leggerissima |avvertita solo da persone particolarmente sensibili
-|III |leggera |avvertita da persone a riposo, soprattutto ai piani alti
-|IV |mediocre |avvertita anche camminando, oscillazione di oggetti appesi
-|V |forte |risveglio di persone addormentate, suono di campane, caduta di oggetti
-|VI |molto forte |lievi danni agli edifici, oscillano gli alberi |VII |fortissima |allarme generale, crepe nei muri, caduta di intonaci
-|VIII |rovinosa |caduta di camini, gravi danni agli edifici
-|IX |disastrosa |crollo di alcuni edifici, rottura di condutture, crepe nel terreno
-|X |disastrosissima |crollo di molti edifici, rotaie piegate, grandi crepacci nel suolo, frane
-|XI |catastrofica |pochi edifici superstiti, ponti distrutti, tutti i servizi (ferrovie, condutture, cavi) fuori uso, grandi frane, inondazioni
-|XII |grande catastrofe |distruzione totale, oggetti scagliati in aria, sollevamenti e abbassamenti del suolo a onde
-
-Scala Mercalli.
+<div style="overflow-x:auto;"  class="TableData">
+<table>
+<caption>Scala Mercalli.</caption>
+<thead>
+<tr>
+<th>Grado</th>
+<th>Scossa</th>
+<th>Descrizione</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I</td>
+<td>strumentale</td>
+<td>avvertita solo dai sismografi</td>
+</tr>
+<tr>
+<td>II</td>
+<td>leggerissima</td>
+<td>avvertita solo da persone particolarmente sensibili</td>
+</tr>
+<tr>
+<td>III</td>
+<td>leggera</td>
+<td>avvertita da persone a riposo, soprattutto ai piani alti</td>
+</tr>
+<tr>
+<td>IV</td>
+<td>mediocre</td>
+<td>avvertita anche camminando, oscillazione di oggetti appesi</td>
+</tr>
+<tr>
+<td>V</td>
+<td>forte</td>
+<td>risveglio di persone addormentate, suono di campane, caduta di oggetti</td>
+</tr>
+<tr>
+<td>VI</td>
+<td>molto forte</td>
+<td>lievi danni agli edifici, oscillano gli alberi</td>
+</tr>
+<tr>
+<td>VII</td>
+<td>fortissima</td>
+<td>allarme generale, crepe nei muri, caduta di intonaci</td>
+</tr>
+<tr>
+<td>VIII</td>
+<td>rovinosa</td>
+<td>caduta di camini, gravi danni agli edifici</td>
+</tr>
+<tr>
+<td>IX</td>
+<td>disastrosa</td>
+<td>crollo di alcuni edifici, rottura di condutture, crepe nel terreno</td>
+</tr>
+<tr>
+<td>X</td>
+<td>disastrosissima</td>
+<td>crollo di molti edifici, rotaie piegate, grandi crepacci nel suolo, frane</td>
+</tr>
+<tr>
+<td>XI</td>
+<td>catastrofica</td>
+<td>pochi edifici superstiti, ponti distrutti, tutti i servizi (ferrovie, condutture, cavi) fuori uso, grandi frane, inondazioni</td>
+</tr>
+<tr>
+<td>XII</td>
+<td>grande catastrofe</td>
+<td>distruzione totale, oggetti scagliati in aria, sollevamenti e abbassamenti del suolo a onde</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 La scala Mercalli modificata è di tipo empirico, basata sulla descrizione degli effetti, e risulta dunque uno strumento poco preciso e, soprattutto, non permette di confrontare tra loro le intensità reali dei terremoti. Per superare questa difficoltà è stata introdotta (1935) una scala “quantitativa”, la **scala Richter**, dal nome del sismologo statunitense F. Richter (1900-1985), detta anche scala della magnitudo, poiché essa misura la **magnitudo** di un terremoto, cioè l’**energia meccanica** che si sprigiona dall’ipocentro. Per valutare l’intensità di un terremoto, Richter propose di misurare l’ampiezza delle onde sismiche generate da un terremoto e registrate dai sismografi.  Matematicamente, la **magnitudo**, $M$, è così definita:
 
+<div align="center">
 $M = \log A/A_0 = \log A – \log A_0$
+</div>
 
 dove $A$ indica la massima ampiezza delle onde registrate da un sismogramma di un terremoto sconosciuto e $A_0$ l’ampiezza massima delle onde generate da un terremoto scelto come riferimento (terremoto standard, cioè un terremoto che, su un sismografo posto a 100 km dall’epicentro, produce un sismogramma con ampiezza massima delle onde pari a 0,001 mm).  La scala Richter non è quindi suddivisa in gradi e non ha limiti né inferiori (se non quelli legati alla capacità di percezione dei sismografi), né superiori: in questo secolo la massima magnitudo misurata è stata pari a 8,5-9. Nota la magnitudo di un sisma, si può determinare l’energia, $E$ (in erg), che esso ha liberato secondo la formula:
 
+<div align="center">
 $\log E = 12  1,5 M$
+</div>
 
-dove M è la magnitudo (dalla formula si deduce che l’aumento di 1 unità della magnitudo corrisponde a una liberazione di energia 30 volte maggiore).  La scala Richter permette di valutare con precisione anche l’intensità dei terremoti che si verificano in zone desertiche, o il cui epicentro è situato su fondali marini, cosa che sarebbe impossibile con la scala Mercalli (poiché in tali zone non si rilevano effetti su costruzioni e persone).  Non c’è corrispondenza fra intensità valutata con la scala Mercalli e magnitudo, poiché i terremoti superficiali che si verificano in zone densamente popolate possono produrre molti più danni di terremoti di uguale magnitudo che si verifichino in zone desertiche o con ipocentro profondo.
+dove $M$ è la magnitudo (dalla formula si deduce che l’aumento di 1 unità della magnitudo corrisponde a una liberazione di energia 30 volte maggiore).  La scala Richter permette di valutare con precisione anche l’intensità dei terremoti che si verificano in zone desertiche, o il cui epicentro è situato su fondali marini, cosa che sarebbe impossibile con la scala Mercalli (poiché in tali zone non si rilevano effetti su costruzioni e persone).  Non c’è corrispondenza fra intensità valutata con la scala Mercalli e magnitudo, poiché i terremoti superficiali che si verificano in zone densamente popolate possono produrre molti più danni di terremoti di uguale magnitudo che si verifichino in zone desertiche o con ipocentro profondo.
 
-<table class="wikitable" style="margin:auto;clear:both;">
-<caption>Scala Richter</caption>
+<div style="overflow-x:auto;">
+<table>
+<caption>Scala Richter.</caption>
 <tr>
 <th>Magnitudo</th>
-<th><a href="/wiki/Trinitrotoluene" title="Trinitrotoluene">TNT</a> equivalente</th>
+<th><a href="/wiki/Trinitrotoluene" title="Trinitrotoluene">TNT</a> equivalente</td>
 <th>Energia</th>
 <th>Frequenza</th>
 <th>Esempio</th>
 </tr>
 <tr>
-<th style="text-align:left">0</th>
-<th>15 grammi</th>
+<td style="text-align:left;color:#000">0</td>
+<td>15 grammi</td>
 <td>63 kJ</td>
-<td>circa 8&#160;000 al giorno</td>
+<td>circa 8 000 al giorno</td>
 <td></td>
 </tr>
 <tr>
-<th style="text-align:left">1</th>
-<th>0,48 chilogrammi</th>
+<td style="background:#e6e6ff;text-align:left;color:#000">1</td>
+<td>0,48 chilogrammi</td>
 <td>2 MJ</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th style="background:#d7e0ff;text-align:left">1,5</th>
-<th>2,7 chilogrammi</th>
+<td style="background:#d7e0ff;text-align:left;color:#000">1,5</td>
+<td>2,7 chilogrammi</td>
 <td>11 MJ</td>
 <td></td>
 <td>impatto sismico della tipica piccola esplosione utilizzata nelle costruzioni</td>
 </tr>
 <tr>
-<th style="background:#d7e0ff;text-align:left">2</th>
-<th>15 chilogrammi</th>
+<td style="background:#d7e0ff;text-align:left;color:#000">2</td>
+<td>15 chilogrammi</td>
 <td>63 MJ</td>
-<td>circa 1&#160;000 al giorno</td>
+<td>circa 1 000 al giorno</td>
 <td><a href="/w/index.php?title=Esplosione_della_West_Fertilizer_Company&amp;action=edit&amp;redlink=1" class="new" title="Esplosione della West Fertilizer Company (la pagina non esiste)">esplosione della West Fertilizer Company</a></td>
 </tr>
 <tr>
-<th style="background:#a7e0ff;text-align:left">2,5</th>
-<th>85 chilogrammi</th>
+<td style="background:#a7e0ff;text-align:left;color:#000">2,5</td>
+<td>85 chilogrammi</td>
 <td>355 MJ</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th style="background:#a7e0ff;text-align:left">3</th>
-<th>477 chilogrammi</th>
+<td style="background:#a7e0ff;text-align:left;color:#000">3</td>
+<td>477 chilogrammi</td>
 <td>2.0 GJ</td>
 <td>circa 130 al giorno</td>
-<td><a href="/wiki/Attentato_di_Oklahoma_City" class="mw-redirect" title="Attentato di Oklahoma City">Attentato di Oklahoma City</a>, <a href="/wiki/1995" title="1995">1995</a></td>
+<td><a href="/wiki/Attentato_di_Oklahoma_City" class="mw-redirect" title="Attentato di Oklahoma City">Attentato di Oklahoma City</a></td>
 </tr>
 <tr>
-<th style="background:#80fff6;text-align:left">3,5</th>
-<th>2,7 tonnellate</th>
+<td style="background:#80fff6;text-align:left;color:#000">3,5</td>
+<td>2,7 tonnellate</td>
 <td>11 GJ</td>
 <td></td>
-<td><a href="/w/index.php?title=Disastro_di_PEPCON&amp;action=edit&amp;redlink=1" class="new" title="Disastro di PEPCON (la pagina non esiste)">disastro di PEPCON</a>, <a href="/wiki/1988" title="1988">1988</a></td>
+<td><a href="/w/index.php?title=Disastro_di_PEPCON&amp;action=edit&amp;redlink=1" class="new" title="Disastro di PEPCON (la pagina non esiste)">disastro di PEPCON</a></td>
 </tr>
 <tr>
-<th style="background:#80fff6;text-align:left">4</th>
-<th>15 tonnellate</th>
+<td style="background:#80fff6;text-align:left;color:#000">4</td>
+<td>15 tonnellate</td>
 <td>63 GJ</td>
 <td>circa 15 al giorno</td>
 <td><a href="/wiki/GBU-43_Massive_Ordnance_Air_Blast_bomb" title="GBU-43 Massive Ordnance Air Blast bomb">GBU-43 Massive Ordnance Air Blast bomb</a></td>
 </tr>
 <tr>
-<th style="background:#7fff8f;text-align:left">4,5</th>
-<th>85 tonnellate</th>
+<td style="background:#7fff8f;text-align:left;color:#000">4,5</td>
+<td>85 tonnellate</td>
 <td>355 GJ</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th style="background:#7fff8f;text-align:left">5</th>
-<th>477 tonnellate</th>
+<td style="background:#7fff8f;text-align:left;color:#000">5</td>
+<td>477 tonnellate</td>
 <td>2 TJ</td>
 <td>2-3 al giorno</td>
 <td></td>
 </tr>
 <tr>
-<th style="background:#fffa00;text-align:left">5,5</th>
-<th>2682 tonnellate</th>
+<td style="background:#fffa00;text-align:left;color:#000">5,5</td>
+<td>2682 tonnellate</td>
 <td>11 TJ</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th style="background:#fffa00;text-align:left">6</th>
-<th>15&#160;000 tonnellate</th>
+<td style="background:#fffa00;text-align:left;color:#000">6</td>
+<td>15 000 tonnellate</td>
 <td>63 TJ</td>
 <td>120 all'anno</td>
-<td><a href="/wiki/Bomba_atomica" title="Bomba atomica">bomba atomica</a> <a href="/wiki/Little_Boy" title="Little Boy">Little Boy</a> sganciata su <a href="/wiki/Hiroshima" title="Hiroshima">Hiroshima</a> (~ 16 kt)</td>
+<td><a href="/wiki/Little_Boy" title="Little Boy">La bomba atomica Little Boy sganciata su Hiroshima</a> (~ 16 kt)</td>
 </tr>
 <tr>
-<th style="background:#ffc400;text-align:left">6,5</th>
-<th>85&#160;000 tonnellate</th>
+<td style="background:#ffc400;text-align:left;color:#000">6,5</td>
+<td>85 000 tonnellate</td>
 <td>354 TJ</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th style="background:#ffc400;text-align:left">7</th>
-<th>477&#160;000 tonnellate</th>
+<td style="background:#ffc400;text-align:left;color:#000">7</td>
+<td>477 000 tonnellate</td>
 <td>2 PJ</td>
 <td>18 all'anno</td>
 <td></td>
 </tr>
 <tr>
-<th style="background:#ff8600;text-align:left">7,5</th>
-<th>2,7 milioni di tonnellate</th>
+<td style="background:#ff8600;text-align:left;color:#000">7,5</td>
+<td>2,7 milioni di tonnellate</td>
 <td>11 PJ</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th style="background:#ff8600;text-align:left">8</th>
-<th>15 milioni di tonnellate</th>
+<td style="background:#ff8600;text-align:left;color:#000">8</td>
+<td>15 milioni di tonnellate</td>
 <td>63 PJ</td>
 <td>1 all'anno</td>
 <td><a href="/wiki/Evento_di_Tunguska" title="Evento di Tunguska">Evento di Tunguska</a></td>
 </tr>
 <tr>
-<th style="background:#fe0000;text-align:left">8,35</th>
-<th>50,5 milioni di tonnellate</th>
+<td style="background:#fe0000;text-align:left;color:#fff">8,35</td>
+<td>50,5 milioni di tonnellate</td>
 <td>211 PJ</td>
 <td></td>
-<td><a href="/wiki/Bomba_Zar" title="Bomba Zar">Bomba Zar</a> - l'<a href="/wiki/Bomba_all%27idrogeno" title="Bomba all'idrogeno">arma termonucleare</a> più grande mai testata. La maggior parte dell'energia è stata dissipata nell'atmosfera. La scossa sismica è stata stimata in 5,0-5,2</td>
+<td><a href="/wiki/Bomba_Zar" title="Bomba Zar">Bomba Zar</a> - l'arma termonucleare più grande mai testata. La maggior parte dell'energia è stata dissipata nell'atmosfera. La scossa sismica è stata stimata in 5,0-5,2</td>
 </tr>
 <tr>
-<th style="background:#fe0000;text-align:left">8,5</th>
-<th>85 milioni di tonnellate</th>
+<td style="background:#fe0000;text-align:left;color:#fff">8,5</td>
+<td>85 milioni di tonnellate</td>
 <td>355 PJ</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th style="background:#c80000;text-align:left">9</th>
-<th>477 milioni di tonnellate</th>
+<td style="background:#c80000;text-align:left;color:#fff">9</td>
+<td>477 milioni di tonnellate</td>
 <td>2 EJ</td>
 <td>1 ogni 20 anni</td>
 <td></td>
 </tr>
 <tr>
-<th style="background:#c80000;text-align:left">9,15</th>
-<th>800 milioni di tonnellate</th>
+<td style="background:#c80000;text-align:left;color:#fff">9,15</td>
+<td>800 milioni di tonnellate</td>
 <td>3,35 EJ</td>
 <td></td>
 <td><a href="/wiki/Teoria_della_catastrofe_di_Toba" title="Teoria della catastrofe di Toba">Catastrofe di Toba</a> 75.000 anni fa; il più grande evento vulcanico a noi noto</td>
 </tr>
 <tr>
-<th style="background:#800;text-align:left;color:white">9,5</th>
-<th>2,7 miliardi di tonnellate</th>
+<td style="background:#800;text-align:left;color:white">9,5</td>
+<td>2,7 miliardi di tonnellate</td>
 <td>11 EJ</td>
 <td></td>
 <td><a href="/wiki/Terremoto_di_Valdivia_del_1960" title="Terremoto di Valdivia del 1960">Terremoto del Cile</a> del <a href="/wiki/1960" title="1960">1960</a></td>
 </tr>
 <tr>
-<th style="background:#800;text-align:left;color:white">10</th>
-<th>15 miliardi di tonnellate</th>
+<td style="background:#800;text-align:left;color:white">10</td>
+<td>15 miliardi di tonnellate</td>
 <td>63 EJ</td>
 <td>sconosciuto</td>
 <td></td>
 </tr>
 <tr>
-<th style="background:#400;text-align:left;color:white">13</th>
-<th>476&#160;880 miliardi di tonnellate</th>
+<td style="background:#400;text-align:left;color:white">13</td>
+<td>476 880 miliardi di tonnellate</td>
 <td>2 YJ</td>
 <td></td>
 <td>Impatto della <a href="/wiki/Penisola_dello_Yucat%C3%A1n" title="Penisola dello Yucatán">Penisola dello Yucatan</a> in <a href="/wiki/Messico" title="Messico">Messico</a> (<a href="/wiki/Cratere_di_Chicxulub" title="Cratere di Chicxulub">Cratere di Chicxulub</a>) 65 milioni di anni fa</td>
 </tr>
 </table>
+</div>
 
 <!---
 **Scala Richter**

@@ -21,18 +21,60 @@ Molte sono le caratteristiche chimico-fisiche dell’acqua di mare che influenza
 * Il **colore** dell’acqua di mare, prevalentemente azzurro-blu, ma con variazioni al verde e al viola, è dovuto alla diffusione della luce prodotta dalle stesse molecole d’acqua, che hanno dimensioni così piccole che assorbono le radiazioni con lunghezza d’onda maggiore (come il rosso) e lasciano passare quelle con lunghezza d’onda minore (come il blu).  Variazioni di colore possono essere determinate anche dalla presenza di particelle organiche e inorganiche in sospensione nell’acqua.  
 * La **trasparenza** delle acque, cioè la capacità di essere penetrate dalla luce, è quasi totale nei primi 50 m di profondità (**zona fotica**), mentre diminuisce gradualmente fino ai 200 m (**zona afotica**), oltre i quali tutte le radiazioni sono assorbite.
 
-| Sali                |  g/kg  |
-| :------------------ | :----: |
-| cloruro di sodio    | 27.123 |
-| cloruro di magnesio | 3.807  |
-| solfato di magnesio | 1.658  |
-| solfato di calcio   | 1.260  |
-| solfato di potassio | 0.863  |
-| carbonato di calcio | 0.123  |
-| bromuro di magnesio | 0.076  |
-| Totale              | 35.000 |
+<div style="overflow-x:auto;" class="TableData">
+<table>
+<caption>Principali sali disciolti nell'acqua di mare</caption>
 
-Principali sali disciolti nell'acqua di mare
+<thead>
+<tr>
+<th>Sali</th>
+<th style="text-align: center">g/kg</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>cloruro di sodio</td>
+<td align="center">27.123</td>
+</tr>
+
+<tr>
+<td align="left">cloruro di magnesio</td>
+<td align="center">3.807</td>
+</tr>
+
+<tr>
+<td align="left">solfato di magnesio</td>
+<td align="center">1.658</td>
+</tr>
+
+<tr>
+<td align="left">solfato di calcio</td>
+<td align="center">1.260</td>
+</tr>
+
+<tr>
+<td align="left">solfato di potassio</td>
+<td align="center">0.863</td>
+</tr>
+
+<tr>
+<td align="left">carbonato di calcio</td>
+<td align="center">0.123</td>
+</tr>
+
+<tr>
+<td align="left">bromuro di magnesio</td>
+<td align="center">0.076</td>
+</tr>
+
+<tr>
+<td align="left">Totale</td>
+<td align="center">35.000</td>
+</tr>
+</tbody>
+
+</table></div>
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/THERMOCLINE.png/853px-THERMOCLINE.png" width="500" title="Termoclino" >}}
 

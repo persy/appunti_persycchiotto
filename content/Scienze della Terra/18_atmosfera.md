@@ -22,26 +22,88 @@ Tra le **numerose funzioni svolte dall’atmosfera** nei confronti della superfi
 * fa da scudo contro l’ingresso di meteore
 * permette la vita grazie alla presenza dell’ossigeno e del diossido di carbonio.
 
-Gas |% in volume
----|---
-azoto (N<sub>2</sub>) |78.084
-ossigeno (O<sub>2</sub>) |20.947
-argo (Ar) |0.934
-vapore acqueo (H<sub>2</sub>O) |0.33
-biossido di carbonio (CO<sub>2</sub>) |0.032
-neon (Ne) |0.001818
-elio (He) |0.000524
-metano (CH<sub>4</sub>) |0.0002
-idrogeno (H<sub>2</sub>) |0.00005
-cripto (Kr) |0.0000114
-xeno (Xe) |0.0000087
-ozono (O<sub>3</sub>) |0.000004
-ossidi di azoto: <br/>monossido (NO); <br/>biossido (NO<sub>2</sub>); <br/>protossido (N<sub>2</sub>O) |tracce |monossido di carbonio (CO) |tracce
-ammoniaca (NH<sub>3</sub>) |tracce
-diossido di zolfo (SO<sub>2</sub>) |tracce
-solfuro di idrogeno (H<sub>2</sub>S) |tracce
-
-Composizione chimica dell'atmosfera terrestre
+<div style="overflow-x:auto;" class="TableData">
+<table>
+<caption>Composizione chimica dell'atmosfera terrestre
+</caption>
+<thead>
+<tr>
+<th>Gas</th>
+<th>% in volume</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>azoto (N<sub>2</sub>)</td>
+<td>78.084</td>
+</tr>
+<tr>
+<td>ossigeno (O<sub>2</sub>) </td>
+<td>20.947</td>
+</tr>
+<tr>
+<td>argo (Ar)</td>
+<td>0.934</td>
+</tr>
+<tr>
+<td>vapore acqueo (H<sub>2</sub>O)</td>
+<td>0.33</td>
+</tr>
+<tr>
+<td>biossido di carbonio (CO<sub>2</sub>)</td>
+<td>0.032</td>
+</tr>
+<tr>
+<td>neon (Ne)</td>
+<td>0.001818</td>
+</tr>
+<tr>
+<td>elio (He)</td>
+<td>0.000524</td>
+</tr>
+<tr>
+<td>metano (CH<sub>4</sub>)</td>
+<td>0.0002</td>
+</tr>
+<tr>
+<td>idrogeno (H<sub>2</sub>)</td>
+<td>0.00005</td>
+</tr>
+<tr>
+<td>cripto (Kr)</td>
+<td>0.0000114</td>
+</tr>
+<tr>
+<td>xeno (Xe)</td>
+<td>0.0000087</td>
+</tr>
+<tr>
+<td>ozono (O<sub>3</sub>)</td>
+<td>0.000004</td>
+</tr>
+<tr>
+<td>ossidi di azoto: <br/>monossido (NO); <br/>biossido (NO<sub>2</sub>); <br/>protossido (N<sub>2</sub>O) </td>
+<td>tracce</td>
+</tr>
+<tr>
+<td>ammoniaca (NH<sub>3</sub>)</td>
+<td>tracce</td>
+</tr>
+<tr>
+<td>monossido di carbonio (CO)</td>
+<td>tracce</td>
+</tr>
+<tr>
+<td>diossido di zolfo (SO<sub>2</sub>)</td>
+<td>tracce</td>
+</tr>
+<tr>
+<td>solfuro di idrogeno (H<sub>2</sub>S)</td>
+<td>tracce</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## Origine ed evoluzione dell’atmosfera
 
@@ -121,23 +183,112 @@ In base al loro regime, cioè alla presenza o meno di variazioni nella direzione
 
 I venti non si spostano in linea retta, compiendo il tragitto più breve, che è quello che taglia perpendicolarmente le isobare, ma, a causa della rotazione terrestre, deviano verso destra nell’emisfero boreale e verso sinistra nell’emisfero australe.  Nelle 24 ore (durata del moto di rotazione) un punto che si trova al polo compie una rotazione completa su se stesso di 360°, senza però spostarsi. Un punto all’Equatore, nello stesso periodo compie a sua volta una rotazione di 360°, ma percorre un tragitto di circa 40.000 km (lunghezza dell’Equatore): un punto all’Equatore ha la stessa velocità angolare che al polo, ma ha anche una velocità lineare pari a circa 40.000 km al giorno. Spostandosi dai poli all’Equatore, la velocità lineare dei punti via via presi in considerazione aumenta.  Una massa d’aria in movimento da uno dei due poli verso l’Equatore, procedendo verso le latitudini più basse, dove la velocità lineare è più alta, si trova in ritardo rispetto a quella che sarebbe stata la sua posizione se la Terra non ruotasse su se stessa. Viceversa, un vento che spira dall’Equatore verso i poli, quindi da zone a maggior velocità lineare verso altre a velocità minore, “anticipa” il movimento di rotazione della Terra.  Il fenomeno determina una deviazione dei venti rispetto al moto rettilineo. Il senso della deviazione, che dipende dal senso della rotazione, cambia a seconda dell’emisfero, ed è espresso dalla **legge di Ferrel**: un corpo libero di muoversi sulla superficie terrestre devia verso destra nell’emisfero boreale e verso sinistra in quello australe.
 
-Grado |Velocità’ (km/h) |Tipi di vento |Caratteri indicativi
----|---|---|---|
-0 |0-1 |calma |il fumo ascende verticalmente; il mare è uno “specchio”
-1 |2-5 |bava di vento |il vento devia il fumo; increspature dell’acqua
-2 |6-11 |brezza leggera |le foglie si muovono, una girandola ordinaria è messa in moto; onde piccole, ma evidenti
-3 |12-19 |brezza |foglie e rametti costantemente agitati, il vento dispiega le piccole bandiere; piccole onde, creste che cominciano
-4 |20-28 |brezza vivace |il vento solleva polvere, foglie secche, foglietti di carta, i rami sono agitati; piccole onde che divengono più lunghe
-5 |29-38 |brezza tesa |gli arbusti con foglie cominciano a oscillare; nelle acque interne si formano piccole onde con creste; onde moderate, allungate
-6 |39-49 |vento fresco |grandi rami agitati, i fili telegrafici fanno udire un sibilo; si formano marosi con creste di schiuma bianca, generalmente
-7 |50-61 |vento forte |alberi interi agitati, difficoltà a camminare contro vento; il mare è grosso, la schiuma comincia a essere sfilacciata in scie
-8 |62-74 |burrasca moderata |rami spezzati, camminare contro vento è impossibile; marosi di altezza media e più allungati, dalle loro creste si distaccano turbini di spruzzi
-9 |75-88 |burrasca forte |camini e tegole asportati; grosse ondate, spesse scie di schiuma e di spruzzi sollevate dal vento possono ridurre la visibilità |
-10 |89-102 |tempesta |rara in terraferma; alberi sradicati, gravi danni alle abitazioni; enormi ondate con lunghe creste a pennacchio
-11 |103-117 |fortunale |si verifica raramente; gravissime devastazioni; onde enormi e alte, che talvolta possono nascondere navi di medio tonnellaggio; visibilità ridotta
-12 |oltre 118 |uragano (o ciclone) |sulla terraferma distruzione di edifici, manufatti ecc.; in mare l’aria piena di schiuma e di spruzzi porta a visibilità assai ridotta |
+<div style="overflow-x:auto;" class="TableData">
+<table>
+<caption>Scala Beaufort, velocità del vento a un’altezza standard di 1 m su un terreno piatto.</caption>
+<thead>
+<tr>
+<th>Grado</th>
+<th>Velocità’ (km/h)</th>
+<th>Tipi di vento</th>
+<th>Caratteri indicativi</th>
+</tr>
+</thead>
 
-Scala Beaufort, velocità del vento a un’altezza standard di 1 m su un terreno piatto.
+<tbody>
+<tr>
+<td>0</td>
+<td>0-1</td>
+<td>calma</td>
+<td>il fumo ascende verticalmente; il mare è uno “specchio”</td>
+</tr>
+
+<tr>
+<td>1</td>
+<td>2-5</td>
+<td>bava di vento</td>
+<td>il vento devia il fumo; increspature dell’acqua</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>6-11</td>
+<td>brezza leggera</td>
+<td>le foglie si muovono, una girandola ordinaria è messa in moto; onde piccole, ma evidenti</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>12-19</td>
+<td>brezza</td>
+<td>foglie e rametti costantemente agitati, il vento dispiega le piccole bandiere; piccole onde, creste che cominciano</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>20-28</td>
+<td>brezza vivace</td>
+<td>il vento solleva polvere, foglie secche, foglietti di carta, i rami sono agitati; piccole onde che divengono più lunghe</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>29-38</td>
+<td>brezza tesa</td>
+<td>gli arbusti con foglie cominciano a oscillare; nelle acque interne si formano piccole onde con creste; onde moderate, allungate</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>39-49</td>
+<td>vento fresco</td>
+<td>grandi rami agitati, i fili telegrafici fanno udire un sibilo; si formano marosi con creste di schiuma bianca, generalmente</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>50-61</td>
+<td>vento forte</td>
+<td>alberi interi agitati, difficoltà a camminare contro vento; il mare è grosso, la schiuma comincia a essere sfilacciata in scie</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>62-74</td>
+<td>burrasca moderata</td>
+<td>rami spezzati, camminare contro vento è impossibile; marosi di altezza media e più allungati, dalle loro creste si distaccano turbini di spruzzi</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>75-88</td>
+<td>burrasca forte</td>
+<td>camini e tegole asportati; grosse ondate, spesse scie di schiuma e di spruzzi sollevate dal vento possono ridurre la visibilità</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>89-102</td>
+<td>tempesta</td>
+<td>rara in terraferma; alberi sradicati, gravi danni alle abitazioni; enormi ondate con lunghe creste a pennacchio</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td>103-117</td>
+<td>fortunale</td>
+<td>si verifica raramente; gravissime devastazioni; onde enormi e alte, che talvolta possono nascondere navi di medio tonnellaggio; visibilità ridotta</td>
+</tr>
+
+<tr>
+<td>12</td>
+<td>oltre 118</td>
+<td>uragano (o ciclone)</td>
+<td>sulla terraferma distruzione di edifici, manufatti ecc.; in mare l’aria piena di schiuma e di spruzzi porta a visibilità assai ridotta</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hurricane_isabel_and_coriolis_force.jpg/768px-Hurricane_isabel_and_coriolis_force.jpg" title="Le forze di coriolis applicate ad un ciclone" >}}
 
@@ -151,30 +302,140 @@ A causa della sfericità terrestre e dell’inclinazione dell’asse di rotazion
 
 L’attività alla superficie del “sistema Terra” è regolata dai flussi energetici provenienti dal Sole, che, attraversando l’atmosfera, agiscono sul pianeta.  L’energia che arriva alla Terra è trasportata da un ampio spettro di onde elettromagnetiche, in particolare radiazioni infrarosse, luminose e ultraviolette. Entrando in contatto con l’atmosfera, tali radiazioni vengono da questa in parte **diffuse**, **riflesse** e **assorbite**; la frazione che riesce ad attraversare completamente l’atmosfera raggiunge la superficie degli oceani e delle terre emerse (che a loro volta la riflettono parzialmente).  La **diffusione** interessa soprattutto le radiazioni luminose (luce visibile): quando esse urtano contro le particelle di gas dell’aria o del pulviscolo, deviano in tutte le direzioni. Tale fenomeno fa sì che circa il 6% della luce solare ritorni verso lo spazio, mentre il restante 94% raggiunge la Terra.  La **riflessione** determina la deviazione delle radiazioni in direzioni precise ed è causata dalle nubi, dalla superficie degli oceani e delle terre emerse. Le nubi riflettono, in base alle loro caratteristiche, fra il 30% e il 60% della **radiazione totale** che le colpisce; la superficie dei ghiacciai fino all’85%; le acque fino al 25%; le terre emerse in misura diversa, a seconda che si tratti di foreste, di superfici coltivate, di deserti o di aree urbanizzate (il rapporto percentuale fra l’energia in arrivo e quella riflessa è detto **albedo**).  L’**assorbimento**, infine, è operato dalle molecole gassose presenti nei diversi strati dell’atmosfera.  In totale, alla superficie terrestre arriva il 47% dell’energia solare iniziale, che viene assorbita dall’acqua dell’idrosfera e dalle rocce superficiali della litosfera.  Poiché il flusso energetico proveniente dal Sole è continuo e all’inizio costante, la temperatura della Terra dovrebbe aumentare progressivamente. Qualsiasi corpo, però, riscaldandosi emette a sua volta radiazioni, che restituiscono all’ambiente esterno parte dell’energia assorbita. Nel tempo si stabilisce un **equilibrio radiativo**, per cui la quantità di energia assorbita pareggia quella emessa.  Durante questi complessi scambi, l’energia che va a riscaldare le terre emerse e le masse d’acqua oceaniche viene trasmessa poi all’aria. Tali processi attivano i movimenti dei venti e delle correnti marine, il passaggio dell’acqua dall’idrosfera all’atmosfera per evaporazione, la condensazione del vapore acqueo in precipitazioni, cioè tutti i processi che interessano atmosfera e idrosfera.
 
-|Classe |Nome |Caratteristiche|
-|---|---|---|
-costanti (venti che soffiano tutto l’anno, sempre nella stessa direzione e nello stesso senso) |alisei (dal francese **alizé**) |spirano nelle zone fra l’Equatore e i tropici; da nord-est a sud-ovest nell’emisfero boreale, da sud-est a nord-ovest nell’emisfero australe; si generano nelle zone anticicloniche tropicali e convergono verso le zone equatoriali
-|  |venti extratropicali |spirano nelle fasce equatoriali dove, per effetto del riscaldamento, si formano masse di aria calda e umida ascendenti
-| |venti occidentali |spirano fra i 35° e i 60°, in corrispondenza delle zone temperate: da sud-ovest a nord-est nell’emisfero boreale, da nord-ovest a sud-est nell’emisfero australe; sono i venti regolari delle zone temperate
-periodici (venti che invertono periodicamente |monsoni (dall’arabo **mausim**, stagione) |sono sistemi di venti caratteristici dell’oceano Indiano e dei mari della Cina; soffiano, durante il semestre estivo (aprile-ottobre), dall’oceano (anticiclone) verso terra (India e Asia nordorientale, aree cicloniche); durante i mesi invernali (novembre-aprile) dall’India verso l’oceano (Africa orientale)
-| |etesi (dal greco **étos**, anno) |spirano, durante l’estate, dal Mare Egeo all’Egitto, e in senso opposto durante l’inverno
-| |brezze |venti moderati a periodo diurno; si distinguono in: brezze di mare e di terra: soffiano, durante il dì, dal mare alla costa, durante la notte, dalla costa al mare; brezze di monte e di valle: soffiano, durante il dì, dalla valle alla montagna, durante la notte, dalla montagna alla valle; brezze di lago e di riva: si comportano come le brezze di mare e di terra
-variabili o locali |scirocco (dall’arabo **shulùq**, vento di mezzogiorno) |vento caldo che nasce nel deserto del Sahara; procedendo da sud-ovest verso nord, si carica di umidità sul Mediterraneo e raggiunge, umido e violento, l’Europa
-| |mistral (dall’antico provenzale **maestral**) |vento assai freddo, che spira dal Massiccio Centrale francese e raggiunge la massima violenza nella vallata del Rodano
-| |föhn, o favonio (dal latino **favonius**, da **favĕre**, far crescere) |vento caldo e secco, che soffia soprattutto in primavera e in autunno nelle vallate alpine verso l’Austria e la Svizzera e talvolta raggiunge la pianura Padana
-| |ghibli (dall’arabo **qiblì**, meridionale) |vento del deserto, molto caldo e carico di sabbia, che soffia per una trentina di giorni l’anno soprattutto sui territori della Tunisia, della Libia e dell’Egitto
-| |khamsin (dall’arabo **khamasin**, 50) |vento caldo e secco che spira da sud, da aprile a giugno, sul delta del Nilo; dura da 3 a 5 giorni
-| |harmattan (dal |vento caldo, secco e molto violento, che spira da nord-est, in inverno e in primavera, nell’Africa occidentale
-| |bora (dal greco |vento freddo e violento che spira dai monti Illirici, nell’ex Iugoslavia, verso le coste dell’Istria, della Dalmazia, Trieste, fino alle coste venete, in inverno
-| |austro (dal latino **auster**, vento da sud, ostro) |vento caldo che spira da sud
-| |grecale (dal tardo |vento che soffia da nord-est a sud-ovest sul Mediterraneo centrale e meridionale
-| |maestrale (da **maestro** inteso come principale |vento da nord-ovest; è uno dei venti predominanti Mediterraneo | |tramontana (dal latino **trans montanus**, al di là dei monti) |vento freddo, spesso violento, che spira da nord, in inverno, e può investire tutta la penisola italiana
-| |libeccio (da **Libycos**, |vento da ovest o da sud-ovest, violento in tutte le stagioni; soffia sulla Corsica e sull’Italia tirrenica
-| |chinook (dal nome di una tribù pellerossa del |vento caldo e asciutto che soffia da nord-ovest, sulle Montagne Rocciose (USA), prevalentemente in primavera e in autunno
-|   |pampero (da **pampa**) |vento freddo e umido che spira da ovest, tra luglio
-irregolari o ciclonici |cicloni |vengono così genericamente definiti i venti irregolari, violentissimi e distruttivi, dotati di movimento vorticoso; essi prendono nomi diversi secondo le località: uragani (dall’amerindio **huracanes**) nelle Antille e sulle coste americane dell’Atlantico; tifoni (dal cinese t’ai fung, vento violento) nel Mar Giallo e nelle Filippine; **tornados** (dallo spagnolo tornado, derivato da torno, giro, vortice) nelle grandi pianure degli USA e in Australia |
+<div style="overflow-x:auto;" class="TableData">
+<table>
+<caption>Tipologie di venti.</caption>
+<thead>
+<tr>
+<th>Classe</th>
+<th>Nome</th>
+<th>Caratteristiche</th>
+</tr>
+</thead>
 
-Tipologie di venti.
+<tbody>
+<tr>
+<td>costanti (venti che soffiano tutto l’anno, sempre nella stessa direzione e nello stesso senso)</td>
+<td>alisei (dal francese <strong>alizé</strong>)</td>
+<td>spirano nelle zone fra l’Equatore e i tropici; da nord-est a sud-ovest nell’emisfero boreale, da sud-est a nord-ovest nell’emisfero australe; si generano nelle zone anticicloniche tropicali e convergono verso le zone equatoriali</td>
+</tr>
+
+<tr>
+<td></td>
+<td>venti extratropicali</td>
+<td>spirano nelle fasce equatoriali dove, per effetto del riscaldamento, si formano masse di aria calda e umida ascendenti</td>
+</tr>
+
+<tr>
+<td></td>
+<td>venti occidentali</td>
+<td>spirano fra i 35° e i 60°, in corrispondenza delle zone temperate: da sud-ovest a nord-est nell’emisfero boreale, da nord-ovest a sud-est nell’emisfero australe; sono i venti regolari delle zone temperate</td>
+</tr>
+
+<tr>
+<td>periodici (venti che invertono periodicamente</td>
+<td>monsoni (dall’arabo <strong>mausim</strong>, stagione)</td>
+<td>sono sistemi di venti caratteristici dell’oceano Indiano e dei mari della Cina; soffiano, durante il semestre estivo (aprile-ottobre), dall’oceano (anticiclone) verso terra (India e Asia nordorientale, aree cicloniche); durante i mesi invernali (novembre-aprile) dall’India verso l’oceano (Africa orientale)</td>
+</tr>
+
+<tr>
+<td></td>
+<td>etesi (dal greco <strong>étos</strong>, anno)</td>
+<td>spirano, durante l’estate, dal Mare Egeo all’Egitto, e in senso opposto durante l’inverno</td>
+</tr>
+
+<tr>
+<td></td>
+<td>brezze</td>
+<td>venti moderati a periodo diurno; si distinguono in: brezze di mare e di terra: soffiano, durante il dì, dal mare alla costa, durante la notte, dalla costa al mare; brezze di monte e di valle: soffiano, durante il dì, dalla valle alla montagna, durante la notte, dalla montagna alla valle; brezze di lago e di riva: si comportano come le brezze di mare e di terra</td>
+</tr>
+
+<tr>
+<td>variabili o locali</td>
+<td>scirocco (dall’arabo <strong>shulùq</strong>, vento di mezzogiorno)</td>
+<td>vento caldo che nasce nel deserto del Sahara; procedendo da sud-ovest verso nord, si carica di umidità sul Mediterraneo e raggiunge, umido e violento, l’Europa</td>
+</tr>
+
+<tr>
+<td></td>
+<td>mistral (dall’antico provenzale <strong>maestral</strong>)</td>
+<td>vento assai freddo, che spira dal Massiccio Centrale francese e raggiunge la massima violenza nella vallata del Rodano</td>
+</tr>
+
+<tr>
+<td></td>
+<td>föhn, o favonio (dal latino <strong>favonius</strong>, da <strong>favĕre</strong>, far crescere)</td>
+<td>vento caldo e secco, che soffia soprattutto in primavera e in autunno nelle vallate alpine verso l’Austria e la Svizzera e talvolta raggiunge la pianura Padana</td>
+</tr>
+
+<tr>
+<td></td>
+<td>ghibli (dall’arabo <strong>qiblì</strong>, meridionale)</td>
+<td>vento del deserto, molto caldo e carico di sabbia, che soffia per una trentina di giorni l’anno soprattutto sui territori della Tunisia, della Libia e dell’Egitto</td>
+</tr>
+
+<tr>
+<td></td>
+<td>khamsin (dall’arabo <strong>khamasin</strong>, 50)</td>
+<td>vento caldo e secco che spira da sud, da aprile a giugno, sul delta del Nilo; dura da 3 a 5 giorni</td>
+</tr>
+
+<tr>
+<td></td>
+<td>harmattan (dal</td>
+<td>vento caldo, secco e molto violento, che spira da nord-est, in inverno e in primavera, nell’Africa occidentale</td>
+</tr>
+
+<tr>
+<td></td>
+<td>bora (dal greco</td>
+<td>vento freddo e violento che spira dai monti Illirici, nell’ex Iugoslavia, verso le coste dell’Istria, della Dalmazia, Trieste, fino alle coste venete, in inverno</td>
+</tr>
+
+<tr>
+<td></td>
+<td>austro (dal latino <strong>auster</strong>, vento da sud, ostro)</td>
+<td>vento caldo che spira da sud</td>
+</tr>
+
+<tr>
+<td></td>
+<td>grecale (dal tardo</td>
+<td>vento che soffia da nord-est a sud-ovest sul Mediterraneo centrale e meridionale</td>
+</tr>
+
+<tr>
+<td></td>
+<td>maestrale (da <strong>maestro</strong> inteso come principale</td>
+<td>vento da nord-ovest; è uno dei venti predominanti Mediterraneo</td>
+</tr>
+
+<tr>
+<td></td>
+<td>libeccio (da <strong>Libycos</strong>,</td>
+<td>vento da ovest o da sud-ovest, violento in tutte le stagioni; soffia sulla Corsica e sull’Italia tirrenica</td>
+</tr>
+
+<tr>
+<td></td>
+<td>chinook (dal nome di una tribù pellerossa del</td>
+<td>vento caldo e asciutto che soffia da nord-ovest, sulle Montagne Rocciose (USA), prevalentemente in primavera e in autunno</td>
+</tr>
+
+<tr>
+<td></td>
+<td>pampero (da <strong>pampa</strong>)</td>
+<td>vento freddo e umido che spira da ovest, tra luglio</td>
+</tr>
+
+<tr>
+<td>irregolari o ciclonici</td>
+<td>cicloni</td>
+<td>vengono così genericamente definiti i venti irregolari, violentissimi e distruttivi, dotati di movimento vorticoso; essi prendono nomi diversi secondo le località: uragani (dall’amerindio <strong>huracanes</strong>) nelle Antille e sulle coste americane dell’Atlantico; tifoni (dal cinese t’ai fung, vento violento) nel Mar Giallo e nelle Filippine; <strong>tornados</strong> (dallo spagnolo tornado, derivato da torno, giro, vortice) nelle grandi pianure degli USA e in Australia</td>
+</tr>
+</tbody>
+
+</table></div>
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Washburn_tornado_2017-02-28.jpg" title="Tornado (Illinois)" >}}
 
@@ -191,20 +452,80 @@ Le **nubi** sono **masse d’aria satura di vapore acqueo**, in cui sono sospese
 * gli **strati**, così chiamati perché formano uno strato grigio uniforme, a frammenti o continuo
 * i **cirri**, piccole nubi generalmente alte, a strisce e di colore bianco, che contengono spesso cristalli di ghiaccio, data l’altezza a cui si formano. La classificazione più completa delle nubi è quella proposta dall’Organizzazione Meteorologica Mondiale, che divide le nubi in 10 generi e numerose specie e varietà.
 
-| |Tipo |Descrizione
----|---|---
-nubi alte |cirri |piccole nubi con forme a banchi o a strisce, di colore bianco; spesso si presentano come filamenti a forma di piumetta
-| |cirrocumuli |si dispongono a increspature, strisce e piccoli fiocchi, formando il caratteristico “cielo a pecorelle”
-| |cirrostrati |formano un velo bianco trasparente, liscio e uniforme o fibroso, talora con aloni
-nubi medie |altocumuli |la forma è molto variabile; possono essere a banchi oppure continue
-| |altostrati |distesa nuvolosa informe e grigia; il Sole vi può penetrare debolmente, ma non si hanno fenomeni ottici particolari
-| |nembostrati |tipiche nubi di pioggia, grigie, scure, opache
-nubi basse |stratocumuli |formano una coltre grigia o biancastra con bande scure; si presentano spesso in rotoli, ondulazioni e masse arrotolate
-| |strati |formano un caratteristico strato grigio uniforme, a frammenti o continuo; spesso producono pioviggine, prismi di ghiaccio o nevischio
-| |cumuli |nubi bianche, separate le une dalle altre, dense, con sviluppo chiaramente verticale; la base è piatta e la parte superiore a forma di cavolfiore
-| |cumulonembi |sono l’estremo sviluppo verticale dei cumuli; hanno l’aspetto di una torre, sono scuri alla base e spesso accompagnati da temporali |
+<div style="overflow-x:auto;" class="TableData">
+<table>
+<caption>Tipi di nube.</caption>
+<thead>
+<tr>
+<th></th>
+<th>Tipo</th>
+<th>Descrizione</th>
+</tr>
+</thead>
 
-Tipi di nube.
+<tbody>
+<tr>
+<td>nubi alte</td>
+<td>cirri</td>
+<td>piccole nubi con forme a banchi o a strisce, di colore bianco; spesso si presentano come filamenti a forma di piumetta</td>
+</tr>
+
+<tr>
+<td></td>
+<td>cirrocumuli</td>
+<td>si dispongono a increspature, strisce e piccoli fiocchi, formando il caratteristico “cielo a pecorelle”</td>
+</tr>
+
+<tr>
+<td></td>
+<td>cirrostrati</td>
+<td>formano un velo bianco trasparente, liscio e uniforme o fibroso, talora con aloni</td>
+</tr>
+
+<tr>
+<td>nubi medie</td>
+<td>altocumuli</td>
+<td>la forma è molto variabile; possono essere a banchi oppure continue</td>
+</tr>
+
+<tr>
+<td></td>
+<td>altostrati</td>
+<td>distesa nuvolosa informe e grigia; il Sole vi può penetrare debolmente, ma non si hanno fenomeni ottici particolari</td>
+</tr>
+
+<tr>
+<td></td>
+<td>nembostrati</td>
+<td>tipiche nubi di pioggia, grigie, scure, opache</td>
+</tr>
+
+<tr>
+<td>nubi basse</td>
+<td>stratocumuli</td>
+<td>formano una coltre grigia o biancastra con bande scure; si presentano spesso in rotoli, ondulazioni e masse arrotolate</td>
+</tr>
+
+<tr>
+<td></td>
+<td>strati</td>
+<td>formano un caratteristico strato grigio uniforme, a frammenti o continuo; spesso producono pioviggine, prismi di ghiaccio o nevischio</td>
+</tr>
+
+<tr>
+<td></td>
+<td>cumuli</td>
+<td>nubi bianche, separate le une dalle altre, dense, con sviluppo chiaramente verticale; la base è piatta e la parte superiore a forma di cavolfiore</td>
+</tr>
+
+<tr>
+<td></td>
+<td>cumulonembi</td>
+<td>sono l’estremo sviluppo verticale dei cumuli; hanno l’aspetto di una torre, sono scuri alla base e spesso accompagnati da temporali</td>
+</tr>
+</tbody>
+
+</table></div>
 
 ### La nebbia
 
@@ -214,9 +535,25 @@ La **nebbia è una massa d’aria satura di vapore acqueo, che si forma vicino a
 
 Sono considerate precipitazioni tutte le forme liquide o solide che assume il vapore acqueo e che cadono al suolo, come **pioggia** (gocce d’acqua), **neve** e **grandine** (cristalli di ghiaccio); vengono considerate precipitazioni anche le forme liquide e solide che si formano al suolo, quali la **rugiada** e la **brina**.  Perché si formino le precipitazioni, è necessario che le goccioline d’acqua contenute all’interno delle nubi diventino tanto grosse da non poter più essere sostenute da correnti ascensionali presenti nelle nubi stesse, per cui cadono al suolo per effetto della forza di gravità. Le gocce di **pioggia** (le cui dimensioni variano da qualche decimo di millimetro a qualche millimetro) si formano per **coalescenza** (dal latino **coalescĕre**, crescere assieme), cioè per progressiva unione, aggregazione di più goccioline.  Lo stesso processo può interessare i cristalli di ghiaccio che si saldano, dando origine ai fiocchi di **neve**; essi si formano per sublimazione del vapore acqueo, quando la temperatura delle nubi scende al di sotto del punto di congelamento dell’acqua.  La **grandine** è costituita da chicchi di ghiaccio in cui si riconosce una struttura a strati concentrici sovrapposti; essa si forma a causa dei violenti moti convettivi dell’aria all’interno dei turbolenti cumulonembi, (nubi molto alte e strette): le goccioline d’acqua vengono portate verso la parte alta della nube, dove congelano e ricadono, per gravità, verso il basso, rivestendosi di altra acqua; a causa dei moti convettivi nella nube, il ciclo si ripete più volte, finché il chicco di grandine non diventa tanto grande da precipitare al suolo.  La **rugiada** è costituita da goccioline d’acqua formatesi sul terreno durante la notte, quando l’aria a contatto col suolo si raffredda fino a provocare la condensazione del vapore acqueo.  Se la temperatura notturna scende al di sotto di 0 °C, il vapore acqueo sublima formando la **brina**, costituita da minutissimi aghi di ghiaccio.  Le precipitazioni vengono misurate in millimetri (come altezza della lama d’acqua al suolo), attraverso strumenti detti **pluviometri**.  La distribuzione geografica delle precipitazioni viene rappresentata sulle carte attraverso le **isoiete**, linee immaginarie che uniscono tutti i punti caratterizzati da una stessa quantità di precipitazioni nel periodo considerato. La distribuzione delle precipitazioni in una determinata zona in un certo arco di tempo (mese o anno) prende il nome di **regime pluviometrico**.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sasso_pisano_nevicata_2009.JPG/1024px-Sasso_pisano_nevicata_2009.JPG" >}}
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Water_drops_on_spider_web.jpg/1024px-Water_drops_on_spider_web.jpg" >}}
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tree_in_field_during_extreme_cold_with_frozen_fog.png/1021px-Tree_in_field_during_extreme_cold_with_frozen_fog.png" title="Pioggia, neve, grandine, rugiada, brina e nebbia" >}}
+<div style="overflow-x:auto;">
+<table>
+<caption>Diversi tipi di precipitazioni.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/22_Regen_ubt.jpeg/640px-22_Regen_ubt.jpeg" title="Pioggia" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sasso_pisano_nevicata_2009.JPG/1024px-Sasso_pisano_nevicata_2009.JPG" title="Nevicata" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hail_Hagel.jpg/640px-Hail_Hagel.jpg" title="Grandinata" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Saint-Amant_16_Gel%C3%A9e_blanche_2008.jpg/640px-Saint-Amant_16_Gel%C3%A9e_blanche_2008.jpg" title="Brina" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Water_drops_on_spider_web.jpg/1024px-Water_drops_on_spider_web.jpg" title="rugiada su una ragnatela" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tree_in_field_during_extreme_cold_with_frozen_fog.png/1021px-Tree_in_field_during_extreme_cold_with_frozen_fog.png" title="Pioggia, neve, grandine, rugiada, brina e nebbia" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## Le perturbazioni atmosferiche
 

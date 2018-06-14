@@ -20,9 +20,21 @@ Un **vulcano** può essere schematicamente definito come una frattura nella cros
 
 Gli edifici vulcanici possono essere coinvolti in eruzioni tanto violente da provocare il crollo delle pareti del cratere e formare così delle depressioni vulcaniche, dette caldere e diatremi.  Le **caldere sono depressioni con pareti ripide e fondo piatto**, che si formano **in seguito al crollo**, improvviso o graduale, **della parte sommitale del monte vulcanico** dovuto allo svuotamento quasi completo del serbatoio magmatico in seguito a un’eruzione; se successivamente, in seguito alla ripresa dell’attività vulcanica, si forma all’interno della caldera un nuovo edificio vulcanico, l’intera struttura è detta **vulcano a recinto** (come, per esempio, il Vesuvio, in cui l’attuale cono vulcanico si trova all’interno di una caldera formatasi per il crollo del vecchio Monte Somma, durante la disastrosa eruzione del 79 d.C. che distrusse Ercolano e Pompei). Le caldere possono essere occupate da laghi, che per tale motivo si dicono di origine vulcanica (fra questi ricordiamo i laghi di Vico e di Bracciano, nel Lazio).  I **diatremi sono depressioni vulcaniche a forma d’imbuto, riempite di breccia**, roccia formata dalla cementazione di materiali provenienti dalla camera magmatica che, durante eruzioni di tipo esplosivo, i gas vulcanici hanno strappato dalla crosta profonda e trasportato, depositandoli, nel condotto vulcanico (esempi di diatremi sono gli “imbuti”, o camini diamantiferi, di Kimberley, in Sudafrica).
 
-|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/ca/19991102_Tung_large.jpg" width="250" title="Vulcano Tungurahua (di tipo centrale, Ecuador)" >}} |{{< figure src="https://c2.staticflickr.com/4/3922/14937433228_0733d3380d_b.jpg" width="250" title="Vulcano  Holuhraun (di tipo lineare, Islanda)" >}}
----|---
-|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Vesuvius_from_plane.jpg/1024px-Vesuvius_from_plane.jpg" width="250" title="Caldera del Vesuvio" >}}|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Udachnaya_pipe.JPG/1024px-Udachnaya_pipe.JPG" width="250" title="Trubka Udačnaja (diatrema, Siberia)" >}}
+<div style="overflow-x:auto;">
+<table>
+<caption>Tipi di vulcani.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/ca/19991102_Tung_large.jpg" width="250" title="Vulcano Tungurahua (di tipo centrale, Ecuador)" >}}</td>
+<td>{{< figure src="https://c2.staticflickr.com/4/3922/14937433228_0733d3380d_b.jpg" width="250" title="Vulcano  Holuhraun (di tipo lineare, Islanda)" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Vesuvius_from_plane.jpg/1024px-Vesuvius_from_plane.jpg" width="250" title="Caldera del Vesuvio" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Udachnaya_pipe.JPG/1024px-Udachnaya_pipe.JPG" width="250" title="Trubka Udačnaja (diatrema, Siberia)" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Attività vulcanica sottomarina
 
@@ -32,11 +44,21 @@ Data la grande estensione delle dorsali oceaniche, l’attività vulcanica sotto
 
 Durante un’eruzione, un vulcano può emettere materiali liquidi, solidi e aeriformi.  I **materiali liquidi** sono costituiti dal **magma**, termine con il quale ci si riferisce più propriamente al materiale fuso presente all’interno della crosta, mentre, quando tale materiale fuoriesce in superficie e perde i gas che conteneva, si parla di **lava**. I magmi sono miscele di diversi ossidi, tra i quali predomina la silice, SiO2, e di vari gas: il diverso contenuto in silice dei magmi determina il tipo di eruzione a cui essi possono dar luogo. Le lave solidificate possono assumere aspetti diversi.  I **materiali solidi**, chiamati anche materiali **piroclastici** (dal greco **pyr**, fuoco e **klastos**, spezzato), in base alla loro dimensione vengono distinti in ceneri (diametro inferiore a 2 mm), lapilli (diametro compreso tra 2 e 6 mm) e bombe vulcaniche (diametro superiore a 6 mm). Questi materiali, strappati dalle pareti del condotto vulcanico, vengono lanciati in aria durante le eruzioni e ricadono a diverse distanze dal cratere: le polveri possono essere trasportate dai venti anche a diversi chilometri di distanza, mentre i lapilli e le bombe vulcaniche ricadono più vicini al vulcano; i materiali piroclastici ricaduti al suolo possono cementarsi e formare le **rocce piroclastiche**.  I materiali piroclastici più fini possono formare delle miscele con i gas e con l’acqua e originare, rispettivamente, nubi ardenti e lahar.  Le **nubi ardenti** o flusso piroclastico sono enormi nubi di materiale incandescente, formate da miscele di gas, ceneri e polveri calde, che si spostano a grande velocità (anche 100 km/h) lungo i fianchi dei vulcani, con temperature di circa 800 °C e manifestano un elevato potere distruttivo. I materiali piroclastici contenuti nelle nubi ardenti possono depositarsi e formare rocce dette ignimbriti.  I **lahar** sono, invece, **colate di fango**, che si formano in seguito a eruzioni con **abbondante materiale piroclastico, quando questo si mischia all’acqua** (perché sul suo percorso incontra un ghiacciaio, oppure perché l’eruzione avviene mentre piove).  I **materiali aeriformi** includono diverse sostanze contenute nel magma, che, per diminuzione della pressione, si liberano al momento dell'eruzione: tra esse citiamo il vapore acqueo (il più abbondante), il diossido di carbonio (o anidride carbonica), il monossido di carbonio, l’idrogeno, il biossido di zolfo (o anidride solforosa), il triossido di zolfo (o anidride solforica), il cloro, l’azoto e vari gas rari. Gli scienziati sono concordi nel riconoscere che le emissioni gassose dei vulcani hanno avuto un ruolo fondamentale nella formazione e nell’evoluzione dell’atmosfera terrestre; del resto, anche oggi esse sono causa di variazioni climatiche sul nostro pianeta.
 
-|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/73/Pyroclastic_flows_at_Mayon_Volcano.jpg" width="250" title="Nube piroclastica (vulcano Mayon, Filippine)" >}} |{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Volcanic_Ash_Dunes.jpg/1024px-Volcanic_Ash_Dunes.jpg" width="250" title="Spiaggia di cenere (vulcano Rabaul, Papua-Nuova Guinea)" >}}
----|---
-|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MSH82_lahar_from_march_82_eruption_03-21-82.jpg/1024px-MSH82_lahar_from_march_82_eruption_03-21-82.jpg" width="250" title="Lahar (Mount St. Helens, Stato di Washington)" >}}|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Augustine_Volcano_Jan_12_2006.jpg/1024px-Augustine_Volcano_Jan_12_2006.jpg" width="250" title="Emissione di gas (vulcano Augustine, Alaska)" >}}
-
-Materiali emessi dai vulcani.
+<div style="overflow-x:auto;">
+<table>
+<caption>Materiali emessi dai vulcani.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/73/Pyroclastic_flows_at_Mayon_Volcano.jpg" width="250" title="Nube piroclastica (vulcano Mayon, Filippine)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Volcanic_Ash_Dunes.jpg/1024px-Volcanic_Ash_Dunes.jpg" width="250" title="Spiaggia di cenere (vulcano Rabaul, Papua-Nuova Guinea)" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MSH82_lahar_from_march_82_eruption_03-21-82.jpg/1024px-MSH82_lahar_from_march_82_eruption_03-21-82.jpg" width="250" title="Lahar (Mount St. Helens, Stato di Washington)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Augustine_Volcano_Jan_12_2006.jpg/1024px-Augustine_Volcano_Jan_12_2006.jpg" width="250" title="Emissione di gas (vulcano Augustine, Alaska)" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### I tipi di lava
 
@@ -58,11 +80,21 @@ In hawaiano il nome significa “su cui non si può camminare a piedi nudi”; s
 
 Quando magmi basaltici solidificando in condizioni ipoabissali, formano ampi prismi colonnari per contrazione termica della massa raffreddata, come quelli presenti in Islanda, nell'Irlanda del Nord, nei "neck" vulcanici portati allo scoperto dall'erosione nell'Hoggar, in Sardegna, in Sicilia (Gole dell'Alcantara) e nel Veneto (come nella cava di Montecchio Maggiore).
 
-|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pillow_lava_at_Oamaru.jpg/961px-Pillow_lava_at_Oamaru.jpg" width="250" title="A cuscino (Nuova Zelanda)" >}}|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ropy_Pahoehoe_Lava_at_Kilauea_Volcano_in_Hawaii_20071209_A.jpg/1024px-Ropy_Pahoehoe_Lava_at_Kilauea_Volcano_in_Hawaii_20071209_A.jpg" width="250" title="Pahoehoe (Hawaii)" >}}
----|---
-|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lava_flow_Mt_CameroonMS_3575.jpg/1024px-Lava_flow_Mt_CameroonMS_3575.jpg" width="250" title="AA (Camerun)" >}} |{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Asskrem_Hoggar_2.jpg/1024px-Asskrem_Hoggar_2.jpg" width="250" title="Basalti colonnari" >}}
-
-Tipi di lava.
+<div style="overflow-x:auto;">
+<table>
+<caption>Tipi di lava.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pillow_lava_at_Oamaru.jpg/961px-Pillow_lava_at_Oamaru.jpg" width="250" title="A cuscino (Nuova Zelanda)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ropy_Pahoehoe_Lava_at_Kilauea_Volcano_in_Hawaii_20071209_A.jpg/1024px-Ropy_Pahoehoe_Lava_at_Kilauea_Volcano_in_Hawaii_20071209_A.jpg" width="250" title="Pahoehoe (Hawaii)" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lava_flow_Mt_CameroonMS_3575.jpg/1024px-Lava_flow_Mt_CameroonMS_3575.jpg" width="250" title="AA (Camerun)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Asskrem_Hoggar_2.jpg/1024px-Asskrem_Hoggar_2.jpg" width="250" title="Basalti colonnari" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## Le fasi di un’eruzione
 
@@ -72,12 +104,39 @@ Le **eruzioni**, cioè le **emissioni di magma a intervalli di tempo più o meno
 
 In base alle caratteristiche delle loro eruzioni, i vulcani sono classificati in **quattro tipi principali**: hawaiano, stromboliano, vulcaniano e peleano. Questa classificazione, proposta dal geologo francese A. Lacroix (1867-1948), pone **a un estremo i vulcani che si caratterizzano per eruzioni di tipo effusivo** (vulcani di tipo hawaiano) e **all’altro quelli le cui eruzioni sono di tipo esplosivo** (vulcani di tipo peleano); altri tipi di vulcani presentano eruzioni con caratteristiche intermedie, che, tuttavia, non sempre si prestano a una classificazione netta.
 
-|Tipi di vulcani |Caratteristiche |Esempi
----|---|---
-|hawaiano |eruzione tranquilla, con lave fluidissime che traboccano senza esplosione e si espandono formando un edificio vulcanico basso e piatto (vulcano a scudo) |Mauna Kea
-|stromboliano |il magma lavico, discretamente fluido, ribolle nel cratere con esplosioni frequenti e lancio di materiale (bombe, lapilli, scorie) |Stromboli (Italia)
-|vulcaniano |il magma è molto viscoso e tende a ostruire il condotto vulcanico, che, per la tensione dei gas, si squarcia con violente esplosioni; colate in genere poco frequenti e poco estese |Vulcano, Vesuvio (Italia)
-|peleano |il magma è tanto viscoso che si consolida nel condotto; la pressione dei gas e la forza esercitata dal magma sottostante talvolta spingono fuori lentamente la lava; formazione di nubi ardenti |La Pelée (Martinica, Piccole Antille)|
+<div style="overflow-x:auto;"  class="TableData">
+<table>
+<thead>
+<tr>
+<th>Tipi di vulcano</th>
+<th>Caratteristiche</th>
+<th>Esempi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>hawaiano</td>
+<td>eruzione tranquilla, con lave fluidissime che traboccano senza esplosione e si espandono formando un edificio vulcanico basso e piatto (vulcano a scudo)</td>
+<td>Mauna Kea</td>
+</tr>
+<tr>
+<td>stromboliano</td>
+<td>il magma lavico, discretamente fluido, ribolle nel cratere con esplosioni frequenti e lancio di materiale (bombe, lapilli, scorie)</td>
+<td>Stromboli (Italia)</td>
+</tr>
+<tr>
+<td>vulcaniano</td>
+<td>il magma è molto viscoso e tende a ostruire il condotto vulcanico, che, per la tensione dei gas, si squarcia con violente esplosioni; colate in genere poco frequenti e poco estese |Vulcano, Vesuvio (Italia)</td>
+<td></td>
+</tr>
+<tr>
+<td>peleano </td>
+<td>il magma è tanto viscoso che si consolida nel condotto; la pressione dei gas e la forza esercitata dal magma sottostante talvolta spingono fuori lentamente la lava; formazione di nubi ardenti</td>
+<td>La Pelée (Martinica, Piccole Antille)</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Vulcani di tipo hawaiano
 
@@ -95,11 +154,21 @@ Il nome deriva dall’isola di Vulcano, nelle Eolie. Questi vulcani producono **
 
 Il nome deriva dal vulcano Pelée, in Martinica, protagonista di una violentissima eruzione nel 1902. Nei vulcani peleani, l'eruzione vera e propria, **di tipo esplosivo**, **avviene in senso orizzontale**, al di sotto di un “tappo” formatosi per solidificazione, nel condotto vulcanico, di un magma molto acido e dunque estremamente viscoso. Talvolta **il magma è così viscoso** che forma all’interno del condotto una sorta di “spina” solida, **che viene lentamente spinta fuori e origina delle protrusioni solide** che possono emergere dal cratere per parecchi metri.  Nel 1902 il condotto del vulcano Pelée era ostruito da un grande tappo di lava solidificata, che fu estruso sotto forma di un’alta colonna di roccia, dalla cui base uscì una nube ardente, che rotolò lungo i versanti del vulcano e rase al suolo la città di St. Pierre.
 
-|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eruption_1954_Kilauea_Volcano.jpg/640px-Eruption_1954_Kilauea_Volcano.jpg" width="250" title="Kilauea (hawaiano)" >}} |{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stromboli_sciara_del_fuoco_in_september_2014.jpg/1024px-Stromboli_sciara_del_fuoco_in_september_2014.jpg" width="250" title="Stromboli (stromboliano)" >}}
----|---
-|{{< figure src="https://c1.staticflickr.com/8/7669/17230322536_d3c161d71a_b.jpg" width="250" title="Calbuco (vulcaniano)" >}} |{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mt_St_Helens_steaming_October_2004.jpg/1024px-Mt_St_Helens_steaming_October_2004.jpg" width="250" title="Mt. St. Helens (peleano)" >}}
-
-Esempi di vulcani.
+<div style="overflow-x:auto;">
+<table>
+<capture>Esempi di vulcani.</capture>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eruption_1954_Kilauea_Volcano.jpg/640px-Eruption_1954_Kilauea_Volcano.jpg" width="250" title="Kilauea (hawaiano)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stromboli_sciara_del_fuoco_in_september_2014.jpg/1024px-Stromboli_sciara_del_fuoco_in_september_2014.jpg" width="250" title="Stromboli (stromboliano)" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://c1.staticflickr.com/8/7669/17230322536_d3c161d71a_b.jpg" width="250" title="Calbuco (vulcaniano)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mt_St_Helens_steaming_October_2004.jpg/1024px-Mt_St_Helens_steaming_October_2004.jpg" width="250" title="Mt. St. Helens (peleano)" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## Il vulcanismo secondario
 
@@ -109,8 +178,8 @@ L’attività vulcanica è in genere accompagnata o seguita, nella fase di quies
 
 Comprendono molte manifestazioni, che si distinguono, in base al gas che viene emesso, in:
 
-* **fumarole**: emissioni di vapore acqueo a temperatura elevata **mofete**: emissioni di diossido di carbonio, CO2, che, essendo più pesante dell’aria, ristagna al suolo (famosa in Italia la mofeta situata nella grotta del Cane, presso Agnano, Napoli)
-* **putizze**: emissioni fredde di solfuro di idrogeno, H2S, e altri gas sulfurei (sono presenti in Toscana)
+* **fumarole**: emissioni di vapore acqueo a temperatura elevata **mofete**: emissioni di diossido di carbonio, CO<sub>2</sub>, che, essendo più pesante dell’aria, ristagna al suolo (famosa in Italia la mofeta situata nella grotta del Cane, presso Agnano, Napoli)
+* **putizze**: emissioni fredde di solfuro di idrogeno, H<sub>2</sub>S, e altri gas sulfurei (sono presenti in Toscana)
 * **solfatare**: emissioni calde di composti gassosi dello zolfo, quali solfuro di idrogeno e diossido di zolfo (sono note in Italia le solfatare di Pozzuoli, nei pressi di Napoli)
 * **soffioni**: emissioni di vapore acqueo (formatosi per contatto dell’acqua con masse magmatiche profonde), a elevata temperatura e pressione (da 1 a 6 atmosfere), in forma di violenti getti, che possono essere sfruttati come forma di energia geotermica per produrre energia elettrica (in centrali geotermoelettriche, dove si sfrutta il getto di vapore in pressione per azionare una turbina a gas); famosi in Italia sono i soffioni boraciferi di Larderello, in Toscana (così chiamati per la presenza nei vapori anche di composti del boro)
 
@@ -118,12 +187,25 @@ Comprendono molte manifestazioni, che si distinguono, in base al gas che viene e
 
 Le acque che circolano in profondità, a contatto con il magma, possono riscaldarsi e risalire in superficie, formando geyser o sorgenti termali.  I **geyser** sono getti intermittenti di acqua calda e vapore acqueo, che, a intervalli regolari di tempo, irrompono in superficie attraverso un condotto, formando colonne alte fino a 50-60 m. Le acque meteoriche, penetrate nel terreno, e quelle che provengono dal magma stesso, dette **acque giovanili**, si raccolgono nel condotto del geyser e vengono riscaldate dal calore ceduto dal magma; parte dell’acqua si trasforma in vapore, che esercita, sulla colonna d’acqua sovrastante, una pressione che, superato un determinato valore, la proietta fuori del condotto, insieme al vapore; raccoltasi nuovamente altra acqua nel condotto, il ciclo riprende con sorprendente regolarità. I geyser sono diffusi in Islanda (dove vengono sfruttati per il riscaldamento domestico), in Nuova Zelanda e negli Stati Uniti d’America, nel parco di Yellowstone.  Le **sorgenti termali**, molto più comuni dei geyser, sono presenti in quasi tutti i distretti vulcanici; sono **sorgenti di acque calde**, di solito **molto ricche di sali minerali** da cui prendono il nome(per esempio, acque sulfuree, acque salso-bromo-iodiche ecc.) e che possono essere usate a scopo terapeutico. Le sorgenti termali sono assai diffuse in Italia e ben conosciute sin dall’antichità, come quelle delle terme di San Calogero, nell’isola di Lipari.
 
-|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mt_St_Helens_steaming_October_2004.jpg/1024px-Mt_St_Helens_steaming_October_2004.jpg" width="250" title="Fumarola (Campi Flegrei)" >}} |{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nisyros_vulcan_mofetta_1.jpg/1024px-Nisyros_vulcan_mofetta_1.jpg" width="250" title="Mofeta (Nisyros, Grecia)" >}}
----|---
-|{{< figure src="https://i.imgur.com/dRuUznu.jpg" width="250" title="Putizza" >}} |{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sulpherous_Fumeroles.jpg/1024px-Sulpherous_Fumeroles.jpg" width="250" title="Solfatara (Campi Flegrei)" >}}
-|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fumarole_a_sasso_pisano.JPG/1024px-Fumarole_a_sasso_pisano.JPG" width="250" title="Soffione (Sasso Pisano)" >}} |{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Grand_Geyser.JPG/1024px-Grand_Geyser.JPG" width="250" title="Geyser (Parco di Yellowstone" >}}
-
-Vulcanismo secondario.
+<div style="overflow-x:auto;">
+<table>
+<capture>Vulcanismo secondario.</capture>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mt_St_Helens_steaming_October_2004.jpg/1024px-Mt_St_Helens_steaming_October_2004.jpg" width="250" title="Fumarola (Campi Flegrei)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nisyros_vulcan_mofetta_1.jpg/1024px-Nisyros_vulcan_mofetta_1.jpg" width="250" title="Mofeta (Nisyros, Grecia)" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://i.imgur.com/dRuUznu.jpg" width="250" title="Putizza" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sulpherous_Fumeroles.jpg/1024px-Sulpherous_Fumeroles.jpg" width="250" title="Solfatara (Campi Flegrei)" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fumarole_a_sasso_pisano.JPG/1024px-Fumarole_a_sasso_pisano.JPG" width="250" title="Soffione (Sasso Pisano)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Grand_Geyser.JPG/1024px-Grand_Geyser.JPG" width="250" title="Geyser (Parco di Yellowstone" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## La distribuzione geografica dell’attività vulcanica
 

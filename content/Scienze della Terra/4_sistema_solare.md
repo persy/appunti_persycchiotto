@@ -25,16 +25,43 @@ La **teoria nebulare** proposta da I. Kant (1755) e P. Laplace (1796) ipotizzava
 
 Il Sole, collocato al centro del sistema planetario, si presenta come una **gigantesca sfera di gas ionizzati** (**plasma**) **che irraggia energia sotto forma di radiazioni elettromagnetiche e corpuscolari**. Da essa deriva la maggior parte dell’energia che si manifesta e che viene utilizzata sulla Terra.  **Il Sole è una stella** della sequenza principale, **di tipo spettrale G2** (quinta classe di luminosità), quindi di colore giallo. Ha un raggio di circa 696.500 km (pari a 109 volte il raggio della Terra) e una massa di 1,99 x 10<sup>30</sup> kg (equivalente a circa 330 000 volte la massa terrestre e a 750 volte la massa di tutti i corpi del sistema solare). La densità media solare è di 1,41 g/cm<sup>3</sup> , 1/4 della densità media della Terra. La temperatura superficiale è di circa 5700 °C. L’accelerazione di gravità sulla superficie è 28 volte quella terrestre.
 
-|Caratteristica |Valore
----|---
-|raggio |696 500 km (109 volte quello terrestre)
-|massa |2 x 10<sup>33</sup> g (333 400 volte quella terrestre)|densità media |1,41 g/cm<sup>3</sup> (un quarto di quella terrestre)
-|temperatura superficiale |5700 °C, fino a 2500 °C per le macchie solari
-|accelerazione di gravità alla superficie |274 m/s<sup>2</sup> (28 volte quella terrestre)
-|distanza dalla Terra |da 147,1 a 152,1 milioni di km;
-|diametro angolare apparente del disco |da 31'27" a 32'30"
-
-Le principali caratteristiche del Sole.
+<div style="overflow-x:auto;" class="TableData">
+<table>
+ <caption>Le principali caratteristiche del Sole.</caption>
+  <tr>
+    <th>Caratteristiche</th>
+    <th>Valore</th>
+  </tr>
+  <tr>
+    <td>raggio</td>
+    <td>696 500 km (109 volte quello terrestre)</td>
+  </tr>
+  <tr>
+    <td>massa</td>
+    <td>2 x 10<sup>33</sup> g (333 400 volte quella terrestre)</td>
+  </tr>
+  <tr>
+    <td>densità media</td>
+    <td>1,41 g/cm<sup>3</sup> (un quarto di quella terrestre)</td>
+  </tr>
+  <tr>
+    <td>temperatura superficiale</td>
+    <td>5700 °C, fino a 2500 °C per le macchie solari</td>
+  </tr>
+  <tr>
+    <td>accelerazione di gravità alla superficie</td>
+    <td>274 m/s<sup>2</sup> (28 volte quella terrestre)</td>
+  </tr>
+  <tr>
+    <td>distanza dalla Terra</td>
+    <td>da 147,1 a 152,1 milioni di km</td>
+  </tr>
+  <tr>
+    <td>diametro angolare apparente del disco</td>
+    <td>da 31'27" a 32'30"</td>
+  </tr>
+</table>
+</div>
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg/805px-The**Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg" title="Il Sole agli ultravioletti (falsi colori)" >}}
 
@@ -54,18 +81,122 @@ Il gas, riscaldato dalla radiazione che proviene dall’interno del nucleo, si m
 
 I pianeti (dal greco **planào**, vagare) del sistema solare si distinguono dalle stelle fisse in quanto si muovono sulla volta del cielo.  **Si conoscono otto pianeti**: Mercurio, Venere, Terra, Marte, Giove, Saturno, Urano e Nettuno. A seconda che le loro orbite siano maggiori o minori di quella terrestre, i pianeti sono distinti in **pianeti esterni**, o superiori (da Marte a Nettuno), e **pianeti interni**, o inferiori (Mercurio e Venere). In base ad analogie nella costituzione fisica, i vari pianeti si possono suddividere in **pianeti terrestri** (Mercurio, Venere, Terra e Marte) e **pianeti gioviani** (Giove, Saturno, Urano e Nettuno); di questi i primi tre sono anche detti pianeti giganti per le loro dimensioni, di vari ordini di grandezza superiori a quelle della Terra.  Il sistema solare comprende anche asteroidi o pianetini (detti anche pianeti minori) e corpi minori, tra cui comete, meteore e meteoriti
 
-|Pianeta |Distanza Media dal Sole | Diametro Equatoriale |Massa |Volume |Atmosfera |Periodo di Rotazione |Periodo di Rivoluzione |Gravità
----|---|---|---|---|---|---|---|---
-|Mercurio |57,9 |4880 |0.055 |0,06 |nessuna |59g |88g |0,37
-|Venere |108,2 |12.104 |0.815 |0,86 |biossido di carbonio |243g |224,7g |0,88
-|Terra |149,6 |12.756 |1 |1 |azoto, ossigeno |23h 56m |356,26g |1
-|Marte |227,9 |6787 |0,108 |0,15 |biossido di carbonio |24h 37m |687 g |0,38
-|Giove |778,3 |142.800 |317,9 |1316 |idrogeno, elio |9h 50,5m |11,86 anni |2,64
-|Saturno |1427 |120.000 |95,2 |755 |idrogeno, |10h 14m |29,46 anni |1,13
-|Urano |2869,6 |51.800 |14,6 |67 |idrogeno, elio, metano |16h |84 anni |1,17
-|Nettuno |4496,6 |49.200 |17,2 |61 |idrogeno, elio, metano |16h |164 anni |1,18
+<div style="overflow-x:auto;" class="TableData">
+<table>
+<caption>Caratteristiche principali dei pianeti del sistema solare (Terra = 1)</caption>
+<thead>
+<tr>
+<th>Pianeta</th>
+<th>Distanza Media dal Sole</th>
+<th>Diametro Equatoriale</th>
+<th>Massa</th>
+<th>Volume</th>
+<th>Atmosfera</th>
+<th>Periodo di Rotazione</th>
+<th>Periodo di Rivoluzione</th>
+<th>Gravità</th>
+</tr>
+</thead>
 
-Caratteristiche principali dei pianeti del sistema solare (Terra # 1).
+<tbody>
+<tr>
+<td>Mercurio</td>
+<td>57,9</td>
+<td>4880</td>
+<td>0.055</td>
+<td>0,06</td>
+<td>nessuna</td>
+<td>59g</td>
+<td>88g</td>
+<td>0,37</td>
+</tr>
+
+<tr>
+<td>Venere</td>
+<td>108,2</td>
+<td>12.104</td>
+<td>0.815</td>
+<td>0,86</td>
+<td>biossido di carbonio</td>
+<td>243g</td>
+<td>224,7g</td>
+<td>0,88</td>
+</tr>
+
+<tr>
+<td>Terra</td>
+<td>149,6</td>
+<td>12.756</td>
+<td>1</td>
+<td>1</td>
+<td>azoto, ossigeno</td>
+<td>23h 56m</td>
+<td>356,26g</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Marte</td>
+<td>227,9</td>
+<td>6787</td>
+<td>0,108</td>
+<td>0,15</td>
+<td>biossido di carbonio</td>
+<td>24h 37m</td>
+<td>687 g</td>
+<td>0,38</td>
+</tr>
+
+<tr>
+<td>Giove</td>
+<td>778,3</td>
+<td>142.800</td>
+<td>317,9</td>
+<td>1316</td>
+<td>idrogeno, elio</td>
+<td>9h 50,5m</td>
+<td>11,86 anni</td>
+<td>2,64</td>
+</tr>
+
+<tr>
+<td>Saturno</td>
+<td>1427</td>
+<td>120.000</td>
+<td>95,2</td>
+<td>755</td>
+<td>idrogeno,</td>
+<td>10h 14m</td>
+<td>29,46 anni</td>
+<td>1,13</td>
+</tr>
+
+<tr>
+<td>Urano</td>
+<td>2869,6</td>
+<td>51.800</td>
+<td>14,6</td>
+<td>67</td>
+<td>idrogeno, elio, metano</td>
+<td>16h</td>
+<td>84 anni</td>
+<td>1,17</td>
+</tr>
+
+<tr>
+<td>Nettuno</td>
+<td>4496,6</td>
+<td>49.200</td>
+<td>17,2</td>
+<td>61</td>
+<td>idrogeno, elio, metano</td>
+<td>16h</td>
+<td>164 anni</td>
+<td>1,18</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Solarsystemobjectsinscale.jpg/1024px-Solarsystemobjectsinscale.jpg" title="Distanza dei pianeti del sistema solare, in scala" >}}
 
@@ -138,26 +269,99 @@ Le **meteore** sono costituite da frammenti di roccia di varie dimensioni appart
 
 La Luna, unico satellite naturale della Terra, ci appare in cielo come un disco con diametro circa uguale a quello del Sole, equivalente a circa 1/4 di quello della Terra.  I Origine della Luna  Sull’origine del nostro satellite sono state ipotizzate varie teorie; di esse, alcune hanno perso credibilità con il passare del tempo, altre sono state perfezionate con l’aumentare dei dati a nostra disposizione.  Secondo la **teoria della separazione**, in origine la Terra era un corpo fluido, che ruotava su se stesso con una velocità superiore a quella attuale. Questa circostanza avrebbe prodotto sulla Terra una protuberanza, che a un certo momento si staccò formando la Luna. Questa teoria fu abbandonata quando si dimostrò che le resistenze di attrito avrebbero impedito alla protuberanza di raggiungere l’altezza necessaria. Non spiega, inoltre, come mai la Terra ruotasse tanto più velocemente rispetto a oggi e perché il piano dell’orbita lunare sia inclinato rispetto al piano dell’orbita terrestre; con tale teoria si giustificherebbe, però, la minor densità della Luna.  **La Luna può essere considerata come parte di un pianeta doppio** formatosi per accumulo di particelle di materia, cresciuto contemporaneamente alla Terra, anche se più lentamente. Questa teoria è invalidata dalla circostanza per cui i valori della densità della Luna e della Terra sono molto diversi, fatto che indica una composizione complessiva differente, difficile da giustificare ipotizzando l’originaria formazione dallo stesso aggregato materiale.  In base alla **teoria della cattura**, la Luna potrebbe essere un intruso proveniente dal sistema solare, che – giunto in vicinanza della Terra – è stato attratto dal suo campo gravitazionale. L’insieme di circostanze concomitanti necessarie per il verificarsi di questo fenomeno appare poco probabile, anche se questa teoria giustificherebbe la diversa composizione della Luna e della Terra.  Secondo la **teoria dell’accrescimento**, la Luna si sarebbe formata in seguito all’aggregazione di particelle e polveri già orbitanti intorno alla Terra. È l'ipotesi ritenuta più plausibile.
 
-Caratteristica |Valore
----|---
-|distanza dalla Terra |384.400 km (media)
-|distanza dalla Terra |376.284 km (media)
-|periodo di rivoluzione |27,321 giorni
-|periodo di rotazione |27,321 giorni
-|inclinazione assiale del piano equatoriale |1° 32’
-|inclinazione orbitale |5°09’
-|eccentricità orbitale |0,0549
-|diametro |3475,6 km
-|diametro apparente visti dalla Terra |33'31" (massimo)
-|densità |3,342
-|massa |0,0123
-|volume |0,0203
-|velocità di fuga |2,38 km/s
-|gravità alla superficie |0,1653
-|albedo |0,07
-|magnitudine media (Luna piena) |-12,7
+<div style="overflow-x:auto;" class="TableData">
+<table>
+ <caption>Principali caratteristiche della Luna</caption>
+<thead>
+<tr>
+<th>Caratteristica</th>
+<th>Valore</th>
+</tr>
+</thead>
 
-Principali caratteristiche della Luna
+<tbody>
+<tr>
+<td>distanza dalla Terra</td>
+<td>384.400 km (media)</td>
+</tr>
+
+<tr>
+<td>distanza dalla Terra</td>
+<td>376.284 km (media)</td>
+</tr>
+
+<tr>
+<td>periodo di rivoluzione</td>
+<td>27,321 giorni</td>
+</tr>
+
+<tr>
+<td>periodo di rotazione</td>
+<td>27,321 giorni</td>
+</tr>
+
+<tr>
+<td>inclinazione assiale del piano equatoriale</td>
+<td>1° 32’</td>
+</tr>
+
+<tr>
+<td>inclinazione orbitale</td>
+<td>5°09’</td>
+</tr>
+
+<tr>
+<td>eccentricità orbitale</td>
+<td>0,0549</td>
+</tr>
+
+<tr>
+<td>diametro</td>
+<td>3475,6 km</td>
+</tr>
+
+<tr>
+<td>diametro apparente visti dalla Terra</td>
+<td>33’31” (massimo)</td>
+</tr>
+
+<tr>
+<td>densità</td>
+<td>3,342</td>
+</tr>
+
+<tr>
+<td>massa</td>
+<td>0,0123</td>
+</tr>
+
+<tr>
+<td>volume</td>
+<td>0,0203</td>
+</tr>
+
+<tr>
+<td>velocità di fuga</td>
+<td>2,38 km/s</td>
+</tr>
+
+<tr>
+<td>gravità alla superficie</td>
+<td>0,1653</td>
+</tr>
+
+<tr>
+<td>albedo</td>
+<td>0,07</td>
+</tr>
+
+<tr>
+<td>magnitudine media (Luna piena)</td>
+<td>-12,7</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### La superficie della Luna
 

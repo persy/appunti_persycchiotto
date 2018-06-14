@@ -44,16 +44,57 @@ I **metodi di datazione relativa** delle rocce e dei fossili **consentono di sta
 * dalla misurazione radiometrica si ottiene l’età di un elemento contenuto in un minerale, quindi le età radioattive sono riferite all’età dei singoli minerali
 * se in una roccia sono presenti minerali di età diversa, a causa della sua genesi, a seconda del minerale sottoposto ad analisi, si otterranno età diverse.
 
-|Radionuclidi |Prodotto finale del decadimento |Tempo di dimezzamento (anni) |Intervallo di tempo (anni) valido per la datazione
-:---:|:---:|:---:|:---:
-|<sup>87</sup>Rb |<sup>87</sup>Sr |1,47 · 10<sup>10</sup> |4,5 · 10<sup>9</sup> - 10<sup>8</sup>
-|<sup>232</sup>Th |<sup>208</sup>Pb |1,39 · 10<sup>10</sup> |4,5 · 10<sup>9</sup> - 10<sup>7</sup>
-|<sup>238</sup>U |<sup>206</sup>Pb |4,5 · 10<sup>9</sup> |4,5 · 10<sup>9</sup> - 10<sup>7</sup>
-|<sup>235</sup>U |<sup>207</sup>Pb |7,1 · 10<sup>8</sup> |4,5 · 10<sup>9</sup> - 10<sup>7</sup>
-|<sup>40</sup>K |<sup>40</sup>Ar |1,33 · 10<sup>9</sup> |4,5 · 10<sup>9</sup> - 10<sup>4</sup>
-|<sup>14</sup>C |<sup>14</sup>N |5,73 · 10<sup>3</sup> |max 40 · 10<sup>3</sup>
-
-I radioisotopi più comuni.
+<div style="overflow-x:auto;" class="TableData">
+<table>
+<caption>I radioisotopi più comuni.</caption>
+<thead>
+<tr>
+<th>Radionuclidi</th>
+<th>Prodotto finale del decadimento</th>
+<th>Tempo di dimezzamento (anni)</th>
+<th>Intervallo di tempo (anni) valido per la datazione</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><sup>87</sup>Rb</td>
+<td><sup>87</sup>Sr</td>
+<td>1,47 · 10<sup>10</sup></td>
+<td>4,5 · 10<sup>9</sup> - 10<sup>8</sup></td>
+</tr>
+<tr>
+<td><sup>232</sup>Th</td>
+<td><sup>208</sup>Pb</td>
+<td>1,39 · 10<sup>10</sup></td>
+<td>4,5 · 10<sup>9</sup> - 10<sup>7</sup></td>
+</tr>
+<tr>
+<td><sup>238</sup>U</td>
+<td><sup>206</sup>Pb</td>
+<td>4,5 · 10<sup>9</sup></td>
+<td>10<sup>9</sup> - 10<sup>7</sup></td>
+</tr>
+<tr>
+<td><sup>235</sup>U </td>
+<td><sup>207</sup>Pb</td>
+<td>7,1 · 10<sup>8</sup></td>
+<td>4,5 · 10<sup>9</sup> - 10<sup>7</sup></td>
+</tr>
+<tr>
+<td><sup>40</sup>K</td>
+<td><sup>40</sup>Ar</td>
+<td>1,33 · 10<sup>9</sup></td>
+<td>4,5 · 10<sup>9</sup> - 10<sup>4</sup></td>
+</tr>
+<tr>
+<td><sup>14</sup>C</td>
+<td><sup>14</sup>N</td>
+<td>5,73 · 10<sup>3</sup></td>
+<td>max 40 · 10<sup>3</sup></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 {{< figure src="https://i.imgur.com/dlgyimJ.jpg" title="Considerati tra le conifere più antiche d’Europa, i larici millenari di S. Geltrude/Ultimo (BZ) sorgono a 1.430 m di quota e hanno certamente più di 2.000 anni. Fanno parte di un antico bosco di larici di cui sono sopravvissuti solo tre esemplari, il più alto dei quali supera i 35 metri" >}}
 
@@ -69,56 +110,226 @@ In Scandinavia, Canada ed Europa centrale sono presenti cave di argilla, caratte
 
 Il termine deriva dal greco **déndron**, albero e chrónos, tempo e indica un metodo di datazione assoluta basato sullo studio e sul conteggio degli anelli annuali di accrescimento degli alberi, che permettono non solo di risalire all’età dell’albero, ma anche di trarre indicazioni sulle variazioni climatiche avvenute in passato.  Lo spessore degli anelli e il diametro dei vasi conduttori in essi presenti dipendono, infatti, dalle condizioni climatiche della stagione in cui essi si formano: un maggior diametro dei vasi conduttori indica abbondante disponibilità di acqua, mentre un diametro minore dei vasi è indice di un clima più arido. Ogni stagione vegetativa determina l’accrescimento del diametro del fusto. Nella sezione trasversale di un tronco si osservano anelli annuali, ciascuno formato da una zona più chiara e larga, corrispondente al legno primaverile, e da una più scura e compatta, corrispondente al legno estivo. Per stabilire l’età di un albero senza abbatterlo, si può effettuare un carotaggio, cioè il prelievo di un sottile tassello di legno, corrispondente al raggio del tronco.  Dalla misurazione dello spessore dell’intera serie di anelli si possono correlare più piante di una stessa area e trarre indicazioni sulle variazioni climatiche. Il metodo è molto attendibile e in qualche caso utilissimo, in quanto ha un margine di errore inferiore a un anno, ma non lo si può di fatto utilizzare oltre i 10.000 anni fa (esso non è applicabile alle piante monocotiledoni come le palme, in cui non avviene un accrescimento in diametro del fusto, detto anche accrescimento secondario).
 
-|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/3/39/Varve1.gif" width="250" title="Varve del Pleistocene a Scarboro Bluffs, Ontario. Le varve più larghe sono spesse più di mezzo pollice" >}} |{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pine_tree_rings.JPG/800px-Pine_tree_rings.JP" width="250" title="Ceppo di pino con in evidenza gli anelli di accrescimento annuale." >}}
----|---
+<div>
+<table>
+<caption></caption>
+<tbody>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/3/39/Varve1.gif" width="250" title="Varve del Pleistocene a Scarboro Bluffs, Ontario. Le varve più larghe sono spesse più di mezzo pollice" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pine_tree_rings.JPG/800px-Pine_tree_rings.JP" width="250" title="Ceppo di pino con in evidenza gli anelli di accrescimento annuale." >}}</td>
+</tbody>
+</table>
+</div>
 
 ## Le ere geologiche
 
 Grazie ai metodi di datazione prima esposti, lo studio delle rocce e dei fossili ha permesso di individuare e di ordinare i fenomeni geologici e gli eventi biologici che hanno caratterizzato la storia della Terra, dalla sua origine fino a oggi, e di **suddividere i 4,6 miliardi di anni della Terra in lunghi intervalli di tempo**.  Più precisamente, la storia della Terra è stata suddivisa nelle seguenti categorie temporali, dalla più ampia alla più ristretta: **era**, **periodo**, **epoca** ed **età**. Le ere, i periodi e le epoche hanno nomi applicabili su scala mondiale; per le età, invece, esistono nomi differenti a seconda delle regioni.  La storia del nostro pianeta è stata suddivisa in cinque ere: l'era precambriana (ocriptozoica), l’era primaria(o paleozoica), l’era secondaria (o mesozoica), l’era terziaria (o cenozoica) e l’era quaternaria (o neozoica), dalla più antica alla più recente, che a loro volta sono state suddivise in diversi periodi. Oggi però molti autori considerano l’era quaternaria non più come un’era, ma come un periodo dell’era terziaria.
 
-|Milioni di anni fa |Ere |Periodi (sistemi) |Epoche principali (serie)
----|---|---|---
-|4500 |precambriana (Precambriano), o criptozoica **criptós**, segreto e **zôon**, animale: della vita nascosta) |Priscoano (dal latino priscus, antico, primitivo) Archeano (dal greco arché, principio) |Ontariano (da Ontario, lago dell’America Settentrionale)
-|2500 | |Proterozoico (dal greco **próteros**, anteriore) |
-|590 |primaria (Primario), o paleozoica (dal greco palaiós, |Cambriano (da **Cambria**, |
-|500 | |Ordoviciano (da **Ordovices**, nome latino di una tribù celtica del Galles) |
-|438 | |Siluriano (da Siluri, nome latino di una tribù celtica del Galles) |
-|408 | |Devoniano (da Devon, |
-|360 | |Carbonifero |Mississippiano (da Mississippi, fiume degli USA)
-|286 | |Permiano (da Perm, nome di una provincia della Russia, negli Urali) |
-|250 |secondaria (Secondario), o mesozoica (dal greco **mésos**, medio: della vita di mezzo) |Triassico (dal greco **trías**, |
-|210 | |Giurassico (da **Giura**, catena montuosa tra la Francia e la Svizzera) |
-|135 | |Cretaceo (dal latino creta, le rocce calcaree bianche tipiche di questo periodo) |
-|65 |terziaria (Terziario), o cenozoica (dal greco **kainós**, recente: della vita recente) |Paleogene o Nummolitico (caratteristica abbondanza di nummoliti, foraminiferi marini) |Paleocene (dal greco **palaiós**, antico e **kainós**, recente: recente antico)
-|57 | | |Eocene (dal greco **eós**, aurora: recente, dell’alba)
-|36 | | |Oligocene (dal greco **olígos**, poco: poco recente)
-|23 | | |Miocene (dal greco **meíon**, minore: meno recente)
-|6 | | |Pliocene (dal greco **pléon**, più: più recente)
-|1,8 |quaternaria (Quaternario), o | |Pleistocene (dal greco **pleîstos**, moltissimo: moltissimo recente)
-|0,01 | | |Olocene (dal greco **ólos**, tutto: recente del tutto)
+<div style="overflow-x:auto;" class="TableData">
+<table>
+<caption>Le principali Ere, periodi ed epoche.</caption>
+<thead>
+<tr>
+<th>Milioni di anni fa</th>
+<th>Ere</th>
+<th>Periodi (sistemi)</th>
+<th>Epoche principali (serie)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4500</td>
+<td><b>precambriana</b> (<b>Precambriano</b>), o <b>criptozoica</b> (dal greco <em>criptós</em>, segreto e <em>zôon</em>, animale: della vita nascosta)</td>
+<td><b>Priscoano</b> (dal latino <em>priscus</em>, antico, primitivo); <b>Archeano</b> (dal greco <em>arché</em>, principio)</td>
+<td><b>Ontariano</b> (da <em>Ontario</em>, lago dell’America Settentrionale); <b>Huroniano</b> (dal <em>Huron</em>, lago dell'America Settentrionale)</td>
+</tr>
+<tr>
+<td>2500</td>
+<td></td>
+<td><b>Proterozoico</b> (dal greco <em>próteros</em>, anteriore) </td>
+<td></td>
+</tr>
+<tr>
+<td>590</td>
+<td><b>primaria</b> (<b>Primario</b>) o <b>paleozoica</b> (dal greco <em>palaiòs</em>, antico: della vita antica)</td>
+<td><b>Cambriano</b> (da <em>Cambria</em>, nome latino del Galles</td>
+<td></td>
+</tr>
+<tr>
+<td>500</td>
+<td></td>
+<td><b>Ordiviciano</b> (da <em>Ordovices</em>, nome latino di una tribù celtica del Galles)</td>
+<td></td>
+</tr>
+<tr>
+<td>438</td>
+<td></td>
+<td>Siluriano<b></b> (da <em>Siluri</em>, nome latino di una tribù celtica del Galles)</td>
+<td></td>
+</tr>
+<tr>
+<td>408</td>
+<td></td>
+<td><b>Devoniano</b> (da <em>Devon</em>, contea inglese)</td>
+<td></td>
+</tr>
+<tr>
+<td>360</td>
+<td></td>
+<td><b>Carbonifero</b></td>
+<td><b>Mississippiano</b> (da <em>Mississippi</em>, fiume degli USA); <b>Pennsylviano</b> (da <em>Pennsylvania</em>, stato degli USA)</td>
+</tr>
+<tr>
+<td>286</td>
+<td></td>
+<td><b>Permiano</b> (da <em>Perm</em>, nome di una provincia della Russia, negli Urali)</td>
+<td></td>
+</tr>
+<tr>
+<td>250</td>
+<td><b>secondario</b> (<b>Secondario</b>), o <b>mesozoica</b> (dal greco <em>mésos</em>, medio: della vita di mezzo)</td>
+<td><b>Triassico</b> (dal greco <em>trìas</em>, triade; nel periodo si distinguono, infatti, tre serie)</td>
+<td></td>
+</tr>
+<tr>
+<td>210</td>
+<td></td>
+<td><b>Giurassico</b> (da <em>Giura</em>, catena montuosa tra la Francia e la Svizzera)</td>
+<td></td>
+</tr>
+<tr>
+<td>135</td>
+<td></td>
+<td><b>Cretaceo</b> (dal latino <em>creta</em>, le rocce calcaree bianche tipiche di questo periodo)</td>
+<td></td>
+</tr>
+<tr>
+<td>65</td>
+<td><b>terziaria</b> (<b>Terziario</b>), o <b>cenozoica</b> (dal greco <em>kainòs</em>, recente: della vita recente)</td>
+<td>Paleogene o Nummolitico (caratteristica abbondanza di nummoliti, foraminiferi marini)</td>
+<td><b>Paleocene</b> (dal greco <em>palaiòs</em>, antico e <em>kainòs</em>, recente: recente antico)</td>
+</tr>
+<tr>
+<td>57</td>
+<td></td>
+<td></td>
+<td><b>Eocene</b> (dal greco <em>eòs</em>, aurora: recente, dell'alba)</td>
+</tr>
+<tr>
+<td>36</td>
+<td></td>
+<td></td>
+<td><b>Oligocene</b> (dal greco <em>olìgos</em>, poco: poco recente)</td>
+</tr>
+<tr>
+<td>23</td>
+<td></td>
+<td></td>
+<td><b>Miocene</b> (dal greco <em>meìon</em>, minore: meno recente)</td>
+</tr>
+<tr>
+<td>6</td>
+<td></td>
+<td></td>
+<td><b>Pliocene</b> (dal greco <em>pléon</em>, più: più recente)</td>
+</tr>
+<tr>
+<td>1,8</td>
+<td><b>quaternaria</b> (<b>Quaternaria</b>), o <b>neozoica</b> (dal greco <em>néos</em>, nuovo: della vita nuova)</td>
+<td></td>
+<td><b>Pleistocene</b> (dal greco <em>pleìstos</em>, più: più recente)</td>
+</tr>
+<tr>
+<td>0,01</td>
+<td></td>
+<td></td>
+<td><b>Olocene</b> (dal greco <em>òlos</em>, tutto: recente del tutto)</td>
+</tr>
+</tbody>
+</table>
+</div>
 
-Le principali Ere, periodi ed epoche.
-
-|Periodo o epoca |Fenomeni geologici ed eventi biologici
----|---
-|Precambriano |si forma la crosta terrestre; le rocce più antiche sono di tipo basaltico, ricche di elementi leggeri (Si, K, Na, Ca) e come tali in grandi cambiamenti di clima, da caldi intensi a epoche glaciali; atmosfera ricca di anidride carbonica; intensa attività vulcanica; alghe abbondanti, primi organismi animali (protozoi)
-|Cambriano |clima uniforme e terre probabilmente deserte; produzione di ossigeno per opera delle alghe marine; artropodi e altri invertebrati
-|Ordoviciano |clima uniforme, mari caldi, intensa attività vulcanica; l’atmosfera si arricchisce via via di ossigeno; comparsa dei vertebrati (pesci)
-|Siluriano |orogenesi caledoniana: collisione tra Nordamerica ed Europa (formazione della Laurentia); clima sempre caldo e uniforme; minore attività vulcanica; gran parte della terraferma è ancora desertica; vegetali e artropodi terrestri
-|Devoniano |mari caldi; si riduce la superficie degli oceani e si estende quella della terraferma; forte attività vulcanica; anfibi, ammoniti (cefalopodi), pesci
-|Carbonifero |buona parte delle terre emerse si trova nella fascia tra i tropici, dove predominano condizioni climatiche miti e umide; si susseguono abbassamenti e innalzamenti delle aree costiere e si formano e si prosciugano sterminate lagune e paludi; si originano così depositi di sabbia e fanghi, che formano rocce arenacee, e depositi di vegetali, che, coperti da altri strati, carbonizzano; rettili; grandi foreste (dalla cui fossilizzazione ha origine il carbone)
-|Permiano |orogenesi ercinica, che porta al sollevamento di catene montuose (Urali, Appalachi, rilievi dell’Europa centro-occidentale ecc.) in diverse regioni della Terra (dal nome della selva Ercinia, tra il Reno e l’alto Danubio); una grande glaciazione, iniziata nel Carbonifero, ricopre di ghiacci la parte meridionale dell’unico blocco delle terre emerse, un supercontinente chiamato Pangea; nella fascia equatoriale e tropicale il clima è caldo-umido; nella zona settentrionale è piuttosto secco e la temperatura è mite; alla fine del periodo, i ghiacci si ritirano; si estinguono le trilobiti
-|Triassico |primo periodo dell’era mesozoica, con clima caldo e secco; numerose ed estese le zone desertiche, con vaste oasi; il clima diventa più umido verso la fine del periodo; comparsa dei dinosauri e dei primi mammiferi |Giurassico |il clima, mediamente, è stabile, moderato e umido; favorisce la diffusione dei vegetali e degli animali erbivori; gran parte dei mari sono caldi e ricchi di vita; cominciano a prendere forma gli attuali continenti: l’Australia, l’Antartide e l’America Meridionale si staccano dall’Africa; tra l’America Settentrionale, l’Europa e l’Africa inizia ad aprirsi l’oceano Atlantico; prime avvisaglie dell’orogenesi alpina: movimenti delle zolle fanno sorgere le Ande e le Montagne Rocciose; l’America Settentrionale e l’Europa sono in parte coperte da mari poco profondi; dinosauri e altri rettili; primi uccelli; piante con fiori (angiosperme)
-|Cretaceo |tutti i continenti attuali finalmente sono separati; l’Atlantico continua ad allargarsi; in tutti i continenti si estendono mari con bassi fondali; numerose anche le zone paludose; appartengono a questo periodo i più antichi sedimenti del fondale oceanico, formati dai resti di alghe ricche di carbonati e di foraminiferi divenuti un calcare bianco, compatto e duro, detto chalk; il clima è mite; vi sono tracce di glaciazioni; è il periodo dell’estinzione dei dinosauri e delle ammoniti
-|Paleocene |periodo molto caldo, con intensa attività vulcanica; l’India è ancora separata dall’Asia; l’Australia è unita all’Antartide; Europa e America Settentrionale sono unite all’estremo nord; notevole diversificazione dei mammiferi, comparsa dei primati
-|Eocene |l’Europa e l’America Settentrionale si separano; l’Australia si separa dall’Antartide, dove si formano ghiacciai al livello del mare; l’orogenesi alpina è in pieno svolgimento: si sollevano le Alpi e le altre catene mediterranee
-|Oligocene |il clima tende a raffreddarsi; la glaciazione sottrae acqua agli oceani e il livello del mare raggiunge un minimo assoluto; si apre il Mar Rosso e si formano le fosse tettoniche africane; l’India si congiunge con l’Asia e la collisione dà il via alla fase principale della formazione delle catene himalayane; affermazione di mammiferi e uccelli
-|Miocene |il ghiaccio antartico continua ad aumentare ed entrambe le calotte polari sono più estese di quelle attuali; inizia la formazione delle Alpi; prosciugamento del Mediterraneo, apertura dello stretto di Gibilterra
-|Pliocene |il clima va raffreddandosi, e si preparano le alternanze caldo-freddo che daranno origine alle glaciazioni e alle deglaciazioni; continua il sollevamento delle Alpi; sviluppo degli Ominidi
-|Pleistocene |ha inizio il periodo delle grandi glaciazioni, con avanzate delle calotte polari verso latitudini più basse e successivi periodi interglaciali; durante le glaciazioni, il livello dei mari si abbassa ed emergono parecchie zone, come il collegamento tra Asia Orientale e America Settentrionale; comparsa del genere Homo (H. abilis, H. erectus, H. neanderthalensis, H. sapiens); industrie umane e paleolitiche
-|Olocene |l’epoca ha inizio con l’ultimo arretramento dei ghiacci verso le regioni polari; è l’epoca in cui viviamo; industrie umane mesolitiche e neolitiche
-
-Principali eventi nel corso delle epoche geologiche.
+<div style="overflow-x:auto;" class="TableData">
+<table>
+<caption>Principali eventi nel corso delle epoche geologiche.
+</caption>
+<thead>
+<tr>
+<th>Periodo o epoca</th>
+<th>Fenomeni geologici ed eventi biologici</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Precambriano</td>
+<td>si forma la crosta terrestre; le rocce più antiche sono di tipo basaltico, ricche di elementi leggeri (Si, K, Na, Ca) e come tali in grandi cambiamenti di clima, da caldi intensi a epoche glaciali; atmosfera ricca di anidride carbonica; intensa attività vulcanica; alghe abbondanti, primi organismi animali (protozoi)</td>
+</tr>
+<tr>
+<td>Cambriano</td>
+<td>clima uniforme e terre probabilmente deserte; produzione di ossigeno per opera delle alghe marine; artropodi e altri invertebrati</td>
+</tr>
+<tr>
+<td>Ordoviciano</td>
+<td>clima uniforme, mari caldi, intensa attività vulcanica; l’atmosfera si arricchisce via via di ossigeno; comparsa dei vertebrati (pesci)</td>
+</tr>
+<tr>
+<td>Siluriano</td>
+<td>orogenesi caledoniana: collisione tra Nordamerica ed Europa (formazione della Laurentia); clima sempre caldo e uniforme; minore attività vulcanica; gran parte della terraferma è ancora desertica; vegetali e artropodi terrestri</td>
+</tr>
+<tr>
+<td>Devoniano</td>
+<td>mari caldi; si riduce la superficie degli oceani e si estende quella della terraferma; forte attività vulcanica; anfibi, ammoniti (cefalopodi), pesci</td>
+</tr>
+<tr>
+<td>Carbonifero</td>
+<td>buona parte delle terre emerse si trova nella fascia tra i tropici, dove predominano condizioni climatiche miti e umide; si susseguono abbassamenti e innalzamenti delle aree costiere e si formano e si prosciugano sterminate lagune e paludi; si originano così depositi di sabbia e fanghi, che formano rocce arenacee, e depositi di vegetali, che, coperti da altri strati, carbonizzano; rettili; grandi foreste (dalla cui fossilizzazione ha origine il carbone)</td>
+</tr>
+<tr>
+<td>Permiano</td>
+<td>orogenesi ercinica, che porta al sollevamento di catene montuose (Urali, Appalachi, rilievi dell’Europa centro-occidentale ecc.) in diverse regioni della Terra (dal nome della selva Ercinia, tra il Reno e l’alto Danubio); una grande glaciazione, iniziata nel Carbonifero, ricopre di ghiacci la parte meridionale dell’unico blocco delle terre emerse, un supercontinente chiamato Pangea; nella fascia equatoriale e tropicale il clima è caldo-umido; nella zona settentrionale è piuttosto secco e la temperatura è mite; alla fine del periodo, i ghiacci si ritirano; si estinguono le trilobiti</td>
+</tr>
+<tr>
+<td>Triassico</td>
+<td>primo periodo dell’era mesozoica, con clima caldo e secco; numerose ed estese le zone desertiche, con vaste oasi; il clima diventa più umido verso la fine del periodo; comparsa dei dinosauri e dei primi mammiferi</td>
+</tr>
+<tr>
+<td>Giurassico</td>
+<td>il clima, mediamente, è stabile, moderato e umido; favorisce la diffusione dei vegetali e degli animali erbivori; gran parte dei mari sono caldi e ricchi di vita; cominciano a prendere forma gli attuali continenti: l’Australia, l’Antartide e l’America Meridionale si staccano dall’Africa; tra l’America Settentrionale, l’Europa e l’Africa inizia ad aprirsi l’oceano Atlantico; prime avvisaglie dell’orogenesi alpina: movimenti delle zolle fanno sorgere le Ande e le Montagne Rocciose; l’America Settentrionale e l’Europa sono in parte coperte da mari poco profondi; dinosauri e altri rettili; primi uccelli; piante con fiori (angiosperme)</td>
+</tr>
+<tr>
+<td>Cretaceo</td>
+<td>tutti i continenti attuali finalmente sono separati; l’Atlantico continua ad allargarsi; in tutti i continenti si estendono mari con bassi fondali; numerose anche le zone paludose; appartengono a questo periodo i più antichi sedimenti del fondale oceanico, formati dai resti di alghe ricche di carbonati e di foraminiferi divenuti un calcare bianco, compatto e duro, detto chalk; il clima è mite; vi sono tracce di glaciazioni; è il periodo dell’estinzione dei dinosauri e delle ammoniti</td>
+</tr>
+<tr>
+<td>Paleocene</td>
+<td>periodo molto caldo, con intensa attività vulcanica; l’India è ancora separata dall’Asia; l’Australia è unita all’Antartide; Europa e America Settentrionale sono unite all’estremo nord; notevole diversificazione dei mammiferi, comparsa dei primati</td>
+</tr>
+<tr>
+<td>Eocene</td>
+<td>l’Europa e l’America Settentrionale si separano; l’Australia si separa dall’Antartide, dove si formano ghiacciai al livello del mare; l’orogenesi alpina è in pieno svolgimento: si sollevano le Alpi e le altre catene mediterranee</td>
+</tr>
+<tr>
+<td>Oligocene</td>
+<td>il clima tende a raffreddarsi; la glaciazione sottrae acqua agli oceani e il livello del mare raggiunge un minimo assoluto; si apre il Mar Rosso e si formano le fosse tettoniche africane; l’India si congiunge con l’Asia e la collisione dà il via alla fase principale della formazione delle catene himalayane; affermazione di mammiferi e uccelli</td>
+</tr>
+<tr>
+<td>Miocene</td>
+<td>il ghiaccio antartico continua ad aumentare ed entrambe le calotte polari sono più estese di quelle attuali; inizia la formazione delle Alpi; prosciugamento del Mediterraneo, apertura dello stretto di Gibilterra</td>
+</tr>
+<tr>
+<td>Pliocene</td>
+<td>il clima va raffreddandosi, e si preparano le alternanze caldo-freddo che daranno origine alle glaciazioni e alle deglaciazioni; continua il sollevamento delle Alpi; sviluppo degli Ominidi</td>
+</tr>
+<tr>
+<td>Pleistocene</td>
+<td>ha inizio il periodo delle grandi glaciazioni, con avanzate delle calotte polari verso latitudini più basse e successivi periodi interglaciali; durante le glaciazioni, il livello dei mari si abbassa ed emergono parecchie zone, come il collegamento tra Asia Orientale e America Settentrionale; comparsa del genere Homo (H. abilis, H. erectus, H. neanderthalensis, H. sapiens); industrie umane e paleolitiche</td>
+</tr>
+<tr>
+<td>Olocene</td>
+<td>l’epoca ha inizio con l’ultimo arretramento dei ghiacci verso le regioni polari; è l’epoca in cui viviamo; industrie umane mesolitiche e neolitiche</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### L’origine della vita sulla Terra
 

@@ -51,24 +51,116 @@ Un particolare tipo di carta climatica è la **carta meteorologica**, che docume
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/it/9/91/Classificazione_sismica_Italia_2006.jpg" title="Mappa della pericolosità sismica in Italia" >}}
 
-Tipi di carte| | |
----|---|---
-carte generali |fisiche |rappresentano solo i lineamenti naturali della superficie terrestre (mari, monti, pianure, corsi d’acqua ecc.)
-| |politiche |rappresentano soprattutto gli aspetti umani (confini politici e amministrativi, città, vie di comunicazione)
-| |fisico-politiche |rappresentano ambedue gli elementi |carte speciali
-carte idrografiche |sono rappresentati sorgenti, corsi d’acqua, bacini, mari e coste
-| |carte nautiche |servono per la navigazione marittima
-| |carte aeronautiche |servono per la navigazione aerea
-| |carte turistiche |vi sono segnate le vie di comunicazione, nonché luoghi di particolare interesse naturale, artistico, culturale ecc.
-| |carte geologiche |per mezzo di colori e di simboli, indicano i diversi tipi di rocce e la loro età, i giacimenti minerari ecc.
-carte tematiche |carte geomorfologiche |rappresentano le forme del terreno e la loro natura
-| |carte climatiche |visualizzano la distribuzione dei diversi tipi climatici (includono le carte meteorologiche)
-| |carte della vegetazione |delimitano le aree occupate dalle formazioni vegetali e indicano le specie più diffuse
-| |carte zoologiche |danno indicazioni sui popolamenti animali e sui loro spostamenti
-| |carte pedologiche |rappresentano i vari tipi di suolo | |carte antropologiche ed etnologiche |visualizzano la distribuzione dei tipi umani o dei popoli, delle lingue e delle religioni
-| |carte economiche |rappresentano la distribuzione e i caratteri dei fattori economici (materie prime, industrie, produzioni agricole, vie di comunicazione, commerci ecc.)
-| |carte storiche |individuano l’assetto politico del territorio nei vari periodi del passato
-| |carte demografiche |forniscono indicazioni sulla distribuzione e sulla variazione della popolazione
+<div style="overflow-x:auto;" class="TableData">
+<table>
+<caption>Tipi di carte e loro funzione</caption>
+<thead>
+<tr>
+<th>Tipi di carte</th>
+<th></th>
+<th>Funzione</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>carte generali</td>
+<td>fisiche</td>
+<td>rappresentano solo i lineamenti naturali della superficie terrestre (mari, monti, pianure, corsi d’acqua ecc.)</td>
+</tr>
+
+<tr>
+<td></td>
+<td>politiche</td>
+<td>rappresentano soprattutto gli aspetti umani (confini politici e amministrativi, città, vie di comunicazione)</td>
+</tr>
+
+<tr>
+<td></td>
+<td>fisico-politiche</td>
+<td>rappresentano ambedue gli elementi</td>
+</tr>
+
+<tr>
+<td>carte idrografiche</td>
+<td>sono rappresentati sorgenti, corsi d’acqua, bacini, mari e coste</td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>carte nautiche</td>
+<td>servono per la navigazione marittima</td>
+</tr>
+
+<tr>
+<td></td>
+<td>carte aeronautiche</td>
+<td>servono per la navigazione aerea</td>
+</tr>
+
+<tr>
+<td></td>
+<td>carte turistiche</td>
+<td>vi sono segnate le vie di comunicazione, nonché luoghi di particolare interesse naturale, artistico, culturale ecc.</td>
+</tr>
+
+<tr>
+<td></td>
+<td>carte geologiche</td>
+<td>per mezzo di colori e di simboli, indicano i diversi tipi di rocce e la loro età, i giacimenti minerari ecc.</td>
+</tr>
+
+<tr>
+<td>carte tematiche</td>
+<td>carte geomorfologiche</td>
+<td>rappresentano le forme del terreno e la loro natura</td>
+</tr>
+
+<tr>
+<td></td>
+<td>carte climatiche</td>
+<td>visualizzano la distribuzione dei diversi tipi climatici (includono le carte meteorologiche)</td>
+</tr>
+
+<tr>
+<td></td>
+<td>carte della vegetazione</td>
+<td>delimitano le aree occupate dalle formazioni vegetali e indicano le specie più diffuse</td>
+</tr>
+
+<tr>
+<td></td>
+<td>carte zoologiche</td>
+<td>danno indicazioni sui popolamenti animali e sui loro spostamenti</td>
+</tr>
+
+<tr>
+<td></td>
+<td>carte pedologiche</td>
+<td>rappresentano i vari tipi di suolo</td>
+</tr>
+
+<tr>
+<td></td>
+<td>carte economiche</td>
+<td>rappresentano la distribuzione e i caratteri dei fattori economici (materie prime, industrie, produzioni agricole, vie di comunicazione, commerci ecc.)</td>
+</tr>
+
+<tr>
+<td></td>
+<td>carte storiche</td>
+<td>individuano l’assetto politico del territorio nei vari periodi del passato</td>
+</tr>
+
+<tr>
+<td></td>
+<td>carte demografiche</td>
+<td>forniscono indicazioni sulla distribuzione e sulla variazione della popolazione</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/06/Italy_-_Forms_of_Dialect.jpg" title="Mappa dei dialetti in Italia" >}}
 

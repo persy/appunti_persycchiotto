@@ -23,7 +23,8 @@
     
     --MENU-VISITED-color: #ff3333; /* Color of 'page visited' icons in menu */
     --MENU-SECTION-HR-color: #2b2020; /* Color of <hr> separator in menu */
-    
+    --TABLE-HEADER-color: #f31c1c; /* Color of Table Headers */
+    --TABLE-ALT-color: rgba(143, 143, 143, 0.253);
 }
 
 body {
@@ -102,3 +103,27 @@ a:hover {
     border-color: var(--MENU-SECTION-HR-color);
 }
 
+
+caption {
+    color: var(--MAIN-TITLES-TEXT-color)
+}
+
+/*
+figcaption h4 {
+    color: var(--FIGURE-FIGCAPTION-color)
+}
+*/
+
+th {
+    color: var(--TABLE-HEADER-color);   
+}
+
+table tr th {
+    border-bottom: 0.5px dashed var(--TABLE-HEADER-color); /* table header border*/
+}
+
+
+
+.TableData tr:nth-child(even) {
+    background-color: var(--TABLE-ALT-color);   /* alternate row color */ 
+}
