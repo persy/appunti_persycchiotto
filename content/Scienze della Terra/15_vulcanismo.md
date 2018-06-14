@@ -25,12 +25,12 @@ Gli edifici vulcanici possono essere coinvolti in eruzioni tanto violente da pro
 <caption>Tipi di vulcani.</caption>
 <tbody>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/ca/19991102_Tung_large.jpg" width="250" title="Vulcano Tungurahua (di tipo centrale, Ecuador)" >}}</td>
-<td>{{< figure src="https://c2.staticflickr.com/4/3922/14937433228_0733d3380d_b.jpg" width="250" title="Vulcano  Holuhraun (di tipo lineare, Islanda)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/ca/19991102_Tung_large.jpg"  title="Vulcano Tungurahua (di tipo centrale, Ecuador)" >}}</td>
+<td>{{< figure src="https://c2.staticflickr.com/4/3922/14937433228_0733d3380d_b.jpg"  title="Vulcano  Holuhraun (di tipo lineare, Islanda)" >}}</td>
 </tr>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Vesuvius_from_plane.jpg/1024px-Vesuvius_from_plane.jpg" width="250" title="Caldera del Vesuvio" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Udachnaya_pipe.JPG/1024px-Udachnaya_pipe.JPG" width="250" title="Trubka Udačnaja (diatrema, Siberia)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Vesuvius_from_plane.jpg/1024px-Vesuvius_from_plane.jpg"  title="Caldera del Vesuvio" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Udachnaya_pipe.JPG/1024px-Udachnaya_pipe.JPG"  title="Trubka Udačnaja (diatrema, Siberia)" >}}</td>
 </tr>
 </tbody>
 </table>
@@ -49,12 +49,12 @@ Durante un’eruzione, un vulcano può emettere materiali liquidi, solidi e aeri
 <caption>Materiali emessi dai vulcani.</caption>
 <tbody>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/73/Pyroclastic_flows_at_Mayon_Volcano.jpg" width="250" title="Nube piroclastica (vulcano Mayon, Filippine)" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Volcanic_Ash_Dunes.jpg/1024px-Volcanic_Ash_Dunes.jpg" width="250" title="Spiaggia di cenere (vulcano Rabaul, Papua-Nuova Guinea)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/73/Pyroclastic_flows_at_Mayon_Volcano.jpg"  title="Nube piroclastica (vulcano Mayon, Filippine)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Volcanic_Ash_Dunes.jpg/1024px-Volcanic_Ash_Dunes.jpg"  title="Spiaggia di cenere (vulcano Rabaul, Papua-Nuova Guinea)" >}}</td>
 </tr>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MSH82_lahar_from_march_82_eruption_03-21-82.jpg/1024px-MSH82_lahar_from_march_82_eruption_03-21-82.jpg" width="250" title="Lahar (Mount St. Helens, Stato di Washington)" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Augustine_Volcano_Jan_12_2006.jpg/1024px-Augustine_Volcano_Jan_12_2006.jpg" width="250" title="Emissione di gas (vulcano Augustine, Alaska)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MSH82_lahar_from_march_82_eruption_03-21-82.jpg/1024px-MSH82_lahar_from_march_82_eruption_03-21-82.jpg"  title="Lahar (Mount St. Helens, Stato di Washington)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Augustine_Volcano_Jan_12_2006.jpg/1024px-Augustine_Volcano_Jan_12_2006.jpg"  title="Emissione di gas (vulcano Augustine, Alaska)" >}}</td>
 </tr>
 </tbody>
 </table>
@@ -85,12 +85,12 @@ Quando magmi basaltici solidificando in condizioni ipoabissali, formano ampi pri
 <caption>Tipi di lava.</caption>
 <tbody>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pillow_lava_at_Oamaru.jpg/961px-Pillow_lava_at_Oamaru.jpg" width="250" title="A cuscino (Nuova Zelanda)" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ropy_Pahoehoe_Lava_at_Kilauea_Volcano_in_Hawaii_20071209_A.jpg/1024px-Ropy_Pahoehoe_Lava_at_Kilauea_Volcano_in_Hawaii_20071209_A.jpg" width="250" title="Pahoehoe (Hawaii)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pillow_lava_at_Oamaru.jpg/961px-Pillow_lava_at_Oamaru.jpg"  title="A cuscino (Nuova Zelanda)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ropy_Pahoehoe_Lava_at_Kilauea_Volcano_in_Hawaii_20071209_A.jpg/1024px-Ropy_Pahoehoe_Lava_at_Kilauea_Volcano_in_Hawaii_20071209_A.jpg"  title="Pahoehoe (Hawaii)" >}}</td>
 </tr>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lava_flow_Mt_CameroonMS_3575.jpg/1024px-Lava_flow_Mt_CameroonMS_3575.jpg" width="250" title="AA (Camerun)" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Asskrem_Hoggar_2.jpg/1024px-Asskrem_Hoggar_2.jpg" width="250" title="Basalti colonnari" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lava_flow_Mt_CameroonMS_3575.jpg/1024px-Lava_flow_Mt_CameroonMS_3575.jpg"  title="AA (Camerun)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Asskrem_Hoggar_2.jpg/1024px-Asskrem_Hoggar_2.jpg"  title="Basalti colonnari" >}}</td>
 </tr>
 </tbody>
 </table>
@@ -159,12 +159,12 @@ Il nome deriva dal vulcano Pelée, in Martinica, protagonista di una violentissi
 <capture>Esempi di vulcani.</capture>
 <tbody>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eruption_1954_Kilauea_Volcano.jpg/640px-Eruption_1954_Kilauea_Volcano.jpg" width="250" title="Kilauea (hawaiano)" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stromboli_sciara_del_fuoco_in_september_2014.jpg/1024px-Stromboli_sciara_del_fuoco_in_september_2014.jpg" width="250" title="Stromboli (stromboliano)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eruption_1954_Kilauea_Volcano.jpg/640px-Eruption_1954_Kilauea_Volcano.jpg"  title="Kilauea (hawaiano)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stromboli_sciara_del_fuoco_in_september_2014.jpg/1024px-Stromboli_sciara_del_fuoco_in_september_2014.jpg"  title="Stromboli (stromboliano)" >}}</td>
 </tr>
 <tr>
-<td>{{< figure src="https://c1.staticflickr.com/8/7669/17230322536_d3c161d71a_b.jpg" width="250" title="Calbuco (vulcaniano)" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mt_St_Helens_steaming_October_2004.jpg/1024px-Mt_St_Helens_steaming_October_2004.jpg" width="250" title="Mt. St. Helens (peleano)" >}}</td>
+<td>{{< figure src="https://c1.staticflickr.com/8/7669/17230322536_d3c161d71a_b.jpg"  title="Calbuco (vulcaniano)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mt_St_Helens_steaming_October_2004.jpg/1024px-Mt_St_Helens_steaming_October_2004.jpg"  title="Mt. St. Helens (peleano)" >}}</td>
 </tr>
 </tbody>
 </table>
@@ -192,16 +192,16 @@ Le acque che circolano in profondità, a contatto con il magma, possono riscalda
 <capture>Vulcanismo secondario.</capture>
 <tbody>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mt_St_Helens_steaming_October_2004.jpg/1024px-Mt_St_Helens_steaming_October_2004.jpg" width="250" title="Fumarola (Campi Flegrei)" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nisyros_vulcan_mofetta_1.jpg/1024px-Nisyros_vulcan_mofetta_1.jpg" width="250" title="Mofeta (Nisyros, Grecia)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mt_St_Helens_steaming_October_2004.jpg/1024px-Mt_St_Helens_steaming_October_2004.jpg"  title="Fumarola (Campi Flegrei)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nisyros_vulcan_mofetta_1.jpg/1024px-Nisyros_vulcan_mofetta_1.jpg"  title="Mofeta (Nisyros, Grecia)" >}}</td>
 </tr>
 <tr>
-<td>{{< figure src="https://i.imgur.com/dRuUznu.jpg" width="250" title="Putizza" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sulpherous_Fumeroles.jpg/1024px-Sulpherous_Fumeroles.jpg" width="250" title="Solfatara (Campi Flegrei)" >}}</td>
+<td>{{< figure src="https://i.imgur.com/dRuUznu.jpg"  title="Putizza" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sulpherous_Fumeroles.jpg/1024px-Sulpherous_Fumeroles.jpg"  title="Solfatara (Campi Flegrei)" >}}</td>
 </tr>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fumarole_a_sasso_pisano.JPG/1024px-Fumarole_a_sasso_pisano.JPG" width="250" title="Soffione (Sasso Pisano)" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Grand_Geyser.JPG/1024px-Grand_Geyser.JPG" width="250" title="Geyser (Parco di Yellowstone" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fumarole_a_sasso_pisano.JPG/1024px-Fumarole_a_sasso_pisano.JPG"  title="Soffione (Sasso Pisano)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Grand_Geyser.JPG/1024px-Grand_Geyser.JPG"  title="Geyser (Parco di Yellowstone" >}}</td>
 </tr>
 </tbody>
 </table>

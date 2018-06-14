@@ -51,20 +51,35 @@ L’**idratazione**: è un processo dovuto al fatto che alcuni minerali, a conta
 
 La **carbonatazione**: è un processo che interessa il carbonato di calcio, sale che forma la calcite, il minerale dominante del calcare (una roccia estremamente diffusa sulla superficie terrestre). Il carbonato di calcio (CaCO_3) è insolubile in acqua pura, ma diventa solubile se l’acqua contiene una quantità anche piccola di anidride carbonica (CO_3). L’acqua piovana, che contiene disciolta l'anidride carbonica, è in grado di reagire con il carbonato di calcio e di produrre bicarbonato acido di calcio, Ca(HCO3)2 , secondo la reazione di equilibrio (indicata dalla doppia freccia):
 
+<div align="center">
 $CaCO_3 + H_3O + CO_3 \leftrigharrow Ca(HCO_3)_3$
+</div>
 
 Il bicarbonato di calcio è solubile e può essere asportato dalle acque circolanti. In tal modo si originano quei processi di corrosione chimica che sono alla base del fenomeno del **carsismo**.  Reazioni analoghe a quelle descritte interessano altre rocce, come la dolomia, formata di dolomite, un carbonato doppio di calcio e magnesio:
 
+<div align="center">
 $CaMg(CO_3)_3 + 2H_3O + 2CO_3 \leftrigharrow CaMg(HCO_3)_3$
+</div>
 
 Anche in questo caso il carbonato, insolubile, si trasforma in un bicarbonato, solubile.
 
 L’**idrolisi**: è una complessa reazione chimica fra l’acqua e i silicati ed è assai diffusa, data l’estrema abbondanza di rocce contenenti minerali silicati. L’azione dell’acqua è determinata dalla sua capacità di dissociarsi in ioni idrogeno positivi ($H^+$) e ioni ossidrile negativi ($OH^-$). Tali ioni aggrediscono i silicati presenti nelle rocce e ne liberano gli ioni metallici: questi, legandosi agli ioni ossidrile, formano delle basi che passano in soluzione, mentre i silicati si trasformano in silicati idrati. Non tutti i minerali silicati subiscono il processo di idrolisi allo stesso modo. Alcuni, come i feldspati e la biotite, sono più alterabili; altri, come la muscovite e soprattutto il quarzo, lo sono molto meno. Rocce policristalline, come il granito, in ambiente caldo-umido vanno, dunque, soggette a processi di alterazione differenziale. I processi di idrolisi si verificano in quasi tutti gli ambienti, ma con velocità che tende ad aumentare con l’aumentare della temperatura e dell’umidità (l’idrolisi dei silicati è particolarmente intensa nelle zone equatoriali e tropicali, caratterizzate da condizioni di umidità e temperatura elevate).
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rocher_dans_massif_de_Timidjileline_01.JPG/1024px-Rocher_dans_massif_de_Timidjileline_01.JPG" title="Ossidazione (roccia ferrosa del deserto)" >}}
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Calanco1.jpg/1024px-Calanco1.jpg" title="Idratazione (Calanchi)" >}}
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Inghiottitoio_Murgia.jpg/1024px-Inghiottitoio_Murgia.jpg" title="Carsismo (inghiottitoio)" >}}
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Capo_dorso.JPG/1024px-Capo_dorso.JPG" title="Idrolisi (Capo d'Orso)" >}}
+<div style="overflow-x:auto;" >
+<table>
+<caption>Esempi di processi di alterazione chimica.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rocher_dans_massif_de_Timidjileline_01.JPG/1024px-Rocher_dans_massif_de_Timidjileline_01.JPG" title="Ossidazione (roccia ferrosa del deserto)"  >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Calanco1.jpg/1024px-Calanco1.jpg" title="Idratazione (Calanchi)"  >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Inghiottitoio_Murgia.jpg/1024px-Inghiottitoio_Murgia.jpg" title="Carsismo (inghiottitoio)"  >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Capo_dorso.JPG/1024px-Capo_dorso.JPG" title="Idrolisi (Capo d'Orso)"  >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## Il carsismo
 
@@ -74,10 +89,21 @@ Il carsismo è un fenomeno erosivo, conseguenza del processo di carbonatazione, 
 
 Le formazioni tipiche più significative sono le doline, le uvala e i polje.  Una **dolina** è una conca chiusa, depressa rispetto al piano di campagna, talvolta provvista di un **inghiottitoio**, che raccoglie le acque meteoriche e le convoglia in cavità sotterranee. Le pareti e il fondo di una dolina possono essere fratturati e permeabili all’acqua; se le fessure sono riempite del residuo insolubile del processo di carbonatazione, detto **terra rossa** (costituita da argille e piccole quantità di ossidi di ferro), il drenaggio può essere totalmente o parzialmente impedito. Nel primo caso, sul fondo della dolina occhieggia un laghetto; nel secondo caso ristagna una palude, limitata ai periodi di maggiore precipitazione. Le dimensioni di una dolina variano in modo anche considerevole(il diametro della conca può essere di pochi metri, ma anche di oltre 1 km; la profondità oscilla tra 1-2 m e 200 m).  Il profilo di una dolina può essere ellittico, subcircolare, lobato o irregolare, in particolare quando deriva dalla fusione di doline più piccole che, ingrandendosi per solubilizzazione progressiva delle pareti che le separavano, vengono a contatto con i loro contorni fino a unirsi insieme.  Le **uvala** sono depressioni molto grandi, dal contorno lobato e del diametro sovente superiore ai 1000m. Derivano dalla fusione di doline contigue, ciascuna in allargamento per corrosione progressiva delle pareti.  I **polje**, detti anche **foibe**, sono depressioni chiuse, di dimensioni enormi (anche decine di km2) con un fondo pianeggiante, a pendenza debolissima, raccordato con un angolo brusco a pareti erte.  Tra le forme del carsismo epigeo ricordiamo infine i **campi solcati**, detti anche campi carreggiati; sono zone calcaree che presentano numerosi solchi, più o meno paralleli e con profondità variabile da pochi centimetri a qualche metro, separati da creste ora arrotondate ora aguzze e taglienti; si originano per scorrimento e dissoluzione operata dalle acque meteoriche sulla superficie di rocce calcaree.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Dolinaprtp.jpg" title="Pulo di Altamura (dolina a imbuto)" >}}
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Uvala-Duboki-Dol_NVelebit_Dinarides_Croatia.jpg/1280px-Uvala-Duboki-Dol_NVelebit_Dinarides_Croatia.jpg" title="Duboki Dol (uvala)" >}}
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/d/de/Pazin_%28Fojba-Schlucht%29_2.jpg" title="Pazin (foiba)" >}}
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/d/da/Silberen_Detail.jpg" title="Campo solcato presso Silberen" >}}
+<div style="overflow-x:auto;" >
+<table>
+<caption>Esempi di carsismo epigeo.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Dolinaprtp.jpg" title="Pulo di Altamura (dolina a imbuto)"  >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Uvala-Duboki-Dol_NVelebit_Dinarides_Croatia.jpg/1280px-Uvala-Duboki-Dol_NVelebit_Dinarides_Croatia.jpg" title="Duboki Dol (uvala)"  >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/d/de/Pazin_%28Fojba-Schlucht%29_2.jpg" title="Pazin (foiba)"  >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/d/da/Silberen_Detail.jpg" title="Campo solcato presso Silberen"  >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Il carsismo ipogeo
 
@@ -85,7 +111,7 @@ Il carsismo ipogeo è oggetto di studio di una vera e propria scienza, la **spel
 
 **pozzi fusiformi**: o fusi, cavità allungate in senso verticale, assottigliate alle due estremità, si creano in corrispondenza agli spazi più ricchi di fratture **grotte**: formatesi per progressiva compenetrazione dei singoli pozzi fusiformi in espansione. La varietà delle forme, le diverse strutture che si formano in ragione dei processi corrosivo-deposizionali (a loro volta condizionati dal clima, dalla litologia, dalla tettonica, dalla geomorfologia) fanno delle grotte carsiche un ambiente molto caratteristico **gallerie**: lunghe condotte orizzontali **abissi**: pozzi a sviluppo verticale. All’interno delle grotte, l’anidride carbonica disciolta nelle acque può liberarsi (per esempio, perché aumenta la superficie evaporante dell’acqua, che esce dalle fessure in gocce, e nello stesso tempo diminuisce la pressione): perciò, il bicarbonato disciolto nelle acque si trasforma in carbonato di calcio, che precipita in una forma amorfa, detta alabastro, e origina così le stalattiti, le stalagmiti e le colonne. Le **stalattiti**: sono esili forme coniche o cilindriche, che pendono dalla volta della grotta, di lunghezza variabile da pochi centimetri a diversi metri; le stalattiti, per accrezione progressiva, aumentano di lunghezza e di diametro.  Le **stalagmiti**: sono forme mammellonari, a cupole sovrapposte, che si sviluppano sul pavimento della grotta là dove cade la goccia che si stacca dal soffitto. In questo caso è l’urto a terra a provocare la precipitazione del carbonato di calcio.  Le **colonne**: si formano per prolungamento verso il basso delle stalattiti e crescita verso l’alto delle stalagmiti; hanno diametro variabile e sono rastremate al centro.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Grotta_Gigante_2613.JPG/1024px-Grotta_Gigante_2613.JPG" title="Foto della Grotta Gigante, in cui sono visibili stalattiti, stalagmiti e colonne" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Grotta_Gigante_2613.JPG/1024px-Grotta_Gigante_2613.JPG" title="Esempi di carsismo ipogeo, la Grotta Gigante: stalattiti, stalagmiti e colonne" >}}
 
 ## L’azione geomorfologica del vento
 
@@ -115,10 +141,21 @@ I fiumi sono importanti agenti di modellamento della superficie terrestre, che a
 
 L’**attività erosiva di un fiume** dipende dalle caratteristiche delle rocce su cui scorre, dalla pendenza dell’alveo e dalla portata del fiume, caratteristiche queste ultime che determinano la velocità delle acque; inoltre, l’abrasione delle rocce da parte di un fiume è aumentata dalla presenza nelle acque dei materiali trasportati; a questa attività di tipo meccanico se ne aggiunge anche una di tipo chimico, di corrosione più o meno veloce delle rocce su cui l’acqua scorre.  Le forme di erosione tipiche di un fiume sono le valli fluviali e le cascate.  Le **valli fluviali** presentano un profilo trasversale a forma di “V”, poiché l’erosione fluviale è attiva solo lungo il fondovalle, dove si trova l’alveo del fiume, mentre sui fianchi della valle sono attivi fenomeni di degradazione meteorica, che in genere agiscono più lentamente (se l’erosione del fondovalle procede molto più rapidamente di quella dei fianchi, si origina una valle molto stretta, dai fianchi quasi verticali, a cui si dà il nome di **gola**).  Le **cascate** corrispondono a salti bruschi del letto fluviale, sovente dovuti a discontinuità tettoniche. Sono forme effimere,destinate ad attenuarsi per l’erosione della corrente. Questa, particolarmente energica data la velocità assunta nella caduta, nell’impatto alla base del gradino acquista un moto vorticoso e, grazie anche alla presenza di materiali grossolani trasportati, intaglia nella roccia affiorante delle cavità subsferiche, dette **marmitte dei giganti**, che favoriscono il crollo progressivo della scarpata. Nel tempo, la cascata si trasforma in una **rapida**, cioè un tratto di fiume a forte pendenza.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/080110_wolf_mosel.JPG/1024px-080110_wolf_mosel.JPG" title="Valle Mosella (Germania)" >}}
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Su_Gorropu_visto_dal_campo_base_Su_Gorroppu_SS125.jpg/640px-Su_Gorropu_visto_dal_campo_base_Su_Gorroppu_SS125.jpg" title="canyon Gorropu (Sardegna)" >}}
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Cascatemarmore.jpg" title="cascata delle Marmore (Umbria)" >}}
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gletschert%C3%B6pfe_in_Maloja.jpg/640px-Gletschert%C3%B6pfe_in_Maloja.jpg" title="Marmitta dei giganti a Maloja (Svizzera)" >}}
+<div style="overflow-x:auto;" >
+<table>
+<caption>Esempi di erosione fluviale.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/080110_wolf_mosel.JPG/1024px-080110_wolf_mosel.JPG" title="Valle Mosella (Germania)"  >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Su_Gorropu_visto_dal_campo_base_Su_Gorroppu_SS125.jpg/640px-Su_Gorropu_visto_dal_campo_base_Su_Gorroppu_SS125.jpg" title="canyon Gorropu (Sardegna)"  >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Cascatemarmore.jpg" title="cascata delle Marmore (Umbria)"  >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gletschert%C3%B6pfe_in_Maloja.jpg/640px-Gletschert%C3%B6pfe_in_Maloja.jpg" title="Marmitta dei giganti a Maloja (Svizzera)" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Le forme di deposito fluviale
 
@@ -153,9 +190,21 @@ Il ghiacciaio in movimento esercita un’intensa azione erosiva, chiamata **esar
 
 Tra le forme d’erosione dei ghiacciai si ricordano le valli glaciali, i circhi glaciali e le rocce montonate.  La **valle glaciale**: presenta un tipico profilo trasversale a “U”, con fondo largo e piatto e fianchi ripidi, dovuto al meccanismo erosivo del ghiacciaio, che, contrariamente a quanto avviene per un fiume, si esercita lungo tutta la sezione di contatto tra il ghiaccio e la roccia incassante.  Il **circo glaciale**: ha la forma di una conca, circondata su tre lati da una corona di creste e con soglia talora in contropendenza che la raccorda con il resto della valle glaciale. È scavato dal bacino collettore, che esercita una sorta di erosione regressiva sui versanti incassanti.  Le **rocce montonate**: sono dossi rocciosi arrotondati e allungati nella direzione di scorrimento del ghiaccio, costituiti da affioramenti di rocce più difficilmente erodibili e modellate dall’esarazione. L’abrasione vi scava solchi paralleli: dalla direzione del loro allungamento è possibile risalire alla direzione e al verso in cui è avvenuto il movimento del ghiacciaio.
 
-|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Quttinirtaaq_6_1997-08-05.jpg/1024px-Quttinirtaaq_6_1997-08-05.jpg" width="250" title="Valle glaciale di Nunavut (Canada)" >}}|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Thornton_Lakes_25982.JPG/640px-Thornton_Lakes_25982.JPG" width="250" title="Lago superiore di Thornton (Stato del Washington)" >}}
----|---
-|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Roche_Moutonn%C3%A9e_Cadair_Idris.jpg/640px-Roche_Moutonn%C3%A9e_Cadair_Idris.jpg" width="250" title="Roccia montonata (Galles)" >}}|{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pietra_Pendula.jpg/632px-Pietra_Pendula.jpg" width="250" title=" \"Pietra Pendula\" (Italia, Prealpi lombarde)" >}}
+<div style="overflow-x:auto;" >
+<table>
+<caption>Esempi di erosione dei ghiacciai.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Quttinirtaaq_6_1997-08-05.jpg/1024px-Quttinirtaaq_6_1997-08-05.jpg"  title="Valle glaciale di Nunavut (Canada)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Thornton_Lakes_25982.JPG/640px-Thornton_Lakes_25982.JPG"  title="Lago superiore di Thornton (Stato del Washington)" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Roche_Moutonn%C3%A9e_Cadair_Idris.jpg/640px-Roche_Moutonn%C3%A9e_Cadair_Idris.jpg"  title="Roccia montonata (Galles)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pietra_Pendula.jpg/632px-Pietra_Pendula.jpg"  title=" \"Pietra Pendula\" (Italia, Prealpi lombarde)" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Le forme di deposito dei ghiacciai
 
@@ -173,8 +222,17 @@ Mentre gli agenti geomorfologici prima considerati esercitano la loro azione su 
 
 L’attività erosiva del mare prende il nome di **abrasione marina** ed è dovuta non solo all’azione diretta delle onde, ma anche ai detriti che esse trasportano e che scagliano contro la costa.  Essa si manifesta soprattutto lungo le coste alte e rocciose, dove, per interferenza tra onda e fondale, l’azione dell’onda crea, in corrispondenza al livello medio del mare, un solco, detto **solco di battigia**, che va progressivamente approfondendosi; mancandole il sostegno, la parete rocciosa sovrastante crolla: il fenomeno è tipico delle **falesie**, coste alte e rocciose, a volte a strapiombo sul mare, che nel tempo arretrano verso il continente, lasciando il posto a una piattaforma d’erosione.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Staffa_ahead_14608.JPG/1024px-Staffa_ahead_14608.JPG" width="250" title="Falesie \"Staffa\", (Scozia)" >}}  |  {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Casoni-laguna-grado-agosto-2008.jpg/1024px-Casoni-laguna-grado-agosto-2008.jpg" width="250" title="Laguna di Grado" >}}
---|--
+<div style="overflow-x:auto;" >
+<table>
+<caption>Esempi di erosione del mare.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Staffa_ahead_14608.JPG/1024px-Staffa_ahead_14608.JPG"  title="Falesie \"Staffa\", (Scozia)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Casoni-laguna-grado-agosto-2008.jpg/1024px-Casoni-laguna-grado-agosto-2008.jpg"  title="Laguna di Grado" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Le forme di deposito del mare
 
@@ -186,9 +244,21 @@ La classificazione delle coste può basarsi sulla loro morfologia o sulla loro o
 
 **coste alte e profonde**: ripide, strapiombanti in mare a falesia, con scarpate verticali che continuano anche al di sotto del livello marino **coste alte con spiaggia**: dove a un tratto emerso molto alto segue un arenile che si sommerge gradualmente. Sovente derivano dalle prime, per crollo di parte del versante, accumulo alla base dei materiali provenienti dal crollo e loro ridistribuzione a opera dei movimenti marini **coste a ripe arretrate con spiaggia**: dove una spianata litoranea più o meno spaziosa è conclusa verso la terraferma da un gradino morfologico, che può avere origini diverse (una faglia, una scarpata di un antico terrazzo marino ecc.) **coste basse**: caratteristiche delle zone dove una pianura alluvionale costiera si sommerge gradualmente nello specchio marino antistante.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cabo_Girao.jpg/1024px-Cabo_Girao.jpg" width="250" title="Cabo Girão, Portogallo (costa alta e profonda)" >}}  |  {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%C3%89tretat%2C_Falaises_01.jpg/1024px-%C3%89tretat%2C_Falaises_01.jpg" width="250" title="Falesie di Etretat (costa alta con spiaggia)" >}}
---|--
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Tor_caldara.jpg" width="250" title="Costa Lavinio Lido di Enea, Roma (costa a ripa arretrata con spiaggia)" >}}  |  {{< figure src="https://upload.wikimedia.org/wikipedia/it/thumb/6/68/Spiaggia_di_Punta_Prosciutto.JPG/1024px-Spiaggia_di_Punta_Prosciutto.JPG" width="250" title="Spiaggia salentina (costa bassa)" >}}
+<div style="overflow-x:auto;" >
+<table>
+<caption>Tipi di coste, in base alla morfologia.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cabo_Girao.jpg/1024px-Cabo_Girao.jpg"  title="Cabo Girão, Portogallo (costa alta e profonda)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%C3%89tretat%2C_Falaises_01.jpg/1024px-%C3%89tretat%2C_Falaises_01.jpg"  title="Falesie di Etretat (costa alta con spiaggia)" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Tor_caldara.jpg"  title="Costa Lavinio Lido di Enea, Roma (costa a ripa arretrata con spiaggia)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/it/thumb/6/68/Spiaggia_di_Punta_Prosciutto.JPG/1024px-Spiaggia_di_Punta_Prosciutto.JPG"  title="Spiaggia salentina (costa bassa)" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 La **classificazione in base all’origine** tiene conto della genesi della costa; si distinguono:
 
@@ -196,6 +266,18 @@ La **classificazione in base all’origine** tiene conto della genesi della cost
 * **coste di origine morfologica**: dette **rias** se derivano da antiche valli fluviali, o fiordi, se derivano da valli glaciali, modellate durante le fasi di oscillazione del livello medio del mare collegate con le grandi glaciazioni (oscillazioni eustatiche), poi invase dall’ingressione marina durante periodi interglaciali
 * **coste di origine biologica**: che derivano dall’azione costruttiva degli organismi marini (barriere coralline). Le più importanti sono quelle tropicali di origine madreporica. Le barriere sono formazioni più estese, sviluppate parallelamente alle coste e separate da queste da una fascia di laguna. Le isole madreporiche hanno per lo più forma ad atollo, una corona circolare emersa, che racchiude una laguna centrale, collegata con il mare aperto attraverso una o più interruzioni.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Calaficarra.jpg/1024px-Calaficarra.jpg" width="250" title="Spiaggia \"nera\" Marina di Maratea" >}}  |  {{< figure src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Lipari_Bimstein_Steinbruch.jpg" width="250" title="Spiaggia di pomice (Lipari)" >}}
---|--
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ria_San-Vicente-de-la-Barquera.jpg/1024px-Ria_San-Vicente-de-la-Barquera.jpg" width="250" title=" \"Ria\" in Cantabria (Spagna)" >}}  |  {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lagoons_and_Reefs_of_New_Caledonia_May_10%2C_2001.jpg/1024px-Lagoons_and_Reefs_of_New_Caledonia_May_10%2C_2001.jpg" width="250" title="Barriera Corallina della Nuova Caledonia (Oceania)" >}}
+<div style="overflow-x:auto;" >
+<table>
+<caption>Tipi di coste, in base all'origine.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Calaficarra.jpg/1024px-Calaficarra.jpg"  title="Spiaggia \"nera\" Marina di Maratea" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Lipari_Bimstein_Steinbruch.jpg"  title="Spiaggia di pomice (Lipari)" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ria_San-Vicente-de-la-Barquera.jpg/1024px-Ria_San-Vicente-de-la-Barquera.jpg"  title=" \"Ria\" in Cantabria (Spagna)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lagoons_and_Reefs_of_New_Caledonia_May_10%2C_2001.jpg/1024px-Lagoons_and_Reefs_of_New_Caledonia_May_10%2C_2001.jpg"  title="Barriera Corallina della Nuova Caledonia (Oceania)" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>

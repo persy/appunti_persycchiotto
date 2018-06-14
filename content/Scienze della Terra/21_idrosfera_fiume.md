@@ -61,9 +61,21 @@ Per **bacino idrografico** di un fiume, detto anche bacino fluviale o bacino imb
 
 La **foce** di un fiume, cioè **la zona in cui esso confluisce in mare**, può assumere forme diverse a seconda della deposizione dei materiali che davanti a essa il fiume stesso ha eroso e trasportato e anche in funzione del moto ondoso, delle correnti marine e dell’entità delle maree, che invece contribuiscono ad allontanare i sedimenti, ridistribuendoli sulla piattaforma continentale (il primo tratto del fondale marino più vicino alla costa).  Dove le correnti e l’escursione di marea (differenza di livello tra l’alta marea e la bassa marea) sono forti, i materiali trasportati dal fiume vengono trascinati al largo e la foce assume una forma a imbuto, detta **estuario**: ciò si verifica soprattutto per i fiumi che sfociano in mari aperti o in oceani.  Dove l’escursione di marea o le correnti marine sono deboli, i materiali trasportati si depositano davanti alla foce, ostacolando il deflusso delle acque in mare: col tempo, i materiali sedimentati possono affiorare e formare sottili lembi di terra, che costringono il fiume a dividersi in più bracci prima di defluire in mare: questo tipo di foce prende il nome di **delta** ed è tipico dei fiumi che sfociano in mari chiusi.
 
-| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dead_Sea_by_David_Shankbone.jpg/1024px-Dead_Sea_by_David_Shankbone.jpg" width="250" title="Mar Morto (zona endoreica)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Desert-close-to-red-sea.jpg/1024px-Desert-close-to-red-sea.jpg" width="250" title="Deserto del Sahara orientale (zona areica)" >}} |
-| --- | --- |
-| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/CA-Estuario_y_desembocadura_r%C3%ADo_Pas_09.jpg/1024px-CA-Estuario_y_desembocadura_r%C3%ADo_Pas_09.jpg" width="250" title="Estuario (Rio Pas)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/A_view_down_into_the_Okavango_Delta.jpg/1024px-A_view_down_into_the_Okavango_Delta.jpg" width="250" title="Delta (Okavango" >}} |
+<div style="overflow-x:auto;" >
+<table>
+<caption>Bacini idrografici.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dead_Sea_by_David_Shankbone.jpg/1024px-Dead_Sea_by_David_Shankbone.jpg"  title="Mar Morto (zona endoreica)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Desert-close-to-red-sea.jpg/1024px-Desert-close-to-red-sea.jpg"  title="Deserto del Sahara orientale (zona areica)" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/CA-Estuario_y_desembocadura_r%C3%ADo_Pas_09.jpg/1024px-CA-Estuario_y_desembocadura_r%C3%ADo_Pas_09.jpg"  title="Estuario (Rio Pas)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/A_view_down_into_the_Okavango_Delta.jpg/1024px-A_view_down_into_the_Okavango_Delta.jpg"  title="Delta (Okavango" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## Le acque superficiali: i laghi
 
@@ -77,15 +89,31 @@ In base all’origine della conca che li accoglie, i laghi possono essere distin
 
 **laghi glaciali**: occupano conche scavate dall’azione erosiva dei ghiacciai; tra essi i più diffusi sono i **laghi di circo**, che occupano il fondo di un antico circo glaciale, la parte iniziale del bacino collettore di un ghiacciaio **laghi vallivi**: occupano la parte terminale di valli formatesi per escavazione glaciale (grandi laghi prealpini italiani) **laghi vulcanici**: che occupano crateri o caldere di vulcani spenti; tra essi ricordiamo i laghi di Bolsena, Bracciano, Albano, Nemi e Vico, nel Lazio **laghi carsici**: di piccole dimensioni e spesso temporanei, che si formano in una dolina (conca che si origina in una regione carsica per dissoluzione operata dall’acqua piovana sulle rocce calcaree),il cui fondo si impermeabilizza per l'accumularsi di depositi argillosi **laghi di origine tettonica**: che occupano il fondo di una fossa tettonica o di una sinclinale ; tra essi ricordiamo i grandi laghi dell’Africa orientale (Alberto, Tanganica e Niassa) **laghi di sbarramento**: che occupano una conca che si è formata per sbarramento di una valle in seguito all’accumulo di materiale di vario tipo: può trattarsi di morene, depositi di origine glaciale (**laghi morenici**), di cordoni sabbiosi litoranei (**laghi costieri**), di frane (**laghi di frana**) o di sbarramenti artificiali, quali le dighe, che impediscono alle acque di defluire liberamente.
 
----
-
-| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ForniAvoltriLagoBordaglia.jpg/1024px-ForniAvoltriLagoBordaglia.jpg" width="250" title="Lago Bordaglia (glaciale a circo)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/it/thumb/f/f5/Valle_del_Chiese.JPG/1024px-Valle_del_Chiese.JPG" width="250" title="Lago d'Idro (vallivo)" >}} |
-| --- | --- |
-| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/1lago_da_san_vittore.JPG/1024px-1lago_da_san_vittore.JPG" width="250" title="Lago di Bolsena (vulcanico)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Karst_italy_doberdo_lake.jpg/1024px-Karst_italy_doberdo_lake.jpg" width="250" title="Lago di Doberdò" >}} |
-| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lac_de_neuchatel.jpg/1024px-Lac_de_neuchatel.jpg" width="250" title="Lago Neuchâtel (tettonico)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Lago_di_Varese_al_tramonto.jpg" width="250" title="Lago di Varese (morenico)" >}} |
-| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MisenoLago1030343TAW.JPG/1024px-MisenoLago1030343TAW.JPG" width="250" title="Lago Miseno (costiero)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lago_di_Alleghe%2C_Belluno%2C_Italy.jpg/1024px-Lago_di_Alleghe%2C_Belluno%2C_Italy.jpg" width="250" title="Lago di Alleghe (sbarramento)" >}} |
-
-Tipi di lago.
+<div style="overflow-x:auto;" >
+<table>
+<caption>Tipi di lago.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ForniAvoltriLagoBordaglia.jpg/1024px-ForniAvoltriLagoBordaglia.jpg"  title="Lago Bordaglia (glaciale a circo)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/it/thumb/f/f5/Valle_del_Chiese.JPG/1024px-Valle_del_Chiese.JPG"  title="Lago d'Idro (vallivo)" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/1lago_da_san_vittore.JPG/1024px-1lago_da_san_vittore.JPG"  title="Lago di Bolsena (vulcanico)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Karst_italy_doberdo_lake.jpg/1024px-Karst_italy_doberdo_lake.jpg"  title="Lago di Doberdò" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lac_de_neuchatel.jpg/1024px-Lac_de_neuchatel.jpg"  title="Lago Neuchâtel (tettonico)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Lago_di_Varese_al_tramonto.jpg"  title="Lago di Varese (morenico)" >}}</td>
+</tr>
+<tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MisenoLago1030343TAW.JPG/1024px-MisenoLago1030343TAW.JPG"  title="Lago Miseno (costiero)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lago_di_Alleghe%2C_Belluno%2C_Italy.jpg/1024px-Lago_di_Alleghe%2C_Belluno%2C_Italy.jpg"  title="Lago di Alleghe (sbarramento)" >}}</td>
+</tr>
+<tr>
+</tbody>
+</table>
+</div>
 
 ### Evoluzione di un lago
 
@@ -97,11 +125,21 @@ I laghi sono una formazione idrologica temporanea della superficie terrestre e s
 * L’acqua si fa più torbida, il lago diventa sempre meno profondo e tende a divenire prima uno **stagno** (con bassa profondità e buona parte della superficie ricoperta da vegetazione), poi una **palude** (che può prosciugarsi completamente nella stagione secca), quindi una **torbiera** (con l’intera conca occupata da vegetazione inzuppata d’acqua) e infine si verifica l’interramento completo
 * La scomparsa di un lago può avvenire anche per altre cause rispetto al riempimento per sedimentazione: per eccesso di evaporazione, per insufficiente apporto idrico o per erosione dello sbarramento che ne aveva causato l’origine.
 
-| {{< figure src="https://upload.wikimedia.org/wikipedia/it/thumb/e/eb/Contovello-Stagno_005.jpg/1024px-Contovello-Stagno_005.jpg" width="250" title="Stagno di Contovello" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Padule_di_Bolgheri_%22marchese_Mario_Incisa_della_Rocchetta%22.jpg" width="250" title="Padule di Bolgeri" >}} |
-| :--------------------------------------: | :--------------------------------------: |
-| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palafitte_Biotopo_di_Fiav%C3%A8_6.JPG/1024px-Palafitte_Biotopo_di_Fiav%C3%A8_6.JPG" width="250" title="Torbiera di Fiavé" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aralship2.jpg/1024px-Aralship2.jpg" width="250" title="Lago Aral" >}} |
-
-Evoluzione di un lago.
+<div style="overflow-x:auto;" >
+<table>
+<caption>Evoluzione di un lago.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/it/thumb/e/eb/Contovello-Stagno_005.jpg/1024px-Contovello-Stagno_005.jpg"  title="Stagno di Contovello" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Padule_di_Bolgheri_%22marchese_Mario_Incisa_della_Rocchetta%22.jpg"  title="Padule di Bolgeri" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palafitte_Biotopo_di_Fiav%C3%A8_6.JPG/1024px-Palafitte_Biotopo_di_Fiav%C3%A8_6.JPG"  title="Torbiera di Fiavé" >}}</td>
+<td>{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aralship2.jpg/1024px-Aralship2.jpg"  title="Lago Aral" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## I ghiacciai
 
@@ -121,12 +159,25 @@ Il **limite delle nevi persistenti** è la quota oltre la quale è maggiore la q
 
 Il modello di ghiacciaio prima descritto corrisponde al ghiacciaio di tipo alpino; tuttavia, dal punto di vista morfogenetico, si possono distinguere diversi tipi di ghiacciaio, riuniti in **ghiacciai continentali,** o **inlandsis**, che costituiscono la quasi totalità delle aree occupate dai ghiacciai, e **ghiacciai montani**, che comprendono ghiacciai di tipo alpino, himalayano, alaskano, scandinavo e pirenaico.
 
-| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Inlandsis_rivi%C3%A8re_Groenland_2009_Exp%C3%A9dition_ACarr%C3%A9.JPG/1024px-Inlandsis_rivi%C3%A8re_Groenland_2009_Exp%C3%A9dition_ACarr%C3%A9.JPG" width="250" title="Inlandsis (Groenlandia)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Marmolada-Ghiacciaio.jpg" width="250" title="Alpino (Marmolada)" >}} |
-| --- | --- |
-| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Drang-Drung-Glacier.jpg" width="250" title="Himalayano (Tibet)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alaskan_glacier_and_ice_field.jpeg/1024px-Alaskan_glacier_and_ice_field.jpeg" width="250" title="Alascano (Alaska)" >}} |
-| {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Buerbreen.JPG/1024px-Buerbreen.JPG" width="250" title="Scandinavo (Norvegia)" >}} | {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flora_y_Maladeta.jpg/1024px-Flora_y_Maladeta.jpg" width="250" title="Pirenaico (Spagna)" >}} |
-
-Tipi di ghiacciai.
+<div style="overflow-x:auto;" >
+<table>
+<caption>Tipi di ghiacciai.</caption>
+<tbody>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Inlandsis_rivi%C3%A8re_Groenland_2009_Exp%C3%A9dition_ACarr%C3%A9.JPG/1024px-Inlandsis_rivi%C3%A8re_Groenland_2009_Exp%C3%A9dition_ACarr%C3%A9.JPG"  title="Inlandsis (Groenlandia)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Marmolada-Ghiacciaio.jpg"  title="Alpino (Marmolada)" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Drang-Drung-Glacier.jpg"  title="Himalayano (Tibet)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alaskan_glacier_and_ice_field.jpeg/1024px-Alaskan_glacier_and_ice_field.jpeg"  title="Alascano (Alaska)" >}}</td>
+</tr>
+<tr>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Buerbreen.JPG/1024px-Buerbreen.JPG"  title="Scandinavo (Norvegia)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flora_y_Maladeta.jpg/1024px-Flora_y_Maladeta.jpg"  title="Pirenaico (Spagna)" >}}</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Bilancio glaciale
 
@@ -138,16 +189,56 @@ Il ghiacciaio è un corpo dinamico, che nel tempo varia di dimensioni. Di tali c
 
 Mettendo in relazione tutte queste misurazioni, è possibile stabilire in quali aree nell’anno è prevalsa l’ablazione e dove invece è l’alimentazione a dominare (la misurazione del bilancio di massa è un’operazione complessa e lunga, che richiede molto tempo e mezzi cospicui).  Un **altro tipo di bilancio**, più parziale e approssimativo, che tuttavia ha un notevole significato statistico, è quello effettuato tramite la misurazione della variazione delle lingue glaciali. In Italia ogni anno sono tenuti sotto controllo circa 200 ghiacciai durante la Campagna Glaciologica organizzata dal Comitato Glaciologico Italiano.
 
-| Tipo               | Localizzazione                           | Caratteristiche particolari              |
-| ------------------ | ---------------------------------------- | ---------------------------------------- |
-| polare o inlandsis | Antartide, Groenlandia                   | ghiacciai grandiosi, che ricoprono estese superfici di terre emerse con uno spessore che supera i 4000 m, con fronti che si immergono nel mare (con 50-60 m di spessore per la parte emersa e oltre 300 m per la parte sommersa) |
-| alpino             | Alpi (soprattutto)                       | ghiacciai nei quali è bene evidente la distinzione fra il bacino collettore (esteso ed elevato) e il bacino ablatore, al disotto del limite delle nevi persistenti |
-| himalayano         | Himalaya, Karakoram, Pamir, Tibet        | ghiacciai con le stesse caratteristiche di quelli alpini, ma più imponenti e derivanti da più bacini collettori, che confluiscono in un’unica grande lingua glaciale |
-| alascano           | Alaska (in particolare)                  | ghiacciai costituiti da diverse “lingue” che percorrono valli glaciali parallele, che a un certo punto si riuniscono per formare, ai piedi del monte, un’unica fascia di ghiaccio di enormi dimensioni |
-| scandinavo         | Islanda, Alpi norvegesi, Montagne Rocciose | ghiacciai formati da un unico grande bacino collettore, da cui scendono numerose “lingue” che divergono a raggiera (in parte) |
-| pirenaico          | Pirenei (in particolare)                 | ghiacciai di modeste dimensioni, localizzati al di sopra del limite delle nevi persistenti, fatti quasi |
+<div style="overflow-x:auto;" class="TableData" >
+<table>
+<caption>Tipi di ghiacciai.</caption>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Localizzazione</th>
+<th>Caratteristiche particolari</th>
+</tr>
+</thead>
 
-Tipi di ghiacciai.
+<tbody>
+<tr>
+<td>polare o inlandsis</td>
+<td>Antartide, Groenlandia</td>
+<td>ghiacciai grandiosi, che ricoprono estese superfici di terre emerse con uno spessore che supera i 4000 m, con fronti che si immergono nel mare (con 50-60 m di spessore per la parte emersa e oltre 300 m per la parte sommersa)</td>
+</tr>
+
+<tr>
+<td>alpino</td>
+<td>Alpi (soprattutto)</td>
+<td>ghiacciai nei quali è bene evidente la distinzione fra il bacino collettore (esteso ed elevato) e il bacino ablatore, al disotto del limite delle nevi persistenti</td>
+</tr>
+
+<tr>
+<td>himalayano</td>
+<td>Himalaya, Karakoram, Pamir, Tibet</td>
+<td>ghiacciai con le stesse caratteristiche di quelli alpini, ma più imponenti e derivanti da più bacini collettori, che confluiscono in un’unica grande lingua glaciale</td>
+</tr>
+
+<tr>
+<td>alascano</td>
+<td>Alaska (in particolare)</td>
+<td>ghiacciai costituiti da diverse “lingue” che percorrono valli glaciali parallele, che a un certo punto si riuniscono per formare, ai piedi del monte, un’unica fascia di ghiaccio di enormi dimensioni</td>
+</tr>
+
+<tr>
+<td>scandinavo</td>
+<td>Islanda, Alpi norvegesi, Montagne Rocciose</td>
+<td>ghiacciai formati da un unico grande bacino collettore, da cui scendono numerose “lingue” che divergono a raggiera (in parte)</td>
+</tr>
+
+<tr>
+<td>pirenaico</td>
+<td>Pirenei (in particolare)</td>
+<td>ghiacciai di modeste dimensioni, localizzati al di sopra del limite delle nevi persistenti, fatti quasi</td>
+</tr>
+</tbody>
+
+</table></div>
 
 ### I ghiacciai circumpolari
 

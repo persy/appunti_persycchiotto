@@ -18,16 +18,61 @@ La genesi dei suoli è influenzata da alcuni fattori, tra i quali ricordiamo il 
 * **Natura delle rocce**: Dalla composizione chimica delle rocce dipendono le caratteristiche chimiche di un suolo. Inoltre, il loro maggiore o minore grado di compattezza determina la velocità di alterazione e di formazione dei suoli
 * **Giacitura del suolo**: Con questo termine si indica la pendenza di un suolo; in presenza di forti pendenze, i materiali provenienti dalla degradazione delle rocce non si accumulano in loco, ma vengono facilmente allontanati dalla forza di gravità o asportati dalle acque dilavanti. In simili situazioni non possono formarsi suoli di notevole spessore; il materiale asportato può accumularsi alla base del pendio, dando origine alla **coltre colluviale**. Altre volte può arrivare fino alle acque incanalate del reticolo idrografico, essere trasportato dai fiumi sotto forma di torbida e, successivamente, essere sedimentato formando una **coltre alluvionale**. In zone pianeggianti possono invece formarsi suoli di spessore maggiore, poiché i materiali di degradazione della roccia rimangono in loco e subiscono un’ulteriore alterazione anche a opera di organismi viventi.
 
-|Tipi di suolo |Caratteristiche
----|---
-|non evoluti |a minerali greggi, presenti nelle regioni artiche e desertiche
-|poco evoluti o ranker |sono suoli giovani, che giacciono direttamente su una roccia madre silicea, tipici delle regioni di alta montagna
-|calcarei |si formano su rocce ricche in carbonato di calcio. Tra i suoli calcarei vi sono i **cernozem**, terre nere di fertilità eccezionale, che si trovano nelle steppe della Russia meridionale. Si formano nella zona temperata continentale a scarsa piovosità (meno di 400 mm all’anno), dove vi è una fitta copertura di graminacee xerofile che forniscono abbondante materiale organico, ricco di calcio. Un altro tipo di suolo calcareo è il rendzina, che si può formare in qualunque tipo di clima. È costituito da un solo orizzonte con copertura erbosa secca, in quanto manca di riserve di acqua
-|evoluti a mull |un tipo di humus della zona temperata, caratteristico delle foreste di latifoglie |evoluti a podsol |tipici di climi umidi e temperati freddi, caratterizzati dalla presenza di un orizzonte grigio chiaro che contiene solo silice, che è sottostante a un orizzonte organico formato da sostanze vegetali non totalmente decomposte. Costituiscono la metà dei terreni europei e in Italia si trovano ai piedi delle Alpi e in diverse aree della pianura
-|lateritici |molto ricchi in ossidi di ferro o di alluminio, che si formano in climi caldi con alternanze di periodi secchi e umidi, sono tipici dei territori tropicali deforestati
-|alomorfi |caratterizzati dalla presenza di un livello di sale
-|idromorfi |caratterizzati dalla presenza temporanea o permanente dell’acqua. In questo tipo di suoli vi è sempre un orizzonte nel quale l’elevato grado di umidità porta a una forte concentrazione di argilla e di ossidi di ferro, denominato orizzonte glej
-|idromorfi organici | caratterizzati da un intreccio di fibre e frammenti di vegetali più o meno carbonizzati con un’elevata percentuale di acqua. Da questi suoli possono trarre origine le torbe
+<div style="overflow-x:auto;" class="TableData" >
+<table>
+<caption>Le varie tipologie e caratteristiche dei suoli.</caption>
+
+<thead>
+<tr>
+<th>Tipi di suolo</th>
+<th>Caratteristiche</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>non evoluti</td>
+<td>a minerali greggi, presenti nelle regioni artiche e desertiche</td>
+</tr>
+
+<tr>
+<td>poco evoluti o ranker</td>
+<td>sono suoli giovani, che giacciono direttamente su una roccia madre silicea, tipici delle regioni di alta montagna</td>
+</tr>
+
+<tr>
+<td>calcarei</td>
+<td>si formano su rocce ricche in carbonato di calcio. Tra i suoli calcarei vi sono i <strong>cernozem</strong>, terre nere di fertilità eccezionale, che si trovano nelle steppe della Russia meridionale. Si formano nella zona temperata continentale a scarsa piovosità (meno di 400 mm all’anno), dove vi è una fitta copertura di graminacee xerofile che forniscono abbondante materiale organico, ricco di calcio. Un altro tipo di suolo calcareo è il rendzina, che si può formare in qualunque tipo di clima. È costituito da un solo orizzonte con copertura erbosa secca, in quanto manca di riserve di acqua</td>
+</tr>
+
+<tr>
+<td>evoluti a mull</td>
+<td>un tipo di humus della zona temperata, caratteristico delle foreste di latifoglie</td>
+</tr>
+
+<tr>
+<td>lateritici</td>
+<td>molto ricchi in ossidi di ferro o di alluminio, che si formano in climi caldi con alternanze di periodi secchi e umidi, sono tipici dei territori tropicali deforestati</td>
+</tr>
+
+<tr>
+<td>alomorfi</td>
+<td>caratterizzati dalla presenza di un livello di sale</td>
+</tr>
+
+<tr>
+<td>idromorfi</td>
+<td>caratterizzati dalla presenza temporanea o permanente dell’acqua. In questo tipo di suoli vi è sempre un orizzonte nel quale l’elevato grado di umidità porta a una forte concentrazione di argilla e di ossidi di ferro, denominato orizzonte glej</td>
+</tr>
+
+<tr>
+<td>idromorfi organici</td>
+<td>caratterizzati da un intreccio di fibre e frammenti di vegetali più o meno carbonizzati con un’elevata percentuale di acqua. Da questi suoli possono trarre origine le torbe</td>
+</tr>
+</tbody>
+
+</table>
+</div>
 
 ## La composizione dei suoli
 
@@ -162,7 +207,7 @@ Con questo termine si indicano **condizioni di degrado del territorio tali da pr
 
 Comunemente, per **alluvione** s’intende lo **straripamento delle acque di un fiume o di un torrente**, che si manifesta **in zone pianeggianti in occasioni di piene improvvise**, provocate da precipitazioni di eccezionale durata o intensità: **più precisamente** esse **vengono indicate col termine di inondazioni** (in geologia, il termine alluvione indica l’accumulo di detriti inorganici e organici che il corso d’acqua deposita man mano che perde velocità).  Dopo essere stata assorbita dal suolo, fino alla sua saturazione, l’acqua piovana scorre in superficie, raggiungendo rapidamente il fondovalle e incrementando di colpo la portata dei torrenti e dei fiumi, da cui straripa se gli argini non sono sufficientemente alti.  Se da un lato il **rischio alluvionale** è legato alle caratteristiche del territorio e ai fenomeni meteorologici, tuttavia alcuni interventi umani aumentano la possibilità che le alluvioni si verifichino. Per esempio, il **disboscamento** favorisce l’incremento della velocità di ruscellamento (scorrimento) delle acque piovane e, con essa, anche la quantità di detriti che le acque erodono e trasportano nei corsi d’acqua: questi materiali si depositano soprattutto nel basso corso del fiume e contribuiscono a innalzarne il letto fino alla **formazione dei fiumi pensili**, il cui letto fluviale è più alto della pianura circostante. L’incauta **cementificazione** dell’alveo dei fiumi fa aumentare la velocità di scorrimento delle acque fluviali. In questo modo giungono a fondovalle e nelle pianure masse d’acqua assai superiori all’effettiva capacità dell’alveo e si determina l’inondazione, il cui rischio aumenta se il fiume è pensile.  La probabilità che si verifichino delle alluvioni si riduce attraverso opportune **opere di prevenzione**: tra esse distinguiamo **interventi a monte**, tesi a consolidare i pendii (intensificare il rimboschimento o sistemare gabbioni e reti metalliche di contenimento) e a ridurre la velocità delle acque (ridurre le pendenze del territorio per mezzo di terrazzamenti o regimare le acque di un torrente mediante delle briglie), e **interventi a valle** (lasciare libere da costruzioni le zone golenali, cioè quelle in cui i fiumi sfogano le loro piene, innalzare gli argini e, dove è possibile, dragare il letto dei fiumi per asportare l’eccessivo accumulo di detriti).
 
-{{< figure src="https://images.wired.it/wp-content/uploads/2014/10/1413456992_carta-idrogeo.jpg" title="Carta del rischio di frane, valanghe e alluvioni in Italia" >}}
+{{< figure src="https://i.imgur.com/EbGZCj0.jpg" title="Carta del rischio di frane, valanghe e alluvioni in Italia" >}}
 
 #### Le frane
 

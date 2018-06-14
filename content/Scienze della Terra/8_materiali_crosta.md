@@ -134,20 +134,20 @@ Non tutti i minerali sono ugualmente frequenti in natura: le specie dei minerali
 <table>
     <caption>Esempi di minerali</caption>
     <tr>
-    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Native_Copper_Macro_Digon3-crop.jpg/1133px-Native_Copper_Macro_Digon3-crop.jpg" width="250" title="Rame nativo" >}}</td>
-    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/9/93/Fluorite-Galena-flu35c.jpg" width="250" title="Galena (solfuro)" >}}</td>
+    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Native_Copper_Macro_Digon3-crop.jpg/1133px-Native_Copper_Macro_Digon3-crop.jpg"  title="Rame nativo" >}}</td>
+    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/9/93/Fluorite-Galena-flu35c.jpg"  title="Galena (solfuro)" >}}</td>
   </tr>
   <tr>
-    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Halite-282334.jpg" width="250" title="Halite (alogenuro)" >}}</td>
-    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ematite%2C_da_rio_marina%2C_elba.JPG/615px-Ematite%2C_da_rio_marina%2C_elba.JPG" width="250" title="Ematite (ossido)" >}}</td>
+    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Halite-282334.jpg"  title="Halite (alogenuro)" >}}</td>
+    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ematite%2C_da_rio_marina%2C_elba.JPG/615px-Ematite%2C_da_rio_marina%2C_elba.JPG"  title="Ematite (ossido)" >}}</td>
   </tr>
   <tr>
-    <td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Kutnohorite-Calcite-122393.jpg" width="250" title="Calcite (carbonite)" >}}<br><br><br></td>
-    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rose_des_sables.jpg/640px-Rose_des_sables.jpg" width="250" title="Rosa del deserto di gesso (solfato)" >}}</td>
+    <td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Kutnohorite-Calcite-122393.jpg"  title="Calcite (carbonite)" >}}<br><br><br></td>
+    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rose_des_sables.jpg/640px-Rose_des_sables.jpg"  title="Rosa del deserto di gesso (solfato)" >}}</td>
   </tr>
   <tr>
-    <td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Apatite.JPG/640px-Apatite.JPG" width="250" title="Apatite (fostafo)" >}}</td>
-    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kyanite_crystals.jpg/640px-Kyanite_crystals.jpg" width="250" title="Cianite" >}}</td>
+    <td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Apatite.JPG/640px-Apatite.JPG"  title="Apatite (fostafo)" >}}</td>
+    <td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kyanite_crystals.jpg/640px-Kyanite_crystals.jpg"  title="Cianite" >}}</td>
   </tr>
 </table>
 </div>
@@ -235,18 +235,18 @@ Il processo di formazione dei minerali è detto **minerogenesi** e può avvenire
 <tbody>
 
 <tr>
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Etna_2006.jpg/640px-Etna_2006.jpg" width="250" title="M. magmatica" >}}
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Etna_2006.jpg/640px-Etna_2006.jpg"  title="M. magmatica" >}}
 </td>
 
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Solfatara_volcano_Fumarole_6791.JPG/640px-Solfatara_volcano_Fumarole_6791.JPG" width="250" title="M. per sublimazione" >}}
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Solfatara_volcano_Fumarole_6791.JPG/640px-Solfatara_volcano_Fumarole_6791.JPG"  title="M. per sublimazione" >}}
 </td>
 </tr>
 
 <tr>
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Saline_di_Trapani_-_raccolta_del_sale.jpg" width="250" title="M. da soluzione" >}}
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Saline_di_Trapani_-_raccolta_del_sale.jpg"  title="M. da soluzione" >}}
 </td>
 
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/The_Mir_mine_in_Yakutia.JPG/640px-The_Mir_mine_in_Yakutia.JPG" width="250" title="M. per trasformazione" >}}
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/The_Mir_mine_in_Yakutia.JPG/640px-The_Mir_mine_in_Yakutia.JPG"  title="M. per trasformazione" >}}
 </td>
 </tr>
 
@@ -261,24 +261,24 @@ Raramente i minerali si trovano isolati sulla crosta terrestre; più **spesso i 
 
 **Rocce ignee**, o **magmatiche**:: derivano dal raffreddamento e dalla solidificazione del magma, massa fluida ad altissima temperatura proveniente dall’interno della Terra e spinta verso l’esterno.  **Rocce sedimentarie**:: si originano per sedimentazione di materiali di varia provenienza, quali frammenti derivanti dalla degradazione di tutte le rocce della crosta terrestre, resti di organismi viventi o sali disciolti nelle acque e poi precipitati in seguito a evaporazione dell’acqua.  **Rocce metamorfiche**:: derivano dal metamorfismo, cioè una profonda trasformazione di rocce preesistenti, provocato da un aumento di temperatura e di pressione a cui le rocce vengono sottoposte in seguito ai movimenti ai quali è soggetta la crosta terrestre (movimenti tettonici).  Nel corso delle ere geologiche, le rocce non si mantengono inalterate, ma subiscono continuamente l’azione di fenomeni che provocano la trasformazione di un gruppo di rocce in un altro: si compie cioè, in tempi lunghissimi, un **ciclo di trasformazione delle rocce** detto **ciclo litogenetico**.
 
-<div style="overflow-x:auto;">
+<div>
 <table>
 <caption>Tipi di rocce.</caption>
 <tbody>
 
 <tr>
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Granito.jpg/596px-Granito.jpg" width="250" title="Granito (roccia ignea)" >}}
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Granito.jpg/596px-Granito.jpg"  title="Granito (roccia ignea)" >}}
 </td>
 
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/DachsteinkalkBivalvia.jpg/640px-DachsteinkalkBivalvia.jpg" width="250" title="Calcare (roccia sedimentaria)" >}}
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/DachsteinkalkBivalvia.jpg/640px-DachsteinkalkBivalvia.jpg"  title="Calcare (roccia sedimentaria)" >}}
 </td>
 </tr>
 
 <tr>
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Stadtroda_Sandstein.jpg/640px-Stadtroda_Sandstein.jpg" width="250" title="Arenaria (roccia sedimentaria)" >}}
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Stadtroda_Sandstein.jpg/640px-Stadtroda_Sandstein.jpg"  title="Arenaria (roccia sedimentaria)" >}}
 </td>
 
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sample_of_Quartzite.JPG/688px-Sample_of_Quartzite.JPG" width="250" title="Quarzite (roccia metamorfica)" >}}
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sample_of_Quartzite.JPG/688px-Sample_of_Quartzite.JPG"  title="Quarzite (roccia metamorfica)" >}}
 </td>
 </tr>
 </tbody>

@@ -114,8 +114,8 @@ Il termine deriva dal greco **déndron**, albero e chrónos, tempo e indica un m
 <table>
 <caption></caption>
 <tbody>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/3/39/Varve1.gif" width="250" title="Varve del Pleistocene a Scarboro Bluffs, Ontario. Le varve più larghe sono spesse più di mezzo pollice" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pine_tree_rings.JPG/800px-Pine_tree_rings.JP" width="250" title="Ceppo di pino con in evidenza gli anelli di accrescimento annuale." >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/3/39/Varve1.gif"  title="Varve del Pleistocene a Scarboro Bluffs, Ontario. Le varve più larghe sono spesse più di mezzo pollice" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pine_tree_rings.JPG/800px-Pine_tree_rings.JP"  title="Ceppo di pino con in evidenza gli anelli di accrescimento annuale." >}}</td>
 </tbody>
 </table>
 </div>

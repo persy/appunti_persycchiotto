@@ -130,7 +130,7 @@ La genesi e le specifiche fisiche permettono di distinguere:
 
 L’esplorazione dei fondali oceanici ha ricevuto un notevole impulso dalle numerose spedizioni avvenute negli anni ’60 e ’70: essa ha rivelato l’esistenza di “paesaggi” alquanto vari e complessi, fino ad allora sconosciuti, almeno alle maggiori profondità.  Procedendo dalla linea di costa verso il fondo, si estende, per un tratto più o meno breve, la **piattaforma continentale** (in genere fino all’isobata dei 200 m), seguita da una **scarpata** più o meno declive (con pendenza media dai 3° ai 5°), che scende fino alle **piane abissali** (oltre i 3000-5000 m di profondità). Queste ultime, a loro volta, possono essere percorse da vere e proprie catene montuose (le **dorsali oceaniche**), corrispondenti alle zone di risalita dei magmi, o costellate di rilievi isolati, a volte emergenti a formare singole isole o arcipelaghi. Le piane abissali possono anche essere interrotte da profonde **fosse**, o **abissi** (che scendono fino ai 6000-11000 m di profondità), corrispondenti a grandi fratture litosferiche o a linee di subduzione al margine di due placche contrapposte.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Oceanic_divisions.svg/1024px-Oceanic_divisions.svg.png" title="Morfologia del fondale marino" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Oceanic_divisions.svg/1024px-Oceanic_divisions.svg.png" title="Morfologia del fondale marino" width="500" >}}
 
 ### I sedimenti marini
 

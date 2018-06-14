@@ -1128,4 +1128,9 @@ td:nth-child(1) {
     font-weight: bold /* first table col is bold */
 }
 
+td figure {
+    width: 250px;
+    margin-left: 5em;
+    margin-right:5em; /* max width images in tables */
+}
 /*# sourceMappingURL=theme.css.map */

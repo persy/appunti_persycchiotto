@@ -50,15 +50,67 @@ Il petrolio è una complessa miscela di idrocarburi naturali solidi, liquidi e g
 
 Le **risorse minerarie sono non rinnovabili**, cioè non possono essere ricostituite via via che vengono consumate o, meglio, non possono essere ricostituite con la stessa velocità con cui vengono consumate. Infatti, per la loro rigenerazione sono richiesti periodi lunghissimi: basti pensare, per esempio, ai tempi richiesti per la formazione dei giacimenti di carbone e di petrolio che stiamo sfruttando attualmente.  Le **riserve** di tali risorse, cioè le quantità presenti in giacimenti sfruttabili con le tecnologie di cui oggi disponiamo, non sono illimitate e, supponendo che i consumi proseguano ai livelli attuali, esse potrebbero esaurirsi in tempi relativamente brevi.  Pur tenendo conto che le riserve totali stimate sono superiori a quelle attualmente sfruttabili con le tecnologie disponibili, si impone in ogni caso come obiettivo prioritario un uso più razionale delle risorse minerali, sia attraverso la **riduzione dei consumi**, sia attraverso il recupero e il riciclo dei materiali metallici usati.
 
-Miniere |I |II
----|---|---
-|alluminio |256 |805
-|rame |41 |277
-|cobalto |109 |429
-|molibdeno |67 |256
-|nichel |66 |163
-|gruppo del platino |225 |413
-|carbone |206 |3226
-|petrolio |35 |83
+<div style="overflow-x:auto;" class="TableData" >
+<table>
+<caption>Stima della durata di alcune risorse minerarie ai tassi di consumo attuali (durata in anni); I: riserve vantaggiosamente sfruttabili con le tecnologie attuali; II: riserve totali stimate.</caption>
 
-Stima della durata di alcune risorse minerarie ai tassi di consumo attuali (durata in anni); I: riserve vantaggiosamente sfruttabili con le tecnologie attuali; II: riserve totali stimate.
+<thead>
+<tr>
+<th>Miniere</th>
+<th>I</th>
+<th>II</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>alluminio</td>
+<td>256</td>
+<td>805</td>
+</tr>
+
+<tr>
+<td>rame</td>
+<td>41</td>
+<td>277</td>
+</tr>
+
+<tr>
+<td>cobalto</td>
+<td>109</td>
+<td>429</td>
+</tr>
+
+<tr>
+<td>molibdeno</td>
+<td>67</td>
+<td>256</td>
+</tr>
+
+<tr>
+<td>nichel</td>
+<td>66</td>
+<td>163</td>
+</tr>
+
+<tr>
+<td>gruppo del platino</td>
+<td>225</td>
+<td>413</td>
+</tr>
+
+<tr>
+<td>carbone</td>
+<td>206</td>
+<td>3226</td>
+</tr>
+
+<tr>
+<td>petrolio</td>
+<td>35</td>
+<td>83</td>
+</tr>
+</tbody>
+
+</table>
+</div>

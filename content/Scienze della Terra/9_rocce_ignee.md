@@ -50,23 +50,23 @@ Dalla composizione chimica dei magmi dipende anche la **composizione mineralogic
 <tbody>
 
 <tr>
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Rocks_-_Alkali_feldspar_granite.JPG" width="250" title="Granito ad alcali-feldspati" >}}</td>
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/RhyoliteUSGOV.jpg" width="250" title="Riolite" >}}</td>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Rocks_-_Alkali_feldspar_granite.JPG"  title="Granito ad alcali-feldspati" >}}</td>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/RhyoliteUSGOV.jpg"  title="Riolite" >}}</td>
 </tr>
 
 <tr>
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Diorite.jpg" width="250" title="Diorite" >}}</td>
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Sierra_Grande_Andesite.jpg" width="250" title="Andesite" >}}</td>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Diorite.jpg"  title="Diorite" >}}</td>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Sierra_Grande_Andesite.jpg"  title="Andesite" >}}</td>
 </tr>
 
 <tr>
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/9/90/1gabbro.jpg" width="250" title="Gabbro eufodite" >}}</td>
-<td>{{< figure  src="https://c1.staticflickr.com/9/8681/16540710327_4eefa49955_b.jpg" width="250" title="Basalto con amigdale" >}}</td>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/9/90/1gabbro.jpg"  title="Gabbro eufodite" >}}</td>
+<td>{{< figure  src="https://c1.staticflickr.com/9/8681/16540710327_4eefa49955_b.jpg"  title="Basalto con amigdale" >}}</td>
 </tr>
 
 <tr>
-<td>{{< figure  src="https://c1.staticflickr.com/4/3947/15614514062_59967ae9e8_b.jpg" width="250" title="Peridotite con olivina" >}}</td>
-<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Oceanite_grand_brule_dsc03601.jpg/640px-Oceanite_grand_brule_dsc03601.jpg" width="250" title="Picrite" >}}</td>
+<td>{{< figure  src="https://c1.staticflickr.com/4/3947/15614514062_59967ae9e8_b.jpg"  title="Peridotite con olivina" >}}</td>
+<td>{{< figure  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Oceanite_grand_brule_dsc03601.jpg/640px-Oceanite_grand_brule_dsc03601.jpg"  title="Picrite" >}}</td>
 </tr>
 
 </tbody>

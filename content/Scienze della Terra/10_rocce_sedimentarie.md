@@ -19,16 +19,16 @@ Le rocce clastiche (dal greco **klázo**, rompo), dette anche **detritiche**, si
 <caption>Tipi di roccia sedimentaria.</caption>
 <tbody>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Roxbury_conglomerate.jpg/640px-Roxbury_conglomerate.jpg" width="250" title="Puddinga" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Breccia_mcr1.jpg/640px-Breccia_mcr1.jpg" width="250" title="Breccia"  >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Roxbury_conglomerate.jpg/640px-Roxbury_conglomerate.jpg"  title="Puddinga" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Breccia_mcr1.jpg/640px-Breccia_mcr1.jpg"  title="Breccia"  >}}</td>
 </tr>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Permian-Triassic_boundary.jpg/640px-Permian-Triassic_boundary.jpg" width="250" title="Arenaria"  >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Carmel_Formation_below_Entrada_Sandstone_along_Park_Avenue_in_Arches_NP.jpeg/640px-Carmel_Formation_below_Entrada_Sandstone_along_Park_Avenue_in_Arches_NP.jpeg" width="250" title="Arenaria"  >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Permian-Triassic_boundary.jpg/640px-Permian-Triassic_boundary.jpg"  title="Arenaria"  >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Carmel_Formation_below_Entrada_Sandstone_along_Park_Avenue_in_Arches_NP.jpeg/640px-Carmel_Formation_below_Entrada_Sandstone_along_Park_Avenue_in_Arches_NP.jpeg"  title="Arenaria"  >}}</td>
 </tr>
 <tr>
-<td>{{< figure src="https://c1.staticflickr.com/9/8639/15662851289_024c077c97_b.jpg" width="250" title="Siltite"  >}}</td>
-<td>{{< figure src="https://c1.staticflickr.com/6/5761/31040804106_407f9fa550_b.jpg" width="250" title="Argillite"  >}}</td>
+<td>{{< figure src="https://c1.staticflickr.com/9/8639/15662851289_024c077c97_b.jpg"  title="Siltite"  >}}</td>
+<td>{{< figure src="https://c1.staticflickr.com/6/5761/31040804106_407f9fa550_b.jpg"  title="Argillite"  >}}</td>
 </tr>
 </tbody></table></div>
 
@@ -79,12 +79,12 @@ Le rocce sedimentarie organogene possono derivare dalla sedimentazione di resti 
 <caption>Tipi di rocce organogeniche</caption>
 <tbody>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Miorcani_flint.jpg/522px-Miorcani_flint.jpg" width="250" title="Selce" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Roccia_sedimentaria_organogena_calcare_fossilifero.jpg" width="250" title="Calcare"  >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Miorcani_flint.jpg/522px-Miorcani_flint.jpg"  title="Selce" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Roccia_sedimentaria_organogena_calcare_fossilifero.jpg"  title="Calcare"  >}}</td>
 </tr>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Makroforaminiferoak.jpg/640px-Makroforaminiferoak.jpg" width="250" title="Calcare"  >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mineral_Lignito_GDFL028.jpg/640px-Mineral_Lignito_GDFL028.jpg" width="250" title="Lignite"  >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Makroforaminiferoak.jpg/640px-Makroforaminiferoak.jpg"  title="Calcare"  >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mineral_Lignito_GDFL028.jpg/640px-Mineral_Lignito_GDFL028.jpg"  title="Lignite"  >}}</td>
 </tr>
 </tbody>
 </table>
@@ -164,16 +164,16 @@ Alcuni fra i più caratteristici ambienti continentali, numerosi e tra loro molt
 <caption>Ambienti continentali (primi 4) e ambienti di transizione (ultimi 2).</caption>
 <tbody>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Libya_4983_Tadrart_Acacus_Luca_Galuzzi_2007.jpg/640px-Libya_4983_Tadrart_Acacus_Luca_Galuzzi_2007.jpg" width="250" title="Le dune del deserto marocchino" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gruentensee_de.jpg/566px-Gruentensee_de.jpg" width="250" title="Lago Grüntensee (Baviera)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Libya_4983_Tadrart_Acacus_Luca_Galuzzi_2007.jpg/640px-Libya_4983_Tadrart_Acacus_Luca_Galuzzi_2007.jpg"  title="Le dune del deserto marocchino" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gruentensee_de.jpg/566px-Gruentensee_de.jpg"  title="Lago Grüntensee (Baviera)" >}}</td>
 </tr>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gro%C3%9Fglockner_Hochalpenstra%C3%9Fe_Gletscher.jpg/640px-Gro%C3%9Fglockner_Hochalpenstra%C3%9Fe_Gletscher.jpg" width="250" title="Morena del ghiacciaio Großglockner (Carinzia)" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/A_view_from_Ganden.jpg/640px-A_view_from_Ganden.jpg" width="250" title="Piana alluvionale di Ganden, Tibet" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gro%C3%9Fglockner_Hochalpenstra%C3%9Fe_Gletscher.jpg/640px-Gro%C3%9Fglockner_Hochalpenstra%C3%9Fe_Gletscher.jpg"  title="Morena del ghiacciaio Großglockner (Carinzia)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/A_view_from_Ganden.jpg/640px-A_view_from_Ganden.jpg"  title="Piana alluvionale di Ganden, Tibet" >}}</td>
 </tr>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/it/thumb/7/75/Laguna_nuvole.JPG/640px-Laguna_nuvole.JPG" width="250" title="Laguna veneta" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Delta_Po_Boccasette.JPG/640px-Delta_Po_Boccasette.JPG" width="250" title="Delta del Po" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/it/thumb/7/75/Laguna_nuvole.JPG/640px-Laguna_nuvole.JPG"  title="Laguna veneta" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Delta_Po_Boccasette.JPG/640px-Delta_Po_Boccasette.JPG"  title="Delta del Po" >}}</td>
 </tr>
 </tbody>
 </table>
@@ -193,12 +193,12 @@ Sono gli ambienti più estesi e anche quelli che presentano una maggiore variet�
 <caption>Ambienti marini.</caption>
 <tbody>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Litorale_di_ugento.jpg/640px-Litorale_di_ugento.jpg" width="250" title="Litorale di Ugento (Puglia)" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mudflats_around_Mont_Saint-Michel.jpg/640px-Mudflats_around_Mont_Saint-Michel.jpg" width="250" title="Melma attorno a Mont Saint Michele durante la bassa marea" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Litorale_di_ugento.jpg/640px-Litorale_di_ugento.jpg"  title="Litorale di Ugento (Puglia)" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mudflats_around_Mont_Saint-Michel.jpg/640px-Mudflats_around_Mont_Saint-Michel.jpg"  title="Melma attorno a Mont Saint Michele durante la bassa marea" >}}</td>
 </tr>
 <tr>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Paramuricea_clavata.JPG" width="250" title="Fondale marino" >}}</td>
-<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hexanchus_griseus_santa_rosa.jpg/1280px-Hexanchus_griseus_santa_rosa.jpg" width="250" title="Abisso" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Paramuricea_clavata.JPG"  title="Fondale marino" >}}</td>
+<td>{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hexanchus_griseus_santa_rosa.jpg/1280px-Hexanchus_griseus_santa_rosa.jpg"  title="Abisso" >}}</td>
 </tr>
 </tbody>
 </table>
