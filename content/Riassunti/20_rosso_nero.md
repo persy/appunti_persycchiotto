@@ -4,7 +4,16 @@ draft: false
 weight: 20
 ---
 
+« Un romanzo è uno specchio che passa per una via maestra e ora riflette al vostro occhio l'azzurro dei cieli ora il fango dei pantani. E l'uomo che porta lo specchio nella sua gerla sarà da voi accusato di essere immorale! Lo specchio mostra il fango e voi accusate lo specchio! Accusate piuttosto la strada in cui è il pantano, e più ancora l'ispettore stradale che lascia ristagnar l'acqua e il formarsi di pozze. »
+(Stendhal, Il rosso e il nero)
 
+Il rosso e il nero (titolo originale, Le Rouge et le Noir, con due sottotitoli: Chronique du XIXe siècle e Chronique de 1830) è un romanzo dello scrittore francese Stendhal.
+
+Il manoscritto fu venduto per 1500 franchi all'editore Levasseur che lo pubblicò in due tomi a Parigi nel novembre del 1830 con data 1831.
+
+La storia viene ripresa da Stendhal da un fatto di cronaca. L'autore infatti aveva letto di un giovane che uccise l'ex amante sulla rivista "La Gazette des Tribunaux".
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/2/2b/StendhalRedandBlack04.jpg" title="Illustrazione di Henri Dubouchet, 1884" >}}
 
 ## Contesto
 
@@ -12,12 +21,7 @@ Il rosso e il nero, pubblicato nel 1830, è il secondo romanzo di Stendhal, dopo
 
 Il rosso e il nero è un romanzo realistico, avente come trama la struttura sociale della Francia immediatamente precedente la rivoluzione del 1830, le opposizioni tra Parigi e la provincia, tra borghesia e nobiltà, tra gesuiti e giansenisti. Grazie alla sua capacità di rappresentare i rapporti tra i personaggi e la loro psicologia, Stendhal traccia un affresco della società reazionaria post-napoleonica, mostrando le ambizioni, il cinismo e l'ipocrisia di cui si nutrono quotidianamente i rapporti umani.
 
-<div align="center">
-<img src="https://i.imgur.com/NDytK2V.jpg">
-
-<i>Copertina di _Il rosso e il nero_, film TV del 1997, diretto da Jean-Daniel Verhaeghe</i></div>
-
-
+{{< figure src="https://i.imgur.com/NDytK2V.jpg" title="Copertina di Il rosso e il nero, film TV del 1997, diretto da Jean-Daniel Verhaeghe" >}}
 
 ## Trama
 
@@ -54,7 +58,6 @@ Secondo Nietzsche, Stendhal è l'ultimo dei grandi psicologi francesi. In Il Ros
 - «Uno dei vostri crimini è aver messo a nudo alcune pieghe del cuore umano troppo sporche per essere vedute... Nel carattere di Julien ci sono tratti atroci, che sentiamo come veri ma che ci fanno orrore. Il fine dell'arte non è di mostrare questo lato della natura umana». Prosper Mérimée, Lettres à Stendhal
 - «Il nostro romanziere più grande, Stendhal, studiava gli uomini come se fossero degli insetti strani, che vivono e muoiono, spinti da forze fatali; suo solo cruccio era determinare la natura, l'energia, la direzione di queste forze; la sua umanità non simpatizzava con quella dei suoi eroi, restava superiore alla loro miseria e alla loro follia, si contentava di fare il suo lavoro di dissezione, esponendo in tutta semplicità i risultati del suo lavoro. L'opera del romanziere deve cessare dove comincia quella del moralista». Émile Zola, Causeries dramatiques, 1881
 - «Nessuna frase per il bello, il pittoresco, per il divertimento. Sempre qualcosa, sempre dell'interesse». Paul Léautaud, Journal littéraire, 1905
-
 
 ## Film tratti da Il rosso e il nero
 

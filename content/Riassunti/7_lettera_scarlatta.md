@@ -4,15 +4,11 @@ draft: false
 weight: 7
 ---
 
-
 La lettera scarlatta (The Scarlet Letter), pubblicato nel 1850, è un classico della letteratura statunitense scritto da Nathaniel Hawthorne. Ambientato nella Nuova Inghilterra puritana e retrograda del XVII secolo, il romanzo racconta la storia di Hester Prynne che, dopo aver commesso adulterio, ha una figlia di cui si rifiuta di rivelare il padre, lottando per crearsi una nuova vita di pentimento e dignità. Nell'insieme Hawthorne esplora i temi della grazia, della legalità e della colpa.
 
 Il romanzo è incorniciato da un'introduzione (chiamata "La dogana") nella quale lo scrittore, un alter ego di Hawthorne, finge di aver trovato documenti e carte che raccontano la storia di Prynne e ne provano l'autenticità. Il narratore sostiene anche che quando toccò la lettera ricamata (trovata assieme alle carte) aveva provato "un calore bruciante... come se la lettera non fosse di panno scarlatto, ma di ferro arroventato fino a diventare rosso". In precedenza Hawthorne aveva lavorato nella Dogana di Salem per lungo tempo, perdendo il proprio lavoro a causa di un cambiamento dell'amministrazione politica.
 
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hugues_Merle_-_The_Scarlet_Letter_-_Walters_37172.jpg/486px-Hugues_Merle_-_The_Scarlet_Letter_-_Walters_37172.jpg">
-
-<i>The Scarlet Letter di Hugues Merle</i>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hugues_Merle_-_The_Scarlet_Letter_-_Walters_37172.jpg/486px-Hugues_Merle_-_The_Scarlet_Letter_-_Walters_37172.jpg" title="The Scarlet Letter di Hugues Merle" >}}
 
 ## Trama
 
@@ -28,7 +24,6 @@ Anche Roger Chillingworth, al quale vengono affidate le cure della salute sempre
 
 Una notte Dimmesdale, particolarmente eccitato, sale sul patibolo. Vuole farsi trovare lì dalla Comunità. Per fortuna Hester riesce a convincerlo a mutare idea. Ma Roger Chillingworth li scorge, li saluta ed ha la conferma di quello che aveva intuito: Dimmesdale è stato l'amante di Hester. Hester si rende conto di quale errore sia stato non rivelare a Dimmesdale che Roger Chillingworth è il falso nome sotto cui si cela il marito. Decide di incontrarlo nella foresta. Gli rivela tutto. Decidono di fuggire assieme, con la piccola Pearl, e di ricominciare una nuova vita. Durante un corteo, Dimmesdale sale sul patibolo e tenta di rivelare il suo segreto agli abitanti della città. Muore per l'emozione. Ma prima di morire, a petto nudo, cerca di mostrare un segno sulla pelle. Alcuni intravedono una lettera A marchiata sulla carne, altri nulla. L'autore elenca le spiegazioni che i poveri Puritani di Boston cercano di dare all'accaduto: una tortura autoinflitta dovuta alla pena per la povera Hester, alle arti di Roger Chillingworth che invece di curarlo da buon medico, ha tracciato quel segno perché stregone pagano che ha vissuto parecchi anni con gli indiani, e così via. Hester e Pearl vanno via da Boston: Pearl non tornerà mai più, mentre Hester solo in vecchiaia, divenuta ormai ricca. Verrà sepolta a Boston stessa, dopo essere divenuta una leggenda vivente, nella tomba accanto a quella dell'amato, con la quale condividerà la lapide, su cui verrà scritto: "In campo nero, la lettera A scarlatta".
 
-
 ## Hawthorne e il successo del romanzo
 
 La prima edizione del romanzo, pubblicata il 16 marzo del 1850, vendette rapidamente le prime 2.500 copie; un mese dopo furono vendute altre 2.500 copie per una seconda edizione; fu un vero e proprio successo editoriale. Ancora oggi rimane uno dei libri più venduti in America, oltre ad essere uno dei più importanti libri della letteratura americana del diciannovesimo secolo.
@@ -38,9 +33,18 @@ L'adulterio nella società puritana
 
 L'autore della Lettera Scarlatta si proclamava "whig", cioè liberale. Lo scopo che si era prefisso in questo libro era quello di analizzare i tabù, le restrizioni, i valori e le idee della società puritana, mettendo a confronto tutto ciò con la società sua contemporanea. Sapeva che per certi aspetti la società era mutata, ma alcuni valori perduravano ancora. Aveva avuto nella sua famiglia un giudice, un magistrato, John Hathorne (non Hawthorne) che aveva partecipato ai processi alle streghe di Salem e si era occupato spesso di adulterio. La pena più grave per l'adulterio era inizialmente la morte. Ci sono pervenuti documenti in cui si evince che parecchie coppie di amanti siano state mandate a morte. In seguito si decise che questa pena era troppo pesante, e venne sostituita con delle punizioni corporali pubbliche. John Hathorne emanò parecchi verdetti di questo genere. Solo in seguito si ebbe un ulteriore cambiamento, e si impose alle donne adultere di cucire sul petto delle A rosse da portare tutta la vita. Una punizione umiliante, ma meno brutale. Considerando questa mentalità incivile, Nathaniel Hathorne, intellettuale aperto, modificò il suo cognome aggiungendo una w a Hathorne. Voleva differenziarsi da alcuni suoi concittadini e persino familiari, divenendo così Nathaniel Hawthorne.
 
-
 ## Temi trattati
 
 Quindi il romanzo, a differenza - per esempio - di omonimi film, fa iniziare la propria narrazione, partendo proprio dall'immagine della prima scena, del patibolo puritano con cui confrontarsi, da quel tribunale moralistico che induce il lettore a ripensare i concetti di colpa, giustizia e perdono. Tutta la storia viene spesso analizzata dalla prospettiva imbevuta di quella cultura puritana della New England, e lo sviluppo della trama rimescola queste coordinate, rielaborando in uno strano gioco di ruolo, da una parte i sentimenti e maturazione personale dei diversi protagonisti, e invece dall'altra parte la reputazione e l'immagine pubblica che offrono alla comunità. La differenza di questi due livelli è una chiave che tende a de-costruire la bigotteria di quella morale puritana, che spesso - come si sottolinea in più parti - eccede non solo nella assurdità delle proprie regole e nella severità di giudizi gratuiti, ma proprio in un eccesso di fanatismo, una visione mitologica e irrazionale che spesso è causa delle peggiori barbarie: per esempio in modo sarcastico in più volte si parla di forze diaboliche o magiche per spiegare determinati fenomeni, ed è proprio da questa assurda accusa di stregoneria, che verranno inflitte le più atroci condanne da quei tribunali puritani.
 
-Un'altra adultera appare in "Endicott e la Croce Rossa di San Giorgio", un racconto breve di Hawthorne, e anche lei come Hester, è costretta a portare una A scarlatta, che ha finemente ricamato d'oro. 
+Un'altra adultera appare in "Endicott e la Croce Rossa di San Giorgio", un racconto breve di Hawthorne, e anche lei come Hester, è costretta a portare una A scarlatta, che ha finemente ricamato d'oro.
+
+## Adattamenti
+
+Da questo romanzo sono stati tratti parecchi film, tra cui:
+
+* *La lettera rossa* (1926), regia di Victor Sjöström, con Lillian Gish e Lars Hanson.
+* *The Scarlet Letter* (1934), regia di Robert G. Vignola, con Colleen Moore e Hardie Albright.
+* *La lettera scarlatta* (1973), regia di Wim Wenders, con Senta Berger.
+* *La lettera scarlatta* (1995), regia di Roland Joffé, con Demi Moore, Gary Oldman e Robert Duvall.
+* *Easy Girl* (2010) (adattamento), regia di Will Gluck con Emma Stone, Amanda Bynes e Penn Badgley.

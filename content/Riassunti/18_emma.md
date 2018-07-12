@@ -4,10 +4,14 @@ draft: false
 weight: 18
 ---
 
+Emma è un romanzo della scrittrice inglese Jane Austen, pubblicato per la prima volta anonimo nel 1815. Tema fondamentale del romanzo è il fraintendimento in amore. La protagonista Emma Woodhouse è descritta nel paragrafo di apertura del libro come bella, intelligente e ricca. Prima di iniziare a scrivere il libro, la Austen scriverà: "Sto per descrivere un'eroina che non potrà piacere a nessuno, fuorché a me stessa".
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hammond-Emma03_%28recadr%C3%A9e%29.jpg/456px-Hammond-Emma03_%28recadr%C3%A9e%29.jpg" title="Mr Woodhouse, Mr Knightley ed Emma (Chris Hammond, 1898)" >}}
 
 ## Trama
 
-_« Emma Woodhouse, bella, intelligente e ricca, con una casa confortevole e un carattere allegro, sembrava riunire in sé il meglio che la vita può offrire, e aveva quasi raggiunto i ventun anni senza subire alcun dolore o grave dispiacere. »_
+« Emma Woodhouse, bella, intelligente e ricca, con una casa confortevole e un carattere allegro, sembrava riunire in sé il meglio che la vita può offrire, e aveva quasi raggiunto i ventun anni senza subire alcun dolore o grave dispiacere. »
+
 (Incipit di "Emma", traduzione di Pietro Meneghelli)
 
 Emma è una giovane donna dell'Inghilterra della Reggenza. Orfana di madre, vive con suo padre Mr. Woodhouse, un ipocondriaco che si occupa principalmente della propria salute e della propria sicurezza e di quella di chi ama. Amico di Emma e suo critico è Mr Knightley, suo vicino e fratello maggiore di suo cognato,cioè del marito della sorella Isabella. Il romanzo si apre con le nozze della signorina Taylor, governante di Emma, sua amica e confidente. Emma, che ha presentato la signorina Taylor al suo futuro marito, Mr Weston, ritiene di avere il merito della loro unione e ha tutte le intenzioni di combinare un altro matrimonio appena ne capiterà l'occasione.
@@ -23,11 +27,6 @@ Nel suo entusiasmo per trovare un difetto nella perfezione di Jane, ma anche per
 Emma prova simpatia per Frank Churchill, e per un po' crede di esserne innamorata perché egli le rivolge delle attenzioni e perché molte persone dicono che insieme sono una coppia perfetta. Successivamente, quando capisce che non lo ama, Emma decide di far sì che Frank si fidanzi con Harriet, credendo che questa ne sia innamorata perché Frank ha salvato Harriet da una banda di zingari accampati nelle vicinanze del villaggio. Contemporaneamente Mrs Weston confida ad Emma di avere la sensazione che Mr Knightley sia innamorato di Jane. Emma non ci crede e dichiara immediatamente che non vuole che Mr Knightley si sposi, perché così sarebbe il nipotino Henry ad ereditare i beni della famiglia Knightley. Quando Mr Knightley, durante la gita a Box Hill rimprovera Emma per un insulto sconveniente a Miss Bates, Emma inizia a rendersi conto di alcuni errori commessi finora e cerca di porre rimedio a quanto fatto.
 
 All'improvviso si scopre che Jane e Frank erano segretamente fidanzati da circa un anno ed Emma rimane scossa e sorpresa da tale notizia, non perché sia sentimentalmente coinvolta da Frank, ma solo perché pensa che Harriet ne soffrirà. La presa di coscienza più grande per Emma avviene quando Harriet le confida di essere innamorata di Mr Knightley e pensa di essere ricambiata. La gelosia apre finalmente gli occhi ad Emma e la fa rendere conto di una cosa: è innamorata di Mr Knightley e lo vuole per sé. Poco dopo questi avvenimenti e dopo aver temporaneamente allontanato Harriet, Emma riceve la proposta di matrimonio da parte di Mr Knightley, il quale non si era ancora deciso a questo passo perché convinto che Emma fosse innamorata di Frank. Harriet, invece, allontanatasi da Emma e dai progetti matrimoniali che aveva per lei, si riconcilia con Mr Martin e ne accetta la proposta di matrimonio. Il romanzo si conclude col matrimonio di Emma, che segue a quello di Harriet e precede quello di Jane e Frank.
-
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hammond-Emma03_%28recadr%C3%A9e%29.jpg/456px-Hammond-Emma03_%28recadr%C3%A9e%29.jpg">
-
-<i>Mr Woodhouse, Mr Knightley ed Emma (Chris Hammond, 1898)</i></div>
-
 
 ## Personaggi principali
 
@@ -47,7 +46,6 @@ Philip Elton è un giovane vicario di bell'aspetto, ben educato, e ambizioso. Al
 
 Emma è il primo personaggio della Austen a non avere problemi economici, e per questo, come Emma stessa dice ad Harriet, non ha nessuna intenzione di pensare al matrimonio. Questa è la differenza fondamentale rispetto alle altre opere della scrittrice, in cui il matrimonio è il tema principale. Le ampie risorse economiche di cui può disporre Emma sono una delle differenze fondamentali con i precedenti romanzi della Austen, come ad esempio "Ragione e sentimento" e "Orgoglio e pregiudizio", e rendono il libro più leggero e scorrevole. In contrapposizione alla situazione di Emma è, invece, quella di Jane Fairfax, il cui futuro è estremamente incerto, o quantomeno si pensa debba essere incerto, in quanto destinata a dover lavorare per vivere.
 
-
 Emma, inoltre, rispetto ad altri personaggi della scrittrice, è stranamente immune dall'amore romantico e dal desiderio. Contrariamente a quanto capita ad esempio a Elizabeth Bennet o a Marianne Dashwood, che incappano in una serie di uomini sbagliati prima di trovare quello giusto, Emma non mostra alcun interesse sentimentale per gli uomini che incontra. È enormemente sorpresa e alquanto disgustata quando Mr Elton le dichiara il suo amore e la sua infatuazione per Frank Churchill è estremamente lontana dall'amore romantico. Da notare anche come Emma non comprenda il reale amore fra Harriet e Mr Martin, intendendo lei stessa il matrimonio solo in termini economici o di posizione sociale. Solo quando Harriet le confiderà la sua infatuazione per Mr Knightley, Emma scoprirà quali sono i reali sentimenti che prova.
 
 Oltre a queste due fondamentali differenze rispetto alle altre protagoniste dei romanzi della Austen, Emma ha anche degli aspetti in comune con le altre protagoniste della scrittrice, in particolar modo con Elizabeth Bennet e con Anne Elliot. Emma è una giovane donna intelligente che ha poco da fare e con nessuna particolare caratteristica che le permetta di cambiare la routine giornaliera. Benché la sua sia una famiglia affettuosa, la sua vita di tutti i giorni è poco varia e ha poche conoscenze della sua età, quando inizia il racconto. La particolare determinazione di Emma nel voler combinare matrimoni può essere interpretata come una protesta nei confronti della vita noiosa che conduce, mentre il suo rifiuto di sposarsi è dettato dal non voler perdere la posizione sociale e l'indipendenza di cui gode nella casa paterna. Emma non vuole sposarsi neanche avendo sotto gli occhi l'esempio di Miss Bates, che viene rappresentata come una donna senza particolari attrattive che fa di tutto pur di ingraziarsi le persone che la circondano, perché è sicura che la situazione di Miss Bates sia deprecabile soltanto in quanto povera e zitella, mentre Emma sarà una ricca zitella. Alla fine del romanzo Emma si sposa, legandosi a un uomo molto più grande di lei,di cui apprezza l'amore e riconosce la superiorità rispetto a tutti gli altri uomini della sua cerchia. Emma sceglie quindi di vivere comodamente, senza perdere i privilegi cui era stata abituata nella casa paterna, rinunciando però a quel briciolo di vitalità caratteristica della gioventù, che vive soltanto nella breve parentesi in cui entra in contatto con i suoi coetanei Jane Fairfax e Frank Churchill.
@@ -56,7 +54,7 @@ Il romanzo ricorda inoltre il genere di romanzo molto frequente nel Settecento, 
 
 ### Adattamenti cinematografici e televisivi
 
-Nel 1996 dal romanzo è stato tratto l'omonimo film con la regia di Douglas McGrath e con protagonisti Gwyneth Paltrow, Jeremy Northam e Ewan McGregor. Particolarità di questo film è che per impersonare Mrs Bates e Miss Bates sono state scelte Phyllida Law e Sophie Thompson che sono realmente madre e figlia.
+Nel 1996 dal romanzo è stato tratto l'omonimo film con la regia di Douglas McGrath e con protagonisti *Gwyneth Paltrow*, *Jeremy Northam* e *Ewan McGregor*. Particolarità di questo film è che per impersonare Mrs Bates e Miss Bates sono state scelte Phyllida Law e Sophie Thompson che sono realmente madre e figlia.
 
-Sempre del 1996 è il film per la Tv Emma di ITV per la regia di Diarmuid Lawrence con Kate Beckinsale, Mark Strong, Raymond Coulthard.
-Nel 2009 è stata trasmessa dal canale televisivo BBC One la miniserie televisiva "Emma" con Romola Garai e Jonny Lee Miller. 
+Sempre del 1996 è il film per la Tv *Emma* di ITV per la regia di Diarmuid Lawrence con Kate Beckinsale, Mark Strong, Raymond Coulthard.
+Nel 2009 è stata trasmessa dal canale televisivo BBC One la miniserie televisiva *Emma* con Romola Garai e Jonny Lee Miller.

@@ -4,170 +4,120 @@ draft: false
 weight: 21
 ---
 
-## Contesto
+Oliver Twist, o Le avventure di Oliver Twist (Oliver Twist; or, the Parish Boy's Progress), fu il secondo romanzo pubblicato da Charles Dickens. Apparve in prima edizione a puntate mensili sulla rivista Bentley's Miscellany, dal febbraio 1837 all'aprile 1839, con illustrazioni di George Cruikshank.
 
-Oliver Twist, o *Le avventure di Oliver Twist* (*Oliver Twist; or, the Parish Boy's Progress*), fu il secondo romanzo pubblicato da Charles Dickens.
-Apparve in prima edizione a puntate mensili sulla rivista Bentley's Miscellany,
-dal febbraio 1837 all'aprile 1839, con illustrazioni di George Cruikshank.
-È una delle opere più celebri e influenti di Dickens. Fu il primo romanzo in
-lingua inglese ad avere come protagonista un ragazzo e uno dei primi
-esempi di romanzo sociale. Inedita per l'epoca fu anche la rappresentazione
-fortemente anti-romantica della vita dei delinquenti e dei poveri. Attraverso
-un rovesciamento del romanzo di formazione e un dissacrante umorismo nero,
-il romanzo analizza i mali della società inglese ottocentesca: la povertà, il
-lavoro minorile, la criminalità urbana (spesso come ribellione alla povertà e
-allo sfruttamento), e la intrinseca ipocrisia della cultura vittoriana.
-Il sottotitolo The Parish Boy's Progress è un riferimento al romanzo cristiano
-di John Bunyan The Pilgrim's Progress (Il viaggio del pellegrino); poiché il
-tono di Oliver Twist lo contrappone all'ottimismo del romanzo di Bunyan, è
-verosimile che Dickens intendesse anche riferirsi alle parodie di William
-Hogarth, A Rake's Progress (La carriera del libertino) e A Harlot's Progress
-(La carriera della meretrice). 
-Oliver Twist è stato utilizzato come soggetto per molti adattamenti
-cinematografici e televisivi. I più celebri adattamenti per il grande schermo
-sono Le avventure di Oliver Twist di David Lean del 1948, Oliver! di Carol
-Reed del 1968 (vincitore di ben 5 premi Oscar) e il film omonimo di Roman
-Polański del 2005. Nel 1988 la Walt Disney Pictures ha realizzato un film di
-animazione ispirato al romanzo, Oliver & Company. Il romanzo ha inoltre
-fornito lo spunto per un musical inglese di grande successo, *Oliver*!
+È una delle opere più celebri e influenti di Dickens. Fu il primo romanzo in lingua inglese ad avere come protagonista un ragazzo e uno dei primi esempi di romanzo sociale. Inedita per l'epoca fu anche la rappresentazione fortemente anti-romantica della vita dei delinquenti e dei poveri. Attraverso un rovesciamento del romanzo di formazione e un dissacrante umorismo nero, il romanzo analizza i mali della società inglese ottocentesca: la povertà, il lavoro minorile, la criminalità urbana (spesso come ribellione alla povertà e allo sfruttamento), e la intrinseca ipocrisia della cultura vittoriana.
 
+Il sottotitolo The Parish Boy's Progress è un riferimento al romanzo cristiano di John Bunyan The Pilgrim's Progress (Il viaggio del pellegrino); poiché il tono di Oliver Twist lo contrappone all'ottimismo del romanzo di Bunyan, è verosimile che Dickens intendesse anche riferirsi alle parodie di William Hogarth, A Rake's Progress (La carriera del libertino) e A Harlot's Progress (La carriera della meretrice).
 
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Oliver_Twist_-_Cruikshank_-_The_Burgulary.jpg/492px-Oliver_Twist_-_Cruikshank_-_The_Burgulary.jpg">
+Oliver Twist è stato utilizzato come soggetto per molti adattamenti cinematografici e televisivi. I più celebri adattamenti per il grande schermo sono Le avventure di Oliver Twist di David Lean del 1948, Oliver! di Carol Reed del 1968 (vincitore di ben 5 premi Oscar) e il film omonimo di Roman Polański del 2005. Nel 1988 la Walt Disney Pictures ha realizzato un film di animazione ispirato al romanzo, Oliver & Company. Il romanzo ha inoltre fornito lo spunto per un musical inglese di grande successo, Oliver!.
 
-<i>Illustrazione di George Cruikshank per la prima edizione</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Oliver_Twist_-_Cruikshank_-_The_Burgulary.jpg/492px-Oliver_Twist_-_Cruikshank_-_The_Burgulary.jpg" title="Illustrazione di George Cruikshank per la prima edizione" >}}
 
 ## Trama
 
+Inghilterra, 1830. Una giovane donna, rifugiatasi in un ospizio per poveri (cioè una cosiddetta workhouse), partorisce un figlio maschio, morendo subito dopo; la vecchia Sally, che ha assistito la sfortunata partoriente, si impossessa degli unici averi della ragazza, un medaglione e un anello. Il signor Bumble, un fanatico messo parrocchiale presente sul posto, battezza il bambino con il nome di Oliver Twist. Il bambino quale viene cresciuto, in condizioni non certo agevoli, nell'orfanotrofio diretto dalla severa signora Mann fino ai nove anni, compiuti i quali viene rimandato all'ospizio.
 
+Gli orfani dell'ospizio sono sottoposti a spietati maltrattamenti e patiscono la fame (ecco il primo male denunciato da Dickens, ovvero l'ipocrisia della legge del 1834 sulle workhouses, apparentemente un'opportunità di sostentamento per poveri e orfani), al punto di decidere, un giorno, dopo aver patito quasi tre mesi di digiuno, di tirare a sorte per scegliere uno di loro che, durante la cena, provi ad andare a chiedere una porzione di zuppa in più. L'ingrato compito tocca proprio a Oliver, il quale viene immediatamente sgridato, tacciato di impertinenza e malvagità, posto in cella di isolamento e concesso in adozione come apprendista a chiunque voglia prenderselo. Oliver riesce ad evitare per un soffio di diventare apprendista spazzacamino (mestiere pericolosissimo per il quale i bambini erano all'epoca molto richiesti) e viene invece affidato al signor Sowerberry, un gentile ma debole becchino.
 
-Inghilterra, 1830. Una giovane donna, rifugiatasi in un ospizio per poveri (cioè una cosiddetta workhouse), partorisce un figlio
-maschio, purtroppo morendo subito dopo; la vecchia Sally, che ha assistito la sfortunata partoriente, si impossessa degli unici averi
-della ragazza: un medaglione e un anello. Il signor Bumble, un fanatico messo parrocchiale, battezza il bambino con il nome di
-Oliver Twist, il quale viene cresciuto, in condizioni non certo agevoli, nell'orfanotrofio diretto dalla severa signora Mann fino ai nove
-anni, compiuti i quali viene rimandato all'ospizio.
-Gli orfani dell'ospizio sono sottoposti a spietati maltrattamenti e patiscono la fame (ecco il primo male denunciato da Dickens, ovvero
-l'ipocrisia della legge del 1834 sulle workhouses, apparentemente un'opportunità di sostentamento per poveri e orfani), al punto di
-decidere, un giorno, dopo aver patito quasi tre mesi di digiuno, di tirare a sorte per scegliere uno di loro che, durante la cena, provi ad
-andare a chiedere una porzione di zuppa in più. L'ingrato compito tocca proprio a Oliver, il quale viene immediatamente sgridato,
-tacciato di impertinenza e malvagità e concesso in adozione come apprendista a chiunque voglia prenderselo. Oliver riesce ad evitare
-per un soffio di diventare apprendista spazzacamino (mestiere pericolosissimo, per il quale i bambini erano all'epoca molto richiesti)
-e viene invece affidato al signor Sowerberry, un gentile ma debole becchino.
-Oliver è vittima di nuovi maltrattamenti alla bottega del signor Sowerberry, dovendo subire le quotidiane angherie della moglie di
-Sowerberry, senza che il marito riesca a difenderlo, e di un altro apprendista becchino, un giovanotto di nome Noah Claypole che si
-sente in competizione con Oliver. Un giorno, Noah insulta la memoria della madre di Oliver e il bambino reagisce aggredendolo e
-picchiandolo con rabbia; battuto e punito ingiustamente dalla moglie di Soweberry, di nuovo senza la mediazione del marito, Oliver
-scappa e raggiunge a piedi Londra. Qui fa la conoscenza di un ragazzo della sua età, Jack Dawkins detto "Furbacchione" (Artful
-Dodger in originale), che in realtà è un borsaiolo che lavora per un inquietante ed anziano ebreo di nome Fagin, assieme ad altri
-ragazzi senza casa. Il Furbacchione riesce a far entrare nella banda anche Oliver. Il bambino, del tutto ignaro, partecipa ad un'uscita
-dei ladri, ma quando vede il Furbacchione borseggiare un anziano signore, Oliver capisce finalmente come stanno le cose; il
-derubato, il signor Brownlow, accusa del furto proprio Oliver, mentre il Furbacchione e gli altri riescono a scappare. Oliver viene
-processato sommariamente e sarebbe condannato a tre mesi di lavori forzati, ma per fortuna il signor Brownlow si rende conto che
-l'ingenuo bambino è innocente e decide di prenderlo con sé.
-Oliver viene dunque accolto in casa dal signor Brownlow e trattato con molto affetto da costui ma un brutto giorno, mentre si trova
-fuori casa a sbrigare una commissione per l'anziano signore, Oliver viene rapito da Bill Sikes, un criminale socio di Fagin, e dalla
-giovane prostituta Nancy (costretta a tale mestiere per poter campare), compagna di Bill, che lo riportano da Fagin. Il signor
-Brownlow, non vedendo Oliver tornare, inizia a dubitare della buona fede del bambino, ma pubblica comunque un annuncio per
-ritrovarlo; si presenta così il signor Bumble, il quale, avendo saputo delle vicende di Oliver, lo descrive come un autentico piccolo
-delinquente, compromettendone ancora di più la reputazione agli occhi di Brownlow; l'anziano signore, deluso, pensa nuovamente
-che Oliver sia un disonesto e di aver fatto male a dar gli fiducia.
-Oliver, intanto, viene costretto da Fagin a prendere parte ad una rapina che Sikes ha progettato di compiere in una ricca villa;
-l'operazione, tuttavia, fallisce e il bambino rimane ferito da un colpo di pistola e lasciato indietro. Oliver viene curato e rimesso in
-salute dalla gentile signora Maylie e dalla nipote adottiva Rose, padrone della casa, e rimane a vivere con loro.
-Nel frattempo un losco individuo di nome Monks, che si rivela essere il fratellastro di Oliver, progetta assieme a Fagin di riportare il
-bambino nella banda. Nancy, che si è affezionata ad Oliver anche perché ha compreso che è in condizioni peggiori di una prostituta
-come lei, ascolta le loro conversazioni e corre a riferire tutto a Rose Maylie, che decide di intervenire per il bene di Oliver. Rose
-recluta alla causa anche il signor Brownlow, che informa di tutte le disavventure capitate al bambino, il dottor Losberne, un medico
-amico della famiglia Maylie, ed Harry, il figlio della signora Maylie, da sempre innamorato di Rose (la quale, pur ricambiandolo,
-rifiuta di sposarlo, vergognandosi della propria condizione di orfana).
-Trama
-Il signor Bumble, intanto, si è sposato con la signora Corney, la direttrice dell'ospizio, ed è proprio a lei che l'anziana Sally, in punto
-di morte e in preda ai rimorsi, confessa il furto commesso tanti anni prima; in questo modo, i Bumble si impossessano del medaglione
-e dell'anello e Monks cerca di comprare i due oggetti per distruggerli e cancellare le uniche prove della parentela fra lui e Oliver .
-Nancy informa il signor Brownlow e Rose Maylie dei piani di Monks; Fagin, venuto a conoscenza della cosa, riferisce tutto a Sikes,
-che, in preda alla collera, uccide brutalmente la povera Nancy come testimone scomoda. Per la banda, però, ormai è finita: Fagin
-viene arrestato, Sikes muore tentando la fuga e il signor Brownlow in persona cattura Monks. Questi si rivela essere in realtà Edward,
-figlio di Edwin Leeford, un caro amico di Brownlow. Edwin, sposato con una donna meschina che non amava e con un figlio
-altrettanto malvagio, ebbe una relazione clandestina con un'altra donna, Agnes Fleming, da cui nacque Oliver. Edwin morì poco
-dopo, ma prima nominò Oliver unico erede di tutte le sue fortune, che tuttavia gli sarebbero spettate solo se non si fosse mai dato al
-crimine; in caso contrario, ogni bene sarebbe andato a Edward (da cui i tentativi i suoi di trattenere Oliver, come persona su cui
-scaricare i crimini, nella banda di Fagin). Edward e sua madre, furiosi, non potendo rintracciare subito Oliver, cercarono vendetta
-sulla famiglia Fleming accanendosi sulla sorella di Agnes, che si scopre non essere altri che Rose Maylie, la quale cambiò nome e
-cognome dopo essere stata adottata dai Maylie in seguito alla morte dei genitori; Rose, quindi, è la zia di Oliver .
-Oliver, a questo punto, avrebbe diritto a tutta l'eredità, ma il signor Brownlow lo convince a cederne comunque una parte a Monks,
-nella speranza che ciò lo induca a cambiare vita; ma Monks, dopo essere emigrato in America, sperpererà in breve tempo tutto il
-denaro e, arrestato per debiti, morirà in prigione a causa di un attacco di epilessia. Fagin, processato, viene impiccato, mentre i
-ragazzi della banda, tranne il Furbacchione che probabilmente, vistosi perduto, si suicida, iniziano a vivere finalmente una vita
-onesta; Oliver viene adottato dal signor Brownlow e torna a vivere con lui e Rose sposa finalmente Harry Maylie; quanto ai signori
-Bumble, caduti in disgrazia dopo che la polizia ha scoperto i loro rapporti con Monks e quindi con la banda di Fagin, perdono tutto e
-finiscono all'ospizio, dove moriranno in povertà sia pur, probabilmente, senza subire i crudeli maltrattamenti che erano stati inflitti a
-Oliver con la scusa che era bambino.
+Oliver è vittima di nuovi maltrattamenti nella bottega del signor Sowerberry, dovendo subire le quotidiane angherie della moglie di Sowerberry, senza che il marito (che tiene ad Oliver) riesca a difenderlo, e dell'altro apprendista becchino con cui lavora, un giovanotto di nome Noah Claypole, che si sente in competizione con Oliver. Un giorno Noah insulta la memoria della madre di Oliver e il bambino reagisce aggredendolo e picchiandolo con rabbia; battuto e punito ingiustamente dalla moglie di Sowerberry, di nuovo senza la mediazione del marito, Oliver scappa e raggiunge a piedi Londra. Qui fa la conoscenza di un ragazzo della sua età, Jack Dawkins detto "il Furbacchione" (Artful Dodger in originale): egli è un borseggiatore che lavora per un inquietante ed anziano ebreo di nome Fagin, assieme ad altri ragazzi senza casa. Il Furbacchione riesce a far entrare nella banda anche Oliver, il quale, del tutto ignaro, partecipa ad un'uscita dei ladri. Quando vede il Furbacchione scippare un anziano signore, Oliver capisce finalmente come stanno le cose; il derubato, il signor Brownlow, accusa del furto proprio Oliver, mentre il Furbacchione e gli altri riescono a scappare. Oliver viene processato sommariamente e dovrebbe essere condannato a tre mesi di lavori forzati, ma per fortuna il signor Brownlow si rende conto che l'ingenuo bambino è innocente e decide di prenderlo con sé.
+
+Oliver viene dunque accolto in casa dal signor Brownlow e trattato con molto affetto da costui. Un brutto giorno, mentre si trova fuori casa a sbrigare una commissione per l'anziano signore, Oliver viene rapito, con uno stratagemma, da Bill Sikes, un criminale socio di Fagin, e dalla giovane prostituta Nancy (costretta a tale mestiere per poter vivere), compagna di Bill, che lo riportano da Fagin. Il signor Brownlow, non vedendo Oliver tornare, inizia a dubitare della buona fede del bambino, ma pubblica comunque un annuncio per ritrovarlo; si presenta così il signor Bumble, il quale, avendo saputo delle vicende di Oliver, lo descrive come un autentico piccolo delinquente, compromettendone ancora di più la reputazione agli occhi di Brownlow; l'anziano signore, deluso, inizia nuovamente pensare che Oliver sia un disonesto e di aver fatto male a dargli fiducia.
+
+Oliver, intanto, viene costretto da Fagin a prendere parte ad una rapina che Sikes ha progettato di compiere in una ricca villa; l'operazione, tuttavia, fallisce e il bambino rimane ferito da un colpo di pistola e lasciato indietro. Oliver viene curato e rimesso in salute dalla gentile signora Maylie e dalla nipote adottiva Rose, padrone della casa, e rimane a vivere con loro.
+
+Nel frattempo un losco individuo di nome Monks, che si rivela essere il fratellastro di Oliver, progetta assieme a Fagin di riportare il bambino nella banda. Nancy, che si è affezionata ad Oliver anche perché ha compreso che è in condizioni peggiori di una prostituta come lei, ascolta le loro conversazioni e corre a riferire tutto a Rose Maylie, che decide di intervenire per il bene di Oliver. Rose recluta alla causa anche il signor Brownlow, che informa di tutte le disavventure capitate al bambino, il dottor Losberne, un medico amico della famiglia Maylie, ed Harry, il figlio della signora Maylie, da sempre innamorato di Rose (la quale, pur ricambiandolo, rifiuta di sposarlo, vergognandosi della propria condizione di orfana).
+
+Il signor Bumble, intanto, si è sposato con la signora Corney, la direttrice dell'ospizio, ed è proprio a lei che l'anziana Sally, in punto di morte e in preda ai rimorsi, confessa il furto commesso tanti anni prima; in questo modo, i Bumble si impossessano del medaglione e dell'anello della madre di Oliver, e Monks cerca di comprare i due oggetti per distruggerli e cancellare le uniche prove della parentela fra lui e Oliver.
+
+Nancy informa il signor Brownlow e Rose Maylie dei piani di Monks; Fagin, venuto a conoscenza della cosa, riferisce tutto a Sikes, che, in preda alla collera, uccide brutalmente la povera Nancy, essendo per lui una testimone scomoda. Per la banda, però, ormai è finita: Fagin viene arrestato, Sikes muore tentando la fuga e il signor Brownlow in persona cattura Monks. Questi si rivela essere in realtà Edward Leeford, figlio di Edwin Leeford, un caro amico di Brownlow. Edwin, sposato con una donna meschina che non amava e con un figlio altrettanto malvagio, ebbe una relazione clandestina con un'altra donna, Agnes Fleming, da cui nacque Oliver. Edwin morì poco dopo, ma prima nominò Oliver unico erede di tutte le sue fortune, che tuttavia gli sarebbero spettate solo se non si fosse mai dato al crimine; in caso contrario, ogni bene sarebbe andato a Edward (da cui i tentativi i suoi di trattenere Oliver, come persona su cui scaricare i crimini, nella banda di Fagin). Edward e sua madre, furiosi, non potendo rintracciare subito Oliver, cercarono vendetta sulla famiglia Fleming accanendosi sulla sorella di Agnes, che si scopre non essere altri che Rose Maylie, la quale cambiò nome e cognome dopo essere stata adottata dai Maylie in seguito alla morte dei genitori; Rose, quindi, è la zia di Oliver.
+
+Oliver, a questo punto, avrebbe diritto a tutta l'eredità, ma il signor Brownlow lo convince a cederne comunque una parte a Monks, nella speranza che ciò lo induca a cambiare vita; ma Monks, dopo essere emigrato in America, sperpererà in breve tempo tutto il denaro e, arrestato per debiti, morirà in prigione a causa di un attacco di epilessia. Fagin viene processato e impiccato, mentre i ragazzi della banda, tranne il Furbacchione, iniziano a vivere finalmente una vita onesta; Oliver viene adottato dal signor Brownlow e torna a vivere con lui e Rose sposa finalmente Harry Maylie; quanto ai signori Bumble, caduti in disgrazia dopo che la polizia ha scoperto i loro rapporti con Monks e quindi con la banda di Fagin, perdono tutto e finiscono all'ospizio, dove moriranno in povertà sia pur, probabilmente, senza subire i crudeli maltrattamenti che erano stati inflitti a Oliver con la scusa che era bambino.
 
 ## Personaggi principali
 
+* *Oliver Twist*: è il protagonista. Durante il racconto ha un'età compresa tra i 9 e i 12 anni. Nonostante sia maltrattato dagli adulti (si può portare ad esempio il ladro Fagin, che lo sfrutta) è buono di cuore.
+* *Signor Bumble*: un messo parrocchiale, fanatico puritano, grasso e collerico, utilizza metodi molto duri con i ragazzi indisciplinati. In seguito si sposa con la signora Corney e diviene il proprietario di un ospizio perdendo la carica di messo e collaborando con Fagin, Bill e Monks. Alla fine del romanzo finisce ospite proprio dell'ospizio per cui lavorava, morendovi.
+* *Fagin*: uomo di circa 70 anni, nonostante sia un delinquente non è l'antagonista principale, tirchio e avido, porta Oliver nel giro del furto. Viene alla fine impiccato per legge. È descritto come un uomo rugoso dai capelli rossastri e rappresenta un po' lo stereotipo dell'ebreo taccagno che ruba perché non si accontenta di ciò che ha già ma non sembra l'antagonista, poiché, per opportunismo, si comporta da ipocrita e quindi non è violento come Sikes.
+* *Bill Sikes*: soprannome di William, antagonista principale, è uno scassinatore rude e alcolizzato, sempre accompagnato dal cane Occhiodibue, che maltratta come fa con Nancy. Rapisce Oliver per conto di Fagin e lo ingaggia per fargli rapinare i Maylie. Uccide Nancy dopo aver saputo del suo tradimento e, quando cerca di scappare dalla polizia, rimane impiccato ad una corda e muore insieme al cane.
+* *Signor Brownlow*: anziano signore dell'alta società che ospita Oliver per qualche giorno a casa propria quando era malato. Si dimostra gentile e premuroso nei confronti di Twist e lo aiuta a smascherare i suoi nemici ladri. Farà da padre adottivo ad Oliver alla fine.
+* *Nancy*: compagna di Sikes, fa la prostituta a suo rischio e pericolo per guadagnarsi da vivere, si dimostrerà molto più gentile con Oliver e tradirà il suo fidanzato dicendo tutto a Rose e a Brownlow. Per questo motivo viene uccisa da Sikes.
+* *Rose*: splendida fanciulla di diciassette anni, con due limpidi occhi azzurri, molto dolce e affettuosa. Orfana, è stata accolta in casa dalla signora Maylie quando era piccola e la chiama zia. Innamorata del giovane Harry, che sposerà, alla fine del romanzo si scoprirà essere zia di Oliver da parte di madre.
 
-* **Oliver Twist**: è il protagonista. Durante il racconto ha un'età compresa tra i 9 e i 12 anni. Nonostante sia maltrattato dagli adulti (si può portare ad esempio il ladro Fagin, che lo sfrutta) è buono di cuore.
-* **Signor Bumble**: un messo parrocchiale, fanatico puritano, grasso e collerico, utilizza metodi molto duri con i ragazzi
-* indisciplinati. In seguito si sposa con la signora Corney e diviene il proprietario di un ospizio perdendo la carica di messo e collaborando con Fagin, Bill e Monks. Alla fine del romanzo finisce ospite proprio dell'ospizio per cui lavorava, morendovi.
-* **Fagin**: uomo di circa 70 anni, nonostante sia un delinquente non è l'antagonista principale, tirchio e avido, porta Oliver nel giro del furto. Viene alla fine impiccato per legge. È descritto come un uomo rugoso dai capelli rossastri e rappresenta un po' lo stereotipo dell'ebreo taccagno che ruba perché non si accontenta di ciò che ha già ma non sembra l'antagonista, poiché, per opportunismo, si comporta da ipocrita e quindi non è violento come Sikes. 
-* **Bill Sikes**: soprannome di William, antagonista principale, è uno scassinatore rude e alcolizzato, sempre accompagnato dal cane Occhiodibue, che maltratta come fa con Nancy . Rapisce Oliver per conto di Fagin e lo ingaggia per fargli rapinare i Maylie. Uccide Nancy dopo aver saputo del suo tradimento e, quando cerca di scappare dalla polizia, rimane impiccato ad una corda e muore insieme al cane.
-* **Signor Brownlow**: anziano signore dell'alta società che ospita Oliver per qualche giorno a casa propria quando era malato. Si dimostra gentile e premuroso nei confronti di Twist e lo aiuta a smascherare i suoi nemici ladri. Farà da padre adottivo ad Oliver alla fine.
-* **Nancy**: compagna di Sikes, fa la prostituta a suo rischio e pericolo per guadagnarsi da vivere, si dimostrerà molto più gentile con Oliver e tradirà il suo fidanzato dicendo tutto a Rose e a Brownlow . Per questo motivo viene uccisa da Sikes.
-* **Rose**: splendida fanciulla di diciassette anni, con due limpidi occhi azzurri, molto dolce e af fettuosa. Orfana, è stata accolta in casa dalla signora Maylie quando era piccola e la chiama zia. Innamorata del giovane Harry , che sposerà, alla fine del romanzo si scoprirà essere zia di Oliver da parte di madre.
-* **Signora Mann**: si occupa della crescita di Oliver fino all'età di nove anni con metodi molto duri e severi.
-* **Gamfield**: spazzacamino che, bisognoso di denaro, vuole far diventare Oliver suo apprendista per intascare il denaro proposto dalla parrocchia per chi adotta Oliver , però il giudice, capendo la natura violenta dell'uomo lo impedisce.
+## Altri personaggi
 
-### Altri personaggi
-
-* **Sig. Sowerberry**: primo padrone di Oliver . Costruttore di bare ha un'ottima opinione di Oliver a diferenza della moglie che lo costringerà a picchiare Oliver , provocando così la sua fuga da casa.
-* **Noah Claypole**: ragazzo con la testa grande, gli occhi piccoli e un'espressione ottusa che lavora nella bottega di Sowerberry. Quando Oliver arriva, si ingelosi sce. Fuggito insieme a Charlotte, finirà per lavorare per Fagin.
-* **Jack Dawkins**: ragazzo avente il naso schiacciato e la fronte piatta. Indossa abiti da uomo molto lunghi e larghi e un cappello posto in testa. Fa conoscere ad Oliver Fagin ed è soprannominato dagli amici "lo scaltro".
-* **Fang**: magistrato di polizia molto crudele con gli imputati dal viso paf futo e rossastro.
-* **Signora Bedwin**: cameriera di Brownlow molto gentile e disponibile con Oliver , gli presta affettuose cure che lo portano alla guarigione.
-* **Signora Maylie**: anziana, con aspetto nobile e autoritario, dimostra affetto nei confronti del povero Oliver.
-* **Monks**: fratellastro del protagonista
-* **Henry Maylie**: amico d'infanzia di Rose, innamorato di lei, che alla fine si unirà a lei nel matrimonio.
-* **dottor Losberne**: medico della famiglia Maylie, aiuterà Oliver a salvarsi da un'alta febbre oltre ad essere un suo grande amico. 
-* **Charley Bates**: altro ragazzo alle dipendenze di Fagin ladruncolo, sempre di ottimo umore e chiassoso.
-* **Occhiodibue**: cane di Bill Sikes che viene spesso maltrattato dal suo padrone, con cui morirà durante la fuga.
-* **Signora Corney**: futura moglie di Bumble e donna molto ricca, è anche dirigente della workhouse dove,a nove anni, viene mandato Oliver.
+* *Signora Mann*: si occupa della crescita di Oliver fino all'età di nove anni con metodi molto duri e severi.
+* Gamfield: spazzacamino che, bisognoso di denaro, vuole far diventare Oliver suo apprendista per intascare il denaro proposto dalla parrocchia per chi adotta Oliver, però il giudice, capendo la natura violenta dell'uomo lo impedisce.
+* *Sig. Sowerberry*: primo padrone di Oliver. Costruttore di bare ha un'ottima opinione di Oliver a differenza della moglie che lo costringerà a picchiare Oliver, provocando così la sua fuga da casa.
+* *Noah Claypole*: ragazzo con la testa grande, gli occhi piccoli e un'espressione ottusa che lavora nella bottega di Sowerberry. Quando Oliver arriva, si ingelosisce. Fuggito insieme a Charlotte, finirà per lavorare per Fagin.
+* *Jack Dawkins*: ragazzo avente il naso schiacciato e la fronte piatta. Indossa abiti da uomo molto lunghi e larghi e un cappello posto in testa. Fa conoscere ad Oliver Fagin ed è soprannominato dagli amici "lo scaltro".
+* *Fang*: magistrato di polizia molto crudele con gli imputati dal viso paffuto e rossastro.
+* Signora Bedwin: cameriera di Brownlow molto gentile e disponibile con Oliver, gli presta affettuose cure che lo portano alla guarigione.
+* *Signora Maylie*: anziana, con aspetto nobile e autoritario, dimostra affetto nei confronti del povero Oliver.
+* *Monks*: fratellastro del protagonista
+* *Henry Maylie*: amico d'infanzia di Rose, innamorato di lei, che alla fine si unirà a lei nel matrimonio.
+* *dottor Losberne*: medico della famiglia Maylie, aiuterà Oliver a salvarsi da un'alta febbre oltre ad essere un suo grande amico.
+* *Charley Bates*: altro ragazzo alle dipendenze di Fagin, ladruncolo, sempre di ottimo umore e chiassoso.
+* *Occhiodibue*: cane di Bill Sikes che viene spesso maltrattato dal suo padrone, con cui morirà durante la fuga.
+* *Signora Corney*: futura moglie di Bumble e donna molto ricca, è anche dirigente della workhouse dove,a nove anni, viene mandato Oliver.
 
 ## Analisi e temi
 
-Il romanzo è la prima chiara denuncia di Dickens del sistema educativo
-dell'era vittoriana, nonché il manifesto della reale condizione dei ceti
-meno abbienti nelle grandi città, come Londra. Dickens critica molto il
-sistema apparentemente funzionale dell'educazione dei bambini più poveri
-negli orfanotrofi, dove i fanciulli sono costretti a svolgere dure mansioni
-senza compensi. La "ribellione" di Oliver nella sequenza della minestra, richiesta per
-una seconda volta, è l'esempio di rottura da parte dell'autore contro tali canoni di
-educazione. 
+Il romanzo è la prima chiara denuncia di Dickens del sistema educativo dell'era vittoriana, nonché il manifesto della reale condizione dei ceti meno abbienti nelle grandi città, come Londra. Dickens critica molto il sistema apparentemente funzionale dell'educazione dei bambini più poveri negli orfanotrofi, dove i fanciulli sono costretti a svolgere dure mansioni senza compensi. La "ribellione" di Oliver nella sequenza della minestra, richiesta per una seconda volta, è l'esempio di rottura da parte dell'autore contro tali canoni di educazione. La denuncia contro la dilagante povertà delle città si sposta nel covo di Fagin, in cui i più poveri, privi di qualsiasi percorso educativo, sono costretti a sopravvivere come possono, spesso percorrendo "cattive strade". Nelle opere successive Dickens denuncerà anche il sistema di parte delle ricche famiglie inglesi, che offrivano la loro beneficenza ai poveri soltanto per guadagnare ammirazione nella società; ciò non accade con Oliver, in cui si instaura subito un rapporto di affetto ancestrale con il suo ricco protettore Brownlow.
 
-La denuncia contro la dilagante povertà delle città si sposta nel covo di
-Fagin, in cui i più poveri, privi di qualsiasi percorso educativo, sono costretti a
-sopravvivere come possono, spesso percorrendo "cattive strade". Nelle opere
-successive Dickens denuncerà anche il sistema di parte delle ricche famiglie inglesi,
-che offrivano la loro beneficenza ai poveri soltanto per guadagnare ammirazione
-nella società; ciò non accade con Oliver, in cui si instaura subito un rapporto di
-affetto ancestrale con il suo ricco protettore Brownlow.
-Il personaggio di Oliver incarna i valori di un nuovo eroe per Dickens: un reietto
-della società che riesce a trovare il suo futuro grazie ai propri espedienti e all'aiuto di
-gente di buon cuore. Tale tematica del nuovo gentleman inglese sarà presente in altri
-romanzi dell'autore, specialmente in David Copperfield. Il ragazzo Oliver segue una
-sorta di parabola di purificazione facendo un percorso studiato della Provvidenza
-divina, dallo stato iniziale di miseria ed esilio da tutti fino alla fine, rosea e
-soddisfacente presso la Villa del signor Brownlow. Il percorso adottato da Dickens è stato considerato "conservatore e vittoriano",
-perché è fortemente intriso dei tipici valori cristiani del protestantesimo e della parabola della conversione e del ritrovo del
-protagonista che all'inizio è disperso nella strada del male e del peccato.
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/02/Bill-sikes.jpg" title="Ritratto del crudele Bill Sikes" >}}
 
+Il personaggio di Oliver incarna i valori di un nuovo eroe per Dickens: un reietto della società che riesce a trovare il suo futuro grazie ai propri espedienti e all'aiuto di gente di buon cuore. Tale tematica del nuovo gentleman inglese sarà presente in altri romanzi dell'autore, specialmente in David Copperfield. Il ragazzo Oliver segue una sorta di parabola di purificazione facendo un percorso studiato della Provvidenza divina, dallo stato iniziale di miseria ed esilio da tutti fino alla fine, rosea e soddisfacente presso la Villa del signor Brownlow. Il percorso adottato da Dickens è stato considerato "conservatore e vittoriano", perché è fortemente intriso dei tipici valori cristiani del protestantesimo e della parabola della conversione e del ritrovo del protagonista che all'inizio è disperso nella strada del male e del peccato.
 
-La visione dickensiana dei personaggi è ancora concentrata su un piano binario, ossia il gruppo dei Buoni e quello dei Cattivi, e
-ciascun personaggio appartenente alla sua cerchia è fortemente carico di tali connotati, a partire innanzitutto dal nome. Infatti
-Dickens attribuisce a ciascun nome composto dei messaggi per il lettore sulle qualità e sul destino già intuibile del personaggio.
-Dunque nel romanzo ogni personaggio buono sarà descritto con le migliori qualità e bellezze fisiche, mentre i cattivi saranno
-raffigurati con i peggiori vizi e le più aberranti connotazioni fisiche. Un esempio è Fagin, rappresentato come la personificazione del
-Diavolo, e Sikes, descritto come un mostro dagli istinti violenti e bestiali.
-Lo stile di Dickens è ricco di pathos e di metafore, spesso religiose, nonché di passaggi dal patetico al gioioso, dal triste al
-melanconico, non offrendo mai un andamento lineare, ma sempre ricco di particolari. Inoltre è molto presente l'ironia, specialmente
-contro i personaggi cattivi della storia.
+La visione dickensiana dei personaggi è ancora concentrata su un piano binario, ossia il gruppo dei Buoni e quello dei Cattivi, e ciascun personaggio appartenente alla sua cerchia è fortemente carico di tali connotati, a partire innanzitutto dal nome. Infatti Dickens attribuisce a ciascun nome composto dei messaggi per il lettore sulle qualità e sul destino già intuibile del personaggio. Dunque nel romanzo ogni personaggio buono sarà descritto con le migliori qualità e bellezze fisiche, mentre i cattivi saranno raffigurati con i peggiori vizi e le più aberranti connotazioni fisiche. Un esempio è Fagin, rappresentato come la personificazione del Diavolo, e Sikes, descritto come un mostro dagli istinti violenti e bestiali.
 
+Lo stile di Dickens è ricco di pathos e di metafore, spesso religiose, nonché di passaggi dal patetico al gioioso, dal triste al melanconico, non offrendo mai un andamento lineare, ma sempre ricco di particolari. Inoltre è molto presente l'ironia, specialmente contro i personaggi cattivi della storia.
+
+## Adattamenti teatrali, musicali, cinematografici e televisivi
+
+* *Oliver Twist; or, The Parish Boy's Progress*, riduzione teatrale (GB, 1838) di Charles Zachary Barnett - Dickens non aveva ancora completato il suo racconto a puntate che gia' ne apparvero nei teatri londinesi le prime versioni teatrali, che ne anticipavano la trama e la conclusione a propria discrezione. Tra queste versioni la prima ad essere pubblicata fu quella di Barnett, rappresentata al Pavilion Theatre di Londra dal 21 al 26 maggio 1838.
+* *Oliver Twist: A Serio Comic Burletta*, riduzione teatrale (GB, 1838) di George Almar - Rappresentata per la prima volta al Royal Surrey Theatre di Londra dal 19 novembre 1838 al 21 giugno 1839 alla presenza dello stesso Dickens, pote' finalmente includere la conclusione dell'Autore (l'omicidio di Nancy e la morte di Sikes), rimanendo per tutto l'Ottocento la versione teatrale più popolare e diffusa sia in Gran Bretagna che negli Stati Uniti.
+* *Oliver Twist*, film muto (USA, 1909), diretto da James Stuart Blackton, con Edith Storey (Oliver), William Humphrey (Fagin), Elita Proctor Otis (Nancy). - In questo primo adattamento cinematografico, secondo quelle che erano le convenzioni dell'epoca e la pratica stabilitasi nelle rappresentazioni teatrali dell'Ottocento, il ruolo (maschile) di protagonista fu affidato ad una giovane attrice Edith Storey, allora diciannovenne, con gia' esperienza in parti di bambino/a.
+* *Oliver Twist*, film muto (USA, 1912), prodotto dalla General Film Publicity & Sales Co., con Vinnie Burns (Oliver), Nat C. Goodwin (Fagin), Charley Rogers (Dodger), Beatrice Moreland (Nancy), Mortimer Martine (Bill Sykes). - Il personaggio di Oliver è anche qui affidato ad una giovane attrice quindicenne, Vinnie Burns, agli inizi della sua carriera.
+* *Oliver Twist*, film muto (GB, 1912), diretto da Thomas Bentley, con Ivy Millais (Oliver), John McMahon (Fagin), Willie West (Dodger), Alma Taylor (Nancy), Harry Royston (Bill Sykes). - Per il ruolo di Oliver si punta questa volta su un nome famoso, l'attrice inglese Ivy Millais, gia' celebrata per le sue interpretazioni teatrali.
+* *Oliver Twist*, film muto (USA, 1916), diretto da James Young, con Marie Doro (Oliver), Tully Marshall (Fagin), Raymond Hatton (Dodger), Elsie Jane Wilson (Nancy), Hobart Bosworth (Bill Sykes). - Altro nome famoso, l'attrice Marie Doro riprende una parte, quella di Oliver, che gia' l'aveva resa celebre sul palcoscenico nel 1912.
+* *Oliver Twist* (*Twist Olivér*), film muto (Ungheria, 1919), diretto da Márton Garas, con Tibor Lubinszky (Oliver), László Z. Molnár (Fagin), Sári Almási (Nancy), Gyula Szöreghy (Bill Sykes). - In questo film ungherese, Tibor Lubinszky e' a 10 anni il primo attore bambino nella storia del cinema ad interpretare la parte di Oliver fino ad allora riservata a giovani attrici.
+* *Oliver Twist*, film muto (USA, 1921), diretto da Millard Webb, con Harold Goodwin (Oliver), Clarence Wilson (Fagin), Scott McKee (Dodger), Irene Hunt (Nancy), G. Raymond Nye (Bill Sykes). - È ormai impensabile assegnare la parte di Oliver ad un'attrice, ma il cinema americano non si fida ancora di attori bambini per un ruolo giudicato troppo impegnativo. La parte di Oliver è affidata ad un attore diciannovenne, Harold Goodwin, con gia' alla spalle una lunga esperienza cinematografica.
+* *Oliviero Twist* (Oliver Twist), film muto (USA, 1922), diretto da Frank Lloyd, con Jackie Coogan (Oliver), Lon Chaney (Fagin), Edouard Trebaol (Dodger), Gladys Brockwell (Nancy), George Siegmann (Bill Sykes). - Dopo lo strepitoso successo ne Il monello di Charlie Chaplin, Hollywood ha finalmente trovato l'attore bambino cui affidare la parte di Oliver. Il piccolo Jackie Coogan raccoglie un altro trionfo in coppia con Lon Chaney (Fagin).
+* *Oliver Twist*, film muto (Germania, 1922), diretto da Lupu Pick.
+* *Oliver Twist*, film (USA, 1933), diretto da William J. Cowen, con Dickie Moore (Oliver), Irving Pichel (Fagin), Sonny Ray (Dodger), Doris Lloyd (Nancy), William 'Stage' Boyd (Bill Sykes). - Oliver Twist è ormai diventato una parte ambita nella carriera di ogni celebre attore bambino, in questo caso il piccolo Dickie Moore, volto celebre della Piccole canaglie.
+* Oliver Twist, riduzione teatrale (USA, 1936) di John David Ravold.
+* *Le avventure di Oliver Twist* (*Oliver Twist*), film (GB, 1948), diretto da David Lean, con John Howard Davies (Oliver), Alec Guinness (Fagin), Anthony Newley (Dodger), Kay Walsh (Nancy), Robert Newton (Bill Sykes). - L'influenza del neorealismo si fa sentire nella cruda e sofferta interpretazione che John Howard Davies da' del personaggio di Oliver, sostenuto da un cast d'eccezione.
+* *Oliver Twist*, sceneggiato TV (Brasile, 1955), con Adriano Stuart (Oliver) e Jaime Barcellos (Fagin). - Il primo sceneggiato televisivo di Oliver Twist e' trasmesso alla televisione brasiliana il 5 gennaio 1955 ed ha come protagonista il piccolo Adriano Stuart (Oliver), volto noto della televisione brasiliana del tempo.
+* *Oliver Twist*, sceneggiato TV (USA, 1959), diretto da Daniel Petrie, con Richard Thomas (Oliver), Eric Portman (Fagin), Nancy Wickwire (Nancy), Tom Clancy (Bill Sykes). - Oliver Twist appare per la prima volta alla televisione americana il 4 dicembre 1959 attraverso un episodio trasmesso nella serie The DuPont Show of the Month, con protagonista un giovanissimo ma già noto Richard Thomas.
+* *Oliver Twist*, sceneggiato TV (Brasile, 1960), diretto da Ezio Tozzi, con Osmar Prado (Oliver). - Secondo sceneggiato trasmesso alla televisione brasiliana il 7 gennaio 1960, con il piccolo Osmar Prado alla sua prima interpretazione di successo.
+* *Oliver!*, musical (GB, 1960), musica e libretto di Lionel Bart - La produzione originale londinese apre il 30 giugno 1960 al New Theatre (oggi Noël Coward Theatre), con Keith Hamshere (Oliver), Ron Moody (Fagin), Martin Horsey (Dodger), Georgia Brown (Nancy), Danny Sewell (Bill Sykes).
+* *Oliver Twist*, mini-serie TV (GB, 1962), diretta da Eric Tayler, con Bruce Prochnik (Oliver), Max Adrian (Fagin), Melvyn Hayes (Dodger), Carmel McSharry (Nancy), Peter Vaughan (Bill Sykes). - La prima serie prodotta dalla BBC e' trasmessa in 13 episodi settimanali, dal 7 gennaio al 1º aprile 1962 ed ha come protagonista Bruce Prochnik, volto noto alla televisione inglese degli anni '60.
+* Oliver Twist, sceneggiato TV (Francia, 1962), diretto da Jean-Paul Carrère, con Gérard Riou (Oliver), Marcel Dalio (Fagin), Anne Doat (Nancy), André Oumansky (Bill Sykes). - Trasmesso il 6 maggio 1962 alla televisione francese nella serie Le théâtre de la jeunesse, è interpretato da Gérard Riou (Oliver).
+* *Oliver!*, musical (USA, 1963), musica e libretto di Lionel Bart - Riprendendo lo spettacolo londinese del 1960, la produzione originale americana debutta il 6 gennaio 1963 all'Imperial Theatre di Broadway, con Bruce Prochnik (Oliver), Clive Revill (Fagin), Davy Jone (Dodger), Georgia Brown (Nancy), Danny Sewell (Bill Sykes).
+* *Oliver!*, film (GB, 1968), diretto da Carol Reed, con Mark Lester (Oliver), Ron Moody (Fagin), Jack Wild (Dodger), Shani Wallis (Nancy), Oliver Reed (Bill Sykes). - La versione musicale del racconto di Dickens, gia' acclamata sui palcoscenici di Londra (1960) e New York (1963), ottiene uno strepitoso successo internazionale. Mark Lester (Oliver), Jack Wild (The Artful Dodger) e soprattutto uno strepitoso Ron Moody (Fagin) trascinano il film alla conquista dell'Oscar.
+* *Oliver Twist*, riduzione teatrale (GB, 1977) di Brian Way - Spettacolo teatrale per bambini scritto dal fondatore del Theatre Centre di Londra, compagnia specializzata nella produzione di opere per bambini.
+* *The Further Adventures of Oliver Twist*, serie TV del 1980, in 13 episodi, diretta da Ian Fordyce e Paul Harrison - I protagonisti della serie sono Daniel Murray (Oliver) e John Fowler (Artful Dodger)
+* *Oliver Twist*, film d'animazione (Australia, 1982), diretto da Richard Slapczynski
+* *Oliver Twist*, film d'animazione del 1982 diretto da Clive Donner
+* *Oliver!*, musical (GB, 1983), musica e libretto di Lionel Bart - Revival londinese del musical del 1960, con Anthony Pearson (Oliver), Ron Moody (Fagin), David Garlick (Dodger), Jackie Marks (Nancy), Linal Haft (Bill Sykes).
+* *Oliver!*, musical (USA, 1984), musica e libretto di Lionel Bart - Revival americano del musical del 1960, con Braden Danner (Oliver), Ron Moody (Fagin), David Garlick (Dodger), Patti LuPone (Nancy), Graeme Campbell (Bill Sykes).
+* *Oliver Twist*, serie TV (GB, 1985), diretta da Gareth Davies, con Ben Rodska (Oliver), Eric Porter (Fagin), David Garlick (Dodger), Amanda Harris (Nancy), Michael Attwell (Bill Sykes) - Seconda serie prodotta dalla BBC.
+* *Oliver & Company*, film d'animazione del 1988 della Disney. - Si differenzia alquanto dal racconto dickensano in quanto Oliver è un gatto, gli altri personaggi sono cani, meno che per Fagin e Sikes che rimangono umani. Inoltre il personaggio di Nancy viene sostituito da una cagnetta vanitosa di nome Georgette.
+* *Oliver!*, musical (GB, 1994), musica e libretto di Lionel Bart - Revival londinese del musical del 1960, con James Daley (Oliver), Jonathan Pryce (Fagin), Adam Searles (Dodger), Sally Dexter (Nancy), Miles Anderson (Bill Sykes).
+* *Oliver Twist*, film del 1997 diretto da Tony Bill - In questo film nato per la televisione, due attori bambini (Max Reynolds e Alex Trench) si succedono nell'interpretazione di Oliver a sottolinearne la crescita nel corso della vicenda. Il cast include Richard Dreyfuss (Fagin) e Elijah Wood (The Artful Dodger).
+* *Scodinzola la vita e abbaia l'avventura con Oliver* (*Les nouvelles aventures d'Oliver Twist*) - serie TV d'animazione franco-statunitense del 1997-98 - La trama è solo liberamente ispirata al racconto di Dickens, i personaggi sono animali antropomorfi.
+* *Oliver Twist*, mini-serie TV (GB 1999), in 4 episodi, diretta da Renny Rye, con Sam Smith (Oliver), Robert Lindsay (Fagin), Emily Woof (Nancy), Andy Serkis (Bill Sykes).
+* *Escape of the Artful Dodger*, serie TV (Australia, 2001), in 13 episodi - La serie da' un seguito alle storia di Oliver (qui interpretato da Rowan Witt) e del Dodger (Luke O'Loughlin).
+* *Olivia Twist*, mini-serie TV (Svezia, 2002), diretta da Jonas Cornell, con Mylaine Hedreul (Olivia), Michael Nyqvist (Fagin), Lisa Werlinder (Nancy), Antti Reini (Bill Sikes). - Versione al femminile della storia, ambientata nella Svezia dei nostri giorni. Trasmessa alla televisione svedese in 7 puntate, dal 2 marzo al 13 aprile 2002.
+* *Boy Called Twist*, film (Sud Africa, 2004), diretto da Tim Greene, con Jarrid Geduld (Oliver), Lesley Fong (Fagin), Tertius Swanepoel (Dodger), Kim Engelbrecht (Nancy), Bart Fouche (Bill Sikes). - La trasposizione della vicenda dall'Inghilterra dell'Ottocento al moderno Sud Africa non cambia le linee generali e il significato dell'esperienza di strada di Oliver, interpretato da un attore bambino africano, Jarrid Geduld.
+* *Oliver Twist*, film (GB, 2005), diretto da Roman Polanski, con Barney Clark (Oliver), Ben Kingsley (Fagin), Harry Eden (Dodger), Leanne Rowe (Nancy), Jamie Foreman (Bill Sikes). - Il regista resta fedele all'ambientazione e alla trama originale della storia arricchendola con la propria personale esperienza di ragazzo di strada vissuta nella propria infanzia. Barney Clark (Oliver) e' al fianco di Ben Kingsley (Fagin).
+* *Celebrate Oliver!*, programma TV (GB, 2005), diretto da Richard Valentine - Selezioni dal musical Oliver! (1960), musica e libretto di Lionel Bart, con Joseph McManners (Oliver), Shane Richie e Ron Moody (Fagin), Perry Millward (Dodger), Ruthie Henshall e Suranne Jones (Nancy).
+* *Oliver Twist*, mini-serie TV (GB-USA, 2007), diretta da Coky Giedroyc, con William Miller (Oliver), Timothy Spall (Fagin), Adam Arnold (Dodger), Sophie Okonedo (Nancy), Tom Hardy (Bill Sikes). - La terza serie prodotta dalla BBC assieme all'americana PBS ha come protagonista William Miller (Oliver). È trasmessa alla televisione inglese in 5 episodi, dal 18 al 22 dicembre 2007.
+* *Oliver!*, musical (GB, 2009), musica e libretto di Lionel Bart - Revival londinese del musical del 1960, con Harry Stott (Oliver), Rowan Atkinson (Fagin), Ross McCormack (Dodger), Jodie Prenger (Nancy), Burn Gorman (Bill Sikes).
+
+## Altri media
+
+### Fumetti
+
+*Oliver Twist* - fumetto francese del 2014 edito da Tunué realizzato da: Loïc Dauvillier (sceneggiatura), Olivier Deloye (disegni), Jean-Jacques Rouger (colore), e Isabel Merlet (colore).

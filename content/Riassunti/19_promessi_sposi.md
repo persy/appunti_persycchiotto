@@ -4,15 +4,15 @@ draft: false
 weight: 19
 ---
 
+I promessi sposi è un celebre romanzo storico di Alessandro Manzoni, ritenuto il più famoso e il più letto tra quelli scritti in lingua italiana. Preceduto dal Fermo e Lucia, spesso considerato romanzo a sé, fu pubblicato in una prima versione nel 1827 (detta "ventisettana"); rivisto in seguito dallo stesso autore, soprattutto nel linguaggio, fu ripubblicato nella versione definitiva fra il 1840 e il 1842 (detta "quarantana"). Ambientato tra 1628 e il 1630 in Lombardia durante il dominio spagnolo, fu il primo esempio di romanzo storico della letteratura italiana. Il romanzo si basa su una rigorosa ricerca storica e gli episodi del XVII secolo, come ad esempio le vicende della monaca di Monza (Marianna de Leyva y Marino) e la Grande Peste del 1629–1631, si fondano su documenti d'archivio e cronache dell'epoca. Il romanzo di Manzoni viene considerato non solo una pietra miliare della letteratura italiana - in quanto è il primo romanzo moderno di questa tradizione letteraria - ma anche un passaggio fondamentale nella nascita stessa della lingua italiana. I promessi sposi, inoltre, sono considerati l'opera più rappresentativa del romanticismo italiano e una delle massime della letteratura italiana per la profondità dei temi (si pensi alla filosofia della storia in cui, cristianamente, opera l'insondabile Grazia divina nella Provvidenza). Inoltre, per la prima volta in un romanzo di tale successo, i protagonisti sono gli umili e non i ricchi e i potenti della storia. Il romanzo, infine, per la sua popolarità presso il grande pubblico e per il vivace oggetto d'interesse da parte della critica letteraria tra XIX e XX secolo, è stato rielaborato in forme artistiche, che vanno dalla rappresentazione teatrale al cinema, dall'opera lirica alla fumettistica.
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/I_promessi_sposi_-_Lake_Como.jpg/708px-I_promessi_sposi_-_Lake_Como.jpg" title="«Quel ramo del lago di Como...»" >}}
 
 ## La stesura: dal Fermo e Lucia alla Quarantana
+
 ### Fermo e Lucia
+
 #### Fase redazionale
-
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/I_promessi_sposi_-_Lake_Como.jpg/708px-I_promessi_sposi_-_Lake_Como.jpg">
-
-<i>«Quel ramo del lago di Como...»</i></div>
 
 La prima idea del romanzo risale al 24 aprile 1821, quando Manzoni cominciò la stesura del Fermo e Lucia, componendo in circa un mese e mezzo i primi due capitoli e la prima stesura dell'Introduzione. Interruppe però il lavoro per dedicarsi al compimento dell'Adelchi, al progetto poi accantonato della tragedia Spartaco e alla scrittura dell'ode Il cinque maggio. Dall'aprile del 1822 il Fermo e Lucia fu ripreso con maggiore lena e portato a termine il 17 settembre 1823: il Manzoni dichiarò, nella lettera all'amico Claude Fauriel del 9 novembre dello stesso anno, di aver portato a termine una nuova creazione letteraria caratterizzata dalla tendenza al vero storico. L'oggetto della vicenda fu offerto al Manzoni dalla lettura di alcuni manoscritti recanti episodi realmente accaduti (le minacce ad un curato di campagna per non far celebrare il matrimonio tra due giovani, per esempio) che saranno centrali per lo sviluppo della trama.
 
@@ -30,6 +30,7 @@ Il concerto operato dalla Provvidenza nella redenzione degli oppressi dalla nega
 Il Fermo e Lucia non va considerato come laboratorio di scrittura utile a preparare il terreno al futuro romanzo, bensì come opera autonoma, dotata di una struttura interna coesa e del tutto indipendente dalle successive elaborazioni dell'autore. Rimasto per molti anni inedito (sarebbe stato pubblicato solo nel 1915, da Giuseppe Lesca, col titolo Gli sposi promessi), il Fermo e Lucia viene oggi guardato con grande interesse. Anche se la tessitura dell'opera è meno elaborata di quella de I promessi sposi, nei quattro tomi del Fermo e Lucia si ravvisa un romanzo irrisolto a causa delle scelte linguistiche dell'autore che, ancora lontano dalle preoccupazioni che preludono alla terza e ultima scrittura dell'opera, crea un tessuto verbale ricco, ove s'intrecciano e si alternano tracce di lingua letteraria, elementi dialettali, latinismi e prestiti di lingue straniere. Nella seconda Introduzione a Fermo e Lucia l'autore definì la lingua usata «un composto indigesto di frasi un po' lombarde, un po' toscane, un po' francesi, un po' anche latine; di frasi che non appartengono a nessuna di queste categorie, ma sono cavate per analogia e per estensione o dall'una o dall'altra di esse», definita anche come buona lingua. Oltre all'aspetto linguistico, che Manzoni maturerà per tutti gli anni '20 e '30 (fino alla stesura della Quarantana), il Fermo e Lucia differisce profondamente da I promessi sposi per la struttura narrativa più pesante, dominata dalla suddivisione in quattro tomi e dalla mancata scorrevolezza dell'intreccio narrativo, dovuta ai frequenti interventi dell'autore o alla narrazioni dettagliate delle vicende di alcuni protagonisti («una cooperativa di storie e "biografie"»), specie della Monaca di Monza.
 
 ### La ventisettana
+
 I cambiamenti strutturali e psicologici dei personaggi
 Andrea Gastaldi, l'Innominato, olio su tela, 1860. Nel passaggio dal Fermo e Lucia a I promessi sposi, la figura del Conte del sagrato cambia radicalmente.
 
@@ -37,12 +38,12 @@ Differente per struttura narrativa, cornice, presentazione dei personaggi e uso 
 
 #### Dalla buona lingua al toscano
 
-
 Linguisticamente, Manzoni abbandona il composto indigesto linguistico dell'edizione precedente per avvicinarsi al toscano in quanto è ritenuta dal Manzoni, per il suo lessico "pratico" utilizzato sia presso gli aristocratici che i popolani, la lingua più efficace per dare un tono realistico e concreto al suo romanzo. Manzoni, che in famiglia parlava o il francese (lingua della nobiltà e delle classi colte) o il dialetto milanese, tra il 1824 (ancor prima del termine della stesura) e il 1827 cercò di imparare il toscano attraverso strumenti linguistici, utilizzando il dizionario Cherubini (italiano-milanese) e il Grand dictionnaire français-italien di François d'Alberti de Villeneuve per la traduzione in italiano dei lemmi francesi. Non era tuttavia soddisfatto del risultato ottenuto, poiché il linguaggio dell'opera era ancora troppo debitore delle proprie origini lombarde, e quindi artificioso. Nello stesso 1827, si recò a Firenze, per "risciacquare – come disse – i panni in Arno" e sottoporre il romanzo ad un'ulteriore e più accurata revisione linguistica, affrancandola dal dialetto toscano in generale, e rendendola aderente al dialetto fiorentino, visto ancor più adatto al realismo che si prefiggeva. Una scelta destinata ad incidere profondamente nella nascita dell'italiano standard del neonato Regno d'Italia, grazie alla relazione che il Manzoni stesso inviò, nel 1868, al ministro per l'istruzione Broglio per l'insegnamento dell'italiano nelle scuole statali.
 
 ### La quarantana
 
 #### Genesi
+
 Francesco Hayez, Teresa Manzoni-Stampa-Borri, olio su tela, 1849, Pinacoteca di Brera, Milano. La seconda moglie di Manzoni e Tommaso Grossi spinsero lo scrittore a redigere una nuova edizione della Ventisettana.
 
 L'edizione definitiva de I promessi sposi, realizzata tra l'ottobre del 1840 e il novembre del 1842 con l'aggiunta in appendice della Storia della colonna infame, fu decisa sia per la volontà da parte dell'autore di rinnovare l'impianto stilistico e linguistico della ventisettana dopo l'esperienza fiorentina, sia per la spinta che Manzoni ricevette da parte della seconda moglie, Teresa Borri - grande ammiratrice dell'opera manzoniana -, e da quella dell'amico di lunga data Tommaso Grossi, i quali intravedevano numerosi introiti dalla nuova edizione. La revisione della seconda edizione, che essenzialmente differisce da quella del 1827 per la revisione linguistica dal toscano al fiorentino colto, vide il prezioso aiuto della fiorentina Emilia Luti, governante dei figli dello scrittore, con la quale mantenne un'intensa corrispondenza epistolare anche dopo che l'istitutrice lasciò i Manzoni per i Litta-Modigliani. Alcuni critici suggeriscono altresì che l'ormai ultracinquantenne Manzoni, distaccato da anni di inattività poetica, abbia deciso di smussare alcune espressioni troppo vicine alla sfera lirica.
@@ -52,26 +53,22 @@ L'edizione definitiva de I promessi sposi, realizzata tra l'ottobre del 1840 e i
 Il successo dell'opera manzoniana comportò, in un'epoca in cui non esisteva ancora il diritto d'autore, il proliferare di edizioni abusive. Tali edizioni spinsero Manzoni a dotare l'edizione di alcune attrattive in più: un corredo di illustrazioni, l'utilizzo della carta e dell'inchiostro migliori e l'aggiunta, in allegato, di un romanzo del tutto nuovo, Storia della colonna infame. Per le illustrazioni Manzoni pensò dapprima a Francesco Hayez, che ne inviò due a Parigi, ma il celebre pittore rinunciò affermando che un simile lavoro gli avrebbe procurato danni alla vista. Lo scrittore chiese quindi aiuto in Francia all'amica Bianca Milesi, che si rivolse al pittore francese Louis Boulanger, ma nemmeno questo tentativo, testimoniato da un solo disegno, si rivelò fruttuoso. Quando Francesco Gonin, giovane e promettente pittore piemontese, fu ospitato a Milano da Massimo d'Azeglio, Manzoni riconobbe in lui la persona giusta. Il suo lavoro convinse pienamente l'autore, che con il Gonin intrattenne nei primi mesi del 1840 una fitta corrispondenza. Il rapporto fra i due fu di grande intesa: lo scrittore guidò la mano del pittore nella composizione di questi quadretti. L'aver trovato l'illustratore non era tuttavia sufficiente: era necessario anche un buon incisore. Per tramite del pittore e incisore Giuseppe Sacchi, Manzoni riuscì a far venire dalla Francia i transalpini Bernard e Pollet e l'inglese Sheeres. La direzione del lavoro fu affidata al Gonin, incaricato di valutare e approvare le incisioni. Siccome queste andavano però a rilento, l'autore fece pressione sul Sacchi affinché venissero inviati d'oltralpe altri collaboratori, e fu accontentato con l'arrivo dei francesi Victor e Loyseau. A questo punto Manzoni poté infine occuparsi del contratto con gli stampatori Redaelli e Guglielmini, firmato il 13 giugno 1840.
 
 #### La Storia della colonna infame
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lapide_della_colonna_infame.jpg/607px-Lapide_della_colonna_infame.jpg">
 
-<i>Lapide della Colonna Infame, conservata nel Castello sforzesco (Corte Ducale) di Milano.</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lapide_della_colonna_infame.jpg/607px-Lapide_della_colonna_infame.jpg" title="Lapide della Colonna Infame, conservata nel Castello sforzesco (Corte Ducale) di Milano." >}}
 
 La _Storia della colonna infame_, ricostruzione del clima di intolleranza, ferocia e alienazione in cui si svolgevano i processi contro gli untori al tempo della peste raccontata nel romanzo, inizialmente fu appendice nel Fermo e Lucia per poi essere aggiunta, dopo essere stata rielaborata linguisticamente e strutturalmente, alla Quarantana nel 1842. La vicenda, che affronta la tragica vicenda del barbiere Gian Giacomo Mora e dell'ufficiale di sanità Guglielmo Piazza, accusati di aver contribuito a diffondere la pestilenza attraverso presunti intrugli preparati dal Mora e affidati poi al Piazza, è una ferma e violenta condanna dell'illogicità della feroce superstizione della massa popolare e della tortura usata dalle autorità per estorcere le presunte colpe dei due. Secondo alcuni studiosi non sarebbe un'appendice, ma il vero finale del romanzo, come dimostrerebbe l'impaginazione stessa, stesa dallo stesso Manzoni. Interessante anche l'analisi narratologica dell'opera manzoniana, da cui si comprende la distanza esistente fra narratore e autore.
 
 ## L'opera
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Sir_Walter_Scott_-_Raeburn.jpg">
 
-<i>Henry Raeburn, Sir Walter Scott, 1822, olio su tela, National Gallery of Scotland.</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Sir_Walter_Scott_-_Raeburn.jpg" title="Henry Raeburn, Sir Walter Scott, 1822, olio su tela, National Gallery of Scotland." >}}
 
 ### Manzoni e il modello di Walter Scott
 
-
 Il romanzo manzoniano presenta varie analogie, ma anche evidenti differenze, con il romanzo storico dello scozzese Walter Scott, Ivanhoe, ambientata nel Medioevo inglese sullo sfondo delle lotte e della successiva unione tra i normanni invasori e le popolazioni preesistenti, in primo luogo i sassoni. Manzoni, che non conosceva l'inglese, durante il soggiorno parigino del 1818-1820 poté leggere il capolavoro di Scott in un'edizione francese. Una volta ritornato a Milano lo scrittore, dalla sua villa di Brusuglio si fece inviare attraverso il direttore della Biblioteca di Brera Gaetano Cattaneo, gli altri romanzi di Scott tradotti in francese (La sposa di Lammermoor, Il Monastero, Waverly e altri). Il filo rosso conduttore tra lo scrittore scozzese e Manzoni si riscontra sul piano prettamente storico (anche se Manzoni critica le eccessive libertà creative di Scott, sottolineandone la diseguale fedeltà alle fonti) e sulle riscostruzioni paesaggistiche, mentre il Nostro si disinteressa dell'avvicendarsi dei fatti avventurosi che rendono veloce e spigliata la trama dell'Ivanhoe, trama che richiama le antiche epopee cavalleresche del ciclo arturiano e dell'Orlando Furioso dell'Ariosto. I personaggi di Ivanhoe non rispecchiano quella complessità d'anima, quel «guazzabuglio del cuore umano» che invece caratterizzano così fortemente i personaggi de I promessi sposi, costantemente immersi in un dinamismo storico realistico che sembra essere molto distante dal mondo fantastico dell'Inghilterra medioevale dipinta da Scott. Dipoi, se nell'opera manzoniana c'è un forte interesse "civile", inteso a fornire, tramite il romanzo, un'unità linguistica e delle solide basi morali ai lettori, in quella dello Scott tale dimensione è totalmente assente, in quanto indirizzata maggiormente al divertimento dei lettori che al formarli secondo precise intenzioni civico-pedagogiche. Tra i modelli che Manzoni alfine usufruì si ritrovano Laurence Sterne (1713-1768) e i romanzi gotici, quali Il castello di Otranto di Horace Walpole nella parte relativa al Castello dell'Innominato e, più esplicitamente, nel legame che unisce il cappuccino manzoniano al frate francescano descritto nel Viaggio sentimentale di Yorik.
-### I "generi" del romanzo
-#### La nascita del romanzo storico italiano
 
+### I "generi" del romanzo
+
+#### La nascita del romanzo storico italiano
 
 Il romanzo manzoniano rientra, dunque, all'interno del genere del romanzo storico, impresa assai ardua in Italia dove, a causa della mancanza di unità linguistica e della conseguente inesistenza di modelli (se si eccettuano i romanzi barocchi, completamente distanti dall'obiettivo della temperie romantica), di romanzi nel senso moderno del termine non erano stati scritti neppure uno. L'esigenza di passare dalla tragedia al romanzo storico (quello che poi Manzoni definirà come una «mistura di storia e invenzione») risiedeva in un'esigenza, di primo luogo, morale per la risoluzione di quello che Angelo Stella ha definito «pessimismo cristiano», ovvero della necessità di far vincere in questo mondo a dei personaggi di fantasia le sfide della storia, elemento che non poteva essere accolto nella veridicità storica delle tragedie, ove la rivincita poteva avvenire solo nell'aldilà. Inoltre, il genere del romanzo permetteva al narratore di far prevalere la parte del vero poetico rispetto al vero storico, come delucidato da Gino Tellini:
 
@@ -79,8 +76,8 @@ Il romanzo manzoniano rientra, dunque, all'interno del genere del romanzo storic
 (Tellini, 1998, p. 45)
 
 La scelta degli "umili" quali protagonisti dell'intera storia, attorniati dai "grandi" che entrano ed escono dalle loro vite, fu una scelta maturata non solo dalla temperie romantica che si stava facendo sentire anche a Milano con l'attività di scrittori quali Carlo Porta e Ludovico di Breme, ma soprattutto grazie all'incontro che Manzoni fece con lo storico e idéologue Augustin Thierry a Parigi nel suo secondo soggiorno del 1819-1820. Il Thierry, sostenitore dell'ideale borghese e patrocinatore di una storia in cui i protagonisti non sono i grandi, ma gli oppressi, gettò il seme nel cuore di Manzoni nel redigere una storia che avesse al centro non gli eroi secondo i prototipi della tradizione letteraria, ma semmai dei veri e propri "antieroi".
-#### L'anima verista e il Bildungsroman
 
+#### L'anima verista e il Bildungsroman
 
 Benché sia considerato il modello per eccellenza del romanzo storico italiano, in realtà l'opera va ben oltre i ristretti limiti di tale genere letterario: Manzoni infatti, attraverso la ricostruzione dell'Italia del Seicento, non tratteggia soltanto un grande affresco storico, ma prefigura degli evidenti parallelismi con i processi storici di cui era testimone nel suo tempo, non limitandosi a indagare il passato; bensì, riflettendo su costanti umane – di carattere culturale, psicologico, spirituale, sociale e politico – l'autore traccia anche un'idea ben precisa del senso della storia, oltre che del rapporto che il singolo ha con gli eventi storici che lo coinvolgono.
 
@@ -94,11 +91,10 @@ Davanti a questo rigoroso spirito d'osservazione della realtà che circonda le v
 ### Le fonti
 
 Le fonti cui Manzoni attinse per la ricostruzione delle vicende della Milano Seicentesca e di alcuni personaggi furono essenzialmente: il Mediolani Historia Patriae di Giuseppe Ripamonti (1573-1643), monumentale storia di Milano ricchissima di informazioni sulla peste del 1630 , sulla vicenda di don Bernardino Visconti, il personaggio storico cui Manzoni si ispirò per l'Innominato) e sulla tragica storia di suor Marianna de Leyva; l'Economia e statistica di Melchiorre Gioia (1763-1829), fonte utile per ricostruire il panorama sociale ed economico della Lombardia spagnola e quindi il grave stato di miseria in cui versava la popolazione, costretta ad emigrare in Paesi vicini quali la Repubblica di Venezia. La Monaca (La Religieuse) di Denis Diderot, modello che ha potuto arricchire d'immaginazione la mente del Manzoni riguardo a suor Gertrude, anche se il critico Giovanni Macchia ne sottolinea la distanza perché «serrato in tutte le sue parti come un'opera filosofica», e quindi lontana dal realismo che Manzoni invocava. Da ricordare è anche lo scritto De Pestilentia di Federigo Borromeo, dalla cui lettura Manzoni si ispirò in generale per l'ambientazione della Milano devastata dal morbo, e più in particolare per l'episodio della madre di Cecilia. Infine, come ricordato dal Manzoni nel capitolo XXXI, per la nitida narrazione della pestilenza l'autore si servì anche del Ragguaglio dell'origine et giornali successi della gran peste di Alessandro Tadino.
-### Caratteristiche generali
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/I_promessi_sposi_389.jpg/528px-I_promessi_sposi_389.jpg">
 
-<i>La processione dei resti di San Carlo. La funzione religiosa, sconsigliata perché propagatrice del contagio tra i milanesi secondo la scienza moderna, fu criticata dal Manzoni.</i></div>
+### Caratteristiche generali
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/I_promessi_sposi_389.jpg/528px-I_promessi_sposi_389.jpg" title="La processione dei resti di San Carlo. La funzione religiosa, sconsigliata perché propagatrice del contagio tra i milanesi secondo la scienza moderna, fu criticata dal Manzoni." >}}
 
 #### La finzione dell'Anonimo del manoscritto
 
@@ -113,11 +109,7 @@ La finzione narrativa dell'Anonimo del manoscritto permette all'autore di interv
 
 #### La funzione del romanzo: l'utile, il vero e l'interessante
 
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Francesco_Hayez_040.jpg/364px-Francesco_Hayez_040.jpg">
-
-<i>Ritratto di Alessandro Manzoni a opera di Francesco Hayez</i></div>
-
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Francesco_Hayez_040.jpg/364px-Francesco_Hayez_040.jpg" title="Ritratto di Alessandro Manzoni a opera di Francesco Hayez" >}}
 
 Manzoni, nella sua lettera Sul romanticismo al Marchese Cesare D'Azeglio del 1823, aveva dichiarato esplicitamente che la funzione dell'arte e della letteratura, per lui, deve orientare i lettori secondo tre coordinate estetico-paideutiche ben precise:
 
@@ -130,8 +122,8 @@ Nel caso del romanzo, il veicolo morale dunque deve passare attraverso una narra
 (Alessandro Manzoni, Fermo e Lucia, II, 1, in Nigro-Paccagnini, pp. 172-173)
 
 Il romanzo, dunque, deve attendere ad altri scopi, che siano di utilità alla società e alla fraternità umana: «come sarebbe la commiserazione, l'affetto al prossimo, la dolcezza, l'indulgenza, il sacrificio di se stesso: oh di questi non v'ha mai eccesso».
-#### La Provvidenza
 
+#### La Provvidenza
 
 Oltre al proposito espresso nel Fermo e Lucia, Manzoni spinge l'intenzione moralista a più alte vette, rendendo la Provvidenza divina il "motore" che può permettere l'esplicazione di tale condotta. Il romanzo, pertanto, assume una forte connotazione morale intrisa dell'escatologia cristiana, dominata dalla presenza della Provvidenza nella storia e nelle vicende umane. Il male è presente, il gioco di forze contrapposte genera effetti a volte disastrosi nella storia dei protagonisti, ma Dio non abbandona gli uomini e la fede nella Provvidenza, nell'opera manzoniana, permette di dare un senso ai fatti e alla storia dell'uomo, come emerge alla conclusione del romanzo stesso:
 
@@ -143,19 +135,15 @@ Luciano Parisi, sulla scia della conclusione formulata dal Manzoni per bocca di 
 Ma la questione della Provvidenza delineata da Manzoni è assai diversa, invece, da quella presentata dai suoi personaggi: nessuno di loro (se non Fra Cristoforo e il Cardinale) definisce in modo nitido come Dio operi nella storia, passando da interpretazioni perlomeno accettabili (il voto alla Madonna che Lucia compie mentre è prigioniera dell'Innominato, e la sua liberazione intravista quale segno della benevolenza divina) a quelle blasfeme di Don Abbondio (la peste è vista come una «gran scopa» provvidenziale) e di Don Gonzalo de Cordoba che, davanti all'avanzare della peste portata dai Lanzichenecchi, afferma che ci penserà la Provvidenza a risolvere tutto. Si ha quindi una pluralità di visioni, che tolgono ai promessi sposi l'epiteto di Epopea della Provvidenza, visto che l'autore vi accenna appena. Solo alla fine del romanzo emerge il vero volto della Provvidenza divina, scoperta che illumina la realtà dell'agire di Dio nella Storia e che spinse Parisi a "ridefinire" l'epiteto dell'opera manzoniana: « Si potrebbe dire, in questo senso, che i promessi sposi sono il romanzo della fede nella Provvidenza, più che il romanzo della Provvidenza…».
 
 #### La scelta del Seicento
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/I_promessi_sposi_%281840%29_042.png">
 
-<i>Francesco Gonin, Renzo e Don Abbondio. Il curato comunica a Renzo, dietro la minaccia dei bravi, i vari impedimenti alla celebrazione del matrimonio.</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/0f/I_promessi_sposi_%281840%29_042.png" title="Francesco Gonin, Renzo e Don Abbondio. Il curato comunica a Renzo, dietro la minaccia dei bravi, i vari impedimenti alla celebrazione del matrimonio." >}}
 
 Perché la Provvidenza potesse manifestarsi, secondo l'intenzione dell'autore, al massimo della sua epifania salvifica, era necessario che il retroterra storico culturale in cui ambientare il romanzo fosse dominato dal male, dalla violenza e dall'ignoranza. La profonda disistima che l'illuminista Manzoni nutriva verso il Seicento, secolo della decadenza morale, civile e culturale, rendeva tale periodo perfetto nelle intenzioni programmatiche dell'autore:
 
 « Caso mai egli trova motivazione per occuparsi del Seicento nel fatto che questa gli appare un'età sostanzialmente negativa, l'osservatorio ideale per cogliere il dramma di due antieroi popolani coinvolti e quasi stritolati negli ingranaggi del potere...Il Seicento può così diventare il simbolo dell'immobilismo della storia italiana (secondo una polemica di stampo illuministico), e forse addirittura della condizione umana. »
 (Guglielmino-Grosser, p. 477)
 
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/I_promessi_sposi_248.jpg/640px-I_promessi_sposi_248.jpg">
-
-<i>Francesco Gonin, il Conte zio e il padre provinciale parlano di Fra Cristoforo. Il Conte zio è l'espressione della rapacità e della corruzione clientelare tipica della nobiltà ispanica.</i></div>
-
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/I_promessi_sposi_248.jpg/640px-I_promessi_sposi_248.jpg" title="Francesco Gonin, il Conte zio e il padre provinciale parlano di Fra Cristoforo. Il Conte zio è l'espressione della rapacità e della corruzione clientelare tipica della nobiltà ispanica." >}}
 
 La Lombardia, nella prima metà del XVII secolo, viveva uno dei periodi più bui della sua storia. Retta da una classe di potenti inetta e corrotta e da un governatore assente e dedito esclusivamente all'esecuzione degli ordini imposti da Madrid, quello che era il Ducato di Milano divenne il crocevia degli eserciti ispano-imperiali impegnati nella sanguinosa guerra dei trent'anni (1618-1648), che in Italia si declinò nella guerra di successione al Ducato di Mantova. Sempre sul finire degli anni '20, prima dello scoppio della terribile pestilenza che decimerà la popolazione lombarda, si era abbattuta una rovinosa carestia - accennata in più passaggi nel corso della storia - che porterà alla rivolta dei forni dell'XII capitolo. Il malcostume, l'inefficacia delle grida di giustizia e la violenza che dilaga a livello regionale nel fenomeno dei bravi si declinano, inevitabilmente, nel vissuto quotidiano dei protagonisti. Gli esempi sono molteplici: la violenza compiuta dai bravi di don Rodrigo a don Abbondio nel capitolo primo; i tentativi, sempre da parte del signorotto spagnolo, di sottomettere Lucia ai suoi desideri; la violenza che "la vittima" don Abbondio compie su Renzo, sfoggiando una cultura classicheggiante e teologica che il giovane analfabeta non può comprendere; la violenza psicologica perpetrata dal padre di Gertrude per monacarla forzatamente e quella che la stessa userà contro la conversa Caterina insieme all'amante Egidio per farle tacere della relazione segreta. Il culmine della violenza, «nella quale affoga collettivamente una civiltà sbagliata...per una purificazione...quale premessa necessaria alla ricostruzione della società», è infine la terribile pestilenza in cui le vicende dei personaggi si riallacciano in una Milano completamente devastata in ogni aspetto della sua vita sociale. Nonostante la desolazione e la morte imperante, è qui che Renzo trova quella pietà che lo spingerà a riconciliarsi con don Rodrigo morente e che spingerà Lucia a riconsiderare il voto per unirsi definitivamente con Renzo, aprendosi agli imperscrutabili disegni che la Provvidenza opera nei cuori loro e degli uomini.
 
@@ -197,9 +185,8 @@ Il romanzo, nel passaggio dal Fermo e Lucia a I promessi sposi, come si è visto
 Nella narrazione l'intreccio si discosta poco dalla fabula e solo quando la trama lo richiede. Ciò accade per esempio quando l'autore tratta parallelamente le vicende di Renzo e Lucia, le vicende storico-sociali (carestia, guerra, peste) o quando compie delle analessi per le biografie di fra Cristoforo (cap. IV), della monaca di Monza (cap. IX-X), dell'Innominato (cap. XIX) e del cardinale Federigo Borromeo (cap. XXII).
 
 ### Trama
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/I_promessi_sposi_-_ch1.jpg/517px-I_promessi_sposi_-_ch1.jpg">
 
-<i>Manzoni, Promessi Sposi, capitolo I, p. 12: «Due uomini stavano, l’uno dirimpetto all’altro, al confluente, per dir così, delle due viottole».</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/I_promessi_sposi_-_ch1.jpg/517px-I_promessi_sposi_-_ch1.jpg" title="Manzoni, Promessi Sposi, capitolo I, p. 12: «Due uomini stavano, l’uno dirimpetto all’altro, al confluente, per dir così, delle due viottole»." >}}
 
 #### L'incontro coi bravi e la minaccia di don Rodrigo (capitoli I-II)
 
@@ -208,17 +195,16 @@ Dopo l'ampia descrizione del paesaggio del lecchese con cui il romanzo si apre, 
 Ogni cosa è pronta per il matrimonio di Renzo e Lucia quando un signore del luogo, don Rodrigo, scommette con il cugino Attilio che sarebbe riuscito a possedere Lucia. Perciò il curato del paese, don Abbondio, incaricato di celebrare il matrimonio, viene minacciato durante la sua solita passeggiata serale da due bravi di don Rodrigo, affinché non sposi i giovani. In preda al panico don Abbondio cede subito: il giorno dopo imbastisce delle scuse a Renzo per prendere tempo e rinviare il matrimonio, non esitando ad approfittare della sua ignoranza per utilizzare come spiegazione frasi in latino. Renzo, stizzito dal comportamento evasivo di don Abbondio, decide di uscire dalla canonica ove incontra Perpetua, la domestica di don Abbondio dalla quale, seppur per vie traverse, comprende la natura della reticenza del parroco, costringendolo a rivelare la verità.
 
 #### Dall'Azzecca-garbugli all'incontro tra Fra' Cristoforo e don Rodrigo (capitoli III-VI)
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/I_promessi_sposi_-_ch6.jpg/522px-I_promessi_sposi_-_ch6.jpg">
 
-<i>Fra Cristoforo inveisce contro don Rodrigo; Manzoni, Promessi Sposi, capitolo VI, p. 104: «Ho compassione di questa casa: la maledizione le sta sopra sospesa. State a vedere che la giustizia di Dio avrà riguardo a quattro pietre, e suggezione di quattro sgherri [...] e in quanto a voi, sentite bene quel ch’io vi prometto. Verrà un giorno....».</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/I_promessi_sposi_-_ch6.jpg/522px-I_promessi_sposi_-_ch6.jpg" title="Fra Cristoforo inveisce contro don Rodrigo; Manzoni, Promessi Sposi, capitolo VI, p. 104: «Ho compassione di questa casa: la maledizione le sta sopra sospesa. State a vedere che la giustizia di Dio avrà riguardo a quattro pietre, e suggezione di quattro sgherri [...] e in quanto a voi, sentite bene quel ch’io vi prometto. Verrà un giorno....»." >}}
 
 Si consulta così con Lucia e con sua madre Agnese e insieme decidono di chiedere consiglio a un avvocato, detto Azzecca-garbugli; questi inizialmente crede che Renzo sia un bravo e come tale è disposto ad aiutarlo, ma appena sa che il giovane è venuto a chiedergli giustizia nei confronti di don Rodrigo, il giurista lo scaccia malamente. Così i tre si rivolgono a fra Cristoforo, loro "padre spirituale", cappuccino di un convento poco distante che si convertì, in gioventù, dopo aver ucciso un uomo. Il frate, volendo compiere il proprio dovere di proteggere i più deboli dai soprusi dei potenti, decide di affrontare don Rodrigo e si reca al suo palazzo ma quegli, intento a pranzare col cugino Attilio, il podestà di Lecco e l'Azzecca-garbugli, accoglie con malumore il frate, intuendo il motivo della visita. Cristoforo tenta di farlo recedere dal suo proposito ma, vista la risolutezza del nobile, Cristoforo gli ricorda il giorno del giudizio in cui dovrà render conto del suo operato davanti a Dio. Don Rodrigo, irato e al contempo intimorito nel profondo della sua coscienza, scaccia via in malo modo il frate.
+
 #### La notte degli imbrogli e dei sotterfugi: la fuga (capitoli VI-VIII)
 
 Intanto Agnese propone ai due promessi un matrimonio a sorpresa, pronunciando davanti al curato le frasi rituali alla presenza di due testimoni. Con molte riserve da parte di Lucia il piano viene accettato quando fra Cristoforo annuncia il fallimento del suo tentativo di convincere don Rodrigo. Intanto don Rodrigo medita il rapimento di Lucia e una sera alcuni bravi irrompono nella casa delle donne, che però trovano deserta: Lucia, Agnese e Renzo sono infatti a casa di don Abbondio per tentare di ingannarlo, ma falliscono e devono riparare al convento di fra Cristoforo, perché frattanto sono venuti a sapere del tentato rapimento. Contemporaneamente fallisce anche il rapimento di Lucia da parte dei bravi, che sono messi in fuga dal trambusto scoppiato nel villaggio a seguito dell'allarme dato dallo scampanio, che don Abbondio genera per chiedere aiuto contro il tentativo di "nozze irregolari". Il Manzoni, maestro di psicologia collettiva, ha schizzato qui alcuni temi che avrebbe svolto nel grande affresco della sommossa milanese. Renzo, Lucia e Agnese giungono al convento di Pescarenico dove padre Cristoforo espone loro i suoi progetti: Renzo si sarebbe rifugiato presso il convento dei cappuccini a Milano per cercare padre Bonaventura, mentre Lucia avrebbe trovato aiuto dal padre guardiano del convento nei pressi di Monza. Il religioso ha già scritto una lettera per ognuno dei confratelli e le consegna ai due.
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/I_promessi_sposi_-_Lucia.jpg/434px-I_promessi_sposi_-_Lucia.jpg">
 
-<i>Lucia Mondella</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/I_promessi_sposi_-_Lucia.jpg/434px-I_promessi_sposi_-_Lucia.jpg" title="Lucia Mondella" >}}
 
 #### L'"Addio ai monti"
 
@@ -241,21 +227,20 @@ Manzoni, Promessi Sposi, capitolo XIII, pp. 255-256: «Spiccava tra questi, ed e
 A Milano Renzo, non potendo subito ricoverarsi nel convento indicatogli da fra Cristoforo, dato che padre Bonaventura è in quel momento assente, rimane coinvolto nei tumulti scoppiati in quel giorno per il rincaro del pane, tumulti che andranno sotto il nome di tumulti di San Martino, perché scoppiati per l'appunto l'11 di novembre. Renzo si fa trascinare dalla folla e pronuncia un discorso in cui critica la giustizia, che sta sempre dalla parte dei potenti. È tra i suoi ascoltatori un «birro» in borghese, che cerca di condurlo in carcere, ma uno stanco Renzo si ferma in un'osteria dove il poliziotto viene a conoscenza, con uno stratagemma, del suo nome. Una volta andato via costui, Renzo si ubriaca e rivolge nuovi appelli alla giustizia agli altri avventori. Il mattino dopo Renzo viene arrestato, ma riesce a fuggire (incitando la folla contro le poche guardie che sono scappate) e si ripara nella zona di Bergamo, nella Repubblica di Venezia, da suo cugino Bortolo, che lo ospita e gli procura un lavoro sotto falso nome. Intanto la sua casa viene perquisita e viene fatto credere che sia uno dei capi della rivolta. Nel frattempo il conte Attilio chiede a suo zio, membro del Consiglio Segreto, di far allontanare fra Cristoforo, cosa che il conte ottiene dal padre provinciale dei cappuccini: in questo modo padre Cristoforo viene trasferito a Rimini.
 
 #### Il rapimento di Lucia e l'Innominato (capitoli XIX-XXIV)
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/I_promessi_sposi_-_Innominato.jpg/570px-I_promessi_sposi_-_Innominato.jpg">
 
-<i>L'Innominato</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/I_promessi_sposi_-_Innominato.jpg/570px-I_promessi_sposi_-_Innominato.jpg" title="L'Innominato" >}}
 
 « Di costui non possiamo dare né il nome, né il cognome, né un titolo, e nemmeno una congettura sopra nulla di tutto ciò: cosa tanto più strana, che del personaggio troviamo memoria in più d'un libro (libri stampati, dico) di quel tempo. »
 (Manzoni, Promessi Sposi, capitolo XIX, pp. 371-372)
 
 Don Rodrigo chiede aiuto all'Innominato, potentissimo e sanguinario signore, che però da qualche tempo riflette sulle proprie responsabilità, sulle vessazioni di cui si è reso autore o complice per attestare la propria autorità sui signorotti e al di là della legge, oltre che sul senso della propria vita. Costui fa rapire Lucia dal Nibbio – con l'aiuto di Egidio e la complicità di Gertrude – e Lucia viene portata al castello dell'Innominato. Lucia, terrorizzata, supplica l'Innominato di lasciarla libera e lo esorta a redimersi dicendo che «Dio perdona molte cose per un atto di misericordia». La notte che segue è per Lucia e per l'Innominato molto intensa. La prima fa un voto di castità alla Madonna perché la salvi e quindi rinuncia al suo amore per Renzo. Il secondo trascorre una notte orribile, piena di rimorsi e sta per uccidersi quando scopre, quasi per volere divino (le campane suonano a festa in tutta la vallata), che il cardinale Federigo Borromeo è in visita pastorale nel paese. Spinto dall'inquietudine che lo tormenta, la mattina si presenta in canonica per parlare con il cardinale. Il colloquio, giungendo al culmine di una tormentata crisi di coscienza che egli maturava da tempo, sconvolge l'Innominato, che si converte impegnandosi a cambiare vita e per prima cosa libera Lucia.
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cardinale%26DonAbbondio.jpg/480px-Cardinale%26DonAbbondio.jpg">
 
-<i>Il colloquio tra il cardinale Federigo Borromeo e Don Abbondio</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cardinale%26DonAbbondio.jpg/480px-Cardinale%26DonAbbondio.jpg" title="Il colloquio tra il cardinale Federigo Borromeo e Don Abbondio" >}}
 
 #### Tra calamità naturali ed eserciti (capitoli XXV-XXX)
 
 Intanto il cardinale, dopo aver provveduto ad ospitare Lucia presso due aristocratici milanesi, don Ferrante e donna Prassede, rimprovera duramente don Abbondio per non aver celebrato il matrimonio. I capitoli successivi alternano digressioni storiche e le vicende dei vari protagonisti: da un lato la discesa in Italia dei Lanzichenecchi, mercenari tedeschi che combattono nella guerra di successione al Ducato di Mantova, i quali mettono a sacco il paese di Renzo e Lucia e diffondono il morbo della peste. Agnese, rimasta nel suo paese natio, Perpetua e don Abbondio si rifugiano presso l'Innominato, il quale ha aperto il suo castello ai contadini in fuga dalle soldataglie alemanne. D'altro canto, il Manzoni si sofferma nel narrare della permanenza di Lucia presso il palazzo milanese di don Ferrante e donna Prassede: il primo, simbolo della decadenza culturale barocca, tutto preso dai suoi studi astrusi; la seconda, invece, caratterizzata da una forte volontà e da uno spirito dominatore, è intenta a far dimenticare Lucia di Renzo, sulla base anche delle accuse che le autorità milanesi hanno lanciato contro di lui per la responsabilità nei tumulti di san Martino.
+
 #### La peste (capitoli XXXI-XXXVI)
 
 Con i Lanzichenecchi entra in Lombardia ed infine a Milano la peste, sottovalutata inizialmente dalle autorità, in particolar modo dal governatore don Gonzalo de Cordova, preso dall'assedio di Casale Monferrato, e dal Senato: solo il cardinale Federigo si prodigherà nell'assistenza ai malati, unica autorità rimasta in una Milano abbandonata a sè stessa. Di peste si ammalano Renzo – che guarisce – e don Rodrigo, che viene tradito e derubato dal Griso, il capo dei suoi bravi che – contagiato anch'egli dalla peste – però non avrebbe goduto dei frutti del suo tradimento.
@@ -264,49 +249,49 @@ Con i Lanzichenecchi entra in Lombardia ed infine a Milano la peste, sottovaluta
 <i>Manzoni, Promessi Sposi, capitolo XXXIV, p. 661: «Scendeva dalla soglia d’uno di quegli usci, e veniva verso il convoglio, una donna, il cui aspetto annunziava una giovinezza avanzata, ma non trascorsa».</i></div>
 
 Una volta guarito Renzo torna al paese - ove trova una grande desolazione e scopre da un convalescente don Abbondio della morte di Perpetua - per cercare Lucia, preoccupato dagli accenni fatti da lei per lettera a un suo voto di castità fatto quando era dall'Innominato. Non trovandola, il giovane viene indirizzato a Milano, dove apprende che si trova nel Lazzaretto. Nella descrizione della città colpita dal morbo v'è una spaventevole verosimiglianza: non più la luce dell'alba cara al Manzoni, ma la spietata intensità del sole a picco. La descrizione dei carri dei monatti è pagina potente e sinistra. L'accordo dei vari temi dell'episodio si rivela però nelle note soavi della scena della madre di Cecilia, nell'umoristico contrasto tra l'angoscia dell'ambiente e il comico errore dei monatti su Renzo scambiato per untore.
+
 #### La madre di Cecilia
 
 Il capitolo XXXIV, oltre a descrivere le nuove disavventure di Renzo scambiato per untore e una Milano trasformata in un grande cimitero, si sofferma anche sull'episodio della madre di Cecilia, una bambina la quale – ormai morta – è posta sul carro dei monatti dalla madre, che li implora di non toccare il piccolo corpo composto con tanto amore e chiede poi di tornare dopo a «[...] prendere anche me e non me sola». La donna è presentata piena di dignità umana e di amore materno che sarebbe riuscita a impietosire anche il "turpe monatto" che le voleva strappare la bambina. Il personaggio è descritto accostando coppie di termini in antitesi collegati da forme oppositive e negative: «[...] una giovinezza avanzata ma non trascorsa [...] una bellezza velata e offuscata, ma non guasta, da una gran passione, e da un languor mortale [...] la sua andatura era affaticata, ma non cascante...».
+
 #### Il ricongiungimento di Renzo e Lucia
 
 Renzo, alla fine, giunge al Lazzaretto ove, in mezzo al dolore e alla morte degli appestati, trova fra Cristoforo, giunto in città per soccorrere i più bisognosi. Benché afflitto dalla malattia che l'ha colpito - mortalmente, come si saprà alla fine del romanzo -, il vecchio cappuccino si prodiga con tutte le sue forze per alleviare le sofferenze altrui, e inveisce contro Renzo quando quest'ultimo gli parla dei sentimenti di vendetta che nutre verso Don Rodrigo, indegni in un animo che aspira ad essere cristiano. Renzo, pentitosi, si ricongiunge con il nobile, ormai morente, e parte alla ricerca di Lucia, senza sapere se sia viva o morta. Trovata risanata, la giovane manifesta reticenza nel ricongiungersi al suo promesso a causa del voto pronunciato quando era prigioniera dell'Innominato, ma fra Cristoforo, saputo di tale inghippo - non vincolante, visto che fu pronunciato in condizioni di impedimento -, la scioglie dai voti pronunciati. L'arrivo, poi, della pioggia purificatrice annuncia la prossima fine della pestilenza.
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/I_promessi_sposi_462.jpg">
 
-<i>Il matrimonio tra Renzo e Lucia</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/1/14/I_promessi_sposi_462.jpg" title="Il matrimonio tra Renzo e Lucia" >}}
+
 #### Conclusione (capitoli XXXVII-XXXVIII)
 
 Con gli ultimi due capitoli ci si avvia alla fine del romanzo. Renzo e Lucia - la quale viene a sapere dell'arresto di suor Gertrude - tornano al loro paese insieme ad Agnese per potersi finalmente unire in matrimonio. Don Abbondio prima tentenna ma poi, saputa della morte di don Rodrigo, acconsente a celebrare le nozze, allietate dal benvolere della mercantessa amica di Lucia e del marchese, erede dei beni di don Rodrigo. Renzo e Lucia, finalmente sposati, si trasferiscono nella bergamasca ove Renzo acquista con il cugino una piccola azienda tessile e Lucia, aiutata dalla madre, si occupa dei figli. Hanno una prima figlia che chiamano Maria, come segno di gratitudine alla Madonna, cui ne seguono altri. Solo alla fine dell'ultimo capitolo, però, viene esplicitato il messaggio che Manzoni vuole trasmettere, quello che lui definisce «sugo di tutta la storia», «che  quando vengono, o per colpa o senza colpa, la fiducia in Dio li raddolcisce, e li rende utili per una vita migliore».
+
 ### Personaggi
 
 #### Analisi interiore ed evoluzione
 
-
 Già delineati nel corso del riassunto della trama, i personaggi manzoniani sono soggetti, costantemente, ad un'acuta analisi delle proprie dinamiche interiori, quel "guazzabuglio del cuore umano" tanto caro all'autore. Ciò emerse in special modo nelle figure di Renzo e dell'Innominato, ma in modo più sottile anche in personaggi che appaiono già "positivi" fin dal principio come padre Cristoforo - di cui si è stilato un excursus giovanile in cui il futuro cappuccino appariva simile in tutto ai suoi coetanei nei modi spagnoleggianti -, fino a giungere al personaggio di Lucia. Questa, apparentemente, per via del suo carattere dimesso, sembra non subire un processo di maturazione nel corso dei due anni in cui si sviluppa la vicenda; in realtà, il suo "far luce" nel cuore dei personaggi che la circondano da un lato, e la maturazione progressiva che spingerà Manzoni a metterle in bocca il senso finale della sua filosofia della storia indicano come questo personaggio dal carattere "dimesso" e "antieroico" (rispetto alla tradizione letteraria italiana) sia centrale nel concetto di bildungsroman che il Nostro aveva in mente.
+
 #### Gli umili, i grandi e l'invenzione
 
 I personaggi, in virtù del genere compositivo adottato da Manzoni, si distinguono in due tipologie: quelli inventati dall'autore, di cui la storia dei grandi non ha lasciato traccia, ovvero gli umili; e i grandi personaggi della storia - quali il cardinale Federigo, la monaca di Monza, il governatore Gonzalo de Cordova - che sono posti a far da contorno ai protagonisti, che nell'economia manzoniana sono i primi delle due categorie. Concezione formulata a suo tempo dal colloquio con Augustin Thierry, Manzoni intende rivalutare quelle persone che, perché privi di lignaggio e quindi non sufficientemente importanti, hanno camminato sul palco della storia senza lasciar traccia e che sono oggetto di violenza da parte di eventi più grandi di loro. Grazie a queste condizioni, l'autore può modellare totalmente delle nuove figure umane basandosi esclusivamente sull'invenzione, facendoli vivere nel loro ambiente socio-culturale perché possano trovare una maggior carica realistica nell'espressione della loro personalità. L'invenzione, o come è più comunemente chiamato vero poetico, non si limita a personaggi quali don Abbondio, don Rodrigo, Renzo e Lucia, ma anche ai personaggi storici che si inquadrano in quella ricostruzione storica su cui si basa il vero storico. Quando la storia non riporta i loro pensieri, interviene la poesia:
 
 « ...la poesia: si, la poesia. Perché, alla fin fine, che cosa ci dà la storia? ci dà avvenimenti che, per così dire, sono conosciuti soltanto nel loro esterno: ci dà ciò che gli uomini hanno fatto. Ma quel che essi hanno pensato, i sentimenti che hanno accompagnato le loro decisioni e i loro progetti, i loro successi e i loro scacchi; i discorsi coi quali hanno fatto prevalere, o hanno tentato di far prevalere, le loro passioni e le loro volontà su altre passioni o su altre volontà, coi quali hanno espresso la loro collera, han dato sfogo alla loro tristezza, coi quali, in una parola, hanno rivelato la loro personalità: tutto questo, o quasi, la storia lo passa sotto silenzio; e tutto questo è invece dominio della poesia. »
 (Manzoni, scritti di teoria letteraria, pp. 111-112)
-#### Personaggi principali
+
 #### Renzo Tramaglino
 
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/I_promessi_sposi_062.jpg/640px-I_promessi_sposi_062.jpg">
-
-<i>Renzo, di ritorno dal'Azzecca-garbugli, racconta ad Agnese e Lucia che l'avvocato non l'ha aiutato.</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/I_promessi_sposi_062.jpg/640px-I_promessi_sposi_062.jpg" title="Renzo, di ritorno dal'Azzecca-garbugli, racconta ad Agnese e Lucia che l'avvocato non l'ha aiutato." >}}
 
 Orfano di padre e di madre, è allevato da Agnese, della cui figlia Lucia si innamora. Filandiere e possessore di un piccolo podere, all'inizio del romanzo viene descritto come un giovane dai modi bruschi e con un'aria da bravo. Animato da buoni propositi, si dimostra ancora ingenuo nell'affrontare le problematiche della vita, come nell'incontro con l'Azzecca-garbugli prima, e durante i moti di Milano poi. Rifugiatosi nella bergamasca dopo un viaggio avventuroso (si ricordi la celebre notte passata nel bosco in riva all'Adda), viene aiutato dal cugino Bortolo, filandiere, a fuggire dal mandato di cattura. È in questi capitoli che si sviluppa il personaggio di Renzo, divenuto, all'indomani dello scoppio della pestilenza, accorto nell'affrontare eventuali imprevisti nel Ducato di Milano. Dopo aver ritrovato Lucia e averla convinta, con l'ausilio di padre Cristoforo, della non validità del suo voto, i due si sposano e vanno a vivere nella bergamasca, dove Renzo si dà alla tessitura come piccolo imprenditore insieme al cugino, anche lui scampato alla peste.
+
 #### Lucia Mondella
 
 Figlia di Agnese, nel Fermo e Lucia vengono descritti in modo più dettagliato i vari approci amorosi di Don Rodrigo nei suoi confronti, suscitando in lei ribrezzo e paura. Nel corso dei promessi sposi, il personaggio di Lucia sembra risultare opaco, incolore: dettaglio messo in disparte dalla critica, che intravede dei lucidi risvolti nella personalità della protagonista all'interno dell'economia del romanzo. Nella sua reticenza nell'affrontare i drammi del mondo, nell'essere costantemente affidata alla preghiera come risoluzione dei mali che le capitano, Lucia è presentata nella sua veste realistica di contadina lombarda, "antieroina" della tradizione letteraria in quanto quintessenza della donna di questa condizione sociale.
-####Don Rodrigo
 
+#### Don Rodrigo
 
 Nobilotto di provincia, gestisce con tirannia il suo feudo, importunando le giovani donne e punendo chi non gli va a genio. Persecutore di Lucia - oggetto di una scommessa tra Rodrigo e il suo cugino, il conte Attilio -, nei primi capitoli del romanzo è la "macchina" che fa scattare il susseguirsi delle vicende: il mancato matrimonio tra Renzo e Lucia; lo scontro con Fra Cristoforo; il tentato rapimento di Lucia ad opera dei suoi bravi capeggiati dal Griso nella notte degli inganni. Infuriato per la dipartita della coppia, non appena sa che Lucia si è riparata a Monza, decide di recarsi dall'Innominato perché si occupi lui di rapire una protetta di un'esponente della potente famiglia De Leyva. Anche questo tentativo fallirà a causa della conversione dell'Innominato: una frustrazione che spingerà Rodrigo a ritirarsi a Milano, vittorioso soltanto sul fronte con fra Cristoforo, esiliato a Rimini dopo l'intervento del potente Conte zio. All'arrivo della pestilenza, Rodrigo si trova da tempo a Milano e tenta di ignorare il contagio dedicandosi ad una vita mondana: verrà colpito e contagiato poco dopo l'orazione funebre del conte Attilio, morto per il morbo. Tradito dal Griso, desideroso dei suoi tesori, Rodrigo viene portato al Lazzaretto in condizioni pietose, dove verrà soccorso, ormai semicosciente, da Fra Cristoforo e dove Renzo si riconcilierà con lui. Morirà per il contagio, e suo erede sarà un lontano parente, anonimamente definito "marchese".
 
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/I_promessi_sposi-026.jpg/479px-I_promessi_sposi-026.jpg">
-
-<i>«Il nostro Abbondio non nobile, non ricco, coraggioso ancor meno, s’era dunque accorto, prima quasi di toccar gli anni della discrezione, d’essere, in quella società, come un vaso di terra cotta, costretto a viaggiare in compagnia di molti vasi di ferro.» (cap. I)</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/I_promessi_sposi-026.jpg/479px-I_promessi_sposi-026.jpg" title="«Il nostro Abbondio non nobile, non ricco, coraggioso ancor meno, s’era dunque accorto, prima quasi di toccar gli anni della discrezione, d’essere, in quella società, come un vaso di terra cotta, costretto a viaggiare in compagnia di molti vasi di ferro.» (cap. I)" >}}
 
 #### Don Abbondio
 
@@ -314,26 +299,23 @@ Curato del paese in cui vivono Renzo e Lucia, l'uomo è presentato, nella sua fr
 
 #### Fra Cristoforo
 
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/I_promessi_sposi_075.jpg">
-
-<i>«Il qual padre Cristoforo si fermò ritto sulla soglia [...] Onde, con quel tono d’interrogazione che va incontro a una trista risposta, alzando la barba con un moto leggiero della testa all’indietro, disse: “ebbene?” Lucia rispose con uno scoppio di pianto...»</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/4/48/I_promessi_sposi_075.jpg" title="«Il qual padre Cristoforo si fermò ritto sulla soglia [...] Onde, con quel tono d’interrogazione che va incontro a una trista risposta, alzando la barba con un moto leggiero della testa all’indietro, disse: “ebbene?” Lucia rispose con uno scoppio di pianto...»" >}}
 
 Fra (o padre) Cristoforo, appartenente all'ordine dei Cappuccini, in gioventù si chiamava Ludovico. Giovane arrogante e desideroso di emulare i nobili spagnoli, un giorno entra in lite con uno di essi, causando la morte non solo del nobile spagnolo, ma anche del suo servitore, di nome Cristoforo. Ricoverato presso un convento di Cappuccini, ha qui quel moto dell'anima che lo spinge alla conversione, manifestando il desiderio di diventare lui stesso frate - col nome di Cristoforo - e poi di chiedere pubblicamente perdono al fratello e alla famiglia di colui che aveva assassinato. Colpiti da quest'intenzione così virtuosa, i famigliari dell'ucciso avrebbero voluto farlo rimanere a cena ma Cristoforo, desideroso di andare a soccorrere i più bisognosi, chiese solo un pezzo di pane come segno della ritrovata concordia. Entrato in scena nel IV capitolo, Cristoforo, profondamente legato ai protagonisti, si assume la difesa di Lucia e Renzo davanti a Don Rodrigo, arrivando ad intavolare una discussione alquanto tesa che comporta inevitabilmente l'allontamento del frate dal palazzotto del nobile. Questi e il cugino di lui, il conte Attilio, per vendicarsi dello sgarbo ricevuto in casa loro, si rivolgono al Conte zio, membro del consiglio segreto, il quale a sua volta porta avanti varie maldicenze costruite ad arte davanti al Padre Provinciale dei Cappuccini. Questi, per non inimicarsi il Conte Zio, anche se consapevole delle accuse infondate rivolte a padre Cristoforo, decide di trasferirlo a Rimini, località da cui tornerà a Milano per soccorrere gli appestati nel Lazzaretto. Il ruolo di Padre Cristoforo risulterà fondamentale per lo sciogliersi del nodo della vicenda: non solo libererà Lucia dal voto fatto alla Madonna, ma spingerà un vendicativo Renzo al perdono e alla conversione del cuore davanti ad un Don Rodrigo completamente devastato dalla pestilenza. Il santo frate morirà poi di peste lui stesso, come si scoprirà nell'ultimo capitolo.
 
 #### La Monaca di Monza
 
-
 Suor Gertrude, personaggio ricostruito sul modello di Marianna De Leyva dei feudatari di Monza, è uno dei personaggi più complessi e angoscianti che Manzoni propone al pubblico dei lettori. L'analisi psicologica ed esistenziale della donna dal suo permanere in monastero fino alle scelleratezze compiute con Egidio - dettagliatissime nel Fermo e Lucia - si riducono a due capitoli nei promessi sposi. Costretta a prendere i voti contro la sua volontà, dopo essere stata violentata psicologicamente dal padre desideroso di non scialacquare parte dei suoi beni in una dote matrimoniale, Gertrude viene coinvolta in una relazione amorosa con un giovane sciagurato del luogo, Egidio, col quale ha dei figli, dai quali è costretta a separarsi non appena li ha partoriti. La figura di Gertrude, capace di suscitare forti sentimenti di rammarico e di compassione verso la sua triste vicenda, subisce una netta svolta quando acconsente, senza parteciparvi materialmente, all'assassinio della conversa Caterina, la quale aveva scoperto la tresca tra i due e che minacciava di rivelarla. Da quel momento, la sventurata continua a vivere nell'oscurità dei rimorsi e dei gravi peccati commessi, stato d'animo da cui sembra che sia risollevata grazie al candore e alla gentilezza della sua protetta Lucia, ivi mandata da padre Cristoforo per sfuggire alle grinfie di don Rodrigo. Davanti però ai ricatti morali di Egidio, inviato per conto dell'Innominato a rapire la giovane, Gertrude non può che abbandonarsi ai voleri del suo amante, lasciando che i bravi dell'Innominato la rapiscano. La conclusione della vicenda della monaca di Monza è descritta nel capitolo XXXVII quando, scoperti i suoi delitti, Gertrude viene trasferita in un monastero a Milano per scontare i suoi peccati; qui comprende i suoi errori e incomincia a condurre una vita di penitenza irreprensibile.
 
 #### L'Innominato
+
 «...i suoi occhi, che dall’infanzia più non conoscevan le lacrime, si gonfiarono; quando le parole furon cessate, si coprì il viso con le mani, e diede in un dirotto pianto, che fu come l’ultima e più chiara risposta».
-Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Innominato.
 
 L'innominato (il Conte del Sagrato nel Fermo e Lucia) è uno dei personaggi più complessi e inquietanti dell'intero romanzo. Identificato storicamente con Bernardino Visconti, nobile che si dedicava a guerreggiare con gli spagnoli, l'Innominato è presentato ormai sul limitare della vecchiaia, e roso interiormente dai dubbi di una vita condotta a perpetrare assassini e altre scelleratezze nei confronti dei più deboli. Incaricatosi di rapire Lucia dal monastero di Monza con un inganno, l'Innominato si lascia turbare dalla semplicità e dalla fragilità emotiva della giovane, che scatenano in lui quel turbamento interiore già iniziato prima dell'arrivo della giovane al suo castello. La notte successiva all'arrivo di Lucia, conosciuta come notte dell'Innominato, vede l'uomo fronteggiarsi con la propria coscienza, talmente lacerata dal senso di colpa che lo spinge ad un passo dal suicidio. Soltanto l'alba e il suono delle campane, annuncianti l'arrivo del cardinale Federico Borromeo in visita pastorale presso quei luoghi, lo deviano dal mortale proposito, spingendolo anzi a recarsi al villaggio vicino per parlare con l'alto prelato. Questi, che lo accoglie con fare paternalistico (quasi a ricordare la parabola del figliol prodigo), lo spinge definitivamente alla conversione: l'Innominato, cambiato radicalmente, si dedica ad una vita di opere buone e di misericordia, liberando in primis Lucia e poi ospitando, durante la discesa dei lanzichenecchi, gli abitanti della zona nella sua fortezza.
+
 ## Fortuna del romanzo e critica letteraria
 
 ### L'Ottocento
-
 
 Già quand'era in vita, Manzoni ebbe ammiratori incondizionati ed osteggiatori implacabili: ammirazione incondizionata venne da Francesco De Sanctis, Giovanni Verga, Luigi Capuana e da Giovanni Pascoli, che gli avrebbe in seguito dedicato il saggio critico Eco di una notte mitica (1896). Nel secondo gruppo, invece, rientrano gli Scapigliati, che videro in Manzoni l'espressione del perbenismo borghese da loro tanto detestato e che si rivela anche nei confronti del romanzo, pieno di buoni sentimenti e perciò tendente ad un ricercato patetismo; Giosuè Carducci, estimatore dell'Adelchi fu implacabile critico del romanzo e della scelta linguistica adottata da Manzoni.
 
@@ -341,65 +323,62 @@ Il successo del romanzo manzoniano diede inoltre il via al fenomeno del manzonis
 
 ### Il Novecento
 
-
 Nel Novecento, a causa dei movimenti anticlassicisti delle avanguardie, dell'evoluzione della lingua e all'edulcoramento della figura del romanziere che veniva insegnata nelle scuole, Manzoni subì varie critiche da parte di letterati e intellettuali: tra questi, D'Annunzio, avverso alla teoria linguistica manzoniana, il "primo" Croce e il marxista Gramsci, che accusò Manzoni di paternalismo. La più importante apologia del Manzoni fu operata dal filosofo e pedagogista Giovanni Gentile, che elevò i Promessi Sposi al rango di «libro nazionale» al pari della Divina Commedia, giudicandolo un «libro di vita» basato sul discernimento concreto del vero, con cui Manzoni accoglieva le istanze morali e risorgimentali di Rosmini e Gioberti. In difesa di Manzoni si schierò anche Carlo Emilio Gadda, che al suo esordio pubblicò nel 1927 l’Apologia manzoniana, e nel 1960 attaccò il piano di Alberto Moravia di affossarne la proposta linguistica. Soltanto nel Secondo Novecento, grazie agli studi di Luigi Russo, Giovanni Getto, Lanfranco Caretti, Ezio Raimondi e Salvatore Silvano Nigro si è riusciti a "liberare" Manzoni dalla patina ideologica di cui era stato rivestito già all'indomani della sua morte, indagandone con occhio più libero di pregiudizi la poetica e, anche, la modernità dell'opera.
 
 Comunque sia, il modello tematico e immaginifico del Manzoni si fece sentire anche in un secolo non tanto favorevole al Nostro come il precedente: Dino Buzzati scrisse – sulla base del capitolo manzoniano sulla malattia di don Rodrigo – il racconto La peste motoria, vivace trasposizione in cui la malattia aggredisce non più gli uomini, ma le autovetture e i monatti sono dipendenti degli sfasciacarrozze. Anche nel campo della satira Manzoni ispirò nuovi talenti: Guido da Verona, per esempio, pubblicò nel 1929 una parodia dei promessi sposi. Guido da Verona considerava Alessandro Manzoni un letterato paternalista e dannoso, pertanto tolse dal romanzo tutti gli elementi da lui considerati manieristici e futili e li sostituì con passaggi erotici e anche politici: la satira contro il fascismo, seppur mai esplicita, fu ben percepita dai lettori del tempo.
+
 ## I promessi sposi nella cultura di massa
+
 ### Adattamenti artistici
+
 #### Opera lirica
 
-* I promessi sposi di Amilcare Ponchielli (1856; seconda versione 1872)
-* I promessi sposi di Errico Petrella (1869)
+* *I promessi sposi* di Amilcare Ponchielli (1856; seconda versione 1872)
+* *I promessi sposi* di Errico Petrella (1869)
 
 #### Musical
 
-- I promessi sposi Musical di Tato Russo (in scena dal 2000 al 2003) con Michel Altieri (Renzo) e Barbara Cola (Lucia) – premio Massimini come miglior attore a Michel Altieri.
-- I promessi sposi - Opera moderna di Michele Guardì (in scena dal 18 giugno 2010) con Noemi Smorra nei panni di Lucia, Graziano Galatone nei panni di Renzo, Giò Di Tonno nei panni di Don Rodrigo, Lola Ponce nei panni della monaca di Monza, Vittorio Matteucci nei panni dell'Innominato e Christian Gravina nei panni di fra Cristoforo e del cardinale Borromeo.
+* *I promessi sposi*, musical di Tato Russo (in scena dal 2000 al 2003) con Michel Altieri (Renzo) e Barbara Cola (Lucia) – premio Massimini come miglior attore a Michel Altieri.
+* *I promessi sposi*, Opera moderna di Michele Guardì (in scena dal 18 giugno 2010) con Noemi Smorra nei panni di Lucia, Graziano Galatone nei panni di Renzo, Giò Di Tonno nei panni di Don Rodrigo, Lola Ponce nei panni della monaca di Monza, Vittorio Matteucci nei panni dell'Innominato e Christian Gravina nei panni di fra Cristoforo e del cardinale Borromeo.
 
 #### Teatro
 
-- I promessi sposi da Alessandro Manzoni, regista e interprete Massimiliano Finazzer Flory (2011)
-- I promessi sposi, una storia lombarda da Alessandro Manzoni, regia di Luisa Borsieri, Arteatro 3
+* *I promessi sposi* da Alessandro Manzoni, regista e interprete Massimiliano Finazzer Flory (2011)
+* *I promessi sposi, una storia lombarda* da Alessandro Manzoni, regia di Luisa Borsieri, Arteatro 3
 
 #### Cinema
+
 I promessi sposi Dina Sassoli, Luis Hurtado, Gino Cervi Gilda Marchiò in una scena de I promessi sposi del 1941 di Mario Camerini
 
-- I promessi sposi, diretto da Mario Morais (1909), film muto
-- I promessi sposi, diretto da Ubaldo Maria Del Colle, (1913), film muto
-- I promessi sposi, diretto da Eleuterio Rodolfi, (1913), film muto
-- I promessi sposi, diretto da Mario Bonnard (1923), film muto
-- I promessi sposi, diretto da Mario Camerini (1941)
-- I promessi sposi, diretto da Mario Maffei (1964)
+* *I promessi sposi*, diretto da Mario Morais (1909), film muto
+* *I promessi sposi*, diretto da Ubaldo Maria Del Colle, (1913), film muto
+* *I promessi sposi*, diretto da Eleuterio Rodolfi, (1913), film muto
+* *I promessi sposi*, diretto da Mario Bonnard (1923), film muto
+* *I promessi sposi*, diretto da Mario Camerini (1941)
+* *I promessi sposi*, diretto da Mario Maffei (1964)
 
 ### Sceneggiati televisivi
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/it/a/a6/Romina_ed_Albano_con_Felice_Chiusano_e_Lucia_Mannucci.jpg">
 
-<i>Romina Power (Lucia) e Al Bano (Renzo) con Felice Chiusano (don Abbondio) e Lucia Mannucci (Agnese) nella parodia de I promessi sposi realizzata nel 1985 dal Quartetto Cetra</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/it/a/a6/Romina_ed_Albano_con_Felice_Chiusano_e_Lucia_Mannucci.jpg" title="Romina Power (Lucia) e Al Bano (Renzo) con Felice Chiusano (don Abbondio) e Lucia Mannucci (Agnese) nella parodia de I promessi sposi realizzata nel 1985 dal Quartetto Cetra" >}}
 
-
-- _I promessi sposi_ regia di Sandro Bolchi (1967) principali interpreti: Massimo Girotti, Paola Pitagora, Nino Castelnuovo, Tino Carraro, Luigi Vannucchi, Salvo Randone.
-- _I promessi sposi_ regia di Salvatore Nocita (1989) principali interpreti: Alberto Sordi, Danny Quinn, Burt Lancaster, Franco Nero, Helmut Berger.
-- _Renzo e Lucia_ regia di Francesca Archibugi (2004) principali interpreti: Stefano Scandaletti, Michela Macalli, Paolo Villaggio, Laura Morante, Carlo Cecchi, Stefano Dionisi, Gigio Alberti, Stefania Sandrelli
+* _I promessi sposi_ regia di Sandro Bolchi (1967) principali interpreti: Massimo Girotti, Paola Pitagora, Nino Castelnuovo, Tino Carraro, Luigi Vannucchi, Salvo Randone.
+* _I promessi sposi_ regia di Salvatore Nocita (1989) principali interpreti: Alberto Sordi, Danny Quinn, Burt Lancaster, Franco Nero, Helmut Berger.
+* _Renzo e Lucia_ regia di Francesca Archibugi (2004) principali interpreti: Stefano Scandaletti, Michela Macalli, Paolo Villaggio, Laura Morante, Carlo Cecchi, Stefano Dionisi, Gigio Alberti, Stefania Sandrelli
 
 ### Parodie
 
-- _Il monaco di Monza_, regia di Sergio Corbucci (con Totò, Nino Taranto e Macario) (1963)
-- _I promessi sposi_ regia di Antonello Falqui, con il Quartetto Cetra (1985)
-- _I promessi sposi_ regia di Massimo Lopez, Anna Marchesini e Tullio Solenghi (1990)
-- _I promessi sposi in dieci minuti_, riduzione-parodia degli Oblivion, regia di Lorenzo Scuda e Davide Calabrese (2009)
+* _Il monaco di Monza_, regia di Sergio Corbucci (con Totò, Nino Taranto e Macario) (1963)
+* _I promessi sposi_ regia di Antonello Falqui, con il Quartetto Cetra (1985)
+* _I promessi sposi_ regia di Massimo Lopez, Anna Marchesini e Tullio Solenghi (1990)
+* _I promessi sposi in dieci minuti_, riduzione-parodia degli Oblivion, regia di Lorenzo Scuda e Davide Calabrese (2009)
 
 #### Parodie a fumetti
 
-- _I promessi paperi_ (1976), in cui Paperino e i suoi amici di Paperopoli interpretano ciascuno un ruolo del romanzo manzoniano.
-- _I promessi topi_ (1989), dove è invece Topolino a interpretare Renzo, fiancheggiato dagli abitanti di Topolinia
+* _I promessi paperi_ (1976), in cui Paperino e i suoi amici di Paperopoli interpretano ciascuno un ruolo del romanzo manzoniano.
+* _I promessi topi_ (1989), dove è invece Topolino a interpretare Renzo, fiancheggiato dagli abitanti di Topolinia
 
-### Luoghi manzoniani.
+### Luoghi manzoniani
 
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Castello_Innominato_B_Vercurago.jpg/640px-Castello_Innominato_B_Vercurago.jpg">
-
-<i>I resti del presunto Castello dell'Innominato a Vercurago, Lecco.</i></div>
-
-
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Castello_Innominato_B_Vercurago.jpg/640px-Castello_Innominato_B_Vercurago.jpg" title="I resti del presunto Castello dell'Innominato a Vercurago, Lecco" >}}
 
 Il profondo tocco realistico proprio de I promessi sposi, ambientato tra il lecchese, il milanese e la bergamasca, ha fatto nascere presso il grande pubblico il desiderio di identificare i luoghi citati nel romanzo con alcuni castelli, palazzi o altri siti paesaggistici. Nel lecchese sicura è l'identificazione del convento dei cappuccini di Fra Cristoforo, mentre è incerta la locazione del paesello dei due promessi sposi (Olate o Acquate); interessante anche il tentativo di identificare il Palazzotto di Don Rodrigo e il Castello dell'Innominato. A Monza, la Chiesa di San Maurizio che un tempo faceva parte del monastero di Santa Margherita ove si svolsero realmente le vicende relative a Suor Marianna De Leyva. A Milano, infine, il forno delle grucce da cui partì il tumulto di San Martino (oggi in via Vittorio Emanuele II, n° 3-5), ma anche la parte del Lazzaretto ancora oggi esistente. Oltre ai luoghi del romanzo, si associano anche i luoghi legati alla memoria dello scrittore: il Palazzo del Caleotto a Lecco; la Villa di Brusuglio (Cormano); Casa Manzoni in Via del Morone; e la Chiesa di San Fedele dove il Nostro ebbe l'infortunio che lo condusse alla morte

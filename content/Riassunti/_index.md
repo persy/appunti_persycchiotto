@@ -2,6 +2,7 @@
 title: "Riassunti"
 draft: false
 ---
+
 ## Elenco dei riassunti delle opere letterarie più famose (in aggiornamento)
 
 * [Don Chisciotte della Mancia – Cervantes (1605)](3_don_chisciotte)
@@ -18,11 +19,9 @@ draft: false
 * [Il Conte di Monte Cristo – Alexandre Dumas (1846)](23_conte_montecristo)
 * [Jane Eyre - Charlotte Brontë (1847)](4_jane_eyre)
 * [Cime Tempestose – Emily Brontë (1847)](5_cime_tempestose)
-* La fiera delle vanità – William Makepeace Thackeray (1848)
-* David Copperfield – Charles Dickens (1849)
+* [David Copperfield – Charles Dickens (1849)](24_david_copperfield)
 * [La lettera scarlatta - Nathaniel Hawthorne (1850)](7_lettera_scarlatta)
 * [Moby Dick – Herman Melville (1851)](6_moby_dick)
-* Bleak House – Charles Dickens (1852)
 * [Madame Bovary – Gustave Flaubert (1856)](13_madame_bovary)
 * [Grandi speranze - Charles Dickens (1860)](8_grandi_speranze)
 * I Miserabili – Victor Hugo (1862)

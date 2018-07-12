@@ -4,42 +4,52 @@ draft: false
 weight: 10
 ---
 
+Anna Karenina (in russo Aнна Каренина) è un romanzo di Lev Tolstoj pubblicato per la prima volta nel 1877. Il romanzo apparve inizialmente a puntate sul periodico Russkij vestnik («Il messaggero russo») a partire dal 1875, ma nel 1877 la conclusione del romanzo venne pubblicata in forma di riassunto di poche righe e Tolstoj, che lì aveva preso delle posizioni antinazionaliste, fu costretto a far pubblicare a proprie spese e separatamente l'ottava parte.
+
+Tolstoj vedeva in questo libro, considerato un capolavoro del realismo, il suo primo vero romanzo. Per la stesura di Anna Karenina egli trasse ispirazione da I racconti di Belkin dello scrittore e poeta russo Aleksandr Sergeevič Puškin. Nel 1887 lo stesso Tolstoj circa l'inizio di Anna Karenina affermò di avere immaginato, mentre era sdraiato sul divano, un «nudo gomito femminile di un elegante braccio aristocratico» e che da lì fu così perseguitato da quell'immagine da doverne creare un'incarnazione.
+
+Benché la maggior parte della critica russa avesse stroncato l'opera di Tolstoj fin dalla prima pubblicazione, definendola «un frivolo racconto delle vicende dell'alta società moscovita», secondo il suo connazionale Fëdor Dostoevskij «Anna Karenina in quanto opera d'arte è la perfezione… e niente della letteratura europea della nostra epoca può esserle paragonato». Poco meno di un secolo dopo anche Vladimir Nabokov si accodò al giudizio di Dostoevskij, definendo Anna Karenina «il capolavoro assoluto della letteratura del XIX secolo.
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kolesov_Anna_Karenina.jpg/436px-Kolesov_Anna_Karenina.jpg" title="Ritratto di una giovane signora (chiamata anche Anna Karenina), Aleksei Mikhailovich Kolesov, 1885" >}}
+
 ## Trama
 
 Il romanzo è suddiviso in otto parti.
+
 ### Prima parte
 
 La prima parte introduce la figura di Stepàn "Stiva" Arkad'ič Oblònskij, un ufficiale civile che ha tradito la moglie, Dàr'ja "Dolly" Aleksandrovna. La vicenda di Stiva mostra la sua personalità passionale che sembra non poter essere repressa. Per questa ragione, Anna Karenina, la sorella sposata di Stiva, viene chiamata da San Pietroburgo dal fratello per persuadere Dolly a non lasciarlo. Appena giunta a Mosca, un operaio della ferrovia muore accidentalmente investito da un treno. Nel frattempo, un amico di infanzia di Stiva, Konstantin Dmitrič Lèvin, arriva a Mosca per chiedere la mano della sorella minore di Dolly, Ekaterìna "Kitty" Aleksàndrovna Ščerbàckaja. Il giovane, serio aristocratico, vive in una tenuta che gestisce lui stesso. Kitty rifiuta, aspettando una proposta di matrimonio dall'ufficiale dell'esercito Aleksèj Kirillovič Vrònskij. Nonostante la sua infatuazione per Kitty, Vrònskij non ha intenzione di sposarsi, finché non incontra Anna in stazione, dove aspettava l'arrivo della madre. Anna, scossa dalla propria reazione alle attenzioni di Vrònskij, ritorna immediatamente a San Pietroburgo. Vrònskij la segue sullo stesso treno. Lèvin ritorna al suo podere, abbandonando ogni speranza di matrimonio e Anna ritorna a San Pietroburgo da suo marito Aleksèj Aleksàndrovič Karènin, un ufficiale governativo, e da suo figlio Serëža.
+
 ### Seconda parte
 
 Karènin rimprovera Anna per le sue lunghe conversazioni con Vrònskij, ciò nonostante dopo poco lei asseconda l'affetto che Vrònskij le dimostra, intrattiene con lui ulteriori rapporti e rimane incinta. Quando Vrònskij cade da cavallo durante una gara, l'angoscia provata da Anna rende palesi i suoi sentimenti al marito, per cui si vede costretta a confessargli la relazione. Quando Kitty apprende di non avere più possibilità con Vrònskij, decide di partire per la Germania, in una località termale, per riprendersi dallo shock. Qui conosce la giovane Varen'ka, che diventa per lei un modello spirituale.
+
 ### Terza parte
 
 La terza parte narra la vita rurale di Lèvin nella sua tenuta, un'ambientazione legata intimamente ai suoi pensieri e alle sue lotte interiori. Dolly, incontrando Lèvin, cerca di far rivivere i suoi sentimenti per Kitty, apparentemente senza risultati, finché Lèvin, rivedendola di sfuggita, capisce di essere ancora innamorato di lei. Tornato a San Pietroburgo, Karènin, rifiutando di separarsi da Anna, la mette in una situazione molto frustrante, minacciandola di non lasciarle più vedere il figlio Serëža, nel caso Anna si rifiuti di "salvare le apparenze" e nascondere la sua relazione clandestina.
+
 ### Quarta parte
 
 Karènin inizia a trovare la situazione intollerabile e comincia a valutare la possibilità di divorziare. Il fratello di Anna, Stiva, cerca di dissuaderlo, invitandolo a parlarne con Dolly. Quest'ultima iniziativa sembra di nuovo non sortire alcun effetto, ma Karènin cambia idea dopo aver saputo che Anna sta morendo per complicazioni dovute al parto. Al suo capezzale, Karènin perdona Vrònskij, che cerca di suicidarsi per il rimorso. Anna comunque migliora, e chiama sua figlia Anna ("Annie"). Stiva ora cerca di far divorziare Karènin. Vrònskij in un primo tempo decide di fuggire a Tashkent, ma cambia idea dopo aver visto Anna e insieme decidono di partire per l'Europa, senza aver ottenuto il divorzio. Molto più immediato è il risultato degli sforzi di Stiva per combinare un incontro con Lèvin e Kitty: i due si riconciliano e si fidanzano.
+
 ### Quinta parte
 
 Lèvin e Kitty si sposano. Pochi mesi dopo, Lèvin scopre che suo fratello Nikolaj sta morendo. La coppia si reca dal moribondo, di cui Kitty si occupa fino alla morte, scoprendo nel frattempo di essere incinta. In Europa, Vrònskij e Anna fanno molta fatica a trovare degli amici che li accettino, continuando a dedicarsi a passatempi, finché non tornano in Russia. Karènin è consolato e influenzato dalla contessa Lidija Ivanovna, di lui innamorata, entusiasta della religione e delle credenze mistiche di moda nelle classi sociali più elevate, che gli consiglia di tenere Serëža lontano dalla madre. Anna riesce lo stesso a fargli visita il giorno del suo compleanno, ma è scoperta da Karènin, che aveva detto a Serëža che Anna era morta. Poco dopo, lei e Vrònskij partono per la campagna.
+
 ### Sesta parte
 
 Dolly si reca da Anna e, su richiesta di Vrònskij, le chiede di cercare di divorziare da Karènin. Ancora una volta, le parole di Dolly sembrano non sortire alcun effetto, ma quando Vrònskij parte per alcuni giorni, la noia e il sospetto convincono Anna della necessità di un matrimonio con lui: scrive a Karènin e parte con Vrònskij per Mosca.
+
 ### Settima parte
 
 I Lèvin sono a Mosca per il parto di Kitty che dà alla luce un bambino. Stiva, mentre cerca l'appoggio di Karènin per un nuovo lavoro, gli chiede nuovamente di divorziare da Anna. Oramai le decisioni di Karènin sono guidate da una sorta di chiaroveggenza, raccomandato da Lidija Ivanovna, che gli consiglia di rifiutare il suggerimento di Stiva. La relazione tra Anna e Vrònskij inizia a essere sempre più tesa, dominata dal risentimento provocato da un'ingiustificata ed esasperata gelosia da parte della donna. I due decidono di tornare in campagna, ma Anna, mentre Vrònskij si trova fuori, in uno stato di forte confusione e avversione verso tutto ciò che la circonda, va prima a trovare Dolly e Kitty, quindi, secondo una struttura circolare che riconduce alla prima parte, si suicida lanciandosi sotto un treno. Per l'idea del violento suicidio di Anna, Tolstoj si ispirò a un fatto di cronaca accaduto il 4 gennaio 1872 nei pressi della sua abitazione, quando una donna di nome Anna Stepanovna Pirogova si suicidò alla stessa maniera nella stazione di Jasenki della ferrovia Mosca-Kursk.
+
 ### Ottava parte
 
 L'ottava parte narra le vicende successive alla morte di Anna: Stiva ottiene il lavoro che voleva; Karènin prende in custodia Annie; alcuni volontari russi, tra cui Vrònskij, che non ha intenzione di tornare, partono per aiutare la rivolta serba contro i turchi, scoppiata nel 1877; infine tra le gioie e i timori della paternità Lèvin scopre la fede in Dio.
 
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kolesov_Anna_Karenina.jpg/436px-Kolesov_Anna_Karenina.jpg">
-
-<i>Ritratto di una giovane signora (chiamata anche Anna Karenina), Aleksei Mikhailovich Kolesov, 1885</i></div>
-
-
-
 ## Critica
+
 ### Temi
 
 Il romanzo, ambientato nelle più alte classi sociali russe, approfondisce i temi dell'ipocrisia, della gelosia, della fede, della fedeltà, della famiglia, del matrimonio, della società, del progresso, del desiderio carnale e della passione, nonché il conflitto tra lo stile di vita agricolo e quello urbano.
@@ -49,6 +59,7 @@ Anna è la perla dell'alta società di San Pietroburgo finché non lascia suo ma
 Il personaggio di Lèvin è spesso considerato un ritratto semi-autobiografico di Tolstoj[7], delle sue credenze, delle sue lotte e dei suoi eventi di vita. Inoltre, il primo nome di Tolstoj è "Lev", e il cognome russo "Lëvin" significa "di Lev".
 
 Un altro tema ricorrente in Anna Karenina è l'abitudine aristocratica di parlare in francese anziché in russo, considerata dall'autore un'altra forma di ipocrisia. Quando Dolly insiste sulla lingua francese per la sua giovane figlia, Tanya, ciò comincia a sembrare falso e noioso a Lèvin, che si scopre incapace di sentirsi a proprio agio nella sua casa.
+
 ### Anna Karenina e Le confessioni di Tolstoj
 
 Tolstoj riprese molti temi del romanzo ne Le confessioni, una meditazione in prima persona sulla natura della vita e della fede, scritta pochi anni dopo la pubblicazione di Anna Karenina.
@@ -60,7 +71,9 @@ L'autore descrive in quest'opera la sua insoddisfazione nei confronti dell'ipocr
 Tolstoj descrive inoltre la tendenza della società russa ad accettare le relazioni extraconiugali:
 
 « Una mia cara zia con cui vivevo, la più pura tra le creature, diceva sempre che avrebbe sperato che avessi una relazione con una donna sposata. Rien ne forme un jeune homme comme une liaison avec une femme comme il faut. »
+
 ## Trasposizioni
+
 ### Adattamenti cinematografici
 
 - _Anna Karenina_, regia di Maurice Maître (1911)

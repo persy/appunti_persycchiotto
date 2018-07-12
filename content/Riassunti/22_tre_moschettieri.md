@@ -4,18 +4,14 @@ draft: false
 weight: 22
 ---
 
-I tre moschettieri (*Les trois mousquetaires*) è un romanzo d'appendice scritto dal francese Alexandre Dumas con la collaborazione di Auguste Maquet nel 1844 e pubblicato originariamente a puntate sul giornale Le Siècle. È uno dei romanzi più famosi e tradotti della letteratura francese e ha dato inizio ad una trilogia, che comprende Vent'anni dopo (1845) e Il visconte di Bragelonne (1850).
+I tre moschettieri (Les trois mousquetaires) è un romanzo d'appendice scritto dal francese Alexandre Dumas con la collaborazione di Auguste Maquet nel 1844 e pubblicato originariamente a puntate sul giornale Le Siècle. È uno dei romanzi più famosi e tradotti della letteratura francese e ha dato inizio ad una trilogia, che comprende Vent'anni dopo (1845) e Il visconte di Bragelonne (1850).
 
-I tre moschettieri del titolo sono Athos, Porthos e Aramis, a cui poi si aggiunge il protagonista del romanzo, D'Artagnan. 
+I tre moschettieri del titolo sono Athos, Porthos e Aramis, a cui poi si aggiunge il protagonista del romanzo, D'Artagnan.
 
-
-
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dartagnan-musketeers.jpg/420px-Dartagnan-musketeers.jpg">
-
-<i>D'Artagnan e i tre moschettieri</i></div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dartagnan-musketeers.jpg/420px-Dartagnan-musketeers.jpg" title="D'Artagnan e i tre moschettieri" >}}
 
 ## Trama
+
 Francia, 1625. Charles d'Artagnan, un giovane guascone, va a Parigi per essere ammesso tra le file dei moschettieri di re Luigi XIII. Tuttavia, la lettera di raccomandazione che porta con sé - ed indirizzata al Signor de Tréville, capo dei moschettieri - gli viene sottratta lungo il tragitto da un individuo con il quale si scontra in duello: per il resto del romanzo, verrà chiamato "L'uomo di Meung", dal luogo dove è avvenuto il duello. Il signor de Tréville lo riceve egualmente e, dopo l'udienza, D'Artagnan s'incammina per Parigi, dove incontra casualmente, uno dopo l'altro, Athos, Porthos e Aramis, i più famosi moschettieri del re. Ciascuno di essi, ritenendosi provocato, lo sfida a duello, all'insaputa degli altri. All'appuntamento, però, si presentano anche le guardie del cardinale Richelieu, risolute ad arrestarli, in forza del divieto di duellare, stabilito da un editto reale. I tre moschettieri, però, si oppongono; D'Artagnan combatte assieme a loro, dando prova di saperci fare con la spada e conquistando la fiducia e l'amicizia dei tre. Successivamente, re Luigi li fa convocare a palazzo, ma, anziché rimproverarli, si complimenta con loro per aver tenuto testa brillantemente alle guardie del primo ministro Richelieu.
 
 Quest'ultimo, pur schierato con il re, ne detesta la consorte, Anna, perché imparentata con i nemici spagnoli; inoltre, la regina è amante segreta del potente Duca di Buckingham. Anna, in pegno del suo amore, ha fatto dono al nobiluomo inglese di dodici puntali di diamanti, un vecchio dono del re di Francia alla sposa. Il Cardinale, che dispone di spie molto efficaci, viene a saperlo e ordisce una trappola alla regina: propone al re, perennemente annoiato, di organizzare un ballo di corte, con l'adulazione di veder sfoggiare i preziosi puntali alla regina. Il re cade nel tranello e ciò costringe la regina a recuperarli al più presto. Attraverso l'intercessione di Constance Bonacieux, guardarobiera della regina di cui D'Artagnan è innamorato, il cadetto di Guascogna, assieme ai tre moschettieri, accetta l'impresa e parte alla volta dell'Inghilterra. Lungo il tragitto, però, le spie del cardinale costringono il gruppo a sfaldarsi. Così, l'unico a riuscire concretamente a raggiungere l'imbarcadero di Calais e è proprio il cadetto D'Artagnan. Una volta a Londra, D'Artagnan raggiunge Buckingham e si fa consegnare i puntali; qui, però, i due si accorgono che ne mancano due. Ricostruendo i fatti, il Duca capisce come ciò sia possibile: una spia del cardinale, la bellissima Milady de Winter, glieli ha sottratti di nascosto. Il duca, per salvare l'onore dell'amata Anna, ne fa fare due copie identiche agli originali, che D'Artagnan riporta a Parigi, in tempo per mandare in fumo i piani del cardinale. Il primo ministro di Francia, però, serve subito la vendetta a D'Artagnan e fa rapire Constance da Milady. Intanto, per ordine del signor de Tréville, D'Artagnan è partito alla ricerca dei tre amici, rimasti bloccati lungo il percorso per Calais.
@@ -52,7 +48,6 @@ Il Moschettiere è una figura realmente esistente nella Francia dal XVI secolo f
 * Ketty — serva di Milady.
 * John Felton — complice di Milady e responsabile dell'uccisione del Duca di Buckingham.
 
-
 ## Illustrazioni
 
 Le classiche figure che accompagnano da oltre un secolo questo romanzo sono frutto dell'opera di Maurice Leloir (1853-1940), pittore, scenografo e regista francese, nonché esperto di costumi d'epoca. La prima edizione illustrata da Leloir fu quella di Lévy nel 1894.
@@ -62,3 +57,44 @@ Le classiche figure che accompagnano da oltre un secolo questo romanzo sono frut
 * Alessandro Dumas sfoggia non poche qualità del grande scrittore: e non delle secondarie. In primo luogo una sovrana impudenza; un insieme di complicità e oltraggio nei confronti del lettore; nessun patetismo, neppure quando ricorre a situazioni obiettivamente patetiche. E ancora, il gusto del gioco, della mistificazione; l'onesta carenza morale; una nobile guitteria, che gli detta la mossa esatta per scatenare la consenziente credulità del pubblico. (G. Manganelli)
 * Da parte mia, non provo il rossore di cui altri sentirebbe inondato il volto nel dire che mi piacciono e giudico condotti con grande brio e spigliatezza i Trois mousquetaires di Alessandro Dumas padre. Ancora molti li leggono e li godono senza nessun' offesa della poesia, ma nascondendo in seno il loro compiacimento come si fa per gli illeciti diletti, ed è bene incoraggiarli a deporre la loro falsa vergogna e il loro congiunto imbarazzo (Benedetto Croce)
 
+## Filmografia
+
+La straordinaria popolarità de I tre moschettieri è testimoniata dal fatto che il romanzo di Dumas è stato adattato per lo schermo, con vari gradi di fedeltà, non meno di 20 volte (contando anche miniserie e film di animazione).
+
+Tra i vari adattamenti ricordiamo:
+
+* *I tre moschettieri* (1909) diretto da Mario Caserini
+* The Three Musketeers  (1916) diretto da Charles Swickard
+* *I tre moschettieri* (*The three Musketeers*) (1921) diretto da Fred Niblo
+* *La maschera di ferro* (*The Iron Mask*) (1929) diretto da Allan Dwan
+* I tre moschettieri (*The three Musketeers*) (1935) diretto da Rowland V. Lee
+* *La maschera di ferro* (*The Man in the Iron Mask*) (1939) diretto da James Whale
+* *I tre moschettieri* (*The three Musketeers*) (1948) diretto da George Sidney
+* *I tre moschettieri* (*The three Musketeers*) (1973) diretto da Richard Lester
+* *Milady - I quattro moschettieri* (*The Four Musketeers: The Revenge of Milady*) (1974) diretto da Richard Lester
+* *Il ritorno dei tre moschettieri* (*The Return of the Musketeers*) (1989) diretto da Richard Lester
+* *I tre moschettieri* (*The three Musketeers*) (1993) diretto da Stephen Herek
+* *La maschera di ferro* (*The Man in the Iron Mask*) (1998) diretto da Randall Wallace
+* *D'Artagnan* (*The Musketeer*) (2001) diretto da Peter Hyams
+* *Topolino, Paperino, Pippo - I tre moschettieri* (*Mickey, Donald, Goofy: The Three Musketeers*) (2004) prodotto da Walt Disney Pictures
+* *Musketeers - Moschettieri* (*La Femme Musketeer*) (2004) diretto da Steve Boyum
+* *Barbie e le tre moschettiere* (*Barbie and the three Musketeers*) (2009)
+* *I tre moschettieri* (*The three Musketeers*) (2011) diretto da Paul W. S. Anderson
+* *Tri mušketëra* (2013) diretto da Sergej Žigunov
+* *The Musketeers* (2014) serie televisiva britannica creata da Adrian Hodges
+
+### Fumetti
+
+* *I tre moschettieri* (2014) Roy Thomas e Hugo Petrus, Marvel comics
+
+### Musical
+
+* *I tre moschettieri* (The three Musketeers), musical diretto da Beppe Recchia (1991)
+
+### Serie Tv d'animazione
+
+Dal romanzo di Dumas sono state tratte famose serie a cartoni animati:
+
+* *D'Artacan e i tre moschettieri* e la successiva *Il ritorno di D'Artacan*, serie di produzione ispano-giapponese andate in onda sia sulle reti Rai che Mediaset, dove i protagonisti sono animali antropomorfi.
+* *D'Artagnan e i moschettieri del re*: adattamento giapponese del romanzo, ad opera dell'autore di Lupin III, Monkey Punch, andato in onda sulle reti Mediaset negli anni '90 e trasmesso su Rai Gulp da marzo 2009 e dopo ripetuto a gennaio 2010.
+* *Albert il quinto moschettiere*, serie a cartoni comica di produzione francese, trasmessa in Italia sulle reti Rai. Il protagonista di questa serie era il quinto membro dei moschettieri: l'intelligente ed intellettuale Albert, scartato da Dumas nel romanzo a causa della sua bassa statura.
