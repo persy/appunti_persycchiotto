@@ -30,6 +30,7 @@ MathJax.Hub.Config({
 ## I primi elementi e i triangoli
 
 ### Termini primitivi assiomi
+
 I **termini primitivi** della geometria euclidea sono *punto*, *retta* e *piano* e di tali termini non si deve perciò dare una definizione. Le loro caratteristiche sono tuttavia indicate implicitamente da una serie di **assiomi**, proposizioni delle quali si stabilisce la verità a priori. Gli assiomi della geometria euclidea indicano:
 
 * l'appartenenza di oggetti geometrici ad altri oggetti geometrici:
