@@ -15,7 +15,7 @@ Elenco degli altri testi _non categorizzabili_.
 
 * [**Film della seconda guerra mondiale**](4_film_guerra): un excursus dei film più famosi sulla Seconda Guerra Mondiale, in ordine cronologico
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/it/c/c3/I_cannoni_di_Navarone.png" title="Una scena del fil I cannoni di Navarone" height="300px">}}
+{{< figure src="https://i1.wp.com/nuovocinemalocatelli.com/wp-content/uploads/2016/02/photo-les-canons-de-navarone-the-guns-of-navarone-1961-4.jpg?resize=700%2C522" title="Una scena del film I cannoni di Navarone" height="300px">}}
 
 ---
 
