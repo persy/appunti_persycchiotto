@@ -19,6 +19,6 @@ Elenco degli altri testi _non categorizzabili_.
 
 ---
 
-* [**Guida Non Ufficiale Fallout: New Vegas**](/random/fallout-new-vegas): il mirror della [**wiki**](http://it.fnv.wikia.com/wiki/Fallout:_New_Vegas_Wiki) su Fallout: New Vegas che gestisco io.
+* [**Fallout: New Vegas**](https://bit.ly/2wrwt8J): la wiki non ufficiale su _Fallout: New Vegas_ che gestisco io (in allestimento).
 
-{{< figure src="https://www.hrkgame.com/media/games/.thumbnails/community_image_1389550539.png/community_image_1389550539-460x215.png" title="Il logo del gioco" link="/random/fallout-new-vegas">}}
+{{< figure src="https://www.hrkgame.com/media/games/.thumbnails/community_image_1389550539.png/community_image_1389550539-460x215.png" title="Il logo del gioco" link="https://bit.ly/2wrwt8J">}}
