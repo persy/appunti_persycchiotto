@@ -223,7 +223,7 @@ A seconda di come i tetraedri sono disposti nel reticolo cristallino, si disting
     * Se in una configurazione tridimensionale di tetraedri (come quella del quarzo) qualche ione Si<sup>4</sup> viene sostituito da uno ione alluminio (Al<sup>3</sup>), si genera la struttura dei feldspati. La sostituzione di ioni silicio con ioni di alluminio introduce uno squilibrio di cariche, che verrà riequilibrato con altri ioni metallici. Se l’equilibrio viene stabilito tramite ioni potassio, si genera il feldspato potassico, od ortoclasio; se interviene lo ione sodio o lo ione calcio si ottengono i plagioclasi.  Infine, i silicati si possono distinguere in sialici e femici.
 * I **silicati sialici** (dalle iniziali degli elementi presenti, silicio e alluminio) sono minerali chiari e relativamente leggeri, a differenza dei **silicati femici** (dalle iniziali di ferro e magnesio), che possiedono colore scuro e una maggiore densità.
 
-{{< figure src="http://media.lupiagloboblu.bedita.net/g3101_ce901210551ecf4e79f51d4313cd45d1/g310120121147_520x_9b29219a83f0251ecaa4d012d85b3b29.jpg" title="Tipi di silicati" >}}
+{{< figure src="https://i.imgur.com/L6IrYNI.jpg" title="Tipi di silicati" >}}
 
 ## La formazione dei minerali
 

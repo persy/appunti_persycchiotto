@@ -55,7 +55,7 @@ Di seguito vengono descritti i principali riferimenti sulla sfera celeste (si ra
 
 **Cerchi verticali**: circoli massimi passanti per lo zenit e il nadir perpendicolari al piano dell’orizzonte celeste; il cerchio verticale passante anche per i poli celesti è detto cerchio meridiano (o meridiano celeste); il cerchio verticale perpendicolare al cerchio meridiano (detto primo cerchio verticale) taglia l’orizzonte celeste in due punti corrispondenti all’Est e all’Ovest.
 
-{{< figure src="http://2.bp.blogspot.com/-HJddweG4R0w/UZJW00EYT0I/AAAAAAAAD5c/IXxWIJYMNws/s1600/perglossario.png" title="Cerchio meridiano e primo cerchio verticale" >}}
+{{< figure src="https://2.bp.blogspot.com/-HJddweG4R0w/UZJW00EYT0I/AAAAAAAAD5c/IXxWIJYMNws/s1600/perglossario.png" title="Cerchio meridiano e primo cerchio verticale" >}}
 
 ---
 
