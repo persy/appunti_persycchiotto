@@ -1,0 +1,33 @@
+#+TITLE: Approfondimenti
+* Organizzare il progetto
+** Linguaggio (markdown, org-mode, mediawiki, latex)
+** Recuperare libri, testi e video
+
+* Organizzare calendario
+
+* Creare timeline interattiva
+
+* Materie da approfondire
+** M. umanistiche
+*** Storia [[/Storia/Storia.md][Storia]]
+*** Filosofia
+*** Letteratura latina
+*** Letteratura italiana
+*** Letteratura straniera
+*** Storia dell'arte
+*** Mitologia
+*** Religione
+*** Cinema
+** M. scientifiche
+*** Matematica
+*** Fisica
+*** Astronomia
+*** Biologia
+*** Medicina
+*** Scienze della Terra
+*** Psicologia
+*** Antropologia
+*** Chimica
+*** Geologia
+
+

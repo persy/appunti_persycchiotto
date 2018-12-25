@@ -1,0 +1,11 @@
+= Lista delle sezioni principali
+
+* link:Storia%20antica/_index.adoc[Storia antica]
+* link:Medioevo/_index.adoc[Medioevo]
+* link:Età%20Moderna%20I/_index.adoc[Età moderna I] (1492-1789)
+* link:Età%20Moderna%20II/_index.adoc[Età moderna II] (1789-1914)
+* link:Età%20contemporanea/_index.adoc[Età contemporanea]
+
+---
+
+* link:Personaggi%20storici/_index.adoc[Personaggi storici]
