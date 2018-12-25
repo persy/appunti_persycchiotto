@@ -194,8 +194,9 @@ p {
     margin: 1rem 0;
 }
 
-figure {
-  width: 400px
+figure img {
+  width: 400px;
+  text-align: center;
 }
 
 figcaption h4 {
