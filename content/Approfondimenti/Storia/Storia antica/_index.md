@@ -1,4 +1,4 @@
-= Indice delle voci
+# Indice delle voci
 
 Di seguito verranno riportate le voci presenti in questa sezione in ordine alfabetico:
 
@@ -27,11 +27,11 @@ Di seguito verranno riportate le voci presenti in questa sezione in ordine alfab
 * Italia preromana
 * Ittiti
 * Magna Grecia
-* link:Mesolitico.adoc[Mesolitico]
+* [Mesolitico](Mesolitico.md)
 * Mesopotamia
 * Micene
-* link:Neolitico.adoc[Neolitico]
-* link:Paleolitico.adoc[Paleolitico]
+* [Neolitico](Neolitico.md)
+* [Paleolitico](Paleolitico.md)
 * Persia
 * Regni ellenistici
 * Regno di Babilonia
