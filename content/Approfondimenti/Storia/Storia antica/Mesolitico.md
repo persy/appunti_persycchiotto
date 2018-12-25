@@ -11,4 +11,4 @@ La fine della glaciazione portò notevoli trasformazioni ambientali. Il clima pi
 
 Furono probabilmente le popolazioni dell’Asia sudoccidentale a sperimentare per prime, nel periodo finale del Mesolitico, uno stile di vita sedentario, iniziando ad addomesticare capre e pecore e privilegiando la raccolta selettiva dei cereali.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/S%C3%A9pulture_de_Teviec_Global.jpg/1024px-S%C3%A9pulture_de_Teviec_Global.jpg" title="La sepoltura di Théviec, Museo di Tolosa" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/e/e4/S%C3%A9pulture_de_Teviec_Global.jpg/1024px-S%C3%A9pulture_de_Teviec_Global.jpg" title="La sepoltura di Théviec, Museo di Tolosa" >}}

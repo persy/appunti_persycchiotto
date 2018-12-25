@@ -1,14 +1,16 @@
-= Il Neolitico
-:sectnums:
+---
+title: "Il Neolitico"
+draft: false
+---
 
 ## Introduzione
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ASC_11_db.jpg" title="Porzione del Cerchio Interno Meridionale (a destra) dei monoliti di Avebury, Inghilterra" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/a7/ASC_11_db.jpg" title="Porzione del Cerchio Interno Meridionale (a destra) dei monoliti di Avebury, Inghilterra" >}}
 
 Ultimo periodo dell’età della pietra, seguito al [Paleolitico](Paleolitico.md) e al [Mesolitico](Mesolitico.md). Al Neolitico (dal greco _néos_, "nuovo" e _líthos_, "pietra") si fanno tradizionalmente risalire l’origine dell’agricoltura e dell’allevamento, l’affermarsi di uno stile di vita sedentario e l’uso della ceramica e di utensili in pietra levigata (anche se non mancano esempi precedenti di questa tecnica).
 
 .I megaliti del sito neolitico di Stonehenge, Inghilterra
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_11.JPG" title="" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_11.JPG" title="" >}}
 
 La civiltà neolitica si sviluppò precocemente nel Vicino Oriente (dall’VIII millennio a.C.) con una fase, detta Neolitico preceramico, in cui la produzione di cibo precedette l’uso del vasellame in ceramica; si diffuse più tardi in Europa, per concludersi nel IV-III millennio a.C. con l’adozione della tecnologia del rame (vedi Calcolitico) e del bronzo (vedi Età del Bronzo).
 
@@ -25,7 +27,7 @@ In questo periodo sorsero i primi villaggi permanenti: in Oriente si costruivano
 La ceramica si diffuse con rapidità nel Neolitico; la tecnica non era sconosciuta anche ai cacciatori-raccoglitori nomadi del Paleolitico, ma veniva applicata in misura estremamente ridotta, a causa della pesantezza dei recipienti ceramici rispetto a quelli in cuoio o giunco intrecciato, più facili da trasportare.
 
 .Il Dolmen di Monte Bubbonia in Sicilia.
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Dolmenmontebubbonia.jpg" title="" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Dolmenmontebubbonia.jpg" title="" >}}
 
 Le ragioni del passaggio dall’economia di caccia e raccolta alla produzione del cibo (tramite agricoltura e allevamento) sono da ricercare in diversi fattori concomitanti e collegati. La pressione demografica non costituisce di per sé una spiegazione sufficiente, perché a quell’epoca la popolazione era ancora molto rada rispetto alle risorse disponibili. Anche le modificazioni climatiche, pur avendo sicuramente favorito le trasformazioni produttive, non possono esserne ritenute causa esclusiva. Queste realtà divennero determinanti forse solo nel momento in cui si affermò il desiderio delle prime comunità neolitiche di affrancarsi dalla totale dipendenza dai cicli naturali per procurarsi il cibo.
 
@@ -48,11 +50,11 @@ Tra le manifestazione dell’arte neolitica figurano interessanti manufatti in c
 Ancora più imponenti sono i monumenti megalitici: i grandi circoli di pietre della Gran Bretagna [Stonehenge](https://it.wikipedia.org/wiki/Stonehenge) e [Avebury](https://it.wikipedia.org/wiki/Avebury), i menhir, isolati o allineati come a Carnac (Francia), le "statue-menhir" antropomorfe, le grandi tombe megalitiche diffuse dalla Scandinavia al Portogallo (sovente con rilievi a motivi geometrici e pitture). È dimostrato che furono motivi legati alla conoscenza dell’astronomia a dettare la costruzione e la disposizione di alcuni monumenti: le pietre di Stonehenge, ad esempio, sono allineate sull’asse del solstizio d’estate, mentre la tomba di New Grange, in Irlanda, ha un’apertura attraverso la quale il sole, all’alba del solstizio d’inverno, illumina il corridoio e la camera sepolcrale.
 
 .Perdas Longas - i Menhir di Guspini.
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Perdas_Longas_-_i_Menhir_di_Guspini.jpg" title="" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Perdas_Longas_-_i_Menhir_di_Guspini.jpg" title="" >}}
 
 Le testimonianze artistiche più straordinarie delle culture dell’età della pietra provengono tuttavia dall’(https://it.wikipedia.org/wiki/Isola_di_Pasqua[isola di Pasqua], nell’oceano Pacifico, dove tra i primi secoli dell’era cristiana e il 1600 circa una cultura del Neolitico innalzò centinaia di piattaforme in pietrisco, rivestite di lastre di pietra, sopra le quali pose enormi statue (_moai_), ricavate da tufo vulcanico scolpito con pietre in basalto.
 
 .Rano Raraku Moai
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Moai_Rano_raraku.jpg" title="" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Moai_Rano_raraku.jpg" title="" >}}
 
 {{< figure src="" title="" >}}

@@ -1,4 +1,6 @@
 #+TITLE: Approfondimenti
+#+DRAFT: true
+
 * Organizzare il progetto
 ** Linguaggio (markdown, org-mode, mediawiki, latex)
 ** Recuperare libri, testi e video
@@ -9,7 +11,7 @@
 
 * Materie da approfondire
 ** M. umanistiche
-*** Storia [[/Storia/Storia.md][Storia]]
+*** [[/Storia/_index_.md][Storia]]
 *** Filosofia
 *** Letteratura latina
 *** Letteratura italiana
