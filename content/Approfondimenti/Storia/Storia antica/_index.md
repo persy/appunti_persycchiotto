@@ -7,6 +7,15 @@ draft: false
 
 Di seguito verranno riportate le voci presenti in questa sezione in ordine alfabetico:
 
+### Età della pietra
+
+* [Paleolitico](paleolitico)
+* [Arte paleolitica](arte-paleolitica)
+* [Mesolitico](mesolitico)
+* [Neolitico](neolitico)
+
+<!--
+
 * Antico Egitto
 * Assiria
 * Camuni
@@ -32,11 +41,8 @@ Di seguito verranno riportate le voci presenti in questa sezione in ordine alfab
 * Italia preromana
 * Ittiti
 * Magna Grecia
-* [Mesolitico](Mesolitico.md)
 * Mesopotamia
 * Micene
-* [Neolitico](Neolitico.md)
-* [Paleolitico](Paleolitico.md)
 * Persia
 * Regni ellenistici
 * Regno di Babilonia
@@ -47,3 +53,5 @@ Di seguito verranno riportate le voci presenti in questa sezione in ordine alfab
 * Sparta
 * Sumeri
 * Triumvirato
+
+-->
