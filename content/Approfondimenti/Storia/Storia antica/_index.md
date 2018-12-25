@@ -3,7 +3,7 @@ title: "Storia antica"
 draft: false
 ---
 
-# Indice delle voci
+## Indice delle voci
 
 Di seguito verranno riportate le voci presenti in questa sezione in ordine alfabetico:
 

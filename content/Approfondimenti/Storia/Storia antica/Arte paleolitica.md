@@ -7,7 +7,7 @@ draft: false
 
 Insieme degli oggetti d'arte prodotti fra 32.000 e 11.000 anni fa, durante l'ultima glaciazione. Comprende manufatti come statue e oggetti decorati, intagliati in osso, corno o pietra, o rozzamente modellati nell'argilla, nonché esempi d'arte rupestre sotto forma di pittura, disegno o incisione, rinvenuti tanto nelle grotte quanto, nel caso delle incisioni rupestri, all'aria aperta. Testimonianze artistiche del Paleolitico sono state rinvenute in tutto il mondo, ma le più numerose si trovano nell'Europa occidentale.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Niaux%2C_bisons.JPG/800px-Niaux%2C_bisons.JPG" title="Salone nero, raffigurazione di bisonti" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Niaux%2C_bisons.JPG/800px-Niaux%2C_bisons.JPG" title="Salone nero, raffigurazione di bisonti" >}}
 
 L'arte rupestre paleolitica era inizialmente considerata puramente decorativa, ma con l'aumentare delle scoperte apparve evidente che esiste un complesso significato, correlato con i soggetti dipinti e con la loro ubicazione, che però non è ancora stato precisamente decifrato. 
 
@@ -17,7 +17,7 @@ I primi reperti di arte paleolitica furono rinvenuti quando, intorno al 1860, ne
 
 Tali scoperte portarono a ulteriori ricerche nelle caverne e nelle grotte, anche se i disegni notati sulle pareti furono considerati inizialmente di poco conto: la prima importante affermazione relativa all'esistenza di un'arte rupestre paleolitica risale al 1880 e fu riferita alla caverna spagnola di Altamira. Le successive ricerche svelarono l'esistenza di nuovi siti; attualmente, in Francia e Spagna ne viene scoperto in media uno ogni anno. Arte rupestre risalente allo stesso periodo è stata recentemente rinvenuta anche in altre parti del mondo, come in Australia, America e Sudafrica.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/54/Palermo-Museo-Archeologico-bjs-11.jpg/400px-Palermo-Museo-Archeologico-bjs-11.jpg" title="Le incisioni rupestri della grotta dell'Addaura" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Palermo-Museo-Archeologico-bjs-11.jpg/400px-Palermo-Museo-Archeologico-bjs-11.jpg" title="Le incisioni rupestri della grotta dell'Addaura" >}}
 
 Tra le più importanti scoperte degli ultimi anni vi sono quella della grotta detta di Chauvet dal nome dello scopritore, avvenuta nel 1995 nella valle di Ardèche, nella Francia sudorientale, che ha svelato pitture policrome risalenti a 30.000 anni fa e quella, del 1994, di circa mille incisioni rupestri, localizzate su entrambe le rive del fiume Ca, nel Portogallo nordorientale, che si ritengono realizzate circa 20.000 anni fa. Esempi di arte paleolitica sono stati rinvenuti dalla penisola iberica e dall'Africa settentrionale fino alla Siberia, con notevoli concentrazioni in Europa occidentale, centrale e orientale.
 
@@ -25,7 +25,7 @@ Tra le più importanti scoperte degli ultimi anni vi sono quella della grotta de
 
 L'arte paleolitica comprende una grande varietà di forme e materiali. La più semplice consiste nella lavorazione di oggetti come denti, conchiglie o ossi, incisi o perforati per realizzare grani per collane o ciondoli; alcuni siti conservano centinaia di pietrine con incisi disegni. Incisioni sono presenti anche su ossi piatti o lunghi e su corni. Pochi modelli umani e animali di terracotta sono sopravvissuti in diverse aree, specie in Moravia, ma per la maggior parte le statuette paleolitiche sono di pietra tenera o avorio, utilizzato anche per la realizzazione di perline e bracciali.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Willendorf-Venus-1468.jpg/377px-Willendorf-Venus-1468.jpg" title="Venere di Willendorf" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Willendorf-Venus-1468.jpg/377px-Willendorf-Venus-1468.jpg" title="Venere di Willendorf" >}}
 
 Il metodo più semplice per delineare il disegno consisteva nel tracciarlo con un dito nel tenero strato d'argilla che ricopriva la roccia; sovente i contorni naturali delle rocce o addirittura le stalagmiti erano inclusi nel disegno, per accentuare o rappresentare parti delle figure. Tra i reperti rinvenuti nella zona dei Pirenei vi sono linee tracciate con le dita e disegni incisi sul suolo delle caverne, oltre a figure modellate a bassorilievo in tumuli d'argilla appositamente ammassata. I celebri bisonti d'argilla di Le Tuc d'Audoubert sono in altorilievo, mentre l'orso a tutto tondo di Montespan è realizzato con circa 700 kg di creta.
 

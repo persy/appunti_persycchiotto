@@ -3,7 +3,7 @@ title: "Storia"
 draft: false
 ---
 
-# Lista delle sezioni principali
+## Lista delle sezioni principali
 
 * [Storia antica](storia-antica): dalla Preistoria fino alla caduta dell'Impero romano d'Occidente
 * [Medioevo](medioevo): dalla caduta dell'Impero romano d'Occidente alla scoperta dell'America
