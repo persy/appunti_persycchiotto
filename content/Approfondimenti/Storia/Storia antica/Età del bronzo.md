@@ -66,7 +66,7 @@ Verso la fine dell’età del bronzo l’aumento del numero delle *fortificazion
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/SMWM_-_Bronzezeit_Schwert_2.jpg/685px-SMWM_-_Bronzezeit_Schwert_2.jpg" title="Spada dell'età del bronzo da (Wels, Austria)" >}}
 
-Una cultura che presenta numerosi elementi tipici dell’età del bronzo è quella della Grecia micenea, affermatasi verso la fine del II millennio a.C. (vedi Civiltà dell’Egeo): organizzata politicamente attraverso un governo centralizzato, riservava agli esponenti della classe dominante e ai capi ricchissime sepolture, in cui il defunto veniva deposto perlopiù con una maschera funeraria d’oro. Gli insediamenti erano protetti da imponenti mura costruite con enormi blocchi di pietra, utilizzando una tecnica che si definisce ciclopica.
+Una cultura che presenta numerosi elementi tipici dell’età del bronzo è quella della Grecia micenea, affermatasi verso la fine del II millennio a.C. (vedi [Civiltà dell’Egeo](civiltà-dell-egeo): organizzata politicamente attraverso un governo centralizzato, riservava agli esponenti della classe dominante e ai capi ricchissime sepolture, in cui il defunto veniva deposto perlopiù con una maschera funeraria d’oro. Gli insediamenti erano protetti da imponenti mura costruite con enormi blocchi di pietra, utilizzando una tecnica che si definisce ciclopica.
 
 ## Asia orientale
 
