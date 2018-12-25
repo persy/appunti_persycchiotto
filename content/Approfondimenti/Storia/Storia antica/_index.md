@@ -14,6 +14,14 @@ Di seguito verranno riportate le voci presenti in questa sezione in ordine alfab
 * [Mesolitico](mesolitico)
 * [Neolitico](neolitico)
 
+### Età del rame
+
+* [Calcolitico](calcolitico)
+
+### Età del bronzo
+
+* [Età del bronzo](età-del-bronzo)
+
 <!--
 
 * Antico Egitto
