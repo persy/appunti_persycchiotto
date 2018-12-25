@@ -3,11 +3,11 @@ title: "Età del ferro"
 draft: false
 ---
 
-# Introduzione
+## Introduzione
 
 Periodo della protostoria caratterizzato dall’uso del ferro in luogo del bronzo nella produzione di utensili e armi. Nell’Europa continentale si colloca tra la fine dell’[età del Bronzo](età-del-bronzo) (900 ca. a.C.) e la fase di espansione dell’[Impero romano](roma-imperiale) (27 a.C. - 68 d.C.). Assumendo la conquista romana come cesura storica, non tecnologica, ne deriva che nelle aree mai raggiunte dalla romanizzazione, come la Scandinavia, la Germania centrosettentrionale e alcune parti della Britannia, l’età del ferro proseguì fino all’era moderna. In Cina l’età del ferro cominciò intorno al 600 a.C., nell’Africa subsahariana tra il 500 e il 400 a.C., nell’Africa meridionale intorno al 200 d.C.
 
-# La lavorazione del ferro
+## La lavorazione del ferro
 
 Presente in natura in numerosi giacimenti, il ferro è caratterizzato da una durezza molto superiore a quella del bronzo, che ne fa il materiale migliore per la realizzazione di utensili come seghe, asce, zappe, chiodi. La sua lavorazione è però difficoltosa: fino alla fine del Medioevo l’uomo non fu in grado di produrre nei forni temperature sufficienti alla sua fusione e colatura in stampi, tranne che in Cina, dove questa tecnica comparve nel periodo degli Stati Combattenti (475-221 a.C.).
 
