@@ -22,6 +22,10 @@ Di seguito verranno riportate le voci presenti in questa sezione in ordine alfab
 
 * [Età del bronzo](età-del-bronzo)
 
+### Età del ferro
+
+* [Età del ferro](età-del-ferro)
+
 <!--
 
 * Antico Egitto
@@ -55,9 +59,9 @@ Di seguito verranno riportate le voci presenti in questa sezione in ordine alfab
 * Regni ellenistici
 * Regno di Babilonia
 * Regno Magadha
-* Roma antica: età imperiale
-* Roma antica: età monarchica
-* Roma antica: età repubblicana
+* Roma imperiale
+* Roma monarchica
+* Roma repubblicana
 * Sparta
 * Sumeri
 * Triumvirato
