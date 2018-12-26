@@ -1,11 +1,12 @@
 ---
 title: "Età del bronzo"
 draft: false
+weight: 6
 ---
 
 ## Introduzione
 
-Epoca preistorica, caratterizzata dall’introduzione della lavorazione del bronzo per produrre utensili, armi e oggetti rituali. Preceduta dall’età del rame ([Calcolitico](../calcolitico) e seguita dall’[età del ferro](/età-del-ferro), l’età del bronzo corrisponde in Europa al periodo compreso tra il 2200 e il 900 a.C. e si articola in quattro fasi: *bronzo antico* (o [cultura di Unetice](https://it.wikipedia.org/wiki/Cultura_di_Unetice), 2200-1550 a.C. circa); *bronzo medio* (o [cultura delle tombe a tumulo](https://it.wikipedia.org/wiki/Cultura_delle_tombe_a_fossa), 1550-1325 a.C. circa); *bronzo recente* o tardo (o [cultura dei campi di urne](https://it.wikipedia.org/wiki/Cultura_dei_campi_di_urne), 1325-1175 a.C.); *bronzo finale* (prime due fasi della [cultura di Hallstatt](https://it.wikipedia.org/wiki/Cultura_di_Hallstatt), 1175-775 a.C. circa).
+Epoca preistorica, caratterizzata dall’introduzione della lavorazione del bronzo per produrre utensili, armi e oggetti rituali. Preceduta dall’età del rame ([Calcolitico](../calcolitico) e seguita dall’[età del ferro](../età-del-ferro), l’età del bronzo corrisponde in Europa al periodo compreso tra il 2200 e il 900 a.C. e si articola in quattro fasi: *bronzo antico* (o [cultura di Unetice](https://it.wikipedia.org/wiki/Cultura_di_Unetice), 2200-1550 a.C. circa); *bronzo medio* (o [cultura delle tombe a tumulo](https://it.wikipedia.org/wiki/Cultura_delle_tombe_a_fossa), 1550-1325 a.C. circa); *bronzo recente* o tardo (o [cultura dei campi di urne](https://it.wikipedia.org/wiki/Cultura_dei_campi_di_urne), 1325-1175 a.C.); *bronzo finale* (prime due fasi della [cultura di Hallstatt](https://it.wikipedia.org/wiki/Cultura_di_Hallstatt), 1175-775 a.C. circa).
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Nebra_Scheibe.jpg/781px-Nebra_Scheibe.jpg" title="Il Disco di Nebra, cultura di Unetice (Halle, Sassonia)" >}}
 
@@ -13,17 +14,17 @@ Epoca preistorica, caratterizzata dall’introduzione della lavorazione del bron
 
 ### Periodo eneolitico o calcolitico
 
-Durante l’ultimo periodo del Calcolitico (IV-III millennio a.C.) alcune culture del Vicino Oriente e dell’Europa sudoccidentale iniziarono a sperimentare leghe di rame con l’arsenico, che presentavano maggiore durezza, ma anche maggiore fragilità rispetto ai manufatti in rame puro. L’arsenico era estratto per fusione dai minerali di cui è costituente a temperature intorno ai 700 °C, ottenute nei forni usati per cuocere la ceramica.
+Durante l’ultimo periodo del Calcolitico (IV-III millennio a.C.) alcune culture del Vicino Oriente e dell’Europa sudoccidentale iniziarono a sperimentare **leghe di rame con l’arsenico**, che presentavano maggiore durezza, ma anche maggiore fragilità rispetto ai manufatti in rame puro. L’arsenico era estratto per fusione dai minerali di cui è costituente a temperature intorno ai 700 °C, ottenute nei forni usati per cuocere la ceramica.
 
 ### La lavorazione del bronzo
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hortfund_Bronzezeit.JPG/668px-Hortfund_Bronzezeit.JPG" title="Manufatti di bronzo, cultura delle tombe a cumulo (Trassem, Renania-Palatinato)" >}}
 
-Anche i primi tre secoli dell’età del bronzo europea sono caratterizzati dall’utilizzo di rame in lega con alcuni elementi che si trovano ad esso commisti in natura (arsenico, argento, nichel, antimonio): le proprietà del prodotto di queste fusioni "spurie" erano variabili e del tutto casuali. Ma a partire dal 1950-1900 a.C. si diffuse nel Vecchio Continente la tecnologia del bronzo (lega di rame e stagno), più controllata e adatta a produrre manufatti di qualità. Il procedimento era stato messo a punto all’incirca alla metà del IV millennio in Mesopotamia, nei laboratori dei palazzi reali e dei templi, affermandosi tuttavia molto lentamente nel corso dei dieci secoli a seguire. Dalla regione del Tigri e dell’Eufrate, grazie agli artigiani itineranti, venne trasmesso agli europei.
+Anche i primi tre secoli dell’età del bronzo europea sono caratterizzati dall’utilizzo di rame in lega con alcuni elementi che si trovano ad esso commisti in natura (**arsenico**, **argento**, **nichel**, **antimonio**): le proprietà del prodotto di queste fusioni "spurie" erano variabili e del tutto casuali. Ma a partire dal 1950-1900 a.C. si diffuse nel Vecchio Continente la tecnologia del **bronzo** (**lega di rame e stagno**), più controllata e adatta a produrre manufatti di qualità. Il procedimento era stato messo a punto all’incirca alla **metà del IV millennio** in **Mesopotamia**, nei laboratori dei palazzi reali e dei templi, affermandosi tuttavia molto lentamente nel corso dei dieci secoli a seguire. Dalla regione del Tigri e dell’Eufrate, grazie agli artigiani itineranti, venne trasmesso agli europei.
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Huegelgrab3-unteralting-grafrath16.JPG/1024px-Huegelgrab3-unteralting-grafrath16.JPG" title="Tumulo" >}}
 
-Quasi tutti gli oggetti in bronzo – spade, lance, asce, spilloni e fibule – venivano prodotti per fusione in stampi; altri, come gli scudi, richiedevano una lavorazione più lunga, nella quale alla fusione seguiva la fucinatura. Notevoli furono le innovazioni tecnologiche che caratterizzarono la metallurgia in questo periodo: vennero sperimentati vari tipi di leghe, matrici e procedimenti di fusione.
+Quasi tutti gli oggetti in bronzo – **spade**, **lance**, **asce**, **spilloni** e **fibule** – venivano prodotti per fusione in stampi; altri, come gli scudi, richiedevano una lavorazione più lunga, nella quale alla fusione seguiva la fucinatura. Notevoli furono le innovazioni tecnologiche che caratterizzarono la metallurgia in questo periodo: vennero sperimentati vari tipi di leghe, matrici e procedimenti di fusione.
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NBAM_Urnenfelder_Kultur_-_Bronzeschwerter.jpg/1024px-NBAM_Urnenfelder_Kultur_-_Bronzeschwerter.jpg" title="Spade del periodo della cultura dei campi di urne (Baviera)" >}}
 
