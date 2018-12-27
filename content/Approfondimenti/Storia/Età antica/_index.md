@@ -1,5 +1,5 @@
 ---
-title: "Storia antica"
+title: "Preistoria"
 draft: false
 ---
 
@@ -7,24 +7,6 @@ draft: false
 
 Di seguito verranno riportate le voci presenti in questa sezione in ordine alfabetico:
 
-### Età della pietra
-
-* [Paleolitico](paleolitico)
-* [Arte paleolitica](arte-paleolitica)
-* [Mesolitico](mesolitico)
-* [Neolitico](neolitico)
-
-### Età del rame
-
-* [Calcolitico](calcolitico)
-
-### Età del bronzo
-
-* [Età del bronzo](età-del-bronzo)
-
-### Età del ferro
-
-* [Età del ferro](età-del-ferro)
 
 <!--
 
@@ -39,8 +21,6 @@ Di seguito verranno riportate le voci presenti in questa sezione in ordine alfab
 * Civiltà nuragica
 * Codice di Hammurabi
 * Colonizzazione greca
-* Età del Bronzo
-* Età del Ferro
 * Età ellenistica
 * Etruschi
 * Fenici
