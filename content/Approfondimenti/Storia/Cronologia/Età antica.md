@@ -576,7 +576,7 @@ I cinesi iniziano a usare il pennello e l’inchiostro per scrivere.
 
 ## 911 a.C.
 
-## Adadnirari II riporta la pace a Babilonia
+### Adadnirari II riporta la pace a Babilonia
 
 Il re assiro Adadnirari II riporta con forza la pace a Babilonia.
 
@@ -690,17 +690,17 @@ La colonizzazione greca dell’Italia meridionale, iniziata già nel XV e nel XI
 
 I greci inventano la falange, formazione da combattimento della fanteria. Formata da otto file di opliti, verrà adottata soprattutto dalla fanteria macedone di Filippo II e di Alessandro Magno.
 
-## In Cina nascono scuole private
+### In Cina nascono scuole private
 
 In Cina nascono scuole private in risposta al monopolio statale nel campo dell'educazione.
 
-## In India si afferma il culto di Vishnu
+### In India si afferma il culto di Vishnu
 
 Il culto del dio Vishnu e delle sue molteplici incarnazioni, come Rama e Krishna, si diffonde in India e diventa una delle principali correnti dell’induismo. Esso segna l’origine delle sette bhakti, che praticano una devozione estatica ed appassionata per la divinità.
 
 ## 671 a.C.
 
-## Asarhaddon conquista l'Egitto
+### Asarhaddon conquista l'Egitto
 
 Sotto Asarhaddon, l’impero assiro raggiunge la sua massima espansione. Con la conquista dell’Egitto e l’occupazione della sua capitale Menfi, Asarhaddon governerà su un vasto territorio esteso dall’Africa del Nord fino alla Turchia e al Golfo Persico.
 
