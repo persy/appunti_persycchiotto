@@ -162,11 +162,11 @@ Nipote di Sargon, Naram-Sin sale sul trono dopo il breve regno del fratello. Abi
 
 Con la VII dinastia ha inizio nell’antico Egitto il primo periodo intermedio. Il progressivo indebolimento del potere centrale porterà a una frammentazione del territorio, controllato sempre più direttamente dai governatori locali.
 
-## Civiltà minoica
+### Civiltà minoica
 
 Sviluppatasi durante l’età del bronzo sull’isola di Creta, la civiltà minoica raggiunge il suo apice verso il XVII secolo a.C. nei centri di Cnosso, Festo e Mallia.
 
-## I minoici costruiscono tombe collettive a pianta circolare
+### I minoici costruiscono tombe collettive a pianta circolare
 
 Nella pianura di Mesara, a Creta, vengono costruite le prime tombe a pianta circolare, antesignane delle più note tombe a tholos edificate a partire dal 1600 a.C.
 
@@ -184,7 +184,7 @@ Durante il suo regno Gudea riportò la città di Lagash agli antichi splendori g
 
 ## 2113 ca. a.C.
 
-## Ur-Nammu fonda la III dinastia di Ur
+### Ur-Nammu fonda la III dinastia di Ur
 
 Primo re della III dinastia di Ur, Ur-Nammu riporta l’impero sumerico agli antichi splendori facendo di Ur il centro economico e culturale della Mesopotamia.
 
