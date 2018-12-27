@@ -4,7 +4,7 @@ draft: false
 weight: 3
 ---
 
-Periodo dell’età della Pietra che segue il [Paleolitico](../Paleolitico.md) e precede il [Neolitico](../Neolitico.md); corrisponde alla fase di transizione tra la fine dell’era glaciale (Pleistocene) e la nascita dell’agricoltura.
+Periodo dell’età della Pietra che segue il [Paleolitico](../paleolitico) e precede il [Neolitico](../neolitico); corrisponde alla fase di transizione tra la fine dell’era glaciale (Pleistocene) e la nascita dell’agricoltura.
 
 Le industrie litiche del Mesolitico (dal greco _mésos_, "medio", e _líthos_, "pietra") sono caratterizzate dalla produzione di microliti geometrici (con facce a rettangolo, triangolo, trapezio), che servivano sia come punte sia come componenti di utensili più complessi: ad esempio, montati con resina su impugnature formavano falcetti. Erano inoltre diffuse asce in pietra scheggiata, montate su manici, usate per la lavorazione del legno.
 

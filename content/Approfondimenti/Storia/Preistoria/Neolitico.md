@@ -8,11 +8,11 @@ weight: 4
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/a7/ASC_11_db.jpg" title="Porzione del Cerchio Interno Meridionale (a destra) dei monoliti di Avebury, Inghilterra" >}}
 
-Ultimo periodo dell’età della pietra, seguito al [Paleolitico](../Paleolitico.md) e al [Mesolitico](../Mesolitico.md). Al Neolitico (dal greco _néos_, "nuovo" e _líthos_, "pietra") si fanno tradizionalmente risalire l’**origine dell’agricoltura** e dell’**allevamento**, l’affermarsi di uno stile di vita sedentario e l’uso della ceramica e di utensili in pietra levigata (anche se non mancano esempi precedenti di questa tecnica).
+Ultimo periodo dell’età della pietra, seguito al [Paleolitico](../paleolitico) e al [Mesolitico](../mesolitico). Al Neolitico (dal greco _néos_, "nuovo" e _líthos_, "pietra") si fanno tradizionalmente risalire l’**origine dell’agricoltura** e dell’**allevamento**, l’affermarsi di uno stile di vita sedentario e l’uso della ceramica e di utensili in pietra levigata (anche se non mancano esempi precedenti di questa tecnica).
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stonehenge%2C_Condado_de_Wiltshire%2C_Inglaterra%2C_2014-08-12%2C_DD_11.JPG" title="I megaliti del sito neolitico di Stonehenge, Inghilterra" >}}
 
-La civiltà neolitica si sviluppò precocemente nel Vicino Oriente (dall’VIII millennio a.C.) con una fase, detta **Neolitico preceramico**, in cui la produzione di cibo precedette l’uso del vasellame in ceramica; si diffuse più tardi in Europa, per concludersi nel IV-III millennio a.C. con l’adozione della tecnologia del rame (vedi [Calcolitico](../Calcolitico)) e del bronzo (vedi [Età del bronzo](../età-del-bronzo)).
+La civiltà neolitica si sviluppò precocemente nel Vicino Oriente (dall’VIII millennio a.C.) con una fase, detta **Neolitico preceramico**, in cui la produzione di cibo precedette l’uso del vasellame in ceramica; si diffuse più tardi in Europa, per concludersi nel IV-III millennio a.C. con l’adozione della tecnologia del rame (vedi [Calcolitico](../calcolitico)) e del bronzo (vedi [Età del bronzo](../età-del-bronzo)).
 
 ## Dal nomadismo alla sedentarizzazione
 
