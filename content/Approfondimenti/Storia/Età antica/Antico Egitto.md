@@ -197,5 +197,3 @@ L’Egitto divenne un **punto cardine nell’economia dell’impero**, non solo 
 L’Egitto fu inoltre un importante centro delle **prime comunità cristiane**; la locale **Chiesa copta**, che aderì al **monofisismo**, **si separò dalla Chiesa di Roma nel V secolo**. Alla caduta dell’impero romano d’Occidente (476), l’**Egitto divenne possedimento dell’impero bizantino**; nel 616 fu **invaso dai persiani** e nel 642 **dagli arabi**, che vi introdussero la **religione islamica**, aprendo un nuovo capitolo nella storia dell’Egitto.
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/f/ff/AlexHellenistischeStadtmauer.jpg" title="Quello che resta della cinta muraria di Alessandria, assediata nel 641 dal Califfato dei Rashidun" >}}
-
-[^1]: 
