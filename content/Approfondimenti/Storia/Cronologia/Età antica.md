@@ -1397,7 +1397,7 @@ Wu-ti, imperatore della dinastia Han, espande notevolmente i confini dell’impe
 
 Il confucianesimo diventa l'ideologia ufficiale dello stato cinese durante la dinastia Han. Gli imperatori Han tendono a mettere in luce aspetti del confucianesimo che auspicano l'obbedienza dei sudditi; per volere dell'imperatore Wu-ti viene istituito un sistema educativo basato sulle dottrine di Confucio.
 
-### 136 a.C. - 71 a.C.
+## 136 a.C. - 71 a.C.
 
 ### Guerre servili
 

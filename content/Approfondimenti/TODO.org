@@ -33,3 +33,4 @@
 *** Geologia
 
 
+{{< figure src="" title="" >}}
