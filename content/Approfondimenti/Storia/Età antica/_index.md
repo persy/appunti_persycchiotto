@@ -5,12 +5,24 @@ draft: false
 
 ## Indice delle voci
 
-Di seguito verranno riportate le voci presenti in questa sezione in ordine alfabetico:
+Di seguito verranno riportate le voci presenti in questa sezione:
+
+## Mediterraneo
 
 * [Antico Egitto](antico-egitto)
   * [Imbasalmazione](imbasalsamazione)
-* [Sumeri](sumeri)
+* [Cartagine](cartagine)
 
+## Mesopotamia
+
+* [Sumeri](sumeri)
+* [Assiria](assiri)
+
+## Europa
+
+* [Camuni](camuni)
+* [Celti](celti)
+  * [Arte celtica](arte celtica)
 
 <!--
 
