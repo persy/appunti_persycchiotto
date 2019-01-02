@@ -61,7 +61,7 @@ Poiché i guerrieri erano orgogliosi dei loro **cavalli** quanto lo erano delle 
 
 Nelle tombe delle donne sono stati ritrovati numerosi esempi di gioielli e oggetti di uso domestico. Alcuni degli articoli di migliore fattura sono rappresentati da specchi reniformi derivati da modelli etruschi e molto diffusi soprattutto nella Britannia romana. Ci è pervenuta una trentina di esemplari risalenti all'epoca dell'occupazione romana, la maggior parte dei quali presenta elaborati **motivi a intreccio**. I manufatti più modesti, quali gli utensili a cucchiaio ritrovati in alcune località britanniche, erano invece abbelliti sul retro e sui manici da splendide incisioni.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Romano-Celtic_mirror_%28Desborough%29.jpg" title="Il retro di uno specchio di bronzo britannico (50 a.C.-50 d.C.), che mostra temi decorativi riferibili allo stile tardo "insulare" di La Tène." >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Romano-Celtic_mirror_%28Desborough%29.jpg" title="Il retro di uno specchio di bronzo britannico (50 a.C.-50 d.C.), che mostra temi decorativi riferibili allo stile tardo insulare di La Tène." >}}
 
 ## Gioielli
 
