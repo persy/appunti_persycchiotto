@@ -17,7 +17,7 @@ Le fonti classiche usano il termine **celti** (dal greco _keltoi_), o **galati**
 
 Anche se i celti rappresentano il più importante nucleo di popolazione dell’Europa dell’età del ferro, le loro origini risalgono alla **cultura dei campi di urne** della **tarda età del bronzo**, diffusa nell’Europa centrale e orientale tra il 1300 e l’850 a.C.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Couvercle_bronze_gaulois_-_La_Fosse_Cotheret_%28Val_d%27Oise%29.jpg/1154px-Couvercle_bronze_gaulois_-_La_Fosse_Cotheret_%28Val_d%27Oise%29.jpg" title="Montatura in bronzo dalla Francia in stile "vegetale"" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Couvercle_bronze_gaulois_-_La_Fosse_Cotheret_%28Val_d%27Oise%29.jpg/1154px-Couvercle_bronze_gaulois_-_La_Fosse_Cotheret_%28Val_d%27Oise%29.jpg" title="Montatura in bronzo dalla Francia in stile vegetale" >}}
 
 I più antichi reperti archeologici provengono dalla regione corrispondente alla Francia e alla Germania occidentale e sono databili alla tarda età del bronzo, intorno al 1200 a.C. L’inizio dell’età del ferro è caratterizzato dalla **cultura di Hallstatt** (IX - metà del V secolo a.C.), che prende il nome dal sito omonimo nell’Austria settentrionale.
 
