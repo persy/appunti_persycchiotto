@@ -19,7 +19,7 @@ In questo sito potrai trovare i miei appunti, liberamente consultabili sulle seg
 + **[<i class="fas fa-glasses"></i> Fisica](fisica)**: meccanica, termologia, lo studio delle onde e primi elementi di relatività
 + **[<i class="far fa-lightbulb"></i> Filosofia](filosofia)**: riassunti concettuali del pensiero occidentale; dai filosofia presocratici ai problemi etici dell'AI
 + **[<i class="fas fa-leaf"></i> Contenuti non categorizzabili](random)**: un insieme eterogeneo di guide, raccolte e contenuti non categorizzabili.
-+ **[<i class="fas fa-graduation-cap"></i> Approfondimenti](approfondimenti)**: tutte le materie raccontate in maniera più approfondita (_In allestimento_)
+<!--+ **[<i class="fas fa-graduation-cap"></i> Approfondimenti](approfondimenti)**: tutte le materie raccontate in maniera più approfondita (_In allestimento_)-->
 
 Se sei su smartphone, premi <i class="fas fa-bars"></i> per far apparire la barra laterale degli argomenti.
 Nelle voci molto lunghe e complesse, passa il cursore sull'icona <i class="fas fa-list-alt"></i> per mostrare l'indice.
