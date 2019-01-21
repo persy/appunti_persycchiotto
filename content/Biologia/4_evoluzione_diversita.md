@@ -673,7 +673,7 @@ Circa 90.000 anni fa, comparve l'uomo moderno, Homo sapiens, che un poco alla vo
    </td>
    <td>100 F
 <p>
-150 M
+### M
    </td>
    <td>120
    </td>
