@@ -2,11 +2,9 @@
 title: "Appunti di Persycchiotto"
 draft: false
 ---
-<div style="margin-top: -50px;">
-# **WOFF!**
 
-<p align="center" style="margin-top: -30px; margin-bottom: 30px;"><i class="fas fa-crow"></i> <i>(<b>wo</b>-rk in <b>ff</b>-rogress!)</i> <i class="fas fa-frog"></i> </p>
-</div>
+# WOFF! (**wo**rk in **ff**rogress)
+
 
 In questo sito potrai trovare i miei appunti, liberamente consultabili sulle seguenti tematiche:
 
